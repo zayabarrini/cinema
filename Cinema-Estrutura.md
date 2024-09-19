@@ -890,4 +890,36 @@ In the history of video game consoles, the PlayStation 2 stands out as the best-
 
 These figures, along with the sales of other gaming systems, are displayed in the graphic below, providing a comprehensive view of the most popular video game consoles in terms of sales.
 
+# Oscas Categories
 
+Picture
+Director
+Actor
+Actress
+Cinematography
+Production Design
+Adapted Screenplay
+Sound
+Animated Short Film
+Live Action Short Film
+Film Editing
+Original Score
+Original Song
+Supporting Actor
+Supporting Actress
+Visual Effects
+Original Screenplay
+Documentary Short Film
+Documentary Feature Film
+International Feature Film
+Costume Design
+Makeup and Hairstyling
+Animated Feature Film
+Casting
+
+
+# Original Screenplays Oscar
+https://en.wikipedia.org/wiki/Academy_Award_for_Best_Original_Screenplay#Winners_and_nominees
+
+# Adapted Screenplay
+https://en.wikipedia.org/wiki/Academy_Award_for_Best_Adapted_Screenplay
