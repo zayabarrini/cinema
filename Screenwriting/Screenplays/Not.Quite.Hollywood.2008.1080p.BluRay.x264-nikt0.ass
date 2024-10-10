@@ -6,9 +6,11 @@ PlayResY: 288
 Timer: 100.0
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Lucida Console,20,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,0.67,0.56,2,20,20,20,0
+
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.79,0:00:02.29,Default,,0,0,0,,{\an7}{\pos(115,213)}\h\h\hAnnouncer:\N{\an7}{\pos(115,228)}{\i1}It‘s our pleasure\N{\an7}{\pos(115,243)}\hto welcome you
