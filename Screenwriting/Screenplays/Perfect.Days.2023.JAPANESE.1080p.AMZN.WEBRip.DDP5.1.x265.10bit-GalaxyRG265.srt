@@ -1,2879 +1,797 @@
-1
-00:04:37,374 --> 00:04:39,500
-[coins clatter
-in vending machine]
-
-2
-00:06:09,249 --> 00:06:12,209
-["House of the Rising Sun"
-by The Animals playing]
-
-3
-00:06:21,374 --> 00:06:27,167
-<i>♪ There is a house
-In New Orleans ♪</i>
-
-4
-00:06:27,167 --> 00:06:33,666
-<i>♪ They call the Rising Sun ♪</i>
-
-5
-00:06:33,666 --> 00:06:40,000
-<i>♪ And it's been the ruin
-Of many a poor boy ♪</i>
-
-6
-00:06:40,000 --> 00:06:44,666
-<i>♪ And God I know I'm one ♪</i>
-
-7
-00:06:56,083 --> 00:07:02,000
-<i>♪ Mother was a tailor ♪</i>
-
-8
-00:07:02,000 --> 00:07:08,416
-<i>♪ Sewed my Levi jeans ♪</i>
-
-9
-00:07:08,416 --> 00:07:14,708
-<i>♪ My father was a gamblin' man ♪</i>
-
-10
-00:07:14,708 --> 00:07:19,333
-<i>♪ Down in New Orleans ♪</i>
-
-11
-00:10:52,708 --> 00:10:54,625
+[coins clatter in vending machine]
+["House of the Rising Sun" by The Animals playing]
+♪ There is a house
+In New Orleans ♪
+♪ They call the Rising Sun ♪
+♪ And it's been the ruin
+Of many a poor boy ♪
+♪ And God I know I'm one ♪
+♪ Mother was a tailor ♪
+♪ Sewed my Levi jeans ♪
+♪ My father was a gamblin' man ♪
+♪ Down in New Orleans ♪
 Hey.
-
-12
-00:10:54,625 --> 00:10:56,666
 Sorry. Bad traffic today.
-
-13
-00:10:56,666 --> 00:10:59,167
 I hate the first morning shift.
-
-14
-00:10:59,167 --> 00:11:01,333
 Always puke all over the place.
-
-15
-00:11:02,500 --> 00:11:05,958
-Like the other day
-at Nanago Dori Park.
-
-16
-00:11:05,958 --> 00:11:07,291
+Like the other day at Nanago Dori Park.
 In Hatagaya.
-
-17
-00:11:07,291 --> 00:11:09,291
 That was a real nightmare.
-
-18
-00:11:09,291 --> 00:11:12,249
-Some guy took forever
-to come out.
-
-19
-00:11:12,249 --> 00:11:14,958
-Out of ten,
-a level eight nightmare!
-
-20
-00:11:16,666 --> 00:11:18,249
+Some guy took forever to come out.
+Out of ten, a level eight nightmare!
 Are you even listening?
-
-21
-00:11:28,500 --> 00:11:31,333
 Hirayama, take it easy.
 It's getting dirty again anyway.
-
-22
-00:12:19,833 --> 00:12:21,500
 Oh.
-
-23
-00:12:43,000 --> 00:12:44,458
 Mom!
-
-24
-00:12:51,333 --> 00:12:53,042
 Mummy!
-
-25
-00:13:06,000 --> 00:13:07,583
 What's wrong?
-
-26
-00:13:07,583 --> 00:13:08,666
 Huh?
-
-27
-00:13:13,209 --> 00:13:15,042
 You're here with your mom?
-
-28
-00:13:17,125 --> 00:13:18,958
 It's gonna be fine.
-
-29
-00:13:30,750 --> 00:13:31,750
 Yosuke?
-
-30
-00:13:31,750 --> 00:13:33,666
 Yosuke!
-
-31
-00:13:33,666 --> 00:13:36,042
 Yosuke!
-
-32
-00:13:36,042 --> 00:13:38,791
 I was looking for you!
-
-33
-00:13:38,791 --> 00:13:40,833
 Where have you been?
-
-34
-00:13:40,833 --> 00:13:44,500
 Listen,
 I was looking all over!
-
-35
-00:13:45,750 --> 00:13:47,500
 I told you to stay close, right?
-
-36
-00:13:49,042 --> 00:13:51,666
-I was searching
-through the whole park.
-
-37
-00:13:51,666 --> 00:13:54,000
+I was searching through the whole park.
 Sorry, darling.
-
-38
-00:13:54,000 --> 00:13:55,500
 Now he's crying, too.
-
-39
-00:13:57,125 --> 00:13:58,541
 I'm so sorry.
-
-40
-00:13:59,666 --> 00:14:01,042
 But now we are good.
-
-41
-00:18:38,333 --> 00:18:39,458
 How the hell does this work?
-
-42
-00:18:49,416 --> 00:18:50,917
 Thanks a lot.
-
-43
-00:18:52,583 --> 00:18:54,000
 OK.
-
-44
-00:18:57,042 --> 00:18:59,541
 ["Pale Blue Eyes" by
 The Velvet Underground playing]
-
-45
-00:19:03,875 --> 00:19:06,958
-<i>♪ Sometimes I feel so happy ♪</i>
-
-46
-00:19:09,833 --> 00:19:12,541
-<i>♪ Sometimes I feel so sad ♪</i>
-
-47
-00:19:15,666 --> 00:19:18,333
-<i>♪ Sometimes I feel so happy ♪</i>
-
-48
-00:19:19,500 --> 00:19:23,541
-<i>♪ But mostly,
-You just make me mad ♪</i>
-
-49
-00:19:26,042 --> 00:19:29,500
-<i>♪ Baby you just make me mad ♪</i>
-
-50
-00:19:33,416 --> 00:19:38,291
-<i>♪ Linger on ♪</i>
-
-51
-00:19:38,291 --> 00:19:42,000
-<i>♪ Your pale blue eyes ♪</i>
-
-52
-00:19:44,833 --> 00:19:50,083
-<i>♪ Linger on ♪</i>
-
-53
-00:19:50,083 --> 00:19:53,374
-<i>♪ Your pale blue eyes ♪</i>
-
-54
-00:19:59,249 --> 00:20:02,500
-<i>♪ Thought of you
-As my mountaintop ♪</i>
-
-55
-00:20:05,083 --> 00:20:07,541
-<i>♪ Thought of you as my peak ♪</i>
-
-56
-00:20:10,917 --> 00:20:14,374
-<i>♪ Thought of you as everything ♪</i>
-
-57
-00:20:15,875 --> 00:20:18,625
-<i>♪ I've had but couldn't keep ♪</i>
-
-58
-00:20:21,416 --> 00:20:24,458
-<i>♪ I've had but couldn't keep ♪</i>
-
-59
-00:23:04,541 --> 00:23:06,249
+♪ Sometimes I feel so happy ♪
+♪ Sometimes I feel so sad ♪
+♪ Sometimes I feel so happy ♪
+♪ But mostly,
+You just make me mad ♪
+♪ Baby you just make me mad ♪
+♪ Linger on ♪
+♪ Your pale blue eyes ♪
+♪ Linger on ♪
+♪ Your pale blue eyes ♪
+♪ Thought of you
+As my mountaintop ♪
+♪ Thought of you as my peak ♪
+♪ Thought of you as everything ♪
+♪ I've had but couldn't keep ♪
+♪ I've had but couldn't keep ♪
 - Hello.
 - Hello, welcome back.
-
-60
-00:24:13,917 --> 00:24:15,416
-<i> Get set!</i>
-
-61
-00:24:17,833 --> 00:24:19,583
-<i>Fight!</i>
-
-62
-00:25:24,167 --> 00:25:25,333
+Get set!
+Fight!
 Somebody's back!
-
-63
-00:25:33,167 --> 00:25:35,291
 For a hard day's work!
-
-64
-00:25:50,833 --> 00:25:52,374
 Yes! He hit it!
-
-65
-00:25:53,333 --> 00:25:54,374
 It's in right?
-
-66
-00:25:55,500 --> 00:25:57,000
 It's in! See?
-
-67
-00:25:57,000 --> 00:25:59,500
 Hey, what are you doing?
-
-68
-00:25:59,500 --> 00:26:02,291
 Buying scores with money?
-
-69
-00:26:02,291 --> 00:26:04,666
 What's the fun in that, huh?
-
-70
-00:26:04,666 --> 00:26:06,750
 Kat-chan! Get back!
-
-71
-00:26:06,750 --> 00:26:08,416
-Always pay respect
-
-72
-00:26:08,416 --> 00:26:11,583
-to the sport teams or religions
-of others. Give paw.
-
-73
-00:26:12,666 --> 00:26:15,791
+Always pay respect to the sport teams or religions of others. Give paw.
 Now go.
 Settled!
-
-74
-00:26:15,791 --> 00:26:18,209
-They're playing dirty,
-
-75
-00:26:18,209 --> 00:26:21,500
-stealing good players from other teams.
-
-76
-00:30:27,833 --> 00:30:32,083
-<i> ["Dock of the Bay" by Otis Redding playing]
-♪ Sittin' in the mornin' sun ♪</i>
-
-77
-00:30:32,083 --> 00:30:37,209
-<i>♪ I'll be sittin'
-When the evenin' comes ♪</i>
-
-78
-00:30:37,209 --> 00:30:41,416
-<i>♪ Watching the ships roll in ♪</i>
-
-79
-00:30:41,416 --> 00:30:46,167
-<i>♪ Then I watch 'em
-Roll away again yeah ♪</i>
-
-80
-00:30:46,167 --> 00:30:50,083
-<i>♪ I'm sittin' on
-The dock of the bay ♪</i>
-
-81
-00:30:50,083 --> 00:30:52,249
-<i>♪ Watchin' the tide ♪</i>
-
-82
-00:30:52,249 --> 00:30:54,666
-<i>♪ Roll away ooh ♪</i>
-
-83
-00:30:54,666 --> 00:30:59,416
-<i>♪ I'm just sittin' on
-The dock of the bay ♪</i>
-
-84
-00:30:59,416 --> 00:31:03,000
-<i>♪ Wastin' time ♪</i>
-
-85
-00:31:04,708 --> 00:31:14,125
-<i>♪ I left my home in Georgia
-Headed for the Frisco Bay ♪</i>
-
-86
-00:31:14,125 --> 00:31:18,374
-<i>♪ 'Cause I've had nothin'
-To live for ♪</i>
-
-87
-00:31:18,374 --> 00:31:22,291
-<i>♪ It look like nothin's
-Gonna come my way ♪</i>
-
-88
-00:31:22,291 --> 00:31:27,209
-<i>♪ So I'm just gon' sittin'
-On the dock of the bay ♪</i>
-
-89
-00:31:27,209 --> 00:31:31,500
-<i>♪ Watchin' the tide roll away ♪</i>
-
-90
-00:31:54,416 --> 00:31:55,333
+They're playing dirty, stealing good players from other teams.
+["Dock of the Bay" by Otis Redding playing]
+♪ Sittin' in the mornin' sun ♪
+♪ I'll be sittin'
+When the evenin' comes ♪
+♪ Watching the ships roll in ♪
+♪ Then I watch 'em
+Roll away again yeah ♪
+♪ I'm sittin' on
+The dock of the bay ♪
+♪ Watchin' the tide ♪
+♪ Roll away ooh ♪
+♪ I'm just sittin' on
+The dock of the bay ♪
+♪ Wastin' time ♪
+♪ I left my home in Georgia
+Headed for the Frisco Bay ♪
+♪ 'Cause I've had nothin'
+To live for ♪
+♪ It look like nothin's
+Gonna come my way ♪
+♪ So I'm just gon' sittin'
+On the dock of the bay ♪
+♪ Watchin' the tide roll away ♪
 Um...
-
-91
-00:31:56,750 --> 00:31:57,917
 Oh.
-
-92
-00:33:18,958 --> 00:33:20,167
 Holy shit!
-
-93
-00:33:20,167 --> 00:33:22,458
 Aya! You really made it!
-
-94
-00:33:22,458 --> 00:33:25,875
 What a huge surprise!
 Like ten out of ten!
-
-95
-00:33:25,875 --> 00:33:27,833
 Just a sec!
 This is my last spot.
-
-96
-00:33:27,833 --> 00:33:29,291
 I'm finishing up right now!
-
-97
-00:33:34,917 --> 00:33:37,125
 You can be fast if you want.
-
-98
-00:33:37,125 --> 00:33:39,625
 My girlfriend is waiting.
 I'm done for the day.
-
-99
-00:34:01,666 --> 00:34:05,333
 Turn on, turn on! Huh?
 Hey. Wait, for real?
-
-100
-00:34:05,333 --> 00:34:09,167
 Sorry, just another second.
 What?
-
-101
-00:34:09,167 --> 00:34:12,917
 Wait, what is this?
 Hold on, hold on.
-
-102
-00:34:12,917 --> 00:34:15,000
 Goddamnit, seriously?
 What's going on?
-
-103
-00:34:15,000 --> 00:34:16,416
 Come on, come on!
-
-104
-00:34:22,875 --> 00:34:25,541
 Hirayama, let me use your car.
-
-105
-00:34:26,666 --> 00:34:29,958
 Can't miss this chance tonight.
 Please, Hirayama!
-
-106
-00:34:31,708 --> 00:34:33,875
 I'm begging you.
-
-107
-00:34:33,875 --> 00:34:35,500
 Come on, please.
-
-108
-00:34:44,083 --> 00:34:47,458
-That's Hirayama,
-my senior at work.
-
-109
-00:34:47,458 --> 00:34:50,791
-Great worker,
-but not a great speaker.
-
-110
-00:34:50,791 --> 00:34:55,875
+That's Hirayama, my senior at work.
+Great worker, but not a great speaker.
 I don't even know his voice.
-
-111
-00:34:55,875 --> 00:34:58,625
 Hirayama, this is Aya.
-
-112
-00:34:58,625 --> 00:35:00,500
 Ten out of ten, for sure.
-
-113
-00:35:01,625 --> 00:35:03,000
 Stop saying that.
-
-114
-00:35:04,416 --> 00:35:05,500
 Can I play this?
-
-115
-00:35:13,958 --> 00:35:16,000
 Uh, uh, uh.
-
-116
-00:35:21,083 --> 00:35:24,083
-["Redondo Beach"
-by Patti Smith playing]
-
-117
-00:35:30,333 --> 00:35:36,708
-<i>♪ Late afternoon
-Dreaming hotel ♪</i>
-
-118
-00:35:36,708 --> 00:35:41,083
-<i>♪ We just had the quarrel
-That sent you away ♪</i>
-
-119
-00:35:41,083 --> 00:35:42,291
+["Redondo Beach" by Patti Smith playing]
+♪ Late afternoon
+Dreaming hotel ♪
+♪ We just had the quarrel
+That sent you away ♪
 So, Hirayama ...
-
-120
-00:35:42,291 --> 00:35:43,458
 Shhhhh.
-
-121
-00:35:43,458 --> 00:35:50,374
-<i>♪ I was looking for you
-Are you gone gone? ♪</i>
-
-122
-00:35:50,374 --> 00:35:56,958
-<i>♪ Called you on the phone
-Another dimension ♪</i>
-
-123
-00:35:56,958 --> 00:35:59,333
-<i>♪ Well, you never returned... ♪</i>
-
-124
-00:35:59,333 --> 00:36:00,333
+♪ I was looking for you
+Are you gone gone? ♪
+♪ Called you on the phone
+Another dimension ♪
+♪ Well, you never returned... ♪
 - I like her voice.
 - Do you?
-
-125
-00:36:00,333 --> 00:36:03,125
-<i>♪ Oh you know what I mean ♪</i>
-
-126
-00:36:03,125 --> 00:36:04,875
-<i>♪ I went looking for you ♪
-- Smith?</i>
-
-127
-00:36:04,875 --> 00:36:06,875
+♪ Oh you know what I mean ♪
+♪ I went looking for you ♪
+- Smith?
 Very common name.
-
-128
-00:36:06,875 --> 00:36:08,583
-<i>♪ Are you gone gone? ♪</i>
-
-129
-00:36:10,708 --> 00:36:12,167
-<i>♪ Down by the ocean ♪</i>
-
-130
-00:36:12,167 --> 00:36:13,583
-<i>♪ It was so dismal ♪
-- Hirayama,</i>
-
-131
-00:36:13,875 --> 00:36:15,042
-<i>you really like this job, huh?
-- ♪ Women all standing ♪</i>
-
-132
-00:36:15,042 --> 00:36:16,249
-<i>♪ With shock on their faces ♪</i>
-
-133
-00:36:16,249 --> 00:36:17,625
-You got your own gadgets
-and stuff.
-
-134
-00:36:17,625 --> 00:36:18,875
-<i>♪ Sad description ♪</i>
-
-135
-00:36:18,875 --> 00:36:20,125
-<i>♪ Oh I was looking for you ♪</i>
-
-136
-00:36:20,125 --> 00:36:23,000
-How can you put so much
-into a job like this?
-
-137
-00:36:24,083 --> 00:36:25,167
-<i>♪ Everyone was singing ♪</i>
-
-138
-00:36:25,167 --> 00:36:28,083
-Not that I'm expecting an
-answer.
-
-139
-00:36:28,083 --> 00:36:30,291
-<i>- ♪ Girl is washed up ♪
-- Just wondering.</i>
-
-140
-00:36:30,291 --> 00:36:32,083
-<i>- ♪ On Redondo Beach ♪
-- This guy is weird.</i>
-
-141
-00:36:32,083 --> 00:36:34,167
-Nine out of ten
-on a weirdness scale.
-
-142
-00:36:34,167 --> 00:36:36,000
-<i>♪ Everyone is so sad ♪</i>
-
-143
-00:36:36,000 --> 00:36:37,167
-I like the sound
-of cassette tapes.
-
-144
-00:36:37,167 --> 00:36:41,083
-<i>♪ I was looking for you ♪</i>
-
-145
-00:36:41,083 --> 00:36:44,249
-<i>♪ Are you gone gone? ♪
-- Yeah! Cassettes do sound great!</i>
-
-146
-00:36:44,249 --> 00:36:45,917
-<i>- ♪ Pretty little girl ♪
-- It's my first time.</i>
-
-147
-00:36:45,917 --> 00:36:47,791
+♪ Are you gone gone? ♪
+♪ Down by the ocean ♪
+♪ It was so dismal ♪
+- Hirayama, you really like this job, huh?
+- ♪ Women all standing ♪
+♪ With shock on their faces ♪
+You got your own gadgets and stuff.
+♪ Sad description ♪
+♪ Oh I was looking for you ♪
+How can you put so much into a job like this?
+♪ Everyone was singing ♪
+Not that I'm expecting an answer.
+- ♪ Girl is washed up ♪
+- Just wondering.
+- ♪ On Redondo Beach ♪
+- This guy is weird.
+Nine out of ten on a weirdness scale.
+♪ Everyone is so sad ♪
+I like the sound of cassette tapes.
+♪ I was looking for you ♪
+♪ Are you gone gone? ♪
+- Yeah! Cassettes do sound great!
+- ♪ Pretty little girl ♪
+- It's my first time.
 First times are always great!
-
-148
-00:36:47,791 --> 00:36:51,083
-<i>♪ Everyone cried ♪</i>
-
-149
-00:36:51,083 --> 00:36:54,000
-<i♪ She was the victim ♪</i>
-
-150
-00:36:54,000 --> 00:36:57,000
-<i>♪ Of sweet suicide ♪</i>
-
-151
-00:36:57,000 --> 00:37:00,666
-<i>♪ I went looking for you ♪</i>
-
-152
-00:37:00,666 --> 00:37:02,708
-<i>♪ Are you gone gone? ♪</i>
-
-153
-00:37:02,708 --> 00:37:04,666
+♪ Everyone cried ♪
+<i♪ She was the victim ♪
+♪ Of sweet suicide ♪
+♪ I went looking for you ♪
+♪ Are you gone gone? ♪
 Drop me off down there.
-
-154
-00:37:04,666 --> 00:37:07,917
 - Aren't we going out?
 - Extra shift at the girl's bar.
-
-155
-00:37:07,917 --> 00:37:10,333
 If you show up,
 I'll be with you all night.
-
-156
-00:37:10,333 --> 00:37:13,583
 Still waiting for my pay day.
-
-157
-00:37:43,583 --> 00:37:46,917
-Hirayama, this is
-really a big deal for me.
-
-158
-00:37:49,958 --> 00:37:54,000
+Hirayama, this is really a big deal for me.
 Dammit! If I had money,
 I could handle all this.
-
-159
-00:37:54,000 --> 00:37:56,167
-Can't even be in love
-without money?
-
-160
-00:37:56,167 --> 00:37:58,000
-What's up with
-this shitty world?
-
-161
-00:37:58,000 --> 00:37:59,666
+Can't even be in love without money?
+What's up with this shitty world?
 Is this the modern age?
-
-162
-00:38:05,083 --> 00:38:07,000
 Hey, how much would this make?
-
-163
-00:38:09,875 --> 00:38:11,374
 Don't you wanna know?
-
-164
-00:38:13,583 --> 00:38:15,750
 I'm just curious!
-
-165
-00:38:15,750 --> 00:38:19,374
-Analogue is really making
-a comeback. Might be worth lots.
-
-166
-00:38:21,541 --> 00:38:25,416
-Just out of curiosity! I know
-a good place in Shimokita.
-
-167
-00:38:28,167 --> 00:38:30,249
+Analogue is really making a comeback. Might be worth lots.
+Just out of curiosity! I know a good place in Shimokita.
 That's not in my direction.
-
-168
-00:38:30,249 --> 00:38:34,583
 Won't even take us 30 minutes.
 Ouch!
-
-169
-00:38:34,583 --> 00:38:37,333
 Should be right here...
-
-170
-00:38:41,875 --> 00:38:44,209
 Here, this is the place.
-
-171
-00:38:45,291 --> 00:38:46,291
 Oops.
-
-172
-00:38:52,833 --> 00:38:53,958
 Hello there.
-
-173
-00:38:55,083 --> 00:38:58,083
-Excuse me,
-how much would these make?
-
-174
-00:39:00,083 --> 00:39:03,000
+Excuse me, how much would these make?
 This one's rare, it's Lou Reed.
-
-175
-00:39:03,958 --> 00:39:06,209
 120 Dollars for this.
 - Seriously?
-
-176
-00:39:08,666 --> 00:39:10,625
 - For this, $80.
 - Really?
-
-177
-00:39:11,791 --> 00:39:15,125
 - Where'd you find these?
 - These are all my senior's.
-
-178
-00:39:17,833 --> 00:39:21,042
 This one's 40 bucks.
-
-179
-00:39:21,042 --> 00:39:22,833
 For real?
-
-180
-00:39:22,833 --> 00:39:24,500
 This could go for 60.
-
-181
-00:39:24,500 --> 00:39:26,333
-You'll make a lot
-with all these.
-
-182
-00:39:28,625 --> 00:39:30,708
+You'll make a lot with all these.
 Here's my estimate.
-
-183
-00:39:30,708 --> 00:39:32,458
 Wow, holy shit!
-
-184
-00:39:34,458 --> 00:39:37,333
 Unbelievable!
 Let's sell them, Hirayama!
-
-185
-00:39:37,333 --> 00:39:40,083
 We'll take them all.
 Cassettes are in fashion.
-
-186
-00:39:40,083 --> 00:39:42,500
 Especially from the 70s or 80s.
-
-187
-00:39:42,500 --> 00:39:45,666
-We gotta sell them,
-your whole collection.
-
-188
-00:39:45,666 --> 00:39:47,500
+We gotta sell them, your whole collection.
 120 for this single tape!
-
-189
-00:39:48,833 --> 00:39:50,167
 Now's the time!
-
-190
-00:39:51,917 --> 00:39:53,833
 OK, just one.
 Let's just sell one.
-
-191
-00:39:53,833 --> 00:39:57,249
 Then I can see Aya at the bar.
 Tonight's a big deal for me.
-
-192
-00:40:05,000 --> 00:40:07,167
 It's a big deal tonight!
-
-193
-00:40:08,125 --> 00:40:09,666
 If I miss this chance...
-
-194
-00:40:11,167 --> 00:40:13,500
 No love life if you're broke?
 Is that it?
-
-195
-00:40:52,000 --> 00:40:53,167
 Seriously?
-
-196
-00:40:54,666 --> 00:40:57,249
 Thank you so much!
-
-197
-00:40:59,167 --> 00:41:01,125
 You saved me!
 I'm off!
-
-198
-00:41:04,291 --> 00:41:06,333
 Hirayama, you're the best!
-
-199
-00:41:13,167 --> 00:41:14,458
 Thanks for coming...
-
-200
-00:41:22,374 --> 00:41:26,833
-<i>♪ Walkin' through
-The sleepy city ♪</i>
-
-201
-00:41:26,833 --> 00:41:30,958
-<i>♪ In the dark
-It looks so pretty ♪</i>
-
-202
-00:41:30,958 --> 00:41:35,000
-<i>♪ Till I got to the one cafe ♪</i>
-
-203
-00:41:35,000 --> 00:41:39,249
-<i>♪ That stays open night
-And day ♪</i>
-
-204
-00:41:39,249 --> 00:41:43,416
-<i>♪ Just a lookin' at
-The sleepy city ♪</i>
-
-205
-00:41:43,416 --> 00:41:47,333
-<i>♪ In the night
-It looks so pretty ♪</i>
-
-206
-00:41:47,333 --> 00:41:51,666
-<i>♪ No one sees the city lights ♪</i>
-
-207
-00:41:51,666 --> 00:41:56,000
-<i>♪ They just care about
-The warmth inside ♪</i>
-
-208
-00:41:56,000 --> 00:41:59,125
-<i>♪ No one listens
-To what people say ♪</i>
-
-209
-00:51:27,666 --> 00:51:28,666
+♪ Walkin' through
+The sleepy city ♪
+♪ In the dark
+It looks so pretty ♪
+♪ Till I got to the one cafe ♪
+♪ That stays open night
+And day ♪
+♪ Just a lookin' at
+The sleepy city ♪
+♪ In the night
+It looks so pretty ♪
+♪ No one sees the city lights ♪
+♪ They just care about
+The warmth inside ♪
+♪ No one listens
+To what people say ♪
 Good night.
-
-210
-00:53:22,374 --> 00:53:25,416
 ["Aoi Sakana" by
 Sachiko Kanenobu playing]
-
-211
-00:53:29,333 --> 00:53:36,500
-<i>♪ Blue oceans and blue fish ♪</i>
-
-212
-00:53:36,500 --> 00:53:43,500
-<i>♪ I held them all
-A long time ago ♪</i>
-
-213
-00:53:43,500 --> 00:53:49,917
-<i>♪ But now only cold winds
-Pass through ♪</i>
-
-214
-00:53:49,917 --> 00:53:55,583
-<i>♪ These empty hands ♪</i>
-
-215
-00:53:59,500 --> 00:54:04,958
-<i>♪ There is a crowd
-Of grotesque children ♪</i>
-
-216
-00:54:04,958 --> 00:54:12,000
-<i>♪ There are skid marks
-On the sidewalk ♪</i>
-
-217
-00:54:12,000 --> 00:54:16,249
-<i>♪ Only the blurred moon ♪</i>
-
-218
-00:54:16,249 --> 00:54:20,083
-<i>♪ Followed yesterday's
-Foot prints ♪</i>
-
-219
-00:54:21,458 --> 00:54:22,416
+♪ Blue oceans and blue fish ♪
+♪ I held them all
+A long time ago ♪
+♪ But now only cold winds
+Pass through ♪
+♪ These empty hands ♪
+♪ There is a crowd
+Of grotesque children ♪
+♪ There are skid marks
+On the sidewalk ♪
+♪ Only the blurred moon ♪
+♪ Followed yesterday's
+Foot prints ♪
 Thanks!
-
-220
-00:54:24,708 --> 00:54:26,249
 Hirayama ...
-
-221
-00:54:26,249 --> 00:54:29,875
-I don't think I have a chance
-with Aya. Like, two out of ten.
-
-222
-00:54:29,875 --> 00:54:31,666
+I don't think I have a chance with Aya. Like, two out of ten.
 Not that I've given up yet.
-
-223
-00:54:48,500 --> 00:54:50,625
 Say, Hirayama ...
-
-224
-00:54:50,625 --> 00:54:52,167
 You're not married, right?
-
-225
-00:54:54,249 --> 00:54:56,167
 Being alone at your age ...
-
-226
-00:54:58,750 --> 00:55:00,374
 Aren't you ever lonely?
-
-227
-00:55:04,708 --> 00:55:06,167
 Takashi!
-
-228
-00:55:07,167 --> 00:55:09,374
 - It's you!
 - Takashi!
-
-229
-00:55:10,333 --> 00:55:13,833
 - It's been a while.
 - Takashi!
-
-230
-00:55:13,833 --> 00:55:15,083
 What's up?
-
-231
-00:55:16,000 --> 00:55:18,750
 I was looking for you.
-
-232
-00:55:18,750 --> 00:55:20,167
 - You were?
 - Yeah.
-
-233
-00:55:21,708 --> 00:55:25,333
 Oh, Hirayama, this is
 Dera-chan, my good old friend.
-
-234
-00:55:25,333 --> 00:55:28,000
 He likes my ears, you see.
-
-235
-00:55:29,500 --> 00:55:31,625
-Whenever he finds me,
-this is what happens.
-
-236
-00:55:31,625 --> 00:55:32,500
+Whenever he finds me, this is what happens.
 Takashi!
-
-237
-00:55:32,500 --> 00:55:36,833
 He always chases me down.
 10 out of 10.
-
-238
-00:55:36,833 --> 00:55:39,167
-Dera-chan is friends
-with my ears.
-
-239
-00:55:39,167 --> 00:55:43,167
+Dera-chan is friends with my ears.
 And I'm just a bonus.
 Right?
-
-240
-00:55:43,167 --> 00:55:45,000
 - Yes.
 - Or no?
-
-241
-00:55:45,000 --> 00:55:46,458
 Yes!
-
-242
-00:55:46,458 --> 00:55:47,666
 Yesss!
-
-243
-00:56:43,583 --> 00:56:44,583
 Hey!
-
-244
-00:56:46,875 --> 00:56:48,249
 Ah.
-
-245
-00:56:48,249 --> 00:56:50,333
 I wanted to give this back.
-
-246
-00:56:52,000 --> 00:56:53,167
 Here.
-
-247
-00:56:59,708 --> 00:57:01,666
 Can I listen to this again?
-
-248
-00:57:03,583 --> 00:57:05,083
 Hmm.
-
-249
-00:57:05,083 --> 00:57:07,708
-<i> ["Redondo Beach"
-by Patti Smith playing] ♪ Everyone was singing ♪</i>
-
-250
-00:57:07,708 --> 00:57:10,791
-<i>♪ Girl is washed up ♪</i>
-
-251
-00:57:10,791 --> 00:57:13,000
-<i>♪ On Redondo Beach ♪</i>
-
-252
-00:57:14,167 --> 00:57:17,083
-<i>♪ And everyone is so sad ♪</i>
-
-253
-00:57:17,083 --> 00:57:20,750
-<i>♪ But I was looking for you ♪</i>
-
-254
-00:57:20,750 --> 00:57:22,500
-<i>♪ Are you gone gone? ♪</i>
-
-255
-00:57:24,541 --> 00:57:27,875
-<i>♪ Pretty little girl ♪</i>
-
-256
-00:57:27,875 --> 00:57:30,833
-<i>♪ Everyone cried ♪</i>
-
-257
-00:57:30,833 --> 00:57:34,042
-<i>♪ She was the victim ♪</i>
-
-258
-00:57:34,042 --> 00:57:35,833
-<i>♪ Of sweet suicide ♪</i>
-
-259
-00:57:39,666 --> 00:57:41,416
+["Redondo Beach" by Patti Smith playing] ♪ Everyone was singing ♪
+♪ Girl is washed up ♪
+♪ On Redondo Beach ♪
+♪ And everyone is so sad ♪
+♪ But I was looking for you ♪
+♪ Are you gone gone? ♪
+♪ Pretty little girl ♪
+♪ Everyone cried ♪
+♪ She was the victim ♪
+♪ Of sweet suicide ♪
 Thanks.
-
-260
-00:57:41,416 --> 00:57:42,374
 Uh-huh.
-
-261
-00:57:45,209 --> 00:57:47,458
 Did Takashi tell you anything?
-
-262
-00:58:37,333 --> 00:58:40,333
-["Perfect Day"
-by Lou Reed playing]
-
-263
-00:58:43,666 --> 00:58:47,875
-<i>♪ Just a perfect day ♪</i>
-
-264
-00:58:47,875 --> 00:58:52,666
-<i>♪ Drink sangria in a park ♪</i>
-
-265
-00:58:52,666 --> 00:58:54,958
-<i>♪ And then later ♪</i>
-
-266
-00:58:54,958 --> 00:58:56,000
-<i>♪ When it gets dark ♪</i>
-
-267
-00:58:56,000 --> 00:58:59,167
-<i>♪ We go home ♪</i>
-
-268
-00:59:03,875 --> 00:59:06,583
-<i>♪ Just a perfect day ♪</i>
-
-269
-00:59:08,042 --> 00:59:11,333
-<i>♪ Feed animals in the zoo ♪</i>
-
-270
-00:59:13,167 --> 00:59:16,625
-<i>♪ Then later a movie too ♪</i>
-
-271
-00:59:16,625 --> 00:59:19,000
-<i>♪ And then home ♪</i>
-
-272
-00:59:21,833 --> 00:59:27,042
-<i>♪ Oh it's such a perfect day ♪</i>
-
-273
-00:59:27,042 --> 00:59:33,167
-<i>♪ I'm glad
-I spend it with you ♪</i>
-
-274
-00:59:33,167 --> 00:59:41,000
-<i>♪ Oh such a perfect day
-You just keep me hangin' on ♪</i>
-
-275
-00:59:46,583 --> 00:59:47,583
+["Perfect Day" by Lou Reed playing]
+♪ Just a perfect day ♪
+♪ Drink sangria in a park ♪
+♪ And then later ♪
+♪ When it gets dark ♪
+♪ We go home ♪
+♪ Just a perfect day ♪
+♪ Feed animals in the zoo ♪
+♪ Then later a movie too ♪
+♪ And then home ♪
+♪ Oh it's such a perfect day ♪
+♪ I'm glad
+I spend it with you ♪
+♪ Oh such a perfect day
+You just keep me hangin' on ♪
 Welcome back.
-
-276
-01:00:02,042 --> 01:00:04,500
 For your hard work!
-
-277
-01:03:45,000 --> 01:03:46,458
 Hi.
-
-278
-01:03:46,458 --> 01:03:47,374
 Hi.
-
-279
-01:04:11,416 --> 01:04:12,416
 Thanks.
-
-280
-01:04:14,249 --> 01:04:17,249
-["Sunny Afternoon"
-by Ray Davies playing]
-
-281
-01:04:29,917 --> 01:04:33,500
-<i>♪ The tax man's
-Taken all my dough ♪</i>
-
-282
-01:04:33,500 --> 01:04:37,833
-<i>♪ And left me
-In my stately home ♪</i>
-
-283
-01:04:37,833 --> 01:04:42,209
-<i>♪ Lazin' on a sunny afternoon ♪</i>
-
-284
-01:04:42,209 --> 01:04:45,666
-<i>♪ And I can't sail my yacht ♪</i>
-
-285
-01:04:45,666 --> 01:04:49,500
-<i>♪ He's taken everything I got ♪</i>
-
-286
-01:04:49,500 --> 01:04:54,666
-<i>♪ All I've got's
-This sunny afternoon ♪</i>
-
-287
-01:04:57,625 --> 01:05:05,000
-<i>♪ Save me save me
-Save me from this squeeze ♪</i>
-
-288
-01:05:05,000 --> 01:05:12,500
-<i>♪ I got a big fat mama
-Tryna break me ♪</i>
-
-289
-01:05:12,500 --> 01:05:16,875
-<i>♪ And I love to live
-So pleasantly ♪</i>
-
-290
-01:05:16,875 --> 01:05:20,750
-<i>♪ Live this life of luxury ♪</i>
-
-291
-01:05:20,750 --> 01:05:27,666
-<i>♪ Lazin' on a sunny afternoon ♪</i>
-
-292
-01:05:28,791 --> 01:05:40,000
-<i>♪ In the summertime ♪</i>
-
-293
-01:06:46,500 --> 01:06:49,958
-Aya Koda,
-she deserves more recognition.
-
-294
-01:06:49,958 --> 01:06:52,875
-She uses the same words we do
-
-295
-01:06:52,875 --> 01:06:55,000
-yet there's something
-so special.
-
-296
-01:07:14,167 --> 01:07:15,958
+["Sunny Afternoon" by Ray Davies playing]
+♪ The tax man's
+Taken all my dough ♪
+♪ And left me
+In my stately home ♪
+♪ Lazin' on a sunny afternoon ♪
+♪ And I can't sail my yacht ♪
+♪ He's taken everything I got ♪
+♪ All I've got's
+This sunny afternoon ♪
+♪ Save me save me
+Save me from this squeeze ♪
+♪ I got a big fat mama
+Tryna break me ♪
+♪ And I love to live
+So pleasantly ♪
+♪ Live this life of luxury ♪
+♪ Lazin' on a sunny afternoon ♪
+♪ In the summertime ♪
+Aya Koda, she deserves more recognition.
+She uses the same words we do yet there's something so special.
 Good evening, Hirayama.
-
-297
-01:07:17,333 --> 01:07:18,333
 Your usual?
-
-298
-01:07:20,833 --> 01:07:22,500
 What are you reading now?
-
-299
-01:07:24,708 --> 01:07:27,500
 Aya Koda, "Tree".
-
-300
-01:07:27,500 --> 01:07:29,000
 Her essays?
-
-301
-01:07:29,000 --> 01:07:30,541
 You've read them?
-
-302
-01:07:31,666 --> 01:07:33,291
 You're such an intellectual.
-
-303
-01:07:33,291 --> 01:07:35,125
 No, I wouldn't say that.
-
-304
-01:07:36,291 --> 01:07:37,500
 Here.
-
-305
-01:07:37,500 --> 01:07:38,416
 Your potato salad.
-
-306
-01:07:39,750 --> 01:07:42,249
 And cheers after a long day.
-
-307
-01:07:43,541 --> 01:07:45,291
 Hey, Mama.
-
-308
-01:07:45,291 --> 01:07:47,583
 We didn't get that appetizer.
-
-309
-01:07:47,583 --> 01:07:50,209
 Oh, I'm sure you did.
-
-310
-01:07:50,209 --> 01:07:52,917
-And we don't always
-see such portions.
-
-311
-01:07:52,917 --> 01:07:56,958
+And we don't always see such portions.
 That's not true.
 We're all equal here, right?
-
-312
-01:07:59,249 --> 01:08:02,167
 Have to look up “equal” in my dictionary.
-
-313
-01:08:02,167 --> 01:08:04,500
 Oh, ladies don't like fussy men.
-
-314
-01:08:05,791 --> 01:08:08,125
 You always had a wrinkle here?
-
-315
-01:08:10,125 --> 01:08:12,416
 No, other side.
 There.
-
-316
-01:08:15,708 --> 01:08:17,458
-Hey Mama,
-do you have fried tofu?
-
-317
-01:08:18,958 --> 01:08:22,666
-No we're out. Go get it
-and I'd cook it for you.
-
-318
-01:08:22,666 --> 01:08:25,958
+Hey Mama, do you have fried tofu?
+No we're out. Go get it and I'd cook it for you.
 His wife left him, you know.
-
-319
-01:08:25,958 --> 01:08:28,000
 How can he stay so cheerful?
-
-320
-01:08:29,750 --> 01:08:30,708
 You're talking about me?
-
-321
-01:08:30,708 --> 01:08:33,209
 Oh, nothing.
-
-322
-01:08:33,209 --> 01:08:35,666
-How can you still act like that,
-
-323
-01:08:35,666 --> 01:08:37,249
-she says, with your wife gone?
-
-324
-01:08:37,249 --> 01:08:40,833
+How can you still act like that, she says, with your wife gone?
 That's easy.
 I'm back to my carefree single days.
-
-325
-01:08:40,833 --> 01:08:44,666
 That makes any man happy.
-
-326
-01:08:44,666 --> 01:08:48,374
 Got rid of that nagging woman.
 What a relief.
-
-327
-01:08:48,374 --> 01:08:50,000
 Acting like a tough guy.
-
-328
-01:08:51,167 --> 01:08:54,333
-Soon you'll be moaning to Mama
-about how lonely you are.
-
-329
-01:08:54,333 --> 01:08:56,917
+Soon you'll be moaning to Mama about how lonely you are.
 Such boring small talk.
-
-330
-01:08:58,083 --> 01:09:00,249
-Another drink will get you
-through it.
-
-331
-01:09:02,791 --> 01:09:04,500
+Another drink will get you through it.
 Here.
-
-332
-01:09:09,125 --> 01:09:12,000
-Why can't things
-just stay the same?
-
-333
-01:09:12,917 --> 01:09:14,625
+Why can't things just stay the same?
 Mama.
-
-334
-01:09:14,625 --> 01:09:16,374
 Sing us that song.
-
-335
-01:09:16,374 --> 01:09:17,374
 Our favorite one.
-
-336
-01:09:20,000 --> 01:09:21,917
 Oh yeah!
-
-337
-01:09:21,917 --> 01:09:23,125
 Ah.
-
-338
-01:09:23,125 --> 01:09:26,666
 Well, but ...
 Hirayama only just got here.
-
-339
-01:09:26,666 --> 01:09:28,583
 - Don't let us down.
 - Please!
-
-340
-01:09:28,583 --> 01:09:30,291
 Here we go.
-
-341
-01:09:30,291 --> 01:09:31,666
 Ah.
-
-342
-01:09:31,666 --> 01:09:33,167
 Come on.
-
-343
-01:09:33,167 --> 01:09:35,500
 Since you got your guitar out...
 Let's go.
-
-344
-01:09:37,167 --> 01:09:38,583
 It's a good song.
-
-345
-01:09:39,917 --> 01:09:42,917
-["Asahi No Ataru Ie"
-by Maki Asakawa playing]
-
-346
-01:09:49,209 --> 01:09:56,000
+["Asahi No Ataru Ie" by Maki Asakawa playing]
 ♪ I ended up in a place ♪
-
-347
-01:09:57,583 --> 01:10:01,958
 ♪ In New Orleans ♪
-
-348
-01:10:03,167 --> 01:10:09,917
 ♪ A brothel called ♪
-
-349
-01:10:11,500 --> 01:10:15,291
 ♪ "The House of the
 Rising Sun" ♪
-
-350
-01:10:17,833 --> 01:10:24,000
 ♪ The man I loved ♪
-
-351
-01:10:26,583 --> 01:10:31,791
 ♪ Did not come back ♪
-
-352
-01:10:31,791 --> 01:10:38,209
 ♪ That was when I left ♪
-
-353
-01:10:40,167 --> 01:10:44,333
 ♪ My homeland ♪
-
-354
-01:10:47,000 --> 01:10:53,374
 ♪ I took a train ♪
-
-355
-01:10:55,167 --> 01:11:00,541
 ♪ And then another one... ♪
-
-356
-01:13:28,917 --> 01:13:32,083
 And two lemon shochu!
-
-357
-01:13:32,083 --> 01:13:34,209
-Oh, you're here,
-give me a sec!
-
-358
-01:13:39,750 --> 01:13:41,083
+Oh, you're here, give me a sec!
 For your hard work!
-
-359
-01:14:32,209 --> 01:14:33,167
 Uncle.
-
-360
-01:14:34,083 --> 01:14:35,167
 Where've you been?
-
-361
-01:14:36,500 --> 01:14:37,500
 You took forever.
-
-362
-01:14:43,125 --> 01:14:44,458
 Which door is yours?
-
-363
-01:14:45,917 --> 01:14:47,917
 Up the stairs or below?
-
-364
-01:14:55,708 --> 01:14:56,666
 Niko?
-
-365
-01:15:03,458 --> 01:15:04,500
 My, have you grown!
-
-366
-01:16:59,625 --> 01:17:00,541
 Uncle.
-
-367
-01:17:01,625 --> 01:17:02,541
 Off to work now?
-
-368
-01:17:05,083 --> 01:17:06,249
 Can I come along?
-
-369
-01:17:10,583 --> 01:17:12,500
 You'd better let me.
-
-370
-01:17:12,500 --> 01:17:15,249
-Dunno what I'll be up to
-if you leave me alone.
-
-371
-01:17:39,917 --> 01:17:41,416
+Dunno what I'll be up to if you leave me alone.
 Get in from the other side.
-
-372
-01:17:48,708 --> 01:17:50,000
 Wanna coffee?
-
-373
-01:17:52,500 --> 01:17:53,500
 Yeah!
-
-374
-01:17:54,458 --> 01:17:56,249
 - Same as mine?
 - Sure.
-
-375
-01:18:04,625 --> 01:18:05,666
 Thanks.
-
-376
-01:18:19,416 --> 01:18:21,209
 - Wanna play it?
 - Yes.
-
-377
-01:18:22,541 --> 01:18:23,500
 No, no.
-
-378
-01:18:24,875 --> 01:18:26,167
 This way.
-
-379
-01:18:26,167 --> 01:18:28,125
 - Like this?
 - Yes.
-
-380
-01:18:28,125 --> 01:18:29,666
 The tape is on this side.
-
-381
-01:18:33,000 --> 01:18:36,000
 ["Brown-eyed Girl" by
 Van Morrison playing]
-
-382
-01:18:47,541 --> 01:18:49,374
-<i>♪ Hey where did we go? ♪</i>
-
-383
-01:18:50,666 --> 01:18:52,374
-<i>♪ Days when the rains came ♪</i>
-
-384
-01:18:53,333 --> 01:18:54,500
-<i>♪ Down in the hollow ♪</i>
-
-385
-01:18:54,500 --> 01:18:57,291
+♪ Hey where did we go? ♪
+♪ Days when the rains came ♪
+♪ Down in the hollow ♪
 Is that the Skytree?
-
-386
-01:18:57,291 --> 01:18:58,708
-<i>♪ Playin' a new game ♪</i>
-
-387
-01:18:58,708 --> 01:19:00,374
+♪ Playin' a new game ♪
 Yeah, that's right.
-
-388
-01:19:00,374 --> 01:19:03,750
-<i>♪ Laughin' and a-runnin'
-Hey hey ♪</i>
-
-389
-01:19:03,750 --> 01:19:06,500
-<i>♪ Skippin' and a-jumpin' ♪</i>
-
-390
-01:19:06,500 --> 01:19:09,958
-<i>♪ In the misty morning
-Fog with ♪</i>
-
-391
-01:19:09,958 --> 01:19:13,125
-<i>♪ Our... our hearts
-A-thumping and you ♪</i>
-
-392
-01:19:14,791 --> 01:19:16,291
-<i>♪ My brown-eyed girl ♪</i>
-
-393
-01:19:19,541 --> 01:19:21,666
-<i>♪ You my brown-eyed girl ♪
-- So this is a cassette tape?</i>
-
-394
-01:19:22,750 --> 01:19:23,666
+♪ Laughin' and a-runnin'
+Hey hey ♪
+♪ Skippin' and a-jumpin' ♪
+♪ In the misty morning
+Fog with ♪
+♪ Our... our hearts
+A-thumping and you ♪
+♪ My brown-eyed girl ♪
+♪ You my brown-eyed girl ♪
+- So this is a cassette tape?
 From way back?
-
-395
-01:19:24,750 --> 01:19:26,666
 Way back.
-
-396
-01:19:26,666 --> 01:19:27,666
-<i>♪ And whatever happened ♪</i>
-
-397
-01:19:27,666 --> 01:19:29,209
+♪ And whatever happened ♪
 Can I put this on my iPhone?
-
-398
-01:19:29,209 --> 01:19:30,167
-<i>♪ To Tuesday and so slow ♪</i>
-
-399
-01:19:30,167 --> 01:19:31,625
+♪ To Tuesday and so slow ♪
 What's written on it?
-
-400
-01:19:32,791 --> 01:19:33,791
-<i>♪ Going down the old mine ♪</i>
-
-401
-01:19:33,791 --> 01:19:34,750
-<i>♪ With a... ♪
-- Van-morri-son.</i>
-
-402
-01:19:34,750 --> 01:19:35,917
+♪ Going down the old mine ♪
+♪ With a... ♪
+- Van-morri-son.
 Is this on Spotify?
-
-403
-01:19:35,917 --> 01:19:40,125
-<i>♪ Transistor radio ♪</i>
-
-404
-01:19:40,125 --> 01:19:41,291
-<i>♪ Standin' in the sunlight Laughin' ♪
-Not sure.</i>
-
-405
-01:19:42,374 --> 01:19:43,791
-<i>♪ Hidin' behind
-A rainbow's wall ♪</i>
-
-406
-01:19:43,791 --> 01:19:45,333
+♪ Transistor radio ♪
+♪ Standin' in the sunlight Laughin' ♪
+Not sure.
+♪ Hidin' behind
+A rainbow's wall ♪
 Where is that place?
-
-407
-01:19:45,333 --> 01:19:46,750
-<i>♪ Slippin' and a-slidin' ♪</i>
-
-408
-01:19:46,750 --> 01:19:48,458
-<i>- What place?
-- ♪ All along the waterfall ♪</i>
-
-409
-01:19:48,458 --> 01:19:49,958
-<i>♪ With you ♪
-- That shop.</i>
-
-410
-01:19:51,875 --> 01:19:53,583
+♪ Slippin' and a-slidin' ♪
+- What place?
+- ♪ All along the waterfall ♪
+♪ With you ♪
+- That shop.
 It's not a shop.
-
-411
-01:19:53,583 --> 01:19:55,125
-<i>♪ My brown-eyed girl ♪</i>
-
-412
-01:19:58,625 --> 01:20:01,500
-<i>♪ You my brown-eyed girl ♪</i>
-
-413
-01:20:03,291 --> 01:20:06,791
-<i>♪ Do you remember when ♪</i>
-
-414
-01:20:06,791 --> 01:20:08,083
-<i>♪ We used to sing? ♪</i>
-
-415
-01:20:08,083 --> 01:20:11,167
-<i>♪ Sha-la-la la-la la-la la-la
-La-la tee-da ♪</i>
-
-416
-01:22:16,958 --> 01:22:18,374
+♪ My brown-eyed girl ♪
+♪ You my brown-eyed girl ♪
+♪ Do you remember when ♪
+♪ We used to sing? ♪
+♪ Sha-la-la la-la la-la la-la
+La-la tee-da ♪
 Oh, that one!
-
-417
-01:22:20,500 --> 01:22:23,500
 You mean this?
 My camera. It's quite old.
-
-418
-01:22:24,583 --> 01:22:25,500
 Look!
-
-419
-01:22:28,333 --> 01:22:29,833
 How come?
-
-420
-01:22:29,833 --> 01:22:31,125
 You don't remember?
-
-421
-01:22:32,167 --> 01:22:34,083
 Uncle, you gave this to me.
-
-422
-01:22:36,917 --> 01:22:39,167
 Ahh.
-
-423
-01:22:39,167 --> 01:22:41,500
 Sure I did.
 - Liar.
-
-424
-01:22:42,917 --> 01:22:45,416
 You don't remember, do you?
-
-425
-01:22:55,791 --> 01:22:58,500
 Is that tree your friend?
-
-426
-01:22:59,708 --> 01:23:01,625
 My friend?
-
-427
-01:23:01,625 --> 01:23:02,541
 Isn't it?
-
-428
-01:23:04,958 --> 01:23:06,249
 Mm.
-
-429
-01:23:08,750 --> 01:23:09,958
 You're right.
-
-430
-01:23:10,917 --> 01:23:12,917
 This is my Tree Friend.
-
-431
-01:24:49,625 --> 01:24:50,500
 Uncle?
-
-432
-01:24:51,791 --> 01:24:52,833
 Huh?
-
-433
-01:24:54,500 --> 01:24:56,167
 Can I borrow this book?
-
-434
-01:24:56,167 --> 01:24:57,374
 What book is that?
-
-435
-01:24:58,833 --> 01:25:00,333
 “Eleven. Short Stories”.
-
-436
-01:25:01,374 --> 01:25:02,791
 Huh.
-
-437
-01:25:02,791 --> 01:25:04,500
 Sure.
-
-438
-01:25:04,500 --> 01:25:08,750
-This boy, Victor,
-from “The Terrapin”.
-
-439
-01:25:08,750 --> 01:25:10,125
+This boy, Victor, from “The Terrapin”.
 He's so much like me.
-
-440
-01:25:11,458 --> 01:25:12,750
-I kinda get
-
-441
-01:25:12,750 --> 01:25:14,125
-what he's going through.
-
-442
-01:25:24,833 --> 01:25:26,458
+I kinda get what he's going through.
 Can I help?
-
-443
-01:25:26,458 --> 01:25:27,500
 Really?
-
-444
-01:25:45,458 --> 01:25:46,500
 Thanks.
-
-445
-01:26:08,042 --> 01:26:12,000
-Uncle, you and mom
-don't get along?
-
-446
-01:26:14,708 --> 01:26:15,666
+Uncle, you and mom don't get along?
 She told you that?
-
-447
-01:26:17,833 --> 01:26:19,500
-Whenever I talk about you,
-
-448
-01:26:20,833 --> 01:26:22,333
-she changes the subject.
-
-449
-01:26:25,791 --> 01:26:27,000
+Whenever I talk about you, she changes the subject.
 I see.
-
-450
-01:26:30,333 --> 01:26:32,666
 You had a fight with your mom?
-
-451
-01:26:32,666 --> 01:26:33,917
 Sort of.
-
-452
-01:26:37,458 --> 01:26:39,541
-Do you always
-run away from home?
-
-453
-01:26:41,500 --> 01:26:43,000
+Do you always run away from home?
 This is my first time.
-
-454
-01:26:44,291 --> 01:26:48,125
-Staying at your place
-was always part of my plan.
-
-455
-01:26:50,167 --> 01:26:52,209
+Staying at your place was always part of my plan.
 What's that supposed to mean?
-
-456
-01:27:13,666 --> 01:27:14,583
 Hi.
-
-457
-01:27:16,917 --> 01:27:18,042
 Here.
-
-458
-01:27:19,167 --> 01:27:21,167
 Thanks. I go this way?
-
-459
-01:27:22,125 --> 01:27:25,042
 - See you in ten minutes.
 - That's too short.
-
-460
-01:27:25,042 --> 01:27:26,833
 Then, in twenty minutes.
-
-461
-01:27:26,833 --> 01:27:28,291
 OK.
-
-462
-01:27:33,458 --> 01:27:35,333
 Yes. Got it.
-
-463
-01:27:37,541 --> 01:27:38,583
 Yeah, OK.
-
-464
-01:27:45,708 --> 01:27:47,833
 Hungry?
 - Uh-huh.
-
-465
-01:27:47,833 --> 01:27:49,625
 Time to eat, then.
 - Yay!
-
-466
-01:27:52,666 --> 01:27:54,333
 - Towel goes here.
 - Thanks.
-
-467
-01:28:08,125 --> 01:28:11,458
 You and mom have nothing in common.
-
-468
-01:28:12,583 --> 01:28:13,917
 You think so?
-
-469
-01:28:15,209 --> 01:28:19,374
-She said like, you and
-we live in a different world.
-
-470
-01:28:20,875 --> 01:28:23,000
+She said like, you and we live in a different world.
 Might be true.
-
-471
-01:28:23,000 --> 01:28:24,167
 Is it?
-
-472
-01:28:26,333 --> 01:28:30,333
-The world is made up
-of many worlds.
-
-473
-01:28:32,042 --> 01:28:36,333
-Some are connected
-and some are not.
-
-474
-01:28:38,000 --> 01:28:39,209
-My world ...
-
-475
-01:28:41,000 --> 01:28:43,167
-and your mom's
-are very different.
-
-476
-01:28:44,917 --> 01:28:46,833
+The world is made up of many worlds.
+Some are connected and some are not.
+My world ... and your mom's are very different.
 What about my world?
-
-477
-01:28:46,833 --> 01:28:48,583
 Which world am I in?
-
-478
-01:29:01,833 --> 01:29:04,374
-Does this flow
-into the ocean?
-
-479
-01:29:05,333 --> 01:29:07,333
+Does this flow into the ocean?
 Yeah.
 To the ocean.
-
-480
-01:29:08,958 --> 01:29:10,083
 Wanna go?
-
-481
-01:29:14,000 --> 01:29:15,833
 Next time.
-
-482
-01:29:15,833 --> 01:29:17,000
 When's that?
-
-483
-01:29:19,000 --> 01:29:20,416
-Next time is
-next time.
-
-484
-01:29:21,500 --> 01:29:22,958
+Next time is next time.
 And when's that exactly?
-
-485
-01:29:24,042 --> 01:29:26,209
 Next time is next time.
-
-486
-01:29:27,333 --> 01:29:28,416
 Now is now.
-
-487
-01:29:29,500 --> 01:29:31,500
 Next time is next time.
-
-488
-01:29:32,833 --> 01:29:34,416
 Now is now.
-
-489
-01:29:49,000 --> 01:29:51,583
 Next time is next time.
-
-490
-01:29:51,583 --> 01:29:53,541
 Now is now!
-
-491
-01:29:53,541 --> 01:29:56,042
 Next time is next time.
-
-492
-01:29:56,042 --> 01:29:57,625
 Now is now.
-
-493
-01:29:58,625 --> 01:30:00,666
 Next time is next time.
-
-494
-01:30:00,666 --> 01:30:02,958
 Now is now!
-
-495
-01:30:02,958 --> 01:30:04,750
 Next time is next time.
-
-496
-01:30:04,750 --> 01:30:06,666
 Now is now.
-
-497
-01:30:40,958 --> 01:30:42,167
 Hi, brother.
-
-498
-01:30:43,416 --> 01:30:45,167
 Long time no see.
-
-499
-01:30:48,583 --> 01:30:50,000
 So, this is where you live?
-
-500
-01:30:51,917 --> 01:30:53,917
 I didn't mean it in a bad way.
-
-501
-01:30:53,917 --> 01:30:56,167
 Niko, get your things.
 - No!
-
-502
-01:30:56,167 --> 01:30:57,750
 That's not an option.
-
-503
-01:30:57,750 --> 01:30:59,416
 Uncle!
-
-504
-01:30:59,416 --> 01:31:00,875
 Hurry now.
-
-505
-01:31:00,875 --> 01:31:02,000
 Uncle!
-
-506
-01:31:04,042 --> 01:31:05,666
 Come back here anytime.
-
-507
-01:31:07,167 --> 01:31:09,416
 Haven't finished your book yet.
-
-508
-01:31:11,000 --> 01:31:12,333
 Take it with you.
-
-509
-01:31:17,750 --> 01:31:19,541
 I'm gonna become like Victor.
-
-510
-01:31:21,791 --> 01:31:22,917
 No, no.
-
-511
-01:31:24,374 --> 01:31:27,083
 - You shouldn't say that.
 - Niko!
-
-512
-01:31:51,000 --> 01:31:52,666
 For all the trouble.
-
-513
-01:31:55,000 --> 01:31:56,500
 Your favorite chocolate.
-
-514
-01:32:04,666 --> 01:32:06,042
 She's a good girl.
-
-515
-01:32:07,167 --> 01:32:08,458
 Not so sure about that.
-
-516
-01:32:11,625 --> 01:32:13,167
-As for father...
-
-517
-01:32:14,458 --> 01:32:16,917
-he no longer recognizes
-anything.
-
-518
-01:32:18,000 --> 01:32:20,209
-Won't you go and visit him
-in his nursing home?
-
-519
-01:32:21,167 --> 01:32:23,209
+As for father... he no longer recognizes anything.
+Won't you go and visit him in his nursing home?
 He won't act like he used to.
-
-520
-01:32:36,958 --> 01:32:41,167
 Are you really cleaning toilets?
-
-521
-01:33:03,833 --> 01:33:04,958
 Uncle.
-
-522
-01:33:07,708 --> 01:33:08,666
 Thank you.
-
-523
-01:35:48,291 --> 01:35:49,500
-<i> Hey, it's Takashi.</i>
-
-524
-01:35:51,042 --> 01:35:53,333
-<i>Takashi speaking. Hello?</i>
-
-525
-01:35:53,333 --> 01:35:54,416
+Hey, it's Takashi.
+Takashi speaking. Hello?
 I hear you.
-
-526
-01:35:56,333 --> 01:35:58,666
-<i> Hirayama,
-you've been good to me.</i>
-
-527
-01:35:58,666 --> 01:35:59,791
-<i>I really appreciate it.</i>
-
-528
-01:35:59,791 --> 01:36:01,333
-<i>Like, nine out of ten.</i>
-
-529
-01:36:02,458 --> 01:36:05,500
-<i>So, it's hard to tell ya,
-but I'm quitting.</i>
-
-530
-01:36:07,209 --> 01:36:08,333
+Hirayama, you've been good to me.
+I really appreciate it.
+Like, nine out of ten.
+So, it's hard to tell ya, but I'm quitting.
 What?
-
-531
-01:36:08,333 --> 01:36:10,249
-<i> I'll pay you back
-the money soon.</i>
-
-532
-01:36:11,249 --> 01:36:13,958
+I'll pay you back the money soon.
 Wait. What about your shift?
-
-533
-01:36:27,708 --> 01:36:28,833
 Yes.
-
-534
-01:36:28,833 --> 01:36:29,833
-<i>On such a short notice,</i>
-
-535
-01:36:29,833 --> 01:36:31,125
-<i>we can't find a replacement.</i>
-
-536
-01:36:31,125 --> 01:36:34,209
+On such a short notice, we can't find a replacement.
 No replacement?
 What's gonna happen then?
-
-537
-01:36:34,209 --> 01:36:35,666
-<i> You'll have to cover
-for the day.</i>
-
-538
-01:36:35,666 --> 01:36:36,666
+You'll have to cover for the day.
 Heh?
-
-539
-01:36:40,666 --> 01:36:42,750
 Can I? Sorry, just quick.
-
-540
-01:36:42,750 --> 01:36:44,167
 Sorry.
-
-541
-01:36:47,750 --> 01:36:48,917
 Excuse me!
-
-542
-01:36:50,583 --> 01:36:52,625
 - Are you new?
 - I'll be done soon.
-
-543
-01:37:17,333 --> 01:37:18,541
 What is it?
-
-544
-01:37:19,750 --> 01:37:21,000
 Where's Takashi?
-
-545
-01:38:09,958 --> 01:38:12,666
 Three times, I've called.
 Why'd no one answer?
-
-546
-01:38:13,833 --> 01:38:16,917
 Listen,
 I'm only doing this today.
-
-547
-01:38:16,917 --> 01:38:19,083
 Just find anyone, got it?
-
-548
-01:40:07,833 --> 01:40:10,833
-I'm Sato. I was suddenly
-asked to come here
-
-549
-01:40:10,833 --> 01:40:12,917
-and take over
-the former staff's shift.
-
-550
-01:40:14,042 --> 01:40:15,708
+I'm Sato. I was suddenly asked to come here and take over the former staff's shift.
 Should I start over there?
-
-551
-01:40:15,708 --> 01:40:17,167
 Ah, yes.
-
-552
-01:43:21,625 --> 01:43:23,541
 - Hi.
 - Hi.
-
-553
-01:44:23,083 --> 01:44:26,374
 Remember what used to be here?
-
-554
-01:44:27,583 --> 01:44:28,500
 Huh?
-
-555
-01:44:33,042 --> 01:44:36,666
 That's what growing old means.
-
-556
-01:45:10,666 --> 01:45:15,416
-Patricia Highsmith knows
-everything about anxiety.
-
-557
-01:45:15,416 --> 01:45:18,000
-She made me realize
-that fear and anxiety
-
-558
-01:45:18,000 --> 01:45:19,666
-are different things.
-
-559
-01:45:58,042 --> 01:45:59,416
+Patricia Highsmith knows everything about anxiety.
+She made me realize that fear and anxiety are different things.
 What brings you here?
-
-560
-01:46:02,333 --> 01:46:03,458
 Oh, you know ...
-
-561
-01:46:08,500 --> 01:46:10,083
 May I?
-
-562
-01:46:13,583 --> 01:46:14,500
 Come in.
-
-563
-01:46:48,666 --> 01:46:50,291
 A pack of 'Peace'.
-
-564
-01:46:50,291 --> 01:46:51,291
 And a bag.
-
-565
-01:48:08,541 --> 01:48:09,917
 May I have one?
-
-566
-01:48:46,500 --> 01:48:48,541
-Been a while
-since I last smoked.
-
-567
-01:48:58,833 --> 01:49:01,209
-Did you see us at the bar
-earlier?
-
-568
-01:49:12,875 --> 01:49:16,666
+Been a while since I last smoked.
+Did you see us at the bar earlier?
 You always go there, I guess?
-
-569
-01:49:16,666 --> 01:49:18,500
 Yes.
-
-570
-01:49:18,500 --> 01:49:22,958
-Since it opened,
-so, for five or six years.
-
-571
-01:49:24,541 --> 01:49:25,500
+Since it opened, so, for five or six years.
 I see.
-
-572
-01:49:27,458 --> 01:49:29,333
 It is a nice place.
-
-573
-01:49:37,708 --> 01:49:40,042
 I'm her ex-husband.
-
-574
-01:49:43,333 --> 01:49:45,249
 Oh.
-
-575
-01:49:45,249 --> 01:49:46,541
 I see ...
-
-576
-01:49:48,833 --> 01:49:53,666
-It's been about seven
-years since we got divorced.
-
-577
-01:49:53,666 --> 01:49:56,125
+It's been about seven years since we got divorced.
 I'm married again.
-
-578
-01:49:57,875 --> 01:50:00,249
-Seven years
-since I last saw her.
-
-579
-01:50:01,500 --> 01:50:02,500
+Seven years since I last saw her.
 Ah.
-
-580
-01:50:11,000 --> 01:50:12,249
 I've got cancer.
-
-581
-01:50:13,958 --> 01:50:16,000
 It metastasized.
-
-582
-01:50:19,083 --> 01:50:21,917
-My body's
-all inflamed from chemo.
-
-583
-01:50:28,833 --> 01:50:30,167
-Then I...
-
-584
-01:50:31,167 --> 01:50:34,333
-suddenly felt
+My body's all inflamed from chemo.
+Then I... suddenly felt
 I owed her an apology.
-
-585
-01:50:34,333 --> 01:50:37,000
 Not that anything had happened.
-
-586
-01:50:38,833 --> 01:50:40,958
 Maybe it wasn't an apology.
-
-587
-01:50:43,167 --> 01:50:45,000
 I wanted to thank her.
-
-588
-01:50:46,625 --> 01:50:48,167
 No, that's not it either.
-
-589
-01:50:51,500 --> 01:50:54,625
-I just wanted to see her,
-that's all.
-
-590
-01:51:07,291 --> 01:51:09,083
+I just wanted to see her, that's all.
 Wanna drink?
-
-591
-01:51:09,083 --> 01:51:11,541
 - Oh no.
 - Still got one more.
-
-592
-01:51:13,625 --> 01:51:15,291
 Well, in that case ...
-
-593
-01:51:16,500 --> 01:51:17,666
 I'll take one.
-
-594
-01:51:44,000 --> 01:51:46,167
 Please take care of her.
-
-595
-01:51:46,167 --> 01:51:48,167
 Oh no, we're not like that.
-
-596
-01:51:48,167 --> 01:51:49,958
 I'm counting on you.
-
-597
-01:51:50,958 --> 01:51:52,583
 We're not like that.
-
-598
-01:52:06,708 --> 01:52:09,042
 Shadows ...
-
-599
-01:52:09,042 --> 01:52:11,541
-Do they get darker
-when they overlap?
-
-600
-01:52:16,708 --> 01:52:18,125
+Do they get darker when they overlap?
 Not sure.
-
-601
-01:52:20,000 --> 01:52:22,333
 So many things
 I still don't know ...
-
-602
-01:52:23,500 --> 01:52:25,209
 That's how life ends ...
-
-603
-01:52:26,333 --> 01:52:28,000
 I guess.
-
-604
-01:52:29,583 --> 01:52:30,625
 Hmm.
-
-605
-01:52:42,500 --> 01:52:43,500
 Let's find out now.
-
-606
-01:52:45,374 --> 01:52:46,500
 What?
-
-607
-01:52:58,125 --> 01:53:00,374
 Try standing here.
-
-608
-01:53:02,000 --> 01:53:03,249
 Huh?
-
-609
-01:53:10,209 --> 01:53:11,500
 What do you see?
-
-610
-01:53:15,333 --> 01:53:16,666
 Looks the same to me.
-
-611
-01:53:17,791 --> 01:53:19,083
 Not getting darker?
-
-612
-01:53:20,249 --> 01:53:21,666
 Probably not.
-
-613
-01:53:24,000 --> 01:53:25,958
 Looks darker to me.
-
-614
-01:53:28,500 --> 01:53:30,291
 Don't see any difference.
-
-615
-01:53:32,500 --> 01:53:33,500
 But there is!
-
-616
-01:53:35,209 --> 01:53:37,583
-It has to get darker
-to make sense!
-
-617
-01:53:38,708 --> 01:53:40,042
+It has to get darker to make sense!
 You're really into this.
-
-618
-01:53:42,666 --> 01:53:44,416
 Nothing is changing after all?
-
-619
-01:53:46,042 --> 01:53:49,249
 That's just nonsense.
-
-620
-01:53:54,666 --> 01:53:56,083
 I agree with that.
-
-621
-01:54:08,167 --> 01:54:10,000
 Let's play shadow tag.
-
-622
-01:54:11,125 --> 01:54:12,209
 Huh?
-
-623
-01:54:13,167 --> 01:54:14,625
 I'll be “It”.
-
-624
-01:54:15,666 --> 01:54:16,666
 Ready?
-
-625
-01:54:17,833 --> 01:54:19,000
 Here I come.
-
-626
-01:54:20,167 --> 01:54:21,333
 Run!
-
-627
-01:54:26,791 --> 01:54:28,666
 - You alright?
 - This is tough.
-
-628
-01:54:30,167 --> 01:54:33,042
 I'll be “It” now.
 - Sure? Ready?
-
-629
-01:54:33,042 --> 01:54:34,500
 Here I come.
-
-630
-01:54:34,500 --> 01:54:35,917
 Tag!
 Tag!
-
-631
-01:54:44,500 --> 01:54:45,666
 So tough.
-
-632
-01:54:47,042 --> 01:54:48,583
 This is exhausting.
 Tag!
-
-633
-01:54:50,249 --> 01:54:53,083
 That was close.
 I stepped on you!
-
-634
-01:54:53,083 --> 01:54:54,875
 - You did?
 - I did.
-
-635
-01:56:43,500 --> 01:56:44,666
 ["Feeling Good" by Leslie
 Bricusse / Anthony Newley]
-
-636
-01:56:44,666 --> 01:56:48,000
-<i>♪ Birds flying high
-You know how I feel ♪</i>
-
-637
-01:56:49,958 --> 01:56:54,541
-<i>♪ Sun in the sky
-You know how I feel ♪</i>
-
-638
-01:56:56,500 --> 01:57:01,374
-<i>♪ Breeze driftin' on by
-You know how I feel ♪</i>
-
-639
-01:57:03,083 --> 01:57:07,000
-<i>♪ It's a new dawn
-It's a new day ♪</i>
-
-640
-01:57:08,167 --> 01:57:10,666
-<i>♪ It's a new life
-For me ♪</i>
-
-641
-01:57:10,666 --> 01:57:13,917
-<i>♪ Yeah it's a new dawn
-It's a new day ♪</i>
-
-642
-01:57:13,917 --> 01:57:16,333
-<i>♪ It's a new life
-For me ♪</i>
-
-643
-01:57:17,583 --> 01:57:21,167
-<i>♪ Ooh-ooh-ooh-ooh ♪</i>
-
-644
-01:57:21,167 --> 01:57:23,666
-<i>♪ And I'm feeling good ♪</i>
-
-645
-01:57:30,500 --> 01:57:34,666
-<i>♪ Fish in the sea
-You know how I feel ♪</i>
-
-646
-01:57:36,666 --> 01:57:41,458
-<i>♪ River running free
-You know how I feel ♪</i>
-
-647
-01:57:43,083 --> 01:57:48,083
-<i>♪ Blossom on a tree
-You know how I feel ♪</i>
-
-648
-01:57:48,083 --> 01:57:51,333
-<i>♪ It's a new dawn
-It's a new day ♪</i>
-
-649
-01:57:51,333 --> 01:57:56,708
-<i>♪ It's a new life
-For me ♪</i>
-
-650
-01:57:56,708 --> 01:58:00,000
-<i>♪ And I'm feeling good ♪</i>
-
-651
-01:58:04,500 --> 01:58:08,167
-<i>♪ Dragonfly out in the sun
-You know what I mean ♪</i>
-
-652
-01:58:08,167 --> 01:58:09,374
-<i>♪ Don't you know ♪</i>
-
-653
-01:58:11,374 --> 01:58:16,167
-<i>♪ Butterflies all havin' fun
-You know what I mean ♪</i>
-
-654
-01:58:17,833 --> 01:58:20,708
-<i>♪ Sleep in peace
-When day is done ♪</i>
-
-655
-01:58:20,708 --> 01:58:23,083
-<i>♪ That's what I mean ♪</i>
-
-656
-01:58:23,083 --> 01:58:26,416
-<i>♪ And this old world
-Is a new world ♪</i>
-
-657
-01:58:26,416 --> 01:58:31,167
-<i>♪ And a bold world
-For me ♪</i>
-
-658
-01:58:37,333 --> 01:58:42,167
-<i>♪ Stars when you shine
-You know how I feel ♪</i>
-
-659
-01:58:43,958 --> 01:58:48,833
-<i>♪ Scent of the pine
-You know how I feel ♪</i>
-
-660
-01:58:48,833 --> 01:58:52,833
-<i>♪ Oh freedom is mine ♪</i>
-
-661
-01:58:52,833 --> 01:58:55,833
-<i>♪ And I know how I feel ♪</i>
-
-662
-01:58:55,833 --> 01:58:58,875
-<i>♪ It's a new dawn
-It's a new day ♪</i>
-
-663
-01:58:58,875 --> 01:59:03,666
-<i>♪ It's a new life for me ♪</i>
-
-664
-01:59:03,666 --> 01:59:06,583
-<i></i>
-
-665
-01:59:21,625 --> 01:59:35,583
-<i>♪ I'm feeling good ♪</i>
-
-666
-01:59:39,666 --> 01:59:42,583
-["Perfect Day" by Patrick Watson
-instrumental version playing]
-
+♪ Birds flying high
+You know how I feel ♪
+♪ Sun in the sky
+You know how I feel ♪
+♪ Breeze driftin' on by
+You know how I feel ♪
+♪ It's a new dawn
+It's a new day ♪
+♪ It's a new life
+For me ♪
+♪ Yeah it's a new dawn
+It's a new day ♪
+♪ It's a new life
+For me ♪
+♪ Ooh-ooh-ooh-ooh ♪
+♪ And I'm feeling good ♪
+♪ Fish in the sea
+You know how I feel ♪
+♪ River running free
+You know how I feel ♪
+♪ Blossom on a tree
+You know how I feel ♪
+♪ It's a new dawn
+It's a new day ♪
+♪ It's a new life
+For me ♪
+♪ And I'm feeling good ♪
+♪ Dragonfly out in the sun
+You know what I mean ♪
+♪ Don't you know ♪
+♪ Butterflies all havin' fun
+You know what I mean ♪
+♪ Sleep in peace
+When day is done ♪
+♪ That's what I mean ♪
+♪ And this old world
+Is a new world ♪
+♪ And a bold world
+For me ♪
+♪ Stars when you shine
+You know how I feel ♪
+♪ Scent of the pine
+You know how I feel ♪
+♪ Oh freedom is mine ♪
+♪ And I know how I feel ♪
+♪ It's a new dawn
+It's a new day ♪
+♪ It's a new life for me ♪
+♪ I'm feeling good ♪
+["Perfect Day" by Patrick Watson instrumental version playing]
