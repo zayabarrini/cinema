@@ -9,7 +9,7 @@ creator:
     text: Talles Barrini
   - role: editor
     text: Talles Barrini
-cover-image: ../Capas/milano.jpg
+cover-image: ../../../MDs/Capas/milano.jpg
 identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
@@ -21,7 +21,206 @@ ibooks:
 
 # Milano
 
+## milano warum gibst du uns auf
 
+Oh-oh
+
+Ohh
+
+Hey, hey
+
+Ich glaub', du vergisst mich
+
+Warum sonst bist du so glücklich?
+
+Ich denk' oft zurück, denk' an dich, es tut weh, wenn ich merk', ich vermiss' dich
+
+Hey, ich park' vor deinem Haus
+
+Ich will nur reden mit dir
+
+Du hast in mein' T-Shirts geschlafen und jetzt stellst du sie einfach neben die Tür
+
+Ich schwör', du spielst nicht fair
+
+Ich hab' ein' Stein im Herz
+
+Hatten wir denselben Traum?
+
+Weil du träumst nicht mehr
+
+Ich geb' die Nachricht ein
+
+Mir fällt das Lächeln schwer
+
+Was ist nach all dem dein Versprechen wert?
+
+Warum gibst du uns auf?
+
+Du sagst kein Wort, aber dein Schweigen ist so laut genug, so laut (so laut)
+
+Warum gibst du uns auf?
+
+Wir sind beide zerstört, aber du hast es dir so ausgesucht, oh (ohh)
+
+Ich schlaf' allein ein, schlaf' fast nicht
+
+Mein letzter Gedanke dreht sich nur um dich
+
+Ich träum' von dir jede Nacht, werde wach, schau' mich um und ich frag' mich, wo du bist
+
+Aber du bist nicht hier
+
+Sag mir, was passiert ist
+
+Hast mein Herz so gefickt
+
+Dieser Schmerz sitzt so tief
+
+Warum gibst du uns auf?
+
+Du sagst kein Wort, aber dein Schweigen ist so laut genug, so laut (so laut)
+
+Warum gibst du uns auf?
+
+Wir sind beide zerstört, aber du hast es dir so ausgesucht, oh (oh-oh-oh-oh)
+
+Kein Wort von dir ist wahr
+
+Du hast gesagt, dass das mit uns beiden für immer ist
+
+Komm schon, erinner dich
+
+Du nennst mich ein' Fehler
+
+Doch jeder sieht, dass du keine Liebe kennst
+
+Denn du hast nie gekämpft
+
+Warum gibst du uns auf?
+
+Du sagst kein Wort, aber dein Schweigen ist so laut genug, so laut (so laut)
+
+Warum gibst du uns auf?
+
+Wir sind beide zerstört, aber du hast es dir so ausgesucht, oh (oh-oh-oh-oh)
+
+
+## In anderer armen
+
+[Intro]
+
+Ohh (Lucry, Suena)
+
+Ey
+
+[Strophe 1]
+
+Sag mir, was hast du, was sie nicht hat?
+
+Lieb' ihr Parfum und dieses ganze Bett hier riecht danach
+
+Doch was, wenn dein Parfum mir lieber war?
+
+Fuck, ich bin mit ihr nach Paris gefahr'n
+
+Doch ich war nicht ma' halb so sehr verliebt, verdammt
+
+Ich kauf' ihr einen Ring und ich weiß, der steht ihr
+
+Doch sag mir, war um glitzert er nicht wie bei dir?
+
+Ich schwör', sie ist perfekt und es liegt nicht an ihr
+
+Doch ich kann nicht vergessen, was mal war mit dir, ey
+
+[Pre-Refrain]
+
+Würd alles tun, dass mein Herz für sie schlägt
+
+Genauso schnell wie bei dir
+
+Doch ich weiß nicht, wie das geht
+
+[Refrain]
+
+Denn nur bei dir hat Liebe so schön wehgetan
+
+Ja, nur bei dir hat mein Herz so sehr gebrannt
+
+Auch wenn wir nicht mehr sind, was wir mal war'n
+
+Ich hab' geschwor'n, ich bin da, jede Nacht schlaf' ich mit dir ein
+
+Jetzt wach' ich auf in andern Arm'n
+
+Hey, ohh, hey
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Playboy Bunnies
+
+Jazeek, Luciano & Miksu / Macloud
+
+Without Me
+
+Eminem
+
+She Knows
+
+J. Cole
+
+[Strophe 2]
+
+Sag' ihr jeden Tag, wie schön sie ist
+
+Doch fühl' mich schlecht, weil nur du für mich die Schönste bist
+
+Vielleicht bin ich noch zu gewöhnt an dich
+
+Seh' deine Bilder und mich tröstet nichts
+
+Dich mit jemand andern seh'n tötet mich
+
+Lauf' Hand in Hand mit ihr, doch es fühlt sich falsch an
+
+Unser Datum eingraviert in ihr Lieblingsarmband
+
+Der Jahrestag mit dir, denk' für immer daran
+
+Babe, wenn ich nie über dich hinwegkomm', was dann? (Ey)
+
+[Pre-Refrain]
+
+Würd alles tun, dass mein Herz für sie schlägt
+
+Genauso schnell wie bei dir
+
+Doch ich weiß nicht, wie das geht
+
+[Refrain]
+
+Denn nur bei dir hat Liebe so schön wehgetan
+
+Ja, nur bei dir hat mein Herz so sehr gebrannt
+
+Auch wenn wir nicht mehr sind, was wir mal war'n
+
+Ich hab' geschwor'n, ich bin da, jede Nacht schlaf' ich mit dir ein
+
+Denn nur bei dir hat Liebe so schön wehgetan
+
+Ja, nur bei dir hat mein Herz so sehr gebrannt
+
+Auch wenn wir nicht mehr sind, was wir mal war'n
+
+Ich hab' geschwor'n, ich bin da, jede Nacht schlaf' ich mit dir ein
+
+Jetzt wach' ich auf in andern Arm'n
 
 ## On/Off
 
