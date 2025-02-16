@@ -1,4 +1,16 @@
-# Muhr Arab Feature – Best Film, Dubai
+# Links and resources
+
+https://mubi.com/en/awards-and-festivals
+https://mubi.com/en/lists
+Mubi's lists: https://www.one-tab.com/page/dm9M3AmzRouo6ocHpEqMCA
+Official websites, national awards: https://www.one-tab.com/page/o5p_RH0MSyKo7s3Pd1oC3g 
+National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
+Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
+
+# National Awards
+## Muhr Arab Feature – Best Film, Dubai
+https://www.one-tab.com/page/eXIhyOp6ScuDLu5poOt_Bg
+
 The Blue Elephant 2 (2019)
 The Cave (Short 2021)
 The Nile Hilton Incident (2017)
@@ -10,7 +22,10 @@ Harragas (2009)
 The Syrian Bride (2004)
 Paradise Now (2005)
 
-# David di Donatello Award for Best Film, Italy
+
+## David di Donatello Award for Best Film, Italy
+https://www.one-tab.com/page/K-z7bEYaQTe_6q4olyZRqg
+
 Io Capitano (2023)
 A Brighter Tomorrow (2023)
 La Chimera (2023)
@@ -22,7 +37,9 @@ Lord of the Ants (2022)
 Nostalgia (2022)
 Strangeness (2022)
 
-# Grand Bell Awards (Daejong Film Awards)
+## Grand Bell Awards (Daejong Film Awards)
+https://www.one-tab.com/page/tPTpw0g-QkyrWxx5u9_asg
+
 Goein (2022)
 Next Sohee (2022)
 Decision to Leave (2022)
@@ -34,7 +51,9 @@ The Fortress (2017)
 The Age of Shadows (2016)
 Sado (2015)
 
-# Indonesian Film Festival
+## Indonesian Film Festival
+https://www.one-tab.com/page/z8e9KhBJQyyiILHg2_8C0Q
+
 Falling in Love Like in Movies (2023)
 Samsara (2023)
 Borderless (Short 2022)
@@ -46,7 +65,9 @@ Ali & the Queens (2021)
 Kartini: Princess of Java (2017)
 Marlina the Murderer in Four Acts (2017)
 
-# Africa Movie Academy Awards (AMAA), Nigeria
+https://www.one-tab.com/page/fJcpPrz8QCC5DETCl1nAhw
+
+## Africa Movie Academy Awards (AMAA), Nigeria
 The Weekend (2024)
 This Is My Desire (2020)
 The Milkmaid (2020)
@@ -58,7 +79,9 @@ October 1 (2014)
 Accident (Short 2014)
 Confusion Na Wa (2013)
 
-# Grande Prêmio do Cinema Brasileiro
+https://www.one-tab.com/page/-rjpLlUfRmqrBM9xmmILEA
+
+## Grande Prêmio do Cinema Brasileiro
 Marte Um (2022)
 Marighella (2019)
 Babenco: Alguém Tem que Ouvir o Coração e Dizer Parou (2019)
@@ -71,7 +94,9 @@ O Lobo Atrás da Porta (2013)
 Enemy (2013)
 Faroeste Caboclo (2013)
 
-# Goya awards, Spain Cinema
+## Goya awards, Spain Cinema
+https://www.one-tab.com/page/xtVA1ipNSGyY6YE8gkas9w
+
 The Beasts (2022)
 The Good Boss (2021)
 Schoolgirls (2020)
@@ -83,7 +108,9 @@ Marshland (2014)
 Living Is Easy with Eyes Closed (2013)
 Snow White (2012)
 
-# Cesar Awards, French Cinema
+## Cesar Awards, French Cinema
+https://www.one-tab.com/page/N7rJIJNyQp2N_oFR26kqcA
+
 Anatomy of a Fall (2023)
 The Night of the 12th (2022)
 Illusions perdues (2021)
@@ -95,7 +122,9 @@ Fátima (2017)
 Mustang (2015)
 Timbuktu (2014)
 
-# Deutscher Filmpreis, German Cinema
+## Deutscher Filmpreis, German Cinema
+https://www.one-tab.com/page/ymuHqFh6T62k4DjYBcoJsw
+
 All Quiet on the Western Front (2022)
 Lieber Thomas (2021)
 I'm Your Man (2021)
@@ -106,7 +135,9 @@ Toni Erdmann (2016)
 Victoria (2015)
 Der Staat gegen Fritz Bauer (2015)
 
-# Awards of the Japanese Academy
+## Awards of the Japanese Academy
+https://www.one-tab.com/page/mt0hhuDITsWdVnhYYLYshA
+
 Godzilla Minus One (2023)
 A Man (2022)
 Drive My Car (2021)
@@ -118,7 +149,9 @@ Shin Godzilla (2016)
 Our Little Sister (2015)
 Eien no 0 (TV Mini Series 2015– )
 
-# National Film Awards, India Cinema
+## National Film Awards, India Cinema
+https://www.one-tab.com/page/vs0Wk8LNRC2B9-R71XvCxg
+
 Aattam (2023)
 Rocketry - The Nambi Effect (2022)
 Soorarai Pottru (2020)
@@ -132,7 +165,9 @@ Court (2014)
 Bhayanakam (2018)
 Kaasav: Turtle (2017)
 
-# Golden Rooster Winners, Chinese Cinema
+## Golden Rooster Winners, Chinese Cinema
+https://www.one-tab.com/page/pWfbiJulQSaSgJ1Jxqw_cQ
+
 Article 20 (2024)
 Creation of the Gods I: Kingdom of Storms (2023)
 The Battle at Lake Changjin (2021)

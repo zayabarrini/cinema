@@ -1,29 +1,12 @@
----
-title:
-  - type: main
-    text: Estrutura for Cinema
-  - type: subtitle
-    text: Cinema
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: ../Capas/EstruturaCinema.jpg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 1.3.4
-...
-
 # Sumário
 
 Biografia
 IA+ Links
 Of an Age Production crew Complete
+
+# Structure
+Oscar 2025: foreign, best, animation, Roger Ebert, LGBT, National cinema awards, Mubi's lists 
+Themes: LGBT, Psychopaths, Animations, Languages, Women/Melancholy/Children, Awards
 
 # Process Management
 
