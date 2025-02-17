@@ -7,9 +7,22 @@ Official websites, national awards: https://www.one-tab.com/page/o5p_RH0MSyKo7s3
 National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
 Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
 
+# Mubi's lists
+https://www.one-tab.com/page/dm9M3AmzRouo6ocHpEqMCA | OneTab - Shared tabs
+https://mubi.com/en/lists/melhores-filmes-brasileiros-da-historia-best-brazilian-films-abraccine | Melhores Filmes Brasileiros da História / best brazilian films - abraccine - Movies List on MUBI
+https://mubi.com/en/lists/essential-brazilian-films | Essential Brazilian Films - Movies List on MUBI
+https://mubi.com/en/lists/golden-horse-film-fest-100-greatest-chinese-language-films | Golden Horse Film Fest 100 Greatest Chinese-Language Films - Movies List on MUBI
+https://mubi.com/en/lists/korean-cinema | Korean Cinema - Movies List on MUBI
+https://mubi.com/en/lists/chinese-cinema | CHINESE CINEMA - Movies List on MUBI
+https://mubi.com/en/lists/essential-iranian-films | ESSENTIAL IRANIAN FILMS - Movies List on MUBI
+https://mubi.com/en/lists/essential-german-films-wesentliche-deutsche-filme | ESSENTIAL GERMAN FILMS - Movies List on MUBI
+https://mubi.com/en/lists/russian-new-wave | New Russian Cinema - Movies List on MUBI
+
+
 # National Awards
 ## Muhr Arab Feature – Best Film, Dubai
 https://www.one-tab.com/page/eXIhyOp6ScuDLu5poOt_Bg
+https://www.imdb.com/event/ev0001565/2024/1/?ref_=ev_tl_yr_2
 
 The Blue Elephant 2 (2019)
 The Cave (Short 2021)
@@ -178,3 +191,6 @@ Operation Red Sea (2018)
 The Chinese Widows (2018)
 Zhi qu wei hu shan (2014)
 Wolf Totem (2015)
+
+## Nika Awards, Russian Cinema
+https://kino-nika.com/page51468163.html
