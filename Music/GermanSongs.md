@@ -9,7 +9,7 @@ creator:
     text: Talles Barrini
   - role: editor
     text: Talles Barrini
-cover-image: ../../../MDs/Capas/milano.jpg
+cover-image: milano.jpg
 identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
