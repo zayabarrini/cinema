@@ -42,7 +42,7 @@ Rebel Without a Cause 1955
 Bones and all
 Shame
 Happening      
-Sound of metal the boys always told me  every hole  is a goal for them  but ust one hole  
+Sound of metal
 Minari       
 The eternal Daughter
 Private Romeo

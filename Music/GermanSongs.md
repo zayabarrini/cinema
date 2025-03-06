@@ -19,7 +19,789 @@ ibooks:
   version: 1.3.4
 ...
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Milano](#milano)
+  - [Nicht fur immer](#nicht-fur-immer)
+  - [Es tut mir leid](#es-tut-mir-leid)
+  - [Dale Dale](#dale-dale)
+  - [Zwischen den Zeilen](#zwischen-den-zeilen)
+  - [Du & Ich](#du-ich)
+  - [French Nails](#french-nails)
+  - [100 Lieder](#100-lieder)
+  - [milano warum gibst du uns auf](#milano-warum-gibst-du-uns-auf)
+  - [In anderer armen](#in-anderer-armen)
+  - [On/Off](#onoff)
+  - [Do you lie](#do-you-lie)
+  - [Anderer Mann](#anderer-mann)
+  - [Au Revoir](#au-revoir)
+  - [Bleib](#bleib)
+  - [So wie du](#so-wie-du)
+  - [leer](#leer)
+  - [Blind](#blind)
+  - [Engel ohne Flügel](#engel-ohne-flügel)
+  - [Sag mir](#sag-mir)
+  - [FEUER](#feuer)
+  - [Ohne Dich](#ohne-dich)
+  - [Weck mich nicht auf](#weck-mich-nicht-auf)
+  - [Allô](#allô)
+  - [Du & Ich](#du-ich-1)
+- [Jazeek](#jazeek)
+  - [Himmel Leer](#himmel-leer)
+  - [Take it](#take-it)
+  - [Superstars](#superstars)
+  - [Baile Funk im Blut](#baile-funk-im-blut)
+  - [Mary](#mary)
+  - [Lüg mich an](#lüg-mich-an)
+  - [Kiyamasa](#kiyamasa)
+  - [Like This](#like-this)
+  - [Blunt für dich](#blunt-für-dich)
+  - [Diamond Ring](#diamond-ring)
+  - [CC](#cc)
+  - [Bend Over](#bend-over)
+  - [Meine Augen](#meine-augen)
+  - [Es soll so sein](#es-soll-so-sein)
+  - [Noch einmal](#noch-einmal)
+  - [112](#112)
+  - [Ohne dich](#ohne-dich-1)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="milano"></a>
+
 # Milano
+
+<!-- TOC --><a name="nicht-fur-immer"></a>
+
+## Nicht fur immer
+
+Oh-ah-ah-ahh
+
+Ich weiß noch, wir beide jeden Abend
+
+Ich dachte nie, du willst mich ersetzen
+
+Erinner dich, wo wir mal waren
+
+So weit weg von dem, wo wir jetzt sind
+
+Ich vergieß' eine Träne für jedes Mal, das du gelogen hast
+
+Sag mir, fühlst du dich schlecht?
+
+Wie kannst du mir ins Gesicht schauen und so tun, als wärst du im Recht?
+
+Alles, was du gesagt hast, war am Ende leider nicht echt
+
+Denn wir waren nicht für immer
+
+Schau, so lang hielt dein „Für immer“
+
+Dass du für mich bestimmt warst
+
+Macht alles nur noch schlimmer
+
+Ich hör' nur: „Du, du, du“, aber du hast uns verflucht
+
+Ich wollt' kämpfen, bis es klappt, doch ich war dir nicht genug
+
+Schau, so lang hielt dein „Für immer“, ja-ah-ah-ah-ah
+
+Ich würd' gerne so vieles sagen
+
+Doch ich will nie wieder reden
+
+Und schließ' das Kapitel heut' ab von uns, oh-ohh
+
+Kein Plan, was mich noch am Leben hält, ich kann nicht mehr
+
+Das letzte Mal, dass ich gelacht hab', ist lange her
+
+Würd' alles geben, dafür, damit es wie damals wär'
+
+Doch es wird nie wieder mehr wie früher sein, oh-ohh
+
+Denn wir waren nicht für immer
+
+Schau, so lang hielt dein „Für immer“
+
+Dass du für mich bestimmt warst
+
+Macht alles nur noch schlimmer
+
+Ich hör' nur: „Du, du, du“, aber du hast uns verflucht
+
+Ich wollt' kämpfen, bis es klappt, doch ich war dir nicht genug
+
+Schau, so lang hielt dein „Für immer“, ja-ah-ah-ah-ah
+
+Wir waren nicht für immer
+
+Schau, so lang hielt dein „Für immer“
+
+Dass du für mich bestimmt warst
+
+Macht alles nur noch schlimmer
+
+Ich hör' nur: „Du, du, du“
+
+<!-- TOC --><a name="es-tut-mir-leid"></a>
+
+## Es tut mir leid
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+(Germoney)
+
+Sitz' schon wieder ganz alleine in mein' Treppenhaus
+
+Jedes Mal, wenn ich dich anrufe, legst du auf
+
+Ich schreib', „Yo, lass uns reden, mal für einen Moment“
+
+Doch weiß, ich kriege keine Antwort, doch ich nehm's in Kauf
+
+Mann, was hab' ich dir getan?
+
+Alles, was ich sag', geht da rein und da raus
+
+Ich liege wieder wach, schlafe in der Nacht kaum
+
+Doch bin für immer da, Baby, wenn du was brauchst
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+Und es soll so sein
+
+Ich hoff', dass du lachst jedes Mal, wenn ich für dich wein'
+
+Babe, es tut mir leid, ey, ey
+
+Eine Träne fällt schon wieder auf den Boden
+
+Denk' die ganze Zeit an uns, Baby, ohne Sinn
+
+Fahr' bei dir vorbei und sehe, du bist oben
+
+Und merke selber grad, dass ich verloren bin
+
+Lese nach im Verlauf in unsrem Chat
+
+Seitdem du von mir weg bist
+
+Alte Bilder hab' ich noch nicht gelöscht
+
+Siehst du nicht, dass es echt ist?
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+Und es soll so sein
+
+Ich hoff', dass du lachst jedes Mal, wenn ich für dich wein'
+
+Babe, es tut mir leid, ey, ey
+
+Babe, es tut mir leid
+
+Dass ich dir mehr gebe, als ich besitz'
+
+Und es doch nicht reicht
+
+Vielleicht bin ich dir auch nicht genug
+
+Und es soll so sein
+
+Ja, ich hoff', dass du lachst jedes Mal, wenn ich für dich wein'
+
+Babe, es tut mir leid
+
+<!-- TOC --><a name="dale-dale"></a>
+
+## Dale Dale
+
+Safi Dale dale
+
+Dale dale ya
+
+Dale dale
+
+Dale dale
+
+Es liegen Rosen vor deiner Tür
+
+Doch was bringt das, wenn du nicht aufmachst?
+
+Ja ich merk, dass wir uns verlier'n
+
+Weil ich nie da war, als du mich gebraucht hast
+
+Ich liege wieder wach, denn
+
+Hey
+
+In meinem Traum bist du nicht mehr da
+
+Aber was soll ich erwarten?
+
+Hey
+
+Wenn ich selber fahr, selber fahr
+
+Ja ich weiß, es ist schwer mit mir
+
+Doch bitte lass uns einfach weg von hier
+
+Dale, dale
+
+Vertrau mir ein letztes mal
+
+Baby es ist nicht zu spät
+
+Dale
+
+Nur ein letztes Mal
+
+Und die Sorgen sind passé
+
+Dale
+
+Safi Dale, dale
+
+Dale, dale yeah
+
+Dale, dale
+
+Dale, dale
+
+Es liegen Rosen vor deiner Tür
+
+Baby ich wart', bis du endlich aufmachst
+
+Ja dieses mal bleibe ich hier
+
+Und ich schwör', dass ich auf dich aufpass'
+
+Ja ich geb dir recht
+
+Habe dich schon hundert mal versetzt
+
+Und dann wieder tausendmal verletzt
+
+Aber Baby das ist echt
+
+Glaub mir, keiner ist perfekt
+
+Also bitte komm mit
+
+Ja ich weiß, es ist schwer mit mir
+
+Doch bitte lass uns einfach weg von hier
+
+Dale, dale
+
+Vertrau mir ein letztes mal
+
+Baby es ist nicht zu spät
+
+Dale
+
+Nur ein letztes Mal
+
+Und die Sorgen sind passé
+
+Dale
+
+Safi Dale, dale
+
+Dale, dale yeah
+
+Dale, dale
+
+Dale, dale
+
+Vertrau mir ein letztes mal
+
+Baby es ist nicht zu spät
+
+Dale
+
+Nur ein letztes Mal
+
+Und die Sorgen sind passé
+
+Dale
+
+Dale, dale
+
+Dale, dale yeah
+
+Dale, dale
+
+Dale, dale yeah
+
+O-o-o-o-o-h
+
+C'est Milano
+
+<!-- TOC --><a name="zwischen-den-zeilen"></a>
+
+## Zwischen den Zeilen
+
+Uh-oh-oh
+
+Ey, c'est Milano
+
+A-A-AriBeatz
+
+Sag mir, wolang, sag mir, wo
+
+Nächte allein, aber bin's gewohnt
+
+Mein Herz ist wie Eis oder wie Beton
+
+Ich dacht', es wär' vorbei, nein, es geht los
+
+Denk' ich an früher
+
+J'écris des paroles
+
+J'suis dans la gova
+
+Und keine Pardon
+
+Wesh, was geht ab, pop-pop
+
+C'est Milano, mon pote
+
+J'arrive dans l'game mais déjà ça rapporte
+
+Et j'vais démarrer
+
+Tout commence, j'arrive à 'déo
+
+Moral et l'compte à zéro
+
+Deux-trois cousins, teh de beuh
+
+On est plus chauds qu'à la météo
+
+Y avait Yass, Sophie et Mo'
+
+On nique tout din mok
+
+Des aller-retours Hollandeo
+
+Et poto, 3andek t7oul foumek
+
+Khoya, c'est le Maghrabi du coco
+
+Commères qu'ont mis du coco
+
+Ta meuf, elle prend d'la cocaïne
+
+T'inquiète, nous on la coco
+
+Irgendwann
+
+Läuft es nach Plan
+
+Deshalb schau mich jetzt an
+
+Es geht voran
+
+Geh' meinen Weg
+
+Ganz egal, wie weit oder wie lang
+
+Uh-oh-oh-oh
+
+Zu viele reden, aber sag, wer war das?
+
+Fréro, du weißt, es war nicht immer leicht
+
+Freunde wurden falsch, Papa hat es prophezeit
+
+Willst du mich verstehen, dann les zwischen den Zeilen
+
+Alles schon gesehen, deshalb bleib' ich bereit
+
+Et on m'a dit qu'souvent y a pas d'équipe
+
+Mais j'sais qu'mes bandits savent
+
+T'façon, moi, que j'recherche le liquide
+
+Nique sa mère la vie d'star
+
+Et eux, ils essayent tous d'me niquer
+
+Mais hamdoulah, j'les ai tricard
+
+J'vais finir mes jours broliqué
+
+Avec un teh et mon pétard
+
+Sah, c'est bon, j'en ai ma claque
+
+Comme une envie d'les claquer
+
+J'dormais sur un matelas
+
+Mon dos, il touchait l'parquet
+
+On m'a pas fait la passe, ballon j'ai demandé
+
+En vrai, qui était là, j'me faisais réprimandé
+
+Salam Mama, salam Baba, Gott beschütze euch
+
+Für alles, was ich tat, tut mir leid, ich hab's bereut
+
+„Salam“ ou bien „salut“, on s'est quitté sur ces mots
+
+Il m'faut plus d'un million d'euros pour soigner mes maux
+
+Irgendwann
+
+Läuft es nach Plan
+
+Deshalb schau mich jetzt an
+
+Es geht voran
+
+Geh' meinen Weg
+
+Ganz egal, wie weit oder wie lang
+
+Uh-oh-oh-oh
+
+Zu viele reden, aber sag, wer war da?
+
+Fréro, du weißt, es war nicht immer leicht
+
+Freunde wurden falsch, Papa hat es prophezeit
+
+Willst du mich verstehen, dann les zwischen den Zeilen
+
+Alles schon gesehen, deshalb bleib' ich bereit
+
+On nique le délire, délire, délire, délire
+
+On veut le dél', dél', dél', dél'
+
+On casse des gueules, gueules, gueules, gueules
+
+J'suis dans mon délire, délire, délire, délire
+
+Dans mon délire, délire, délire, délire
+
+On fait du sale, sale, sale, sale
+
+Fait du sale, sale, sale, sale
+
+Hein, yeah
+
+<!-- TOC --><a name="du-ich"></a>
+
+## Du & Ich
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl
+
+Nur du und ich, alle andern sind egal
+
+Du und ich, sing es noch einmal (hey, hey)
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl, ey
+
+Nur du und ich, alle andern sind egal
+
+Du und ich gibt es nur einmal
+
+Du und ich waren nie ein Fehler
+
+Du und ich sind wie die Strophe und der Beat, ja
+
+Baby, du und ich gibt es so nie wieder
+
+Du und ich sind immer noch das allerbeste Feature
+
+Du und ich, ja, ohne Hin, Her
+
+Du und ich, Baby, schaffen's sogar blind, yeah
+
+Du und ich sind viel mehr als ein paar Likes
+
+Denn du und ich sind mehr als nur ein Vibe
+
+Das ganze Jahr und jeden Tag
+
+Muss es nicht sagen, ist doch klar
+
+Doch wenn sie mich fragen, sag ich ja
+
+Nur du und ich, nur du und ich (hey, hey)
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl, ey
+
+Nur du und ich, alle andern sind egal
+
+Du und ich gibt es nur einmal
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl, ey
+
+Nur du und ich, alle andern sind egal
+
+Du und ich gibt es nur einmal
+
+Alle machen Auge, doch du scheißt drauf
+
+Du und ich für immer, Baby, ja, das bleibt der Kreislauf
+
+Als würden wir uns kenn'n schon seit klein auf
+
+Du und ich, ja, alles, was wir machen, sieht so leicht aus
+
+Du und ich, yeah, weil das so gut klingt, yeah
+
+Du und ich, Baby, machen einfach Sinn, yeah
+
+Du und ich, wir sind mehr als nur ein Hype
+
+Denn du und ich sind mehr als nur ein Vibe
+
+Das ganze Jahr und jeden Tag
+
+Muss es nicht sagen, ist doch klar
+
+Doch wenn sie mich fragen, sag ich ja
+
+Nur du und ich, nur du und ich (hey, hey)
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl
+
+Nur du und ich, alle andern sind egal
+
+Du und ich, sing es noch einmal (hey, hey)
+
+Du und ich, ja, sie seh'n uns überall
+
+Du und ich bleiben immer erste Wahl, ey
+
+Nur du und ich, alle andern sind egal
+
+Du und ich gibt es nur einmal
+
+<!-- TOC --><a name="french-nails"></a>
+
+## French Nails
+
+[Intro]
+
+(Ayo, Alfo, let it bounce)
+
+[Strophe 1]
+
+Da stand mein Name auf dein'n French Nails (Mh)
+
+Kann dich schon lang nicht mehr erkenn'n, Babe (Mh)
+
+Wo findet Liebe seine Grenze? Hey
+
+Wir beide wollten doch nie enden
+
+Und jetzt sag nicht, dass ich der Grund war
+
+Jedes Wort von dir so unklar
+
+Ja, ich nahm immer jeden Schmerz in Kauf
+
+Sag, warum hast du uns nicht mehr gebraucht?
+
+[Refrain]
+
+Wie kann man so herzlos sein wie du?
+
+Babe, du bist nicht mehr das, was ich such'
+
+Girl, du warst mein Licht (Mh, mh)
+
+Und jetzt sеhe ich nichts (Mh, mh)
+
+[Strophe 2]
+
+Da stand mein Name auf dеin' Display, doch du drückst mich weg
+
+Du sagst, du hast mich vermisst, Babe, doch ziehst mich durch den Dreck
+
+Gab dir alles, was ich hab', ja, mein Geld und die Zeit hast du geparkt
+
+Gab dir alles, trotzdem warst du undankbar, yeah
+
+Du bist da und dann wieder weg, hey
+
+Du hast gar keine Liebe, hm
+
+Und du fragst, wo ich wieder steck', hm
+
+Ich muss Para verdienen
+
+Sonst bist du nicht da, oh no
+
+Die Wahrheit tut unendlich weh, mein Babe
+
+See pop shows near Rio de Janeiro
+
+Get tickets as low as $48
+
+You might also like
+
+Mit Ihm
+
+Ardian Bujupi
+
+Last Dance
+
+PA Sports, Jamule & Mucco
+
+Jasmin
+
+Aymen
+
+[Refrain]
+
+Wie kann man so herzlos sein wie du?
+
+Babe, du bist nicht mehr das, was ich such'
+
+Girl, du warst mein Licht, oh, oh
+
+Und jetzt sehe ich nichts, oh, oh
+
+Wie kann man so herzlos sein wie du?
+
+Babe, du bist nicht mehr das, was ich such'
+
+Girl, du warst mein Licht, hey
+
+Und jetzt sehe ich nicht (Hm, hm)
+
+<!-- TOC --><a name="100-lieder"></a>
+
+## 100 Lieder
+
+Hey, hey
+
+Nein, ich war nicht immer nett zu dir
+
+Doch ich schwör' dir, ich mach's nie wieder
+
+All die Wunden, die noch existieren, oh
+
+Hey, hey, ja, ich wusst' immer, es war echt mit dir
+
+Nur für dich schreib' ich hundert Lieder
+
+Sag mir, wann komm' ich nur weg von dir? Oh
+
+Ohh, du bist so weit weg
+
+Sag nur ein Wort und ich bin wieder bei dir
+
+Ich klopf' an dein Herz, bis du mich reinlässt, hey
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid, oh
+
+Ich glaub' daran, dass es bald besser wird
+
+Ich hab' Geduld, aber weiß nicht, wie lang
+
+Bis du mir schreibst, oh, du gibst von dir keinen Ton (keinen Ton)
+
+Hey, hey, ja, und auch wenn ich dich respektier'
+
+So gut wie ich, Babe, passt zu dir niemand
+
+Gib mir ein Zeichen, nur damit ich weiß, ob sich's lohnt
+
+Ohh, du bist so weit weg
+
+Sag nur ein Wort und ich bin wieder bei dir
+
+Ich klopf' an dein Herz, bis du mich reinlässt, hey
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid
+
+Für dich schreib' ich hundert Lieder
+
+Baby, falls du das hörst, sag Bescheid
+
+(Chekaa bounced the beat)
+
+<!-- TOC --><a name="milano-warum-gibst-du-uns-auf"></a>
 
 ## milano warum gibst du uns auf
 
@@ -105,6 +887,7 @@ Warum gibst du uns auf?
 
 Wir sind beide zerstört, aber du hast es dir so ausgesucht, oh (oh-oh-oh-oh)
 
+<!-- TOC --><a name="in-anderer-armen"></a>
 
 ## In anderer armen
 
@@ -222,9 +1005,9 @@ Ich hab' geschwor'n, ich bin da, jede Nacht schlaf' ich mit dir ein
 
 Jetzt wach' ich auf in andern Arm'n
 
+<!-- TOC --><a name="onoff"></a>
+
 ## On/Off
-
-
 
 C'est Milano
 
@@ -328,11 +1111,9 @@ Allô, allô, allô, allô (hey, hey)
 
 Allô, allô, allô, allô (hey, hey)
 
-
+<!-- TOC --><a name="do-you-lie"></a>
 
 ## Do you lie
-
-
 
 Yeah, yeah
 
@@ -424,11 +1205,9 @@ Allein, yeah, lässt mich allein
 
 Du lässt mich allein, Jazeek
 
-
+<!-- TOC --><a name="anderer-mann"></a>
 
 ## Anderer Mann
-
-
 
 [Songtext zu „Anderer Mann“]
 
@@ -534,11 +1313,9 @@ C'est Milano, hey
 
 Ohh-oh, ich war ein anderer Mann
 
-
+<!-- TOC --><a name="au-revoir"></a>
 
 ## Au Revoir
-
-
 
 Au revoir, wir sehen uns nie wieder
 
@@ -646,11 +1423,9 @@ Lauf' durch den Nebel, wenn der Mond scheint, Mond scheint
 
 Nie mehr wir beide, es ist vorbei, vorbei
 
-
+<!-- TOC --><a name="bleib"></a>
 
 ## Bleib
-
-
 
 Oh, du siehst so traurig aus, ich wär gerne bei dir
 
@@ -728,11 +1503,9 @@ Es gibt für uns beide kein Zurück mehr
 
 Können nicht zurückkehr'n, bleib
 
-
+<!-- TOC --><a name="so-wie-du"></a>
 
 ## So wie du
-
-
 
 Ah-ah, ah-a-a-a-a-ah
 
@@ -834,11 +1607,9 @@ Hey, ja, niemand anderes ist so
 
 So viele Menschen, doch niemand hier ist so wie du (oh)
 
+<!-- TOC --><a name="leer"></a>
 
-
-# leer
-
-
+## leer
 
 Oh, du hast mir doch gesagt: „Ohne dich fühl' ich mich leer“
 
@@ -928,11 +1699,9 @@ Ich fühle mich leer, ohh
 
 Ey, ey, ich fühle mich leer
 
-
+<!-- TOC --><a name="blind"></a>
 
 ## Blind
-
-
 
 Oh my Baby, du weißt (ich weiß)
 
@@ -1014,11 +1783,9 @@ Wir gehen durch die Hölle, bevor wir uns verlieren
 
 Auch wenn die ganze Welt sagt
 
-
+<!-- TOC --><a name="engel-ohne-flügel"></a>
 
 ## Engel ohne Flügel
-
-
 
 Hey
 
@@ -1124,11 +1891,9 @@ Leider auch ohne Gefühle
 
 Lieb mich nur noch einmal
 
-
+<!-- TOC --><a name="sag-mir"></a>
 
 ## Sag mir
-
-
 
 Sag, dass du mich brauchst
 
@@ -1200,11 +1965,9 @@ Baby, fühlst du, fühlst du das hier auch?
 
 Wenn ja, dann sag, dass du mich brauchst
 
-
+<!-- TOC --><a name="feuer"></a>
 
 ## FEUER
-
-
 
 Ich seh' wie das Feuer in dein' Augen erlischt
 
@@ -1268,11 +2031,9 @@ Oh-oh-oh-oh-oh-oh-oh-oh
 
 Oh-oh-oh-oh-oh-oh
 
-
+<!-- TOC --><a name="ohne-dich"></a>
 
 ## Ohne Dich
-
-
 
 Ich war so süchtig nach dir, war wie auf Entzug
 
@@ -1352,11 +2113,9 @@ Du verdienst nicht meine Liebe
 
 Spar dir die Tränen in dei'm Gesicht (Milano)
 
-
+<!-- TOC --><a name="weck-mich-nicht-auf"></a>
 
 ## Weck mich nicht auf
-
-
 
 Ich schließ' die Augen und such' nach dir
 
@@ -1442,11 +2201,9 @@ Ich weiß nicht, wieso du mir nicht traust
 
 Doch eine Sache weiß ich genau, nämlich, dass ich dich brauch'
 
-
+<!-- TOC --><a name="allô"></a>
 
 ## Allô
-
-
 
 Intro]
 
@@ -1554,11 +2311,9 @@ Geht es mir gut, alte Wunden, ja, sie heil'n, doch du willst, dass mein Herz bri
 
 Du willst, dass ich bleib', nein, es tut mir nicht leid
 
-
+<!-- TOC --><a name="du-ich-1"></a>
 
 ## Du & Ich
-
-
 
 Du und ich, ja, sie seh'n uns überall
 
@@ -1656,15 +2411,13 @@ Nur du und ich, alle andern sind egal
 
 Du und ich gibt es nur einmal
 
-
+<!-- TOC --><a name="jazeek"></a>
 
 # Jazeek
 
-
+<!-- TOC --><a name="himmel-leer"></a>
 
 ## Himmel Leer
-
-
 
 [Songtext zu „Himmel leer“]
 
@@ -1792,11 +2545,9 @@ Der Himmel leer, Himmel leer, der Himmel leer
 
 Jetzt ist der Himmel leer
 
-
+<!-- TOC --><a name="take-it"></a>
 
 ## Take it
-
-
 
 intro
 
@@ -1938,11 +2689,9 @@ Komm zu mir und ich break' dein'n Butt
 
 Komm, komm, Baby, shake it
 
-
+<!-- TOC --><a name="superstars"></a>
 
 ## Superstars
-
-
 
 yeah
 
@@ -2012,11 +2761,9 @@ Wärst du loyal, wär'n wir Superstars
 
 Wär'n wir Superstars
 
-
+<!-- TOC --><a name="baile-funk-im-blut"></a>
 
 ## Baile Funk im Blut
-
-
 
 [Songtext zu „Baile Funk im Blut“]
 
@@ -2162,11 +2909,9 @@ Baile Funk hat sie im—
 
 (Baile Funk hat sie im—)
 
-
+<!-- TOC --><a name="mary"></a>
 
 ## Mary
-
-
 
 [Intro]
 
@@ -2298,11 +3043,9 @@ Mein Mary Jane, Ma-Ma-Marihuana
 
 Ma-Ma-Marihuana, Ma-Ma-Marihuana
 
-
+<!-- TOC --><a name="lüg-mich-an"></a>
 
 ## Lüg mich an
-
-
 
 Yeah, yeah-yeah
 
@@ -2386,11 +3129,9 @@ Mich noch, mich noch
 
 Babygirl, ich würde so gerne-
 
-
+<!-- TOC --><a name="kiyamasa"></a>
 
 ## Kiyamasa
-
-
 
 Everything, I need your energy
 
@@ -2524,11 +3265,9 @@ Kiyamasa, kiyamasa, kiyamasa, baby, oh
 
 Kiyamasa, kiyamasa, kiyamasa, baby, oh, oh
 
-
+<!-- TOC --><a name="like-this"></a>
 
 ## Like This
-
-
 
 Jazeek (yeah)
 
@@ -2638,11 +3377,9 @@ Bleib da, wo du bist
 
 Jazeek
 
-
+<!-- TOC --><a name="blunt-für-dich"></a>
 
 ## Blunt für dich
-
-
 
 Ich bau' einen Blunt für dich, oh na-na-na-na-na-na
 
@@ -2724,11 +3461,9 @@ Oh-oh-ohh
 
 Yeah, und für mich
 
-
+<!-- TOC --><a name="diamond-ring"></a>
 
 ## Diamond Ring
-
-
 
 Du brauchst das doch genauso
 
@@ -2798,11 +3533,9 @@ Babe, ich kaufe dir ein'n Diamond-Ring
 
 Auch wenn du zu mir scheiße bist, yeah-eah, ih-yeah-yeah
 
-
+<!-- TOC --><a name="cc"></a>
 
 ## CC
-
-
 
 [Songtext zu „CC“]
 
@@ -2970,11 +3703,9 @@ L-O-V-E, baby, come and see me
 
 Sie will kein Gucci, sie will CC, ah
 
-
+<!-- TOC --><a name="bend-over"></a>
 
 ## Bend Over
-
-
 
 Mh-mh, mh-mh
 
@@ -3088,11 +3819,9 @@ Baby, make it bend over
 
 Ah-ah, ah-ah-ah
 
-
+<!-- TOC --><a name="meine-augen"></a>
 
 ## Meine Augen
-
-
 
 [Intro]
 
@@ -3228,11 +3957,9 @@ Hab' nix mehr mit andren Frauen
 
 Hab' mein' Blick auf dich, mein Baby
 
-
+<!-- TOC --><a name="es-soll-so-sein"></a>
 
 ## Es soll so sein
-
-
 
 [Intro]
 
@@ -3368,11 +4095,9 @@ Oh nein, oh nein, wie ich es immer tu'
 
 Der Grund warst immer du
 
-
+<!-- TOC --><a name="noch-einmal"></a>
 
 ## Noch einmal
-
-
 
 Sieh mir noch einmal in die Augen, Baby
 
@@ -3496,11 +4221,9 @@ Oh, no
 
 Mich wieder verlässt
 
-
+<!-- TOC --><a name="112"></a>
 
 ## 112
-
-
 
 Baby, ruf die 112
 
@@ -3608,11 +4331,9 @@ Klag mich an, lüg mich an
 
 Aber sag mir nicht, dass du mich liebst
 
-
+<!-- TOC --><a name="ohne-dich-1"></a>
 
 ## Ohne dich
-
-
 
 Ohne dich kann ich nicht leben, mein Bae
 
@@ -3713,4 +4434,3 @@ Du bist mein Alk, du bist mein Haze
 Ohne dich kann ich nicht leben, mein Boo (yeah, yeah, oh-oh)
 
 Du bist mein Hasch, du bist mein Booze
-
