@@ -9,7 +9,7 @@ creator:
     text: Talles Barrini
   - role: editor
     text: Talles Barrini
-cover-image: MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UX1000_.jpg
+cover-image: TheBansheesofInisherin.jpeg
 identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
@@ -23,33 +23,61 @@ ibooks:
 # Sumário
 
 Drive my car
+
 First cow
+
 Ghost Story
+
 Ladybird
+
 Marriage Story
+
 Paterson
+
 Phantom Thread
+
 Portrait of a Lady on Fire
+
 Tar
+
 The Banshees Of Inisherin (2022)
+
 The Fabelmans
+
 The Florida Project
+
 The immigrant
+
 The Last Black Man in San Francisco
+
 Worst Person in the World
+
 Benediction     
+
 Rebel Without a Cause 1955
+
 Bones and all
+
 Shame
+
 Happening      
+
 Sound of metal
+
 Minari       
+
 The eternal Daughter
+
 Private Romeo
+
 Whiplash
+
 Capote
+
 Rocketman
+
 Uncle Frank 
+
 Women Talking
 
 # Drive my car
