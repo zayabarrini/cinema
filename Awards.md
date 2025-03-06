@@ -18,6 +18,25 @@ https://mubi.com/en/lists/essential-iranian-films | ESSENTIAL IRANIAN FILMS - Mo
 https://mubi.com/en/lists/essential-german-films-wesentliche-deutsche-filme | ESSENTIAL GERMAN FILMS - Movies List on MUBI
 https://mubi.com/en/lists/russian-new-wave | New Russian Cinema - Movies List on MUBI
 
+# Foreign Film Submissions
+
+https://en.wikipedia.org/wiki/List_of_submissions_to_the_97th_Academy_Awards_for_Best_International_Feature_Film | List of submissions to the 97th Academy Awards for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Academy_Award_winners_and_nominees_for_Best_International_Feature_Film#Winners_and_nominees | List of Academy Award winners and nominees for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_South_African_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of South African submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Russian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Russian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_South_Korean_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of South Korean submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Chinese_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Chinese submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Iranian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Iranian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Japanese_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Japanese submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_French_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of French submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Italian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Italian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_German_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of German submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Spanish_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Spanish submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Argentine_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Argentine submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Indian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Indian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Brazilian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Brazilian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Mexican_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Mexican submissions for the Academy Award for Best International Feature Film - Wikipedia
+
 
 # National Awards
 ## Muhr Arab Feature – Best Film, Dubai
