@@ -1,23 +1,3 @@
----
-title:
-  - type: main
-    text: Favorite Movies
-  - type: subtitle
-    text: Barrini's
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: TheBansheesofInisherin.jpeg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 1.3.4
-...
 
 
 # Sumário

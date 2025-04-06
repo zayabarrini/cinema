@@ -1,23 +1,3 @@
----
-title:
-  - type: main
-    text: Favorite Movies 3.0
-  - type: subtitle
-    text: Barrini's
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: PastLives.jpg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 3.0.0
-...
 
 
 # Sumário
