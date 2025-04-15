@@ -1,0 +1,23 @@
+1
+00:00:24,816 --> 00:00:30,030
+Hey I'm just testing something
+<font color="#A0C4FF" size="16">Hey, ich teste nur etwas</font>
+<font color="#CAFFBF" size="16">嘿，我只是在测试一些东西</font>
+hei wo zhi shi zai ce shi yi xie dong xi
+
+
+2
+00:00:30,447 --> 00:00:33,617
+Are you ok, boy?
+<font color="#A0C4FF" size="16">Geht es dir gut, Junge?</font>
+<font color="#CAFFBF" size="16">你还好吗，男孩？</font>
+ni hai hao ma nan hai
+
+
+3
+00:00:30,447 --> 00:00:33,617
+Well, now what?
+<font color="#A0C4FF" size="16">Nun, was jetzt?</font>
+<font color="#CAFFBF" size="16">好吧，现在呢？</font>
+hao ba xian zai ne
+

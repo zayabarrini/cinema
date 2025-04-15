@@ -1,6 +1,7 @@
 # Survivor Australia Source
 https://drive.google.com/drive/folders/1XQKw0JWQ27Y34nGqSmxZ2oi6pUayObUr | Australian Survivor 12 - Google Drive
 https://drive.google.com/drive/folders/0B8Xzl82K1TP8YTNNbDducl9JU0k?resourcekey=0-1BFUzeF480gbeYK0kksFAw | Survivor 28 Confessionals (Cagayan) - Google Drive
+Survivor Transcripts: https://docs.google.com/document/d/1L1IMW1tmWoyiarHwAWR3n4WZwtGp5zH0gTSARyJm4q0/mobilebasic
 
 ## Vote-outs, Extended Tribal Council
 https://www.youtube.com/watch?v=Ueo92KnMtDs | Season 9, Episode 15: Extended Tribal Council | Australian Survivor 2024 | Channel 10 - YouTube

@@ -11,3 +11,4 @@ https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-981994 | Summe
 https://subtitlestranslator.com/en/translate.php | Subtitles Translator - Translate
 https://yts-subs.com/subtitles/x-2022-english-yify-408855 | X YIFY subtitles - details
 https://www.subscene.co.in/ | Subscene - Download Subtitles for Movies, Latest TV Show and Series for Free
+
