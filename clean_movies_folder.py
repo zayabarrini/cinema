@@ -32,7 +32,8 @@ def clean_folder_names(directory):
                 print(f'Skipped: "{folder}" (already formatted)')
 
 if __name__ == "__main__":
-    directory = input("Enter the directory containing movie folders: ").strip()
+    # directory = input("Enter the directory containing movie folders: ").strip()
+    directory = "/home/zaya/Downloads/Workspace/Subtitles/Favorites4"
     if os.path.isdir(directory):
         clean_folder_names(directory)
     else:

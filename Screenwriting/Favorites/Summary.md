@@ -9,6 +9,11 @@ GOT
 Black Mirror
 Drag Race
 Survivor USA, Survivor Australia, Survivor Every Final Episode
+Glee
+Peaky Blinders
+Queer as Folk
+The Sopranos
+The Wire
 
 ## Favorite Movies
 ### Favorite Movies, All
@@ -133,6 +138,10 @@ Basic Conversation
 ### Favorite Movies 4
 
 Aftersun 2022 
+Queer
+Saltburn
+There Will Be Blood
+Close
 Departure 2019 
 Firebird 2021 
 Gods Own Country 2017 
