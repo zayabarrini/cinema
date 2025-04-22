@@ -8,15 +8,28 @@ National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
 Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
 
 # Mubi's lists
+Themes: Women, LGBTQ+, Melancholy, Mental Health, Top 1000
 https://www.one-tab.com/page/dm9M3AmzRouo6ocHpEqMCA | OneTab - Shared tabs
-https://mubi.com/en/lists/melhores-filmes-brasileiros-da-historia-best-brazilian-films-abraccine | Melhores Filmes Brasileiros da História / best brazilian films - abraccine - Movies List on MUBI
-https://mubi.com/en/lists/essential-brazilian-films | Essential Brazilian Films - Movies List on MUBI
-https://mubi.com/en/lists/golden-horse-film-fest-100-greatest-chinese-language-films | Golden Horse Film Fest 100 Greatest Chinese-Language Films - Movies List on MUBI
-https://mubi.com/en/lists/korean-cinema | Korean Cinema - Movies List on MUBI
-https://mubi.com/en/lists/chinese-cinema | CHINESE CINEMA - Movies List on MUBI
-https://mubi.com/en/lists/essential-iranian-films | ESSENTIAL IRANIAN FILMS - Movies List on MUBI
-https://mubi.com/en/lists/essential-german-films-wesentliche-deutsche-filme | ESSENTIAL GERMAN FILMS - Movies List on MUBI
-https://mubi.com/en/lists/russian-new-wave | New Russian Cinema - Movies List on MUBI
+
+Languages:
+Brazil: 
+- https://mubi.com/en/lists/melhores-filmes-brasileiros-da-historia-best-brazilian-films-abraccine | Melhores Filmes Brasileiros da História / best brazilian films - abraccine - Movies List on MUBI
+- https://mubi.com/en/lists/essential-brazilian-films | Essential Brazilian Films - Movies List on MUBI
+Chinese: 
+- https://mubi.com/en/lists/golden-horse-film-fest-100-greatest-chinese-language-films | Golden Horse Film Fest 100 Greatest Chinese-Language Films - Movies List on MUBI
+- https://mubi.com/en/lists/chinese-cinema | CHINESE CINEMA - Movies List on MUBI
+Korean:
+- https://mubi.com/en/lists/korean-cinema | Korean Cinema - Movies List on MUBI
+Japanese:
+- https://mubi.com/en/lists/kenjis-japanese-canon
+Arabic:
+- https://mubi.com/en/lists/essential-iranian-films | ESSENTIAL IRANIAN FILMS - Movies List on MUBI
+German:
+- https://mubi.com/en/lists/essential-german-films-wesentliche-deutsche-filme | ESSENTIAL GERMAN FILMS - Movies List on MUBI
+Russian:
+- https://mubi.com/en/lists/russian-new-wave | New Russian Cinema - Movies List on MUBI
+Hindi:
+- https://mubi.com/en/lists/hindi--5
 
 # Foreign Film Submissions
 
