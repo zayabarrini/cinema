@@ -1,3 +1,25 @@
+# Best Picture
+https://www.one-tab.com/page/IljuyOJYRt-Y5z7oAxU4VQ | OneTab - Shared tabs
+https://m.imdb.com/search/title/?groups=best_picture_winner&sort=year,desc | Best Picture-Winning (Sorted by Year Descending)
+https://m.imdb.com/title/tt10366460/?ref_=sr_t_4 | CODA (2021) - IMDb
+https://m.imdb.com/title/tt6966692/?ref_=sr_t_7 | Green Book (2018) - IMDb
+https://m.imdb.com/title/tt1024648/?ref_=sr_t_13 | Argo (2012) - IMDb
+https://m.imdb.com/title/tt1655442/?ref_=sr_t_14 | The Artist (2011) - IMDb
+https://m.imdb.com/title/tt0887912/?ref_=sr_t_16 | The Hurt Locker (2008) - IMDb
+https://m.imdb.com/title/tt0477348/?ref_=sr_t_18 | No Country for Old Men (2007) - IMDb
+https://m.imdb.com/title/tt0405159/?ref_=sr_t_20 | Million Dollar Baby (2004) - IMDb
+https://m.imdb.com/title/tt0375679/?ref_=sr_t_21 | Crash (2004) - IMDb
+https://m.imdb.com/title/tt0299658/?ref_=sr_t_23 | Chicago (2002) - IMDb
+https://m.imdb.com/title/tt0138097/?ref_=sr_t_27 | Shakespeare in Love (1998) - IMDb
+https://m.imdb.com/title/tt0105695/?ref_=sr_t_33 | Unforgiven (1992) - IMDb
+https://m.imdb.com/title/tt0099348/?ref_=sr_t_35 | Dances with Wolves (1990) - IMDb
+https://m.imdb.com/title/tt0097239/?ref_=sr_t_36 | Driving Miss Daisy (1989) - IMDb
+https://m.imdb.com/title/tt0095953/?ref_=sr_t_37 | Rain Man (1988) - IMDb
+https://m.imdb.com/title/tt0091763/?ref_=sr_t_39 | Platoon (1986) - IMDb
+https://m.imdb.com/title/tt0086879/?ref_=sr_t_41 | Amadeus (1984) - IMDb
+https://m.imdb.com/title/tt0086425/?ref_=sr_t_42 | Terms of Endearment (1983) - IMDb
+https://m.imdb.com/title/tt0083987/?ref_=sr_t_43 | Gandhi (1982) - IMDb
+
 # 11/03/25
 
 Oscar Winning Pictures: https://www.one-tab.com/page/IljuyOJYRt-Y5z7oAxU4VQ
@@ -10,6 +32,12 @@ https://m.imdb.com/title/tt0091763/?ref_=sr_t_39 | Platoon (1986) - IMDb
 https://m.imdb.com/title/tt0086879/?ref_=sr_t_41 | Amadeus (1984) - IMDb
 https://m.imdb.com/title/tt0083987/?ref_=sr_t_43 | Gandhi (1982) - IMDb
 https://m.imdb.com/title/tt0097239/?ref_=sr_t_36 | Driving Miss Daisy (1989) - IMDb
+
+The Revanant: Belíssimo!
+Road to Perdition: É um bom filme
+Platoon: memórias da Epcar, homens de farda, acampamento, homens bonitos
+Gandhi: discurso sobre Recusa, discurso feminino, masoquista
+Amadeus: very entertaining! Great Actors
 
 # 07/04/25
 Best Screenwriting:
@@ -29,7 +57,16 @@ https://www.imdb.com/title/tt0107822/?ref_=ls_t_32 | The Piano (1993) - IMDb
 https://www.imdb.com/title/tt0104036/?ref_=ls_t_33 | The Crying Game (1992) - IMDb
 https://www.imdb.com/title/tt0103074/?ref_=ls_t_34 | Thelma & Louise (1991) - IMDb
 https://www.imdb.com/title/tt0099653/?ref_=ls_t_35 | Ghost (1990) - IMDb
+https://www.imdb.com/title/tt0029608/?ref_=nv_sr_srsg_0_tt_3_nm_2_in_0_q_Stella%2520Dallas%2520(1937)%2509 | Stella Dallas (1937) - IMDb
 
+Bem decepcionante
+The Piano, Thelma and Louise são os melhores
+Belfast é ótimo também
+Ghost e Almost famous tem homens bonitos
+Little Miss Sunshine é ok
+
+The crying game. Feio também. 
+Sem paciência para Fargo. É um filme muito feio. 
 
 # 01/05/25
 Best Of International cinema...
