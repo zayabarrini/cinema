@@ -102,3 +102,17 @@ https://www.imdb.com/title/tt1832382/?ref_=ls_t_9 | A Separation (2011) - IMDb
 https://www.imdb.com/title/tt5186714/?ref_=ls_t_4 | The Salesman (2016) - IMDb
 https://www.imdb.com/title/tt0101985/?ref_=tt_mlt_tt_t_11 | A Brighter Summer Day (1991) - IMDb
 https://www.imdb.com/title/tt7528992/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_europa%2520the%2520last%2520ba | Europa: The Last Battle (2017) - IMDb
+
+# 08/05/25
+## LGBT
+
+https://www.imdb.com/title/tt20234568/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_weak%2520hero | Weak Hero Class 1 (TV Mini Series 2022– ) - IMDb
+https://www.imdb.com/title/tt8788458/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_the%2520promise%2520neverland | The Promised Neverland (TV Series 2019–2021) - IMDb
+https://www.imdb.com/title/tt35301431/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_homem%2520com | Homem com H (2025) - IMDb
+https://www.imdb.com/title/tt0112461/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_basketball%2520d | The Basketball Diaries (1995) - IMDb
+https://www.imdb.com/title/tt0108504/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_voor%2520 | For a Lost Soldier (1992) - IMDb
+https://www.imdb.com/title/tt0112757/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_the%2520cure | The Cure (1995) - IMDb
+https://www.imdb.com/title/tt0242587/?ref_=nv_sr_srsg_6_tt_6_nm_2_in_0_q_lie | L.I.E. (2001) - IMDb
+https://www.imdb.com/title/tt11189708/?ref_=nv_sr_srsg_7_tt_2_nm_6_in_0_q_dew | Dew (2019) - IMDb
+https://www.imdb.com/title/tt15245268/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_young%2520hearts | Young Hearts (2024) - IMDb
+https://www.imdb.com/title/tt15764854/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_stranizza%2520d%27amuri | Fireworks (2023) - IMDb
