@@ -234,3 +234,4 @@ https://www.imdb.com/oscars/event/ev0000003/2025/1/?ref_=fea_eds_top-1_2#oscar_b
 
 Foreign Oscar List
 https://www.imdb.com/search/title/?title_type=feature&groups=oscar_nominee&primary_language=af,dz,as,ar,am,az,bs,be,bm,bo,ba,br,bn,bg,ca,ky,co,km,cr,hr,cy,sv,ee,et,fo,fi,fr,ga,de,gl,gd,gu,gn,ht,hu,is,id,it,ki,kw,la,lv,lb,lt,mg,my,ml,mt,mh,mr,mn,ms,an,nl,ne,mk,no,ps,pa,pl,pt,ro,ru,rw,kn,sm,st,sa,sn,sc,sl,sk,si,so,es,sd,sr,th,tl,tg,tk,to,tt,tn,tr,vi,uz&my_ratings=exclude&sort=year,desc
+
