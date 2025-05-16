@@ -116,3 +116,32 @@ https://www.imdb.com/title/tt0242587/?ref_=nv_sr_srsg_6_tt_6_nm_2_in_0_q_lie | L
 https://www.imdb.com/title/tt11189708/?ref_=nv_sr_srsg_7_tt_2_nm_6_in_0_q_dew | Dew (2019) - IMDb
 https://www.imdb.com/title/tt15245268/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_young%2520hearts | Young Hearts (2024) - IMDb
 https://www.imdb.com/title/tt15764854/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_stranizza%2520d%27amuri | Fireworks (2023) - IMDb
+
+# 16/05/25
+## Early Love-Tragedy
+
+https://www.imdb.com/title/tt0384369/?ref_=tt_mlt_t_11 | Before the Fall (2004) - IMDb
+https://www.imdb.com/title/tt0244316/?ref_=tt_mlt_t_11 | Yi Yi (2000) - IMDb
+https://www.imdb.com/title/tt6400166/?ref_=tt_mlt_t_2 | My Best Friend (2018) - IMDb
+https://www.imdb.com/title/tt14927880/?ref_=tt_mlt_t_12 | Sublime (2022) - IMDb
+https://www.imdb.com/title/tt5572566/?ref_=tt_mlt_t_12 | Hidden Kisses (TV Movie 2016) - IMDb
+https://www.imdb.com/title/tt23736044/?ref_=tt_mlt_t_5 | Monster (2023) - IMDb
+https://www.imdb.com/title/tt0271580/?ref_=tt_mlt_t_1 | Jet Boy (2001) - IMDb
+https://www.imdb.com/title/tt0339419/?ref_=tt_mlt_t_4 | The Mudge Boy (2003) - IMDb
+https://www.imdb.com/title/tt0492896/?ref_=tt_mlt_t_5 | My Suicide (2009) - IMDb
+https://www.imdb.com/title/tt0080662/?ref_=tt_mlt_t_11 | You Are Not Alone (1978) - IMDb
+https://www.imdb.com/title/tt0057842/?ref_=tt_mlt_t_1 | This Special Friendship (1964) - IMDb
+https://www.imdb.com/title/tt2375021/?ref_=tt_mlt_t_4 | For My Brother (2014) - IMDb
+https://www.imdb.com/title/tt9876120/?ref_=tt_mlt_t_5 | Hunt (Short 2018) - IMDb
+https://www.imdb.com/title/tt0106473/?ref_=tt_mlt_t_6 | The Boys of St. Vincent (TV Movie 1992) - IMDb
+https://www.imdb.com/title/tt0120453/?ref_=tt_mlt_t_7 | The Fire That Burns (TV Movie 1997) - IMDb
+https://www.imdb.com/title/tt3289362/?ref_=tt_mlt_t_11 | Hidden Away (2014) - IMDb
+https://www.imdb.com/title/tt1289396/?ref_=tt_mlt_t_12 | In Your Absence (2008) - IMDb
+https://www.imdb.com/title/tt1500140/?ref_=tt_mlt_t_3 | Brecha (2009) - IMDb
+https://www.imdb.com/title/tt7938492/?ref_=tt_mlt_t_5 | Rejected (2018) - IMDb
+https://www.imdb.com/title/tt0080419/?ref_=tt_mlt_t_8 | Children's Island (1980) - IMDb
+https://www.imdb.com/title/tt1343050/?ref_=tt_mlt_t_10 | Night Trip (TV Movie 1982) - IMDb
+https://www.imdb.com/title/tt0858474/?ref_=tt_mlt_t_3 | The Red Balloon (Short 2006) - IMDb
+https://www.imdb.com/title/tt0056801/?ref_=mv_close | 8½ (1963) - IMDb
+https://www.imdb.com/title/tt0093342/?ref_=tt_mlt_t_1 | Where Is the Friend's House? (1987) - IMDb
+
