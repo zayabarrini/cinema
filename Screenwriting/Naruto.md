@@ -1,0 +1,10 @@
+https://z-library.sk/s/nagato? | nagato: search on Z-Library
+https://z-library.sk/book/4536527/8a1cb3/naruto-kakashis-story.html | Naruto: Kakashi's Story | Masashi Kishimoto, Akira Higashiyama | download on Z-Library
+https://z-library.sk/book/18636389/2c849a/narutos-story-family-day.html?dsource=recommend | Naruto’s Story: Family Day | Masashi Kishimoto, Mirei Miyamoto | download on Z-Library
+https://z-library.sk/book/12233097/823fc0/naruto-itachis-story-vol-1-daylight-naruto-novels.html?dsource=recommend | Naruto: Itachi's Story, Vol. 1: Daylight (Naruto Novels) | Yano, Takashi, Towada, Shin, Higashiyama, Akira, Ohsaki, Tomohito | download on Z-Library
+https://z-library.sk/book/26736491/4783f0/gaara-hiden-a-sandstorm-mirage.html?dsource=recommend | Gaara Hiden: A Sandstorm Mirage | Ukyō Kodachi, Masashi Kishimoto | download on Z-Library
+https://z-library.sk/book/26736492/86f701/akatsuki-hiden-evil-flowers-in-full-bloom.html?dsource=recommend | Akatsuki Hiden: Evil Flowers in Full Bloom | Shin Towada, Masashi Kishimoto | download on Z-Library
+https://z-library.sk/book/17498855/1f39f2/naruto-itachis-story-vol-2-midnight.html?dsource=recommend | Naruto: Itachi's Story, Vol. 2: Midnight | Masashi Kishimoto &Takashi Yano | download on Z-Library
+https://z-library.sk/book/4639925/f011b4/naruto-shikamarus-story.html | Naruto: Shikamaru's Story | Yano Akira; Ohsaki Takashi; Higashiyama Tomohito; Novels) Jocelyne Allen (Naruto (Translator) | download on Z-Library
+https://z-library.sk/book/17085309/205a27/naruto-sasukes-story-sunrise-naruto-novels.html | Naruto: Sasuke's Story: Sunrise (Naruto Novels) | Shin Towada, Masashi Kishimoto | download on Z-Library
+https://z-library.sk/book/5676904/99ee87/naruto-sakuras-story.html | Naruto: Sakura's Story | Masashi Kishimoto and Tomohito Ohsaki | download on Z-Library
