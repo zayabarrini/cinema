@@ -158,3 +158,243 @@ https://www.imdb.com/title/tt0043686/?ref_=tt_mlt_t_10 | Forbidden Games (1952) 
 https://www.imdb.com/title/tt0858474/?ref_=tt_mlt_t_3 | The Red Balloon (Short 2006) - IMDb
 https://www.imdb.com/title/tt0056801/?ref_=mv_close | 8½ (1963) - IMDb
 https://www.imdb.com/title/tt0093342/?ref_=tt_mlt_t_1 | Where Is the Friend's House? (1987) - IMDb
+
+
+# IMDb Language Search
+
+https://keep.google.com/u/5/#LIST/14f_no6NCxuGcO5MU9Yhdcvpgn4VpIHiDZ0PRxvzjolH3QajY2Ozy1tJK23fe | Google Keep
+https://www.imdb.com/search/title/?countries=DE&languages=de&my_ratings=restrict&sort=my_ratings,desc | Germany, German, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?countries=RU&my_ratings=restrict | Russia, Restrict to titles I've rated (Sorted by Popularity Ascending)
+https://www.imdb.com/search/title/?countries=JP&my_ratings=restrict&sort=my_ratings,desc | Japan, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?countries=CN&languages=cmn&my_ratings=restrict&sort=my_ratings,desc | China, Mandarin, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?countries=KR&my_ratings=restrict&sort=my_ratings,desc | South Korea, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?countries=IN&my_ratings=restrict&sort=my_ratings,desc | India, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?primary_language=ar&my_ratings=restrict&sort=my_ratings,desc | Arabic, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?primary_language=fr&my_ratings=restrict&sort=my_ratings,desc | French, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?primary_language=es&my_ratings=restrict&sort=my_ratings,desc | Spanish, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=it&my_ratings=restrict&sort=my_ratings,desc | Italian, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?primary_language=pt&my_ratings=restrict&sort=my_ratings,desc | Portuguese, Restrict to titles I've rated (Sorted by Your rating Ascending)
+https://www.imdb.com/search/title/?country_of_origin=GB&my_ratings=restrict&sort=my_ratings,desc | United Kingdom, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?country_of_origin=US&my_ratings=restrict&sort=my_ratings,desc | United States, Restrict to titles I've rated (Sorted by Your rating Descending)
+
+# Hindi movies about FAMILY / LOSS / RECONCILIATION
+
+https://www.imdb.com/title/tt0248126/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Kabhi%2520Khushi%2520Kabhie%2520Gham | Kabhi Khushi Kabhie Gham... (2001) - IMDb
+https://www.imdb.com/title/tt3767372/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Piku | Piku (2015) - IMDb
+https://www.imdb.com/title/tt0986264/?ref_=nv_sr_srsg_0_tt_4_nm_1_in_0_q_Taare%2520Zameen%2520Par%2509 | Like Stars on Earth (2007) - IMDb
+https://www.imdb.com/title/tt4900716/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Kapoor%2520%2526%2520Sons%2509 | Kapoor & Sons (2016) - IMDb
+https://www.imdb.com/title/tt0085913/?ref_=nv_sr_srsg_3_tt_3_nm_5_in_0_q_Masoom%2509 | Masoom (1983) - IMDb
+https://www.imdb.com/title/tt7700730/?ref_=nv_sr_srsg_5_tt_7_nm_1_in_0_q_October | October (2018) - IMDb
+https://www.imdb.com/title/tt1639426/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Udaan%2509 | Udaan (2010) - IMDb
+https://www.imdb.com/title/tt10196464/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Ramprasad%2520Ki%2520Tehrvi%2509 | Ramprasad Ki Tehrvi (2019) - IMDb
+https://www.imdb.com/title/tt0112313/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Akele%2520Hum%2520Akele%2520Tum%2509 | Akele Hum Akele Tum (1995) - IMDb
+https://www.imdb.com/title/tt1532957/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Paa%2509 | Paa (2009) - IMDb
+https://www.imdb.com/title/tt4110568/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Dil%2520Dhadakne%2520Do%2509 | Dil Dhadakne Do (2015) - IMDb
+
+# Hindi CHILD SUBJECTIVITY
+
+https://www.imdb.com/title/tt1907761/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Stanley%2520Ka%2520Dabba%2509 | Stanley Ka Dabba (2011) - IMDb
+https://www.imdb.com/title/tt1841542/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Chillar%2520Party%2509 | Children's Party (2011) - IMDb
+https://www.imdb.com/title/tt1805263/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_I%2520Am%2520Kalam%2509 | I Am Kalam (2010) - IMDb
+https://www.imdb.com/title/tt0457802/?ref_=nv_sr_srsg_1_tt_6_nm_0_in_0_q_The%2520Blue%2520Umbrella | The Blue Umbrella (2005) - IMDb
+https://www.imdb.com/title/tt0341455/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Makdee | Makdee (2002) - IMDb
+https://www.imdb.com/title/tt3341582/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Killa | Killa (2014) - IMDb
+https://www.imdb.com/title/tt7297966/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Village%2520Rockstars | Village Rockstars (2017) - IMDb
+https://www.imdb.com/title/tt6940696/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Pahuna%253A%2520The%2520Little%2520Visitors | Pahuna: The Little Visitors (2017) - IMDb
+https://www.imdb.com/title/tt2156785/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Gattu | Gattu (2011) - IMDb
+https://www.imdb.com/title/tt4088588/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Dhanak | Rainbow (2015) - IMDb
+
+# Top Language
+
+https://www.imdb.com/user/ur120912813/lists/?ref_=nv_usr_lst_3 | Your lists
+https://www.imdb.com/list/ls594444219/?ref_=uspf_t_11&sort=runtime%2Cdesc | Top Russian
+https://www.imdb.com/list/ls594444241/?ref_=uspf_t_1 | Top Portuguese
+https://www.imdb.com/list/ls594444226/?ref_=uspf_t_2 | Top Spanish
+https://www.imdb.com/list/ls594444263/?ref_=uspf_t_3 | Top Arabic
+https://www.imdb.com/list/ls594444239/?ref_=uspf_t_4 | Top Hindi
+https://www.imdb.com/list/ls594444225/?ref_=uspf_t_5 | Top French
+https://www.imdb.com/list/ls594444231/?ref_=uspf_t_6 | Top German
+https://www.imdb.com/list/ls594444264/?ref_=uspf_t_7 | Top Korean
+https://www.imdb.com/list/ls594444217/?ref_=uspf_t_8 | Top Chinese
+https://www.imdb.com/list/ls594444279/?ref_=uspf_t_9 | Top Japanese
+https://www.imdb.com/list/ls594444254/?ref_=uspf_t_10 | Top Iranian
+
+# Japanese LGBTQ+, French Animation, Portuguese
+
+https://www.imdb.com/title/tt0107739/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Okoge%2520(1992) | Okoge (1992) - IMDb
+https://www.imdb.com/title/tt28100574/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Night%2520Snatching%2520and%2520Other%2520Love%2520(2023 | Love, Lust & Other Things (2023) - IMDb
+https://www.imdb.com/title/tt0053114/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Human%2520Condition | The Human Condition I: No Greater Love (1959) - IMDb
+https://www.imdb.com/title/tt1728196/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Hara-Kiri | Hara-Kiri: Death of a Samurai (2011) - IMDb
+https://www.imdb.com/title/tt1068646/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_The%2520Class | The Class (2008) - IMDb
+https://www.imdb.com/title/tt1816518/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Ernest%2520%2526%2520Celestine | Ernest & Celestine (2012) - IMDb
+https://www.imdb.com/title/tt3768572/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Aquarius | Aquarius (TV Series 2015–2016) - IMDb
+https://www.imdb.com/title/tt4899406/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Neon%2520Bull | Neon Bull (2015) - IMDb
+https://www.imdb.com/title/tt6390668/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Invisible%2520Life | Invisible Life (2019) - IMDb
+https://www.imdb.com/title/tt4929038/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_The%2520Ornithologist%2520(2016) | The Ornithologist (2016) - IMDb
+https://www.imdb.com/title/tt5446444/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Colo%2520(2017) | Colo (2017) - IMDb
+https://www.imdb.com/title/tt6522668/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Diamantino%2520(2018) | Diamantino (2018) - IMDb
+
+# Children Subjectivity
+
+https://www.imdb.com/title/tt0070040/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_The%2520Spirit%2520of%2520the%2520Beehive%2520(1973) | The Spirit of the Beehive (1973) - IMDb
+https://www.imdb.com/title/tt5897636/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Summer%25201993%2520(2017) | Summer 1993 (2017) - IMDb
+https://www.imdb.com/title/tt5502816/?ref_=nv_sr_srsg_5_tt_3_nm_3_in_0_q_The%2520World%2520of%2520Us%2520(2016) | The World of Us (2016) - IMDb
+https://www.imdb.com/title/tt8951086/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_House%2520of%2520Hummingbird%2520(2018) | House of Hummingbird (2018) - IMDb
+https://www.imdb.com/title/tt1836099/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Bleak%2520Night%2520(2010)%2520%2520%2520%2520%2520%2520 | Bleak Night (2010) - IMDb
+https://www.imdb.com/title/tt1149362/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_The%2520White%2520Ribbon%2520(2009) | The White Ribbon (2009) - IMDb
+https://www.imdb.com/title/tt1722484/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Tom%2520Sawyer%2520(2011) | Tom Sawyer (2011) - IMDb
+https://www.imdb.com/title/tt1063669/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Wave%2520(2008)%2520%2520%2520%2520%2520%2520%2520%2520%2520 | The Wave (2008) - IMDb
+https://www.imdb.com/title/tt8875366/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_The%2520Crossing%2520(2018) | The Crossing (2018) - IMDb
+https://www.imdb.com/title/tt9581076/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_So%2520Long%2520My%2520Son%2520(2019) | So Long, My Son (2019) - IMDb
+https://www.imdb.com/title/tt7362036/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Dying%2520to%2520Survive%2520(2018)%2520%2520%2520%2520%2520%252 | Dying to Survive (2018) - IMDb
+https://www.imdb.com/title/tt0425321/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Yacoubian%2520Building%2520(2006) | The Yacoubian Building (2006) - IMDb
+https://www.imdb.com/title/tt3815424/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_3000%2520Nights%2520(2015)%2520%2520%2520%2520%2520%2520%2520%2520 | 3000 Nights (2015) - IMDb
+https://www.imdb.com/title/tt4874206/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Student%2520(2016) | The Student (2016) - IMDb
+https://www.imdb.com/title/tt10199640/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Beanpole%2520(2019) | Beanpole (2019) - IMDb
+https://www.imdb.com/title/tt1557720/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_My%2520Perestroika%2520(2010)%2520%2520%2520%2520%2520%2520%2520 | My Perestroika (2010) - IMDb
+https://www.imdb.com/title/tt0480025/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_This%2520Is%2520England%2520(2006) | This Is England (2006) - IMDb
+https://www.imdb.com/title/tt1440292/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Submarine%2520(2010) | Submarine (2010) - IMDb
+https://www.imdb.com/title/tt0249462/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Billy%2520Elliot%2520(2000)%2520%2520%2520%2520%2520%2520%2520%252 | Billy Elliot (2000) - IMDb
+https://www.imdb.com/title/tt1345777/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_Ishqiya%2520(2010) | Ishqiya (2010) - IMDb
+https://www.imdb.com/title/tt7399470/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Qarib%2520Qarib%2520Singlle%2520(2017)%2520%2520%2520%2520%252 | Qarib Qarib Single (2017) - IMDb
+https://www.imdb.com/title/tt1226236/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_I%2520Am%2520Love%2520(2009) | I Am Love (2009) - IMDb
+
+# Adult Subjectivity
+
+https://www.imdb.com/title/tt4326444/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_%2520Julieta%2520(2016) | Julieta (2016) - IMDb
+https://www.imdb.com/title/tt2764784/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Phoenix%2520(2014) | Phoenix (2014) - IMDb
+https://www.imdb.com/title/tt0859765/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Still%2520Life%2520(2006)%2520%2520%2520%2520%2520 | Still Life (2006) - IMDb
+https://www.imdb.com/title/tt10360862/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_%2520The%2520Man%2520Who%2520Sold%2520His%2520Skin%2520(2020 | The Man Who Sold His Skin (2020) - IMDb
+https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Leviathan%2520(2014) | Leviathan (2014) - IMDb
+https://www.imdb.com/title/tt4635372/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Masaan%2520(2015) | Masaan (2015) - IMDb
+https://www.imdb.com/title/tt3767372/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Piku%2520(2015) | Piku (2015) - IMDb
+https://www.imdb.com/title/tt0208990/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_%2520The%2520Son%25E2%2580%2599s%2520Room%2520(2001) | The Son's Room (2001) - IMDb
+https://www.imdb.com/title/tt0057091/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520The%2520Leopard%2520(1963) | The Leopard (1963) - IMDb
+
+# Animations
+
+https://www.imdb.com/title/tt3726682/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Nayola%2520(2022) | Nayola (2022) - IMDb
+https://www.imdb.com/title/tt8327492/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520Tito%2520and%2520the%2520Birds%2520(2018) | Tito and the Birds (2018) - IMDb
+https://www.imdb.com/title/tt10483152/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Unicorn%2520Wars%2520(2022) | Unicorn Wars (2022) - IMDb
+https://www.imdb.com/title/tt7336470/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_%2520Bu%25C3%25B1uel%2520in%2520the%2520Labyrinth%2520of%2520t | Buñuel in the Labyrinth of the Turtles (2018) - IMDb
+https://www.imdb.com/title/tt1407052/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520Wrinkles%2520(2011)%2520 | Wrinkles (2011) - IMDb
+https://www.imdb.com/title/tt2086830/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_The%2520King%2520of%2520Pigs%2520(2011) | The King of Pigs (2011) - IMDb
+https://www.imdb.com/title/tt0972542/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Aachi%2520%2526%2520Ssipak%2520(2006) | Aachi & Ssipak (2005) - IMDb
+https://www.imdb.com/title/tt4429160/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Red%2520Shoes%2520and%2520the%2520Seven%2520Dwarfs%2520 | Red Shoes and the Seven Dwarfs (2019) - IMDb
+https://www.imdb.com/title/tt0109791/?ref_=nv_sr_srsg_0_tt_4_nm_3_in_0_q_Felidae%2520(1994) | Felidae (1994) - IMDb
+https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_%2520The%2520Amazing%2520Maurice%2520(2022) | The Amazing Maurice (2022) - IMDb
+https://www.imdb.com/title/tt3823116/?ref_=nv_sr_srsg_0_tt_5_nm_1_in_0_q_%2520Richard%2520the%2520Stork%2520(2017)%2520%2520%2520%2520%25 | Little Bird's Big Adventure (2017) - IMDb
+https://www.imdb.com/title/tt10358782/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Journey%2520(2021) | The Journey (2021) - IMDb
+https://www.imdb.com/title/tt3576728/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_%2520Bilal%253A%2520A%2520New%2520Breed%2520of%2520Hero%2520(2 | Bilal: A New Breed of Hero (2015) - IMDb
+https://www.imdb.com/title/tt0050987/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Snow%2520Queen%2520(1957) | The Snow Queen (1957) - IMDb
+https://www.imdb.com/title/tt0120630/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Chicken%2520Run%2520(2000) | Chicken Run (2000) - IMDb
+https://www.imdb.com/title/tt0775489/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Illusionist%2520(2010) | The Illusionist (2010) - IMDb
+https://www.imdb.com/title/tt0078480/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_%2520Watership%2520Down%2520(1978)%2520%2520%2520%2520%2520%2520 | Watership Down (1978) - IMDb
+https://www.imdb.com/title/tt0488836/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Hanuman%2520(2005) | Hanuman (2005) - IMDb
+https://www.imdb.com/title/tt2404027/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_%2520Arjun%253A%2520The%2520Warrior%2520Prince%2520(2012) | Arjun: The Warrior Prince (2012) - IMDb
+https://www.imdb.com/title/tt2827516/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Chhota%2520Bheem%2520(2008)%2520%2520%2520%2520%2520%2520%252 | Chhota Bheem Aur Krishna (TV Movie 2008) - IMDb
+https://www.imdb.com/title/tt3666024/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520The%2520Red%2520Turtle | The Red Turtle (2016) - IMDb
+https://www.imdb.com/title/tt8333746/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Pinocchio%2520(2019)%2520 | Pinocchio (2019) - IMDb
+
+# LGBTQ+
+
+https://www.imdb.com/title/tt1155053/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520A%2520Frozen%2520Flower%2520(2008) | A Frozen Flower (2008) - IMDb
+https://www.imdb.com/title/tt7022402/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_%2520Method%2520(2017)%2520%2520%2520%2520%2520%2520%2520%2520%2520%25 | Method (2017) - IMDb
+https://www.imdb.com/title/tt0292066/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Lan%2520Yu%2520(2001) | Lan Yu (2001) - IMDb
+https://www.imdb.com/title/tt0381668/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Tropical%2520Malady%2520(2004 | Tropical Malady (2004) - IMDb
+https://www.imdb.com/title/tt1971514/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_%2520Salvo%2520(2013) | Salvo (2013) - IMDb
+https://www.imdb.com/title/tt5424898/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520In%2520the%2520Last%2520Days%2520of%2520the%2520City%2520 | In the Last Days of the City (2016) - IMDb
+https://www.imdb.com/title/tt0402595/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_%2520You%2520I%2520Love%2520(2004) | You I Love (2004) - IMDb
+https://www.imdb.com/title/tt9081512/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Criminal%2520Man%2520(2023)%2520%2520%2520%2520%252 | The Criminal Man (2019) - IMDb
+https://www.imdb.com/title/tt5121000/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Aligarh%2520(2015) | Aligarh (2015) - IMDb
+https://www.imdb.com/title/tt8108164/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_%2520Ek%2520Ladki%2520Ko%2520Dekha%2520Toh%2520Aisa%2520Laga | Ek Ladki Ko Dekha Toh Aisa Laga (2019) - IMDb
+https://www.imdb.com/title/tt11934846/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Badhaai%2520Do%2520(2022)%2520%2520%2520%2520 | Badhaai Do (2022) - IMDb
+https://www.imdb.com/title/tt10358782/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Journey%2520(2021) | The Journey (2021) - IMDb
+https://www.imdb.com/title/tt0076085/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520A%2520Special%2520Day%2520(1977) | A Special Day (1977) - IMDb
+https://www.imdb.com/title/tt0119948/?ref_=nv_sr_srsg_3_tt_1_nm_7_in_0_q_%2520The%2520Prince%2520of%2520Homburg%2520(1997)%2520 | The Prince of Homburg (1997) - IMDb
+
+# Family, Loss
+
+https://www.imdb.com/title/tt3812366/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ode%2520to%2520My%2520Father%2520(2014) | Ode to My Father (2014) - IMDb
+https://www.imdb.com/title/tt3153634/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Hope%2520(2013) | Hope (2013) - IMDb
+https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_%2520Miracle%2520in%2520Cell%2520No.%25207%2520(2013)%2520%252 | Miracle in Cell No. 7 (2013) - IMDb
+https://www.imdb.com/title/tt0078875/?ref_=nv_sr_srsg_0_tt_1_nm_2_in_0_q_The%2520Tin%2520Drum%2520(1979) | The Tin Drum (1979) - IMDb
+https://www.imdb.com/title/tt10963462/ | When We're Born (2019) - IMDb
+https://www.imdb.com/title/tt0107358/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_The%2520Blue%2520Kite%2520(1993) | The Blue Kite (1993) - IMDb
+https://www.imdb.com/title/tt0110081/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520To%2520Live%2520(1994) | To Live (1994) - IMDb
+https://www.imdb.com/title/tt3740778/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Mountains%2520May%2520Depart%2520(2015)%2520%2520%2520%25 | Mountains May Depart (2015) - IMDb
+https://www.imdb.com/title/tt1925421/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Elena%2520(2011) | Elena (2011) - IMDb
+https://www.imdb.com/title/tt0488905/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Banishment%2520(2007)%2520%2520%2520%2520%2520%2520 | The Banishment (2007) - IMDb
+https://www.imdb.com/title/tt2304426/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_The%2520Selfish%2520Giant%2520(2013) | The Selfish Giant (2013) - IMDb
+https://www.imdb.com/title/tt1232776/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Fish%2520Tank%2520(2009) | Fish Tank (2009) - IMDb
+https://www.imdb.com/title/tt4900716/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Kapoor%2520%2526%2520Sons%2520(2016) | Kapoor & Sons (2016) - IMDb
+https://www.imdb.com/title/tt7700730/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520October%2520(2018) | October (2018) - IMDb
+https://www.imdb.com/title/tt0077138/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Tree%2520of%2520Wooden%2520Clogs%2520(1978) | The Tree of Wooden Clogs (1978) - IMDb
+https://www.imdb.com/title/tt0346336/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_%2520The%2520Best%2520of%2520Youth%2520(2003) | The Best of Youth (2003) - IMDb
+https://www.imdb.com/title/tt0208990/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_%2520The%2520Son%25E2%2580%2599s%2520Room%2520(2001)%2520 | The Son's Room (2001) - IMDb
+
+# Death, Horror, Spirituality
+
+https://www.imdb.com/title/tt1282153/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Strange%2520Case%2520of%2520Angelica%2520(2010) | The Strange Case of Angelica (2010) - IMDb
+https://www.imdb.com/title/tt0082408/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_%2520Francisca%2520(1981) | Francisca (1981) - IMDb
+https://www.imdb.com/title/tt0083082/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_%2520Silvestre%2520(1981)%2520%2520%2520%2520%2520%2520 | Silvestre (1981) - IMDb
+https://www.imdb.com/title/tt0256009/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_The%2520Devil%25E2%2580%2599s%2520Backbone%2520(2001) | The Devil's Backbone (2001) - IMDb
+https://www.imdb.com/title/tt1164999/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Biutiful%2520(2010) | Biutiful (2010) - IMDb
+https://www.imdb.com/title/tt0230600/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Others%2520(2001)%2520%2520%2520%2520%2520%2520%2520%25 | The Others (2001) - IMDb
+https://www.imdb.com/title/tt0013442/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Nosferatu%2520(1922) | Nosferatu: A Symphony of Horror (1922) - IMDb
+https://www.imdb.com/title/tt0098327/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_%2520The%2520Seventh%2520Continent%2520(1989) | The Seventh Continent (1989) - IMDb
+https://www.imdb.com/title/tt0454931/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Requiem%2520(2006)%2520%2520%2520%2520%2520%2520%2520%2520%2520 | Requiem (2006) - IMDb
+https://www.imdb.com/title/tt0189219/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Spring%2520in%2520a%2520Small%2520Town%2520(1948) | Spring in a Small Town (1948) - IMDb
+https://www.imdb.com/title/tt3508840/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Assassin%2520(2015) | The Assassin (2015) - IMDb
+https://www.imdb.com/title/tt3885422/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_The%2520Night%2520(2021) | The Spine of Night (2021) - IMDb
+https://www.imdb.com/title/tt8900142/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Day%2520I%2520Lost%2520My%2520Shadow%2520(2018) | The Day I Lost My Shadow (2018) - IMDb
+https://www.imdb.com/title/tt3810248/?ref_=nv_sr_srsg_7_tt_8_nm_0_in_0_q_%2520The%2520Valley%2520(2014)%2520%2520%2520%2520%2520%2520%2520%25 | The Valley (2014) - IMDb
+https://www.imdb.com/title/tt0091670/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Sacrifice%2520(1986) | The Sacrifice (1986) - IMDb
+https://www.imdb.com/title/tt0851577/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Island%2520(2006) | The Island (2006) - IMDb
+https://www.imdb.com/title/tt1693830/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Silent%2520Souls%2520(2010)%2520%2520%2520%2520%2520%2520%252 | Silent Souls (2010) - IMDb
+https://www.imdb.com/title/tt0038733/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Matter%2520of%2520Life%2520and%2520Death%2520(1946) | A Matter of Life and Death (1946) - IMDb
+https://www.imdb.com/title/tt0050976/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Seventh%2520Seal | The Seventh Seal (1957) - IMDb
+https://www.imdb.com/title/tt0070917/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Wicker%2520Man%2520(1973)%2520 | The Wicker Man (1973) - IMDb
+https://www.imdb.com/title/tt5997928/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Mukti%2520Bhawan%2520(2016) | Hotel Salvation (2016) - IMDb
+https://www.imdb.com/title/tt3614516/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_%2520Ankhon%2520Dekhi%2520(2013) | Ankhon Dekhi (2013) - IMDb
+https://www.imdb.com/title/tt0367110/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Swades%2520(2004)%2520%2520%2520%2520%2520%2520%2520%2520%2520%25 | Swades (2004) - IMDb
+https://www.imdb.com/title/tt0335345/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Passion%2520of%2520the%2520Christ%2520(2004) | The Passion of the Christ (2004) - IMDb
+https://www.imdb.com/title/tt0065622/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Decameron%2520(1971) | The Decameron (1971) - IMDb
+https://www.imdb.com/title/tt0058715/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Gospel%2520According%2520to%2520St.%2520Matth | The Gospel According to St. Matthew (1964) - IMDb
+
+# Artistic/Avant-Garde
+
+https://www.imdb.com/title/tt11697690/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Woman%2520Who%2520Ran%2520(2020) | The Woman Who Ran (2020) - IMDb
+https://www.imdb.com/title/tt6412864/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_%2520On%2520the%2520Beach%2520at%2520Night%2520Alone%2520(20 | On the Beach at Night Alone (2017) - IMDb
+https://www.imdb.com/title/tt4768776/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_%2520Right%2520Now%252C%2520Wrong%2520Then%2520(2015)%2520 | Right Now, Wrong Then (2015) - IMDb
+https://www.imdb.com/title/tt0093191/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_Wings%2520of%2520Desire%2520(1987) | Wings of Desire (1987) - IMDb
+https://www.imdb.com/title/tt0083946/?ref_=nv_sr_srsg_0_tt_1_nm_3_in_0_q_%2520Fitzcarraldo%2520(1982) | Fitzcarraldo (1982) - IMDb
+https://www.imdb.com/title/tt0010323/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Cabinet%2520of%2520Dr.%2520Caligari%2520(1920 | The Cabinet of Dr. Caligari (1920) - IMDb
+https://www.imdb.com/title/tt1037163/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Time%2520That%2520Remains%2520(2009) | The Time That Remains (2009) - IMDb
+https://www.imdb.com/title/tt0274428/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Divine%2520Intervention%2520(2002) | Divine Intervention (2002) - IMDb
+https://www.imdb.com/title/tt1559042/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Zindeeq%2520(2009)%2520%2520%2520%2520%2520 | Zindeeq (2009) - IMDb
+https://www.imdb.com/title/tt0072443/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Mirror%2520(1975) | Mirror (1975) - IMDb
+https://www.imdb.com/title/tt0079944/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520Stalker%2520(1979) | Stalker (1979) - IMDb
+https://www.imdb.com/title/tt0318034/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Russian%2520Ark%2520(2002)%2520%2520%2520%2520%2520%2520%2520 | Russian Ark (2002) - IMDb
+https://www.imdb.com/title/tt0097108/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Cook%252C%2520the%2520Thief%252C%2520His%2520Wife%2520 | The Cook, the Thief, His Wife & Her Lover (1989) - IMDb
+https://www.imdb.com/title/tt0107756/?ref_=nv_sr_srsg_1_tt_1_nm_6_in_0_q_%2520Orlando%2520(1992) | Orlando (1992) - IMDb
+https://www.imdb.com/title/tt1841611/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Gandu%2520(2010) | Gandu (2010) - IMDb
+https://www.imdb.com/title/tt1773764/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_%2520Ship%2520of%2520Theseus%2520(2012) | Ship of Theseus (2012) - IMDb
+https://www.imdb.com/title/tt8239946/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Tumbbad%2520(2018)%2520%2520%2520%2520%2520%2520%2520%2520%2520 | Tumbbad (2018) - IMDb
+https://www.imdb.com/title/tt0058003/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Red%2520Desert%2520(1964) | Red Desert (1964) - IMDb
+https://www.imdb.com/title/tt0060176/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Blow-Up%2520(1966)%2520%2520%2520%2520%2520%2520%2520%2520%2520 | Blow-Up (1966) - IMDb
+
+# Political/Social
+
+https://www.imdb.com/title/tt3404140/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Attorney%2520(2013) | The Attorney (2013) - IMDb
+https://www.imdb.com/title/tt6493286/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_%25201987%253A%2520When%2520the%2520Day%2520Comes%2520(2017) | 1987: When the Day Comes (2017) - IMDb
+https://www.imdb.com/title/tt6878038/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520A%2520Taxi%2520Driver%2520(2017)%2520%2520%2520 | A Taxi Driver (2017) - IMDb
+https://www.imdb.com/title/tt0765432/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_%2520The%2520Baader%2520Meinhof%2520Complex%2520(2008) | The Baader Meinhof Complex (2008) - IMDb
+https://www.imdb.com/title/tt2178941/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520Barbara%2520(2012) | Barbara (2012) - IMDb
+https://www.imdb.com/title/tt6576556/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Silent%2520Revolution%2520(2018)%2520 | The Silent Revolution (2018) - IMDb
+https://www.imdb.com/title/tt8359816/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Sorry%2520We%2520Missed%2520You%2520(2019) | Sorry We Missed You (2019) - IMDb
+https://www.imdb.com/title/tt0460989/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_%2520The%2520Wind%2520That%2520Shakes%2520the%2520Barley%252 | The Wind that Shakes the Barley (2006) - IMDb
+https://www.imdb.com/title/tt10324144/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Article%252015%2520(2019) | Article 15 (2019) - IMDb
+https://www.imdb.com/title/tt1447508/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Peepli%2520Live%2520(2010) | Peepli [Live] (2010) - IMDb
+https://www.imdb.com/title/tt10280296/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520Sardar%2520Udham%2520(2021)%2520%2520%2520%2520%2520%2520%252 | Sardar Udham (2021) - IMDb
+https://www.imdb.com/title/tt0929425/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Gomorrah%2520(2008) | Gomorrah (2008) - IMDb

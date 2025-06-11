@@ -195,7 +195,7 @@ The Last Black Man in San Francisco
 * **Portuguese**: *Central Station*, *The Second Mother*, *I Don't Want to Go Back Alone*
 * **Hindi**: *Mother India*
 * **Arabic**: *Capernaum*
-* **USA**: *The Florida Project*, *The Wild Robot*
+* **USA**: *The Florida Project*, *The Wild Robot*9
 
 ---
 
@@ -286,3 +286,91 @@ The Last Black Man in San Francisco
 
 This grouping emphasizes thematic resonance, tonal similarities, and stylistic affinities across national cinemas, helping one navigate cultural, aesthetic, and emotional terrains in global cinema.
 
+
+# Counting Table
+https://chat.deepseek.com/a/chat/s/a9c16731-3a19-4bed-a801-cd83257c2a2f
+
+Here’s a counting table summarizing the number of movies per **language** and **genre** based on your list:
+
+---
+
+### **Counting Table: Movies by Language & Genre**  
+
+| **Language**   | Coming-of-Age | Adult Subjectivity | LGBTQ+ | Family/Loss | Political/Social | Historical/War | Artistic/Avant-Garde | Animation | Spirituality/Death | **TOTAL** |
+|----------------|--------------|-------------------|--------|-------------|------------------|----------------|----------------------|-----------|--------------------|-----------|
+| **Japanese**   | 6            | 5                 | 0      | 4           | 0                | 0              | 6                    | 7         | 2                  | **30**    |
+| **French**     | 3            | 4                 | 1      | 3           | 0                | 3              | 2                    | 0         | 2                  | **18**    |
+| **USA**        | 2            | 4                 | 2      | 2           | 3                | 3              | 4                    | 2         | 4                  | **26**    |
+| **Portuguese** | 3            | 0                 | 2      | 3           | 3                | 0              | 0                    | 0         | 0                  | **11**    |
+| **Spanish**    | 0            | 0                 | 4      | 2           | 4                | 3              | 3                    | 0         | 0                  | **16**    |
+| **Korean**     | 0            | 4                 | 1      | 0           | 0                | 0              | 0                    | 0         | 2                  | **7**     |
+| **German**     | 1            | 0                 | 2      | 1           | 0                | 2              | 0                    | 0         | 0                  | **6**     |
+| **Chinese**    | 1            | 0                 | 0      | 0           | 3                | 3              | 2                    | 2         | 0                  | **11**    |
+| **Arabic**     | 1            | 0                 | 0      | 0           | 4                | 2              | 0                    | 0         | 0                  | **7**     |
+| **Russian**    | 0            | 0                 | 0      | 0           | 4                | 2              | 0                    | 0         | 0                  | **6**     |
+| **UK**         | 0            | 6                 | 3      | 0           | 0                | 0              | 1                    | 0         | 0                  | **10**    |
+| **Hindi**      | 1            | 0                 | 0      | 0           | 0                | 0              | 0                    | 0         | 0                  | **1**     |
+| **Italian**    | 0            | 0                 | 0      | 0           | 0                | 3              | 0                    | 0         | 0                  | **3**     |
+| **TOTAL**      | **18**       | **23**            | **13** | **15**      | **21**           | **21**         | **18**               | **11**    | **10**             | **150**   |
+
+---
+
+### **Key Observations**:
+1. **Japanese** cinema dominates in **Coming-of-Age (6)**, **Animation (7)**, and **Artistic/Avant-Garde (6)**.  
+2. **French** films are strong in **Adult Subjectivity (4)** and **Historical/War (3)**.  
+3. **USA** has broad representation, especially in **Psychological Depth (4)**, **LGBTQ+ (2)**, and **Spirituality (4)**.  
+4. **Political/Social Critique** is most prominent in **Russian (4)**, **Arabic (4)**, and **Spanish (4)**.  
+5. **Animation** is almost entirely split between **Japan (7)** and **USA/China (2 each)**.  
+
+Would you like any refinements (e.g., separating overlapping films like *Burning* in both Korean and Japanese sections)?
+
+
+# Missing entries
+
+Here’s a table showing **how many films are missing** to reach a minimum of **3 per language/genre** (highlighting gaps to fill):  
+
+---
+
+### **Gap Analysis: Films Needed to Reach 3 per Language/Genre**  
+
+| **Language**   | Coming-of-Age | Adult Subjectivity | LGBTQ+ | Family/Loss | Political/Social | Historical/War | Artistic/Avant-Garde | Animation | Spirituality/Death |
+|----------------|--------------|-------------------|--------|-------------|------------------|----------------|----------------------|-----------|--------------------|
+| **Japanese**   | 0 ✅          | 0 ✅               | **3**  | 0 ✅         | **3**            | **3**          | 0 ✅                 | 0 ✅      | 0 ✅               |
+| **French**     | 0 ✅          | 0 ✅               | **2**  | 0 ✅         | **3**            | 0 ✅           | 0 ✅                 | **3**     | 0 ✅               |
+| **USA**        | **1**        | 0 ✅               | 0 ✅    | 0 ✅         | 0 ✅             | 0 ✅           | 0 ✅                 | 0 ✅      | 0 ✅               |
+| **Portuguese** | 0 ✅          | **3**             | 0 ✅    | 0 ✅         | 0 ✅             | **3**          | **3**               | **3**     | **3**             |
+| **Spanish**    | **3**        | **3**             | 0 ✅    | 0 ✅         | 0 ✅             | 0 ✅           | 0 ✅                 | **3**     | **3**             |
+| **Korean**     | **3**        | 0 ✅               | **2**  | **3**        | **3**            | **3**          | **3**               | **3**     | 0 ✅               |
+| **German**     | **2**        | **3**             | 0 ✅    | **2**        | **3**            | 0 ✅           | **3**               | **3**     | **3**             |
+| **Chinese**    | **2**        | **3**             | **3**  | **3**        | 0 ✅             | 0 ✅           | **1**               | 0 ✅      | **3**             |
+| **Arabic**     | **2**        | **3**             | **3**  | **3**        | 0 ✅             | 0 ✅           | **3**               | **3**     | **3**             |
+| **Russian**    | **3**        | **3**             | **3**  | **3**        | 0 ✅             | 0 ✅           | **3**               | **3**     | **3**             |
+| **UK**         | **3**        | 0 ✅               | 0 ✅    | **3**        | **3**            | **3**          | **2**               | **3**     | **3**             |
+| **Hindi**      | **2**        | **3**             | **3**  | **3**        | **3**            | **3**          | **3**               | **3**     | **3**             |
+| **Italian**    | **3**        | **3**             | **3**  | **3**        | **3**            | 0 ✅           | **3**               | **3**     | **3**             |
+
+**✅ = Already meets threshold (≥3 films)**  
+**Bold = Missing films needed to reach 3**  
+
+---
+
+### **Key Insights**:  
+1. **Largest Gaps**:  
+   - **LGBTQ+**: Japanese, French, Korean, Arabic, Russian, Hindi, Italian need more.  
+   - **Political/Social**: Japanese, French, Korean, Russian, UK, Hindi need additions.  
+   - **Animation**: French, Portuguese, Spanish, Korean, German, Arabic, Russian, UK, Hindi, Italian are lacking.  
+
+2. **Well-Represented Genres**:  
+   - **Adult Subjectivity** (French, Japanese, USA, Korean, UK).  
+   - **Family/Loss** (Japanese, French, Portuguese, Spanish, USA).  
+
+3. **Languages Needing Broad Support**:  
+   - **Hindi**, **Italian**, and **Russian** lack films in most genres.  
+   - **Portuguese** and **German** need deeper coverage in avant-garde/spirituality.  
+
+### **Suggested Focus Areas**:  
+- Add **3 LGBTQ+ films** for Japanese (*e.g., *Happy Together* could shift from Korean*).  
+- Expand **Portuguese** cinema in **Artistic/Avant-Garde** (*e.g., *Aquarius* or *Neon Bull*).  
+- Include more **Arabic animations** (*e.g., *The Journey*, 2021*) or **Hindi coming-of-age** (*e.g., *Udaan*).  
+
+Would you like recommendations to fill specific gaps?
