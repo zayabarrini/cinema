@@ -414,3 +414,18 @@ https://www.imdb.com/title/tt0072443/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Mirror%
 https://www.imdb.com/title/tt0318034/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Russian%2520Ark%2520(2002) | Russian Ark (2002) - IMDb
 https://www.imdb.com/title/tt0851577/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520The%2520Island%2520(2006) | The Island (2006) - IMDb
 https://www.imdb.com/title/tt1693830/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%2520Silent%2520Souls%2520(2010) | Silent Souls (2010) - IMDb
+
+# Essentials Mubi Russian
+
+https://www.imdb.com/title/tt0847880/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_Cargo%2520200 | Cargo 200 (2007) - IMDb
+https://www.imdb.com/title/tt1588875/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_How%2520I%2520Ended%2520This%2520Summer | How I Ended This Summer (2010) - IMDb
+https://www.imdb.com/title/tt1446206/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Wolfy | Volchok (2009) - IMDb
+https://www.imdb.com/title/tt1426384/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Tale%2520in%2520the%2520Darkness | Tale in the Darkness (2009) - IMDb
+https://www.imdb.com/title/tt1284576/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Paper%2520Soldier | Paper Soldier (2008) - IMDb
+https://www.imdb.com/title/tt1437224/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_CRUSH%25202009 | Korotkoe zamykanie (2009) - IMDb
+https://www.imdb.com/title/tt1275954/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Help%2520Gone%2520Mad | Sumasshedshaya pomoshch (2009) - IMDb
+https://www.imdb.com/title/tt1227189/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_Everybody%2520Dies%2520But%2520Me | Everybody Dies But Me (2008) - IMDb
+https://www.imdb.com/title/tt1435475/?ref_=nv_sr_srsg_0_tt_3_nm_3_in_0_q_Tambourine%252C%2520Drum | Buben, baraban (2009) - IMDb
+https://www.imdb.com/title/tt0372366/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Roads%2520to%2520Koktebel | Koktebel (2003) - IMDb
+https://www.imdb.com/title/tt0875122/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Free%2520Floating | Svobodnoe plavanie (2006) - IMDb
+https://www.imdb.com/title/tt0808139/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_977 | 977 (2006) - IMDb
