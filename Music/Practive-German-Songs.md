@@ -71,6 +71,270 @@ ibooks:
 
 # Milano
 
+## Denkst du an mich
+
+
+[Intro]
+
+Check
+
+(Ey, Kyree)
+
+Yeah
+
+Yeah
+
+
+[Strophe 1]
+
+Ich weiß, ich hab' mich selbst verlor'n
+
+Ich glaube, bei dir, Babe, mh
+
+Du hast nicht nur mein Herz verkauft
+
+Hast mich ruiniert, Babe, yeah
+
+
+[Pre-Refrain]
+
+Frage mich nachts
+
+So wie jede Nacht
+
+Allein in meinem Bett, ob du bei ihm lagst
+
+Wie du bei mir lagst?
+
+Oh, yeah
+
+
+[Refrain]
+
+Denkst du an mich, wenn er dich—, ah
+
+Wie ich an dich denk', wenn ich 'ne andre—, ah
+
+Ich Idiot hab' an Liebe geglaubt
+
+Dir geglaubt, als du mir sagtest: „Ich liebe dich auch“, Baby
+
+Dеnkst du an mich, wenn er dich—, ah
+
+Wie ich an dich dеnk', wenn ich 'ne andre—, ah
+
+Ich Idiot hab' an Liebe geglaubt
+
+Dir geglaubt, als du mir sagtest: „Ich liebe dich auch“, Baby
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+BOTTEGA
+
+RAF Camora
+
+PARFUM
+
+Jazeek & Shindy
+
+Keine Helden
+
+Kontra K & SDP
+
+[Strophe 2]
+
+Baby, würdest du
+
+Mich wiedererkenn'n? Yeah, mh
+
+Nur wegen dir bin ich verrückt, Babe
+
+Du bringst mich zum Brenn'n
+
+Ich brenne für dich, darum frag' ich mich jede Nacht
+
+
+[Pre-Refrain]
+
+So wie jede Nacht
+
+Allein in meinem Bett, ob du bei ihm lagst
+
+Wie du bei mir lagst?
+
+Oh, yeah
+
+
+[Refrain]
+
+Denkst du an mich, wenn er dich—, ah
+
+Wie ich an dich denk', wenn ich 'ne andre—, ah
+
+Ich Idiot hab' an Liebe geglaubt
+
+Dir geglaubt, als du mir sagtest: „Ich liebe dich auch“, Baby
+
+Denkst du an mich, wenn er dich—, ah
+
+Wie ich an dich denk', wenn ich 'ne andre—, ah
+
+Ich Idiot hab' an Liebe geglaubt
+
+Dir geglaubt, als du mir sagtest: „Ich liebe dich auch“, Baby
+
+
+[Outro]
+
+Oh, wieso hab' ich geglaubt, Baby?
+
+Wieso hab' ich geglaubt?
+
+Du sagtest: „Ich lieb' dich auch, ich lieb' dich auch“, oh
+
+Baby
+
+
+## SPIEGLEIN SPIEGLEIN
+
+
+[Intro: Milano & Lune]
+
+Spieglein, Spieglein an der Wand
+
+Spieglein, Spieglein an der Wand
+
+
+[Strophe 1: Milano & Lune]
+
+Ich weiß, ich bin nicht immer einfach
+
+Wie gut, dass ich dir das verzeih'n kann
+
+Auch wenn ich's dir so oft nicht leicht mach'
+
+Schon gut, wie du versteht mich keiner, oh, hey
+
+Ja, wenn ich frage, wo du bist, dann nur, weil ich dich so vermiss'
+
+Auch wenn du mir das nicht glaubst, mach' ich das alles nur für dich
+
+Ma chérie
+
+Ja, wenn wir fall'n, dann nur gemeinsam, oh
+
+
+[Pre-Refrain: Lune]
+
+Baby, hab doch keine Angst
+
+Ich versprech' dir, bis zum Ende halt' ich deine Hand
+
+Das weißt du doch, also tu nicht so
+
+Ja, wie oft hab'n wir uns schon gefragt
+
+
+[Refrain: Lune & Milano]
+
+Spieglein, Spieglein an der Wand
+
+Sag mir, wer ist denn die Schönste hier im ganzen Land?
+
+Doch egal, was ich seh', ich muss versteh'n
+
+Nur dein Blick macht mich schön
+
+Spieglein, Spieglein an der Wand
+
+Sag mir, wer ist denn der Schönste hier im ganzen Land?
+
+Hab' schon alles geseh'n, doch ich muss gesteh'n
+
+Nur dein Blick macht mich schön
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Unlock
+
+Luciano
+
+Alle Risse heilen
+
+Olson
+
+Tischtennisplatte
+
+Aymen
+
+[Strophe 2: Lune & Milano]
+
+Ja, ich weiß, dir geht's genauso
+
+Wir zwei versteh'n uns auch auf lautlos
+
+Du hast den Schlüssel zu mei'm Herz, oh Baby
+
+Und zu dem Haus, in dem ich auch wohn', oh, hey
+
+Jede Träne, die ich wein', trocknet wieder, wenn du lachst
+
+Nach jedem noch so kleinen Streit merk' ich, was ich an dir hab'
+
+Mon chéri
+
+Ich war noch nie so verliebt
+
+
+[Pre-Refrain: Milano]
+
+Baby, hab doch keine Angst
+
+Ich versprech' dir, bis zum Ende halt' ich deine Hand
+
+Das weißt du doch, also tu nicht so
+
+Ja, wie oft hab'n wir uns schon gefragt
+
+
+[Refrain: Lune & Milano]
+
+Spieglein, Spieglein an der Wand
+
+Sag mir, wer ist denn die Schönste hier im ganzen Land?
+
+Doch egal, was ich seh', ich muss versteh'n
+
+Nur dein Blick macht mich schön
+
+Spieglein, Spieglein an der Wand
+
+Sag mir, wer ist denn der Schönste hier im ganzen Land?
+
+Hab' schon alles geseh'n, doch ich muss gesteh'n
+
+Nur dein Blick macht mich schön
+
+[Outro: Milano & Lune]
+
+Pa-para-para-para-pa-pow
+
+Para-pa-pa-pow, na-na-na, na-na-na-na-na
+
+Na-na-na, na-na-na-na, na-na
+
+Oh, oh
+
+Oh, hahahahaha
+
 <!-- TOC --><a name="nicht-fur-immer"></a>
 
 ## Nicht fur immer
