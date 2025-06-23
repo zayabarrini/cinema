@@ -106,6 +106,7 @@ https://www.imdb.com/title/tt36184740/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ashes%
 https://www.imdb.com/title/tt2852400/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Touch%2520of%2520Sin%2520(2013)%2509 | Tian zhu ding (2013) - IMDb
 https://www.imdb.com/title/tt0101640/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Raise%2520the%2520Red%2520Lantern%2520(1991)%2509 | Raise the Red Lantern (1991) - IMDb
 
+
 ### LGBT Arabic
 
 https://www.imdb.com/title/tt17679584/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_The%2520Blue%2520Caftan%2509 | The Blue Caftan (2022) - IMDb
@@ -429,3 +430,19 @@ https://www.imdb.com/title/tt1435475/?ref_=nv_sr_srsg_0_tt_3_nm_3_in_0_q_Tambour
 https://www.imdb.com/title/tt0372366/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Roads%2520to%2520Koktebel | Koktebel (2003) - IMDb
 https://www.imdb.com/title/tt0875122/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Free%2520Floating | Svobodnoe plavanie (2006) - IMDb
 https://www.imdb.com/title/tt0808139/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_977 | 977 (2006) - IMDb
+
+# Beautiful Scenery
+
+https://www.imdb.com/title/tt4400174/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_as%2520I%2520open%2520 | À peine j'ouvre les yeux (2015) - IMDb
+https://www.imdb.com/title/tt2852400/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_a%2520touch%2520of%2520sin | Tian zhu ding (2013) - IMDb
+https://www.imdb.com/title/tt8267604/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_caphar | Capharnaüm (2018) - IMDb
+https://www.imdb.com/title/tt0071411/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_dersu%2520 | Dersu Uzala (1975) - IMDb
+https://www.imdb.com/title/tt9522080/?ref_=nv_sr_srsg_1_tt_3_nm_5_in_0_q_papich | Papicha (2019) - IMDb
+https://www.imdb.com/name/nm0955443/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_yimou%2520zh | Yimou Zhang - IMDb
+
+# Love in June 2025
+
+https://www.imdb.com/title/tt7768720/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Saint-Narcisse%2520(2020)%2520 | Saint-Narcisse (2020) - IMDb
+https://www.imdb.com/title/tt0071690/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Je%252C%2520Tu%252C%2520Il%252C%2520Elle | I, You, He, She (1974) - IMDb
+https://www.imdb.com/title/tt2347569/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Frances%2520Ha | Frances Ha (2012) - IMDb
+https://www.imdb.com/title/tt0071381/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_C%25C3%25A9line%2520et%2520Julie%2520vont%2520en%2520bateau | Celine and Julie Go Boating (1974) - IMDb
