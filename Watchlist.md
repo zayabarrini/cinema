@@ -145,3 +145,18 @@ https://www.imdb.com/title/tt0858474/?ref_=tt_mlt_t_3 | The Red Balloon (Short 2
 https://www.imdb.com/title/tt0056801/?ref_=mv_close | 8½ (1963) - IMDb
 https://www.imdb.com/title/tt0093342/?ref_=tt_mlt_t_1 | Where Is the Friend's House? (1987) - IMDb
 
+
+# 23/06/25
+This Is England (2006)
+A Taxi Driver (2017)
+The White Ribbon (2009)
+Ernest & Celestine (2012)
+Billy Elliot (2000) 
+The Spirit of the Beehive (1973) 
+1987: When the Day Comes (2017) 
+Kapoor & Sons (2016) 
+The Others (2001) 
+The Wave (2008) 
+Sorry We Missed You (2019) 
+The Gospel According to St. Matthew (1964) 
+The Wicker Man (1973) 
