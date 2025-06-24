@@ -446,3 +446,41 @@ https://www.imdb.com/title/tt7768720/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Saint-N
 https://www.imdb.com/title/tt0071690/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Je%252C%2520Tu%252C%2520Il%252C%2520Elle | I, You, He, She (1974) - IMDb
 https://www.imdb.com/title/tt2347569/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Frances%2520Ha | Frances Ha (2012) - IMDb
 https://www.imdb.com/title/tt0071381/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_C%25C3%25A9line%2520et%2520Julie%2520vont%2520en%2520bateau | Celine and Julie Go Boating (1974) - IMDb
+
+
+# Hindi: National Film Award for Best Cinematography
+
+https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography | National Film Award for Best Cinematography - Wikipedia
+https://www.imdb.com/title/tt0301240/?ref_=nv_sr_srsg_5_tt_6_nm_2_in_0_q_Moksha | Moksha: Salvation (2001) - IMDb
+https://www.imdb.com/title/tt0330241/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Dweepa | Dweepa (2002) - IMDb
+https://www.imdb.com/title/tt0366886/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Patalghar | Patalghar (2003) - IMDb
+https://www.imdb.com/title/tt3592248/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_Bhalo%2520Theko | Bhalo Theko (2003) - IMDb
+https://www.imdb.com/title/tt0367110/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Swades | Swades (2004) - IMDb
+https://www.imdb.com/title/tt1305873/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Sringaram | Sringaram: Dance of Love (2007) - IMDb
+https://www.imdb.com/title/tt0470611/?ref_=nv_sr_srsg_10_tt_7_nm_1_in_0_q_Yatra | Yatra (2006) - IMDb
+https://www.imdb.com/title/tt1071798/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Frozen%25202007 | Frozen (2007) - IMDb
+https://www.imdb.com/list/ls594444263/?ref_=uspf_t_3 | Top Arabic
+https://www.imdb.com/title/tt1359552/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Antaheen | Antaheen (2009) - IMDb
+https://www.imdb.com/title/tt1430096/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Kutty%2520Srank | Kutty Srank: The Sailor of Hearts (2009) - IMDb
+https://www.imdb.com/title/tt1945039/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Adaminte%2520Makan%2520Abu | Abu, Son of Adam (2011) - IMDb
+https://www.imdb.com/title/tt2085746/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Anhe%2520Ghore%2520Da%2520Daan | Alms for a Blind Horse (2011) - IMDb
+https://www.imdb.com/title/tt3673936/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Ko%253AYad | A Silent Way (2012) - IMDb
+https://www.imdb.com/title/tt2343621/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Liar%27s%2520Dice | Liar's Dice (2013) - IMDb
+https://www.imdb.com/title/tt8721556/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Jallikattu | Jallikattu (2019) - IMDb
+https://www.imdb.com/title/tt8396232/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Bhayanakam | Bhayanakam (2018) - IMDb
+https://www.imdb.com/title/tt10280296/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Sardar%2520Udham | Sardar Udham (2021) - IMDb
+https://www.imdb.com/title/tt10738666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Avijatrik | The Wanderlust of Apu (2021) - IMDb
+https://www.imdb.com/title/tt10701074/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ponniyin%2520Selvan%253A%2520I | Ponniyin Selvan: Part I (2022) - IMDb
+https://www.imdb.com/title/tt7668228/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Olu%25202018 | She (2018) - IMDb
+https://www.imdb.com/title/tt4981966/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_24%25202016 | 24 (2016) - IMDb
+https://www.imdb.com/title/tt3735246/?ref_=nv_sr_srsg_0_tt_3_nm_1_in_0_q_Bajirao%2520Mastani | Bajirao Mastani (2015) - IMDb
+https://www.imdb.com/title/tt4115752/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Chotushkone | Chotushkone (2014) - IMDb
+
+
+# Arabic Oscar Submissions
+
+https://en.wikipedia.org/wiki/List_of_Egyptian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Egyptian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Saudi_Arabian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film | List of Saudi Arabian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Iranian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film#Submissions | List of Iranian submissions for the Academy Award for Best International Feature Film - Wikipedia
+https://acc.film/critics-nominations.php | The Critics Awards for Arab Films
+https://acc.film/cannes-100.php | Arab Cinema Center Organized by MAD Solutions - The Golden 101
