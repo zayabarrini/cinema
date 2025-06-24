@@ -160,3 +160,20 @@ The Wave (2008)
 Sorry We Missed You (2019) 
 The Gospel According to St. Matthew (1964) 
 The Wicker Man (1973) 
+
+1987 When the Day Comes 2017
+A Taxi Driver 2017
+Billy Elliot
+Die Welle aka The Wave (2008) - 1080
+Ernest et Celestine 2012
+Kapoor and Sons 2016
+Ovsyanki aka Silent Souls Sonata Premiere
+Sorry We Missed You
+The Gospel According to St Matthew
+The Others 2001
+The Spirit of the Beehive
+The Student 2016
+The White Ribbon 2009
+The Wicker Man 1973
+This Is England
+
