@@ -484,3 +484,34 @@ https://en.wikipedia.org/wiki/List_of_Saudi_Arabian_submissions_for_the_Academy_
 https://en.wikipedia.org/wiki/List_of_Iranian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film#Submissions | List of Iranian submissions for the Academy Award for Best International Feature Film - Wikipedia
 https://acc.film/critics-nominations.php | The Critics Awards for Arab Films
 https://acc.film/cannes-100.php | Arab Cinema Center Organized by MAD Solutions - The Golden 101
+
+
+# Russian Best Cinematography
+
+https://en.wikipedia.org/wiki/Golden_Eagle_Award_for_Best_Cinematography | Golden Eagle Award for Best Cinematography - Wikipedia
+https://www.imdb.com/title/tt1588875/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_How%2520I%2520Ended%2520This%2520Summer | How I Ended This Summer (2010) - IMDb
+https://www.imdb.com/title/tt10199640/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Beanpole | Beanpole (2019) - IMDb
+https://www.imdb.com/title/tt1706414/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_The%2520Edge%25202010 | The Edge (2010) - IMDb
+https://www.imdb.com/title/tt1693830/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Silent%2520Souls | Silent Souls (2010) - IMDb
+https://www.imdb.com/title/tt1925421/?ref_=nv_sr_srsg_8_tt_3_nm_5_in_0_q_Elena | Elena (2011) - IMDb
+https://www.imdb.com/title/tt1305873/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Sringaram | Sringaram: Dance of Love (2007) - IMDb
+https://www.imdb.com/title/tt2321517/?ref_=nv_sr_srsg_3_tt_3_nm_0_in_0_q_%25D0%25A8%25D0%25BF%25D0%25B8%25D0%25BE%25D0%25BD%25092012 | The Spy (2012) - IMDb
+https://www.imdb.com/title/tt1826660/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Soulless | Soulless (2012) - IMDb
+https://www.imdb.com/title/tt1966566/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_Stalingrad | Stalingrad (2013) - IMDb
+https://www.imdb.com/title/tt3194532/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Kiss%2520Them%2520All! | Gorko! (2013) - IMDb
+https://www.imdb.com/title/tt4119030/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Sunstroke | Sunstroke (2014) - IMDb
+https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_Leviathan | Leviathan (2014) - IMDb
+https://www.imdb.com/title/tt4084744/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Battle%2520for%2520Sevastopol | Battle for Sevastopol (2015) - IMDb
+https://www.imdb.com/title/tt4187590/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_Battalion | Battalion (2015) - IMDb
+https://www.imdb.com/title/tt4649814/?ref_=nm_flmg_job_1_cdt_t_8 | Voin (2015) - IMDb
+https://www.imdb.com/title/tt5282006/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Duelist | The Duelist (2016) - IMDb
+https://www.imdb.com/title/tt4874206/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_The%2520Student | The Student (2016) - IMDb
+https://www.imdb.com/title/tt4551318/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Paradise%25202016 | Paradise (2016) - IMDb
+https://www.imdb.com/title/tt5157456/?ref_=nv_sr_srsg_6_tt_7_nm_1_in_0_q_Viking | Viking (2016) - IMDb
+https://www.imdb.com/title/tt6952604/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Arrhythmia | Arrhythmia (2017) - IMDb
+https://www.imdb.com/title/tt5987402/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_Going%2520Vertical | Three Seconds (2017) - IMDb
+https://www.imdb.com/title/tt7817024/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Anna%27s%2520War | Anna's War (2018) - IMDb
+https://www.imdb.com/title/tt5844488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ice%25202018 | Ice (2018) - IMDb
+https://www.imdb.com/title/tt10140922/?ref_=fn_all_ttl_3 | Odessa (2019) - IMDb
+https://www.imdb.com/title/tt8820590/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_T-34 | T-34 (2018) - IMDb
+
