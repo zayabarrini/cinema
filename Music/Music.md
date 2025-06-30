@@ -139,3 +139,26 @@ https://www.shazam.com/en-us/charts/top-200/china | Top 200 China
 https://www.youtube.com/watch?v=HegSBovl24I | 利比《跳楼机》(官方歌词MV)｜LIBI - Jumping Machine(Official Lyric Video) - YouTube
 https://www.youtube.com/watch?v=HOBOBgmzuGo | 赤伶 (DJ名龙 Remix) - YouTube
 https://www.youtube.com/watch?v=UIdx0TVj72Y | 爱你一万年 (DJ版1伴奏) - YouTube
+
+
+# Lyrics
+
+https://genius.com/artists/Saint-levant | Saint Levant Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Maes | Maes Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Tony-effe | Tony Effe Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Stromae | Stromae Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Zaeden | Zaeden Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Mrs-green-apple | Mrs. GREEN APPLE Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Lay | LAY Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Exo | EXO Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Bts | BTS Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Blackpink | BLACKPINK Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Milano | Milano Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Jazeek | Jazeek Lyrics, Songs, and Albums | Genius
+
+https://www.musixmatch.com/artist/Jecito | Jecito lyrics | Musixmatch
+https://genius.com/artists/Jony | JONY Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Egor-kreed | Егор Крид (Egor Kreed) Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Jakone | Jakone Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Kiliana | Kiliana Lyrics, Songs, and Albums | Genius
+

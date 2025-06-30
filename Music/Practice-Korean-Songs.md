@@ -6,6 +6,8 @@ publishedAt: "2025-02-24"
 summary: "Grammar, Pronunciation, Verb Conjugation, Psychoanalysis, Cinema, etc"
 ---
 
+https://genius.com/artists/Bts | BTS Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Blackpink | BLACKPINK Lyrics, Songs, and Albums | Genius
 
 # BTS
 

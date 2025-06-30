@@ -6,6 +6,7 @@ publishedAt: "2025-03-29"
 summary: ""
 ---
 
+https://genius.com/artists/R-master
 
 # Naruto Opening 1 | R★O★C★K★S (HD)
  

@@ -67,6 +67,61 @@ ibooks:
 
 <!-- TOC end -->
 
+# Links
+
+## Milano
+
+https://genius.com/artists/Milano | Milano Lyrics, Songs, and Albums | Genius
+https://genius.com/Milano-ich-weiss-lyrics | Milano – ICH WEISS Lyrics | Genius Lyrics
+https://genius.com/Ayliva-and-milano-bleib-lyrics | AYLIVA & Milano – Bleib Lyrics | Genius Lyrics
+https://genius.com/Milano-anderer-mann-lyrics | Milano – Anderer Mann Lyrics | Genius Lyrics
+https://genius.com/Milano-leer-lyrics | Milano – ​leer Lyrics | Genius Lyrics
+https://genius.com/Milano-and-eddin-au-revoir-lyrics | Milano & Eddin – Au Revoir Lyrics | Genius Lyrics
+https://genius.com/Mikael-and-milano-maria-lyrics | Mikael & Milano – Maria Lyrics | Genius Lyrics
+https://genius.com/Milano-ohne-dich-lyrics | Milano – Ohne Dich Lyrics | Genius Lyrics
+https://genius.com/Milano-and-lune-blind-lyrics | Milano & Lune – Blind Lyrics | Genius Lyrics
+https://genius.com/Jazeek-and-milano-do-you-lie-lyrics | Jazeek & Milano – Do you lie Lyrics | Genius Lyrics
+https://genius.com/Milano-fallschirm-lyrics | Milano – Fallschirm Lyrics | Genius Lyrics
+https://genius.com/Milano-nicht-fur-immer-lyrics | Milano – Nicht für immer Lyrics | Genius Lyrics
+https://genius.com/Milano-zwischen-den-zeilen-lyrics | Milano – Zwischen den Zeilen Lyrics | Genius Lyrics
+https://genius.com/Milano-denkst-du-an-mich-lyrics | Milano – Denkst du an mich Lyrics | Genius Lyrics
+https://genius.com/Milano-unter-die-haut-lyrics | Milano – Unter die Haut Lyrics | Genius Lyrics
+https://genius.com/Lune-and-milano-spieglein-spieglein-lyrics | Lune & Milano – SPIEGLEIN SPIEGLEIN Lyrics | Genius Lyrics
+https://genius.com/Milano-feuer-lyrics | Milano – FEUER Lyrics | Genius Lyrics
+https://genius.com/Milano-and-kauta-on-off-lyrics | Milano & Kauta – On/Off Lyrics | Genius Lyrics
+https://genius.com/Eddin-and-milano-allo-lyrics | Eddin & Milano – Allô Lyrics | Genius Lyrics
+https://genius.com/Milano-and-mero-so-wie-du-lyrics | Milano & MERO – So wie du Lyrics | Genius Lyrics
+https://genius.com/Milano-100-lieder-lyrics | Milano – 100 Lieder Lyrics | Genius Lyrics
+https://genius.com/Milano-sag-mir-lyrics | Milano – Sag mir Lyrics | Genius Lyrics
+https://genius.com/Milano-engel-ohne-flugel-lyrics | Milano – Engel ohne Flügel Lyrics | Genius Lyrics
+https://genius.com/Milano-es-tut-mir-leid-lyrics | Milano – Es tut mir leid Lyrics | Genius Lyrics
+https://genius.com/Milano-du-and-ich-lyrics | Milano – Du & Ich Lyrics | Genius Lyrics
+https://genius.com/Milano-and-pa-sports-es-tut-mir-doch-so-leid-lyrics | Milano & PA Sports – Es tut mir doch so leid Lyrics | Genius Lyrics
+https://genius.com/Milano-warum-gibst-du-uns-auf-lyrics | Milano – Warum gibst du uns auf? Lyrics | Genius Lyrics
+https://genius.com/Milano-and-jazeek-nur-du-lyrics | Milano & Jazeek – Nur Du Lyrics | Genius Lyrics
+https://genius.com/Milano-french-nails-lyrics | Milano – French Nails Lyrics | Genius Lyrics
+https://genius.com/Milano-dale-dale-lyrics | Milano – Dale Dale Lyrics | Genius Lyrics
+https://genius.com/Milano-voila-lyrics | Milano – Voilà Lyrics | Genius Lyrics
+https://genius.com/Milano-weck-mich-nicht-auf-lyrics | Milano – Weck mich nicht auf Lyrics | Genius Lyrics
+https://genius.com/Milano-abschiedsbrief-lyrics | Milano – Abschiedsbrief Lyrics | Genius Lyrics
+
+## Jazeek
+
+https://genius.com/artists/Jazeek | Jazeek Lyrics, Songs, and Albums | Genius
+https://genius.com/Jazeek-noch-einmal-lyrics | Jazeek – Noch einmal Lyrics | Genius Lyrics
+https://genius.com/Jazeek-fuhlst-du-lyrics | Jazeek – Fühlst du Lyrics | Genius Lyrics
+https://genius.com/Jazeek-lug-mich-an-lyrics | Jazeek – Lüg mich an Lyrics | Genius Lyrics
+https://genius.com/Jazeek-take-it-lyrics | Jazeek – Take it Lyrics | Genius Lyrics
+https://genius.com/Jazeek-fur-dich-lyrics | Jazeek – Für dich Lyrics | Genius Lyrics
+https://genius.com/Jazeek-ms-germany-lyrics | Jazeek – Ms Germany Lyrics | Genius Lyrics
+https://genius.com/Jazeek-superstars-lyrics | Jazeek – Superstars Lyrics | Genius Lyrics
+https://genius.com/Jazeek-bend-over-lyrics | Jazeek – Bend Over Lyrics | Genius Lyrics
+https://genius.com/Luciano-and-jazeek-starboy-lyrics | Luciano & Jazeek – Starboy Lyrics | Genius Lyrics
+https://genius.com/Jazeek-cc-lyrics | Jazeek – CC Lyrics | Genius Lyrics
+https://genius.com/Jazeek-viele-narben-lyrics | Jazeek – Viele Narben Lyrics | Genius Lyrics
+https://genius.com/Jazeek-es-soll-so-sein-lyrics | Jazeek – Es soll so sein Lyrics | Genius Lyrics
+https://genius.com/Jazeek-112-lyrics | Jazeek – 112 Lyrics | Genius Lyrics
+
 <!-- TOC --><a name="milano"></a>
 
 # Milano

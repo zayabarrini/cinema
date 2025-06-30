@@ -21,6 +21,14 @@ summary: "Milano, Jazeek"
 
 <!-- TOC end -->
 
+# Russian Singers
+
+https://www.musixmatch.com/artist/Jecito | Jecito lyrics | Musixmatch
+https://genius.com/artists/Jony | JONY Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Egor-kreed | Егор Крид (Egor Kreed) Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Jakone | Jakone Lyrics, Songs, and Albums | Genius
+https://genius.com/artists/Kiliana | Kiliana Lyrics, Songs, and Albums | Genius
+
 <!-- TOC --><a name="jakone-and-kiliana"></a>
 
 # Jakone and Kiliana
