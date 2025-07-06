@@ -288,190 +288,544 @@ https://www.imdb.com/list/ls025460297/ | 100+ Greatest Actors of All Time (Russi
 
 # Actors, Actresses and Directors
 ## English Cinema
+Here is a list of the last 40 years (1984–2023) of winners for **Best Actor, Best Actress, Best Director**, and **Best Film** at the **British Academy Film Awards (BAFTA)**, separated by commas for each category:
 
-Here is a list of the **winners for Best Actor, Best Actress, Best Director, and Best Film (Best Feature Film or "Bester Spielfilm")** at the **Deutscher Filmpreis (German Film Awards)** for the past 25 years (1999–2023), separated by commas:  
+### **Best Actor**  
+2023 - **Cillian Murphy**, *Oppenheimer*  
+2022 - **Austin Butler**, *Elvis*  
+2021 - **Will Smith**, *King Richard*  
+2020 - **Anthony Hopkins**, *The Father*  
+2019 - **Joaquin Phoenix**, *Joker*  
+2018 - **Rami Malek**, *Bohemian Rhapsody*  
+2017 - **Gary Oldman**, *Darkest Hour*  
+2016 - **Casey Affleck**, *Manchester by the Sea*  
+2015 - **Leonardo DiCaprio**, *The Revenant*  
+2014 - **Eddie Redmayne**, *The Theory of Everything*  
+2013 - **Chiwetel Ejiofor**, *12 Years a Slave*  
+2012 - **Daniel Day-Lewis**, *Lincoln*  
+2011 - **Jean Dujardin**, *The Artist*  
+2010 - **Colin Firth**, *The King's Speech*  
+2009 - **Colin Firth**, *A Single Man*  
+2008 - **Mickey Rourke**, *The Wrestler*  
+2007 - **Daniel Day-Lewis**, *There Will Be Blood*  
+2006 - **Forest Whitaker**, *The Last King of Scotland*  
+2005 - **Philip Seymour Hoffman**, *Capote*  
+2004 - **Jamie Foxx**, *Ray*  
+2003 - **Bill Murray**, *Lost in Translation*  
+2002 - **Daniel Day-Lewis**, *Gangs of New York*  
+2001 - **Russell Crowe**, *A Beautiful Mind*  
+2000 - **Jamie Bell**, *Billy Elliot*  
+1999 - **Kevin Spacey**, *American Beauty*  
+1998 - **Roberto Benigni**, *Life Is Beautiful*  
+1997 - **Robert Carlyle**, *The Full Monty*  
+1996 - **Geoffrey Rush**, *Shine*  
+1995 - **Nigel Hawthorne**, *The Madness of King George*  
+1994 - **Anthony Hopkins**, *Shadowlands*  
+1993 - **Daniel Day-Lewis**, *In the Name of the Father*  
+1992 - **Robert Downey Jr.**, *Chaplin*  
+1991 - **Anthony Hopkins**, *The Silence of the Lambs*  
+1990 - **Philippe Noiret**, *Cinema Paradiso*  
+1989 - **Michael Douglas**, *Wall Street*  
+1988 - **Sean Connery**, *The Name of the Rose*  
+1987 - **Bob Hoskins**, *Mona Lisa*  
+1986 - **William Hurt**, *Kiss of the Spider Woman*  
+1985 - **Haing S. Ngor**, *The Killing Fields*  
+1984 - **Michael Caine**, *Educating Rita*  
 
----
+### **Best Actress**  
+2023 - **Emma Stone**, *Poor Things*  
+2022 - **Cate Blanchett**, *Tár*  
+2021 - **Joanna Scanlan**, *After Love*  
+2020 - **Frances McDormand**, *Nomadland*  
+2019 - **Renée Zellweger**, *Judy*  
+2018 - **Olivia Colman**, *The Favourite*  
+2017 - **Frances McDormand**, *Three Billboards Outside Ebbing, Missouri*  
+2016 - **Emma Stone**, *La La Land*  
+2015 - **Brie Larson**, *Room*  
+2014 - **Julianne Moore**, *Still Alice*  
+2013 - **Cate Blanchett**, *Blue Jasmine*  
+2012 - **Emmanuelle Riva**, *Amour*  
+2011 - **Meryl Streep**, *The Iron Lady*  
+2010 - **Natalie Portman**, *Black Swan*  
+2009 - **Carey Mulligan**, *An Education*  
+2008 - **Kate Winslet**, *The Reader*  
+2007 - **Marion Cotillard**, *La Vie en Rose*  
+2006 - **Helen Mirren**, *The Queen*  
+2005 - **Reese Witherspoon**, *Walk the Line*  
+2004 - **Imelda Staunton**, *Vera Drake*  
+2003 - **Scarlett Johansson**, *Lost in Translation*  
+2002 - **Nicole Kidman**, *The Hours*  
+2001 - **Judi Dench**, *Iris*  
+2000 - **Julia Roberts**, *Erin Brockovich*  
+1999 - **Annette Bening**, *American Beauty*  
+1998 - **Judi Dench**, *Shakespeare in Love*  
+1997 - **Kate Winslet**, *Sense and Sensibility*  
+1996 - **Susan Sarandon**, *Dead Man Walking*  
+1995 - **Susan Sarandon**, *The Client*  
+1994 - **Holly Hunter**, *The Piano*  
+1993 - **Emma Thompson**, *Howards End*  
+1992 - **Jodie Foster**, *The Silence of the Lambs*  
+1991 - **Jessica Tandy**, *Driving Miss Daisy*  
+1990 - **Pauline Collins**, *Shirley Valentine*  
+1989 - **Maggie Smith**, *The Lonely Passion of Judith Hearne*  
+1988 - **Anne Bancroft**, *84 Charing Cross Road*  
+1987 - **Maggie Smith**, *A Room with a View*  
+1986 - **Maggie Smith**, *A Private Function*  
+1985 - **Peggy Ashcroft**, *A Passage to India*  
+1984 - **Julie Walters**, *Educating Rita*  
 
-### **Best Actor (Bester Darsteller)**  
-2023: **Thomas Schubert** (*Roter Himmel* / *Afire*),  
-2022: **Lukas Turtur** (*Rabiye Kurnaz gegen George W. Bush*),  
-2021: **Maren Eggert** (*Ich bin dein Mensch*),  
-2020: **Albrecht Schuch** (*Berlin Alexanderplatz*),  
-2019: **Oliver Masucci** (*Er ist wieder da*),  
-2018: **Franz Rogowski** (*In den Gängen*),  
-2017: **Ulrich Matthes** (*Das schweigende Klassenzimmer*),  
-2016: **Burghart Klaußner** (*Der Staat gegen Fritz Bauer*),  
-2015: **Ronald Zehrfeld** (*Phoenix*),  
-2014: **Misel Maticevic** (*Kreuzweg*),  
-2013: **Tom Schilling** (*Oh Boy*),  
-2012: **Sebastian Koch** (*Das Ende einer Nacht*),  
-2011: **Götz George** (*Der Brand*),  
-2010: **Sylvester Groth** (*John Rabe*),  
-2009: **Devid Striesow** (*John Rabe*),  
-2008: **Elmar Wepper** (*Hai-Alarm am Müggelsee*),  
-2007: **Jürgen Vogel** (*Der freie Wille*),  
-2006: **Jürgen Vogel** (*Die fetten Jahre sind vorbei*),  
-2005: **Daniel Brühl** (*Die fetten Jahre sind vorbei*),  
-2004: **Daniel Brühl** (*Good Bye, Lenin!*),  
-2003: **Heino Ferch** (*Das Wunder von Bern*),  
-2002: **Daniel Brühl** (*Nichts bereuen*),  
-2001: **Ben Becker** (*Der Schrei des Schmetterlings*),  
-2000: **Moritz Bleibtreu** (*Lola rennt*),  
-1999: **Ulrich Mühe** (*Das Schloß*).  
+### **Best Director**  
+2023 - **Christopher Nolan**, *Oppenheimer*  
+2022 - **Edward Berger**, *All Quiet on the Western Front*  
+2021 - **Jane Campion**, *The Power of the Dog*  
+2020 - **Chloé Zhao**, *Nomadland*  
+2019 - **Sam Mendes**, *1917*  
+2018 - **Alfonso Cuarón**, *Roma*  
+2017 - **Guillermo del Toro**, *The Shape of Water*  
+2016 - **Damien Chazelle**, *La La Land*  
+2015 - **Alejandro G. Iñárritu**, *The Revenant*  
+2014 - **Richard Linklater**, *Boyhood*  
+2013 - **Alfonso Cuarón**, *Gravity*  
+2012 - **Michael Haneke**, *Amour*  
+2011 - **Michel Hazanavicius**, *The Artist*  
+2010 - **David Fincher**, *The Social Network*  
+2009 - **Kathryn Bigelow**, *The Hurt Locker*  
+2008 - **Danny Boyle**, *Slumdog Millionaire*  
+2007 - **Paul Greengrass**, *United 93*  
+2006 - **Ang Lee**, *Brokeback Mountain*  
+2005 - **Mike Leigh**, *Vera Drake*  
+2004 - **Peter Weir**, *Master and Commander: The Far Side of the World*  
+2003 - **Roman Polanski**, *The Pianist*  
+2002 - **Peter Jackson**, *The Lord of the Rings: The Fellowship of the Ring*  
+2001 - **Ang Lee**, *Crouching Tiger, Hidden Dragon*  
+2000 - **Sam Mendes**, *American Beauty*  
+1999 - **Steven Spielberg**, *Saving Private Ryan*  
+1998 - **James Cameron**, *Titanic*  
+1997 - **Joel Coen**, *Fargo*  
+1996 - **Michael Radford**, *Il Postino*  
+1995 - **Mike Newell**, *Four Weddings and a Funeral*  
+1994 - **Steven Spielberg**, *Schindler's List*  
+1993 - **Robert Altman**, *The Player*  
+1992 - **Alan Parker**, *The Commitments*  
+1991 - **Martin Scorsese**, *Goodfellas*  
+1990 - **Kenneth Branagh**, *Henry V*  
+1989 - **Barry Levinson**, *Rain Man*  
+1988 - **John Boorman**, *Hope and Glory*  
+1987 - **Oliver Stone**, *Platoon*  
+1986 - **Sydney Pollack**, *Out of Africa*  
+1985 - **Roland Joffé**, *The Killing Fields*  
+1984 - **Bill Forsyth**, *Local Hero*  
 
----
+### **Best Film**  
+2023 - *Oppenheimer*  
+2022 - *All Quiet on the Western Front*  
+2021 - *The Power of the Dog*  
+2020 - *Nomadland*  
+2019 - *1917*  
+2018 - *Roma*  
+2017 - *Three Billboards Outside Ebbing, Missouri*  
+2016 - *La La Land*  
+2015 - *The Revenant*  
+2014 - *Boyhood*  
+2013 - *12 Years a Slave*  
+2012 - *Argo*  
+2011 - *The Artist*  
+2010 - *The King's Speech*  
+2009 - *The Hurt Locker*  
+2008 - *Slumdog Millionaire*  
+2007 - *Atonement*  
+2006 - *The Queen*  
+2005 - *Brokeback Mountain*  
+2004 - *The Aviator*  
+2003 - *The Lord of the Rings: The Return of the King*  
+2002 - *The Pianist*  
+2001 - *The Lord of the Rings: The Fellowship of the Ring*  
+2000 - *Gladiator*  
+1999 - *American Beauty*  
+1998 - *Shakespeare in Love*  
+1997 - *The Full Monty*  
+1996 - *The English Patient*  
+1995 - *Sense and Sensibility*  
+1994 - *Four Weddings and a Funeral*  
+1993 - *Schindler's List*  
+1992 - *Howards End*  
+1991 - *The Commitments*  
+1990 - *Goodfellas*  
+1989 - *Dead Poets Society*  
+1988 - *The Last Emperor*  
+1987 - *Jean de Florette*  
+1986 - *The Purple Rose of Cairo*  
+1985 - *The Killing Fields*  
+1984 - *The Right Stuff*  
 
-### **Best Actress (Beste Darstellerin)**  
-2023: **Leonie Benesch** (*Der vermessene Mensch*),  
-2022: **Maren Eggert** (*Ich bin dein Mensch*),  
-2021: **Jördis Triebel** (*Nebenan*),  
-2020: **Paula Beer** (*Undine*),  
-2019: **Alina Levshin** (*Systemsprenger*),  
-2018: **Anna Brüggemann** (*Die Kriegerin*),  
-2017: **Ulrike C. Tscharre** (*24 Wochen*),  
-2016: **Sandra Hüller** (*Toni Erdmann*),  
-2015: **Jördis Triebel** (*Westen*),  
-2014: **Birgit Minichmayr** (*Das merkwürdige Kätzchen*),  
-2013: **Barbara Auer** (*Gnade*),  
-2012: **Anna Maria Mühe** (*Die Unsichtbare*),  
-2011: **Lavinia Wilson** (*Vincent will Meer*),  
-2010: **Hannelore Elsner** (*Die Friseuse*),  
-2009: **Birgit Minichmayr** (*Alle Anderen*),  
-2008: **Nina Hoss** (*Yella*),  
-2007: **Nina Hoss** (*Wolfsburg*),  
-2006: **Julia Jentsch** (*Sophie Scholl – Die letzten Tage*),  
-2005: **Franka Potente** (*Die fetten Jahre sind vorbei*),  
-2004: **Katja Riemann** (*Rosenstraße*),  
-2003: **Martina Gedeck** (*Das fliegende Klassenzimmer*),  
-2002: **Doris Schade** (*Gefährliche Nähe*),  
-2001: **Nina Hoss** (*Der Vulkan*),  
-2000: **Bibiana Beglau** (*Die Stille nach dem Schuss*),  
-1999: **Maria Schrader** (*Aimée & Jaguar*).  
+This list includes the winners for **Best Actor, Best Actress, Best Director**, and **Best Film** at the BAFTAs from **1984 to 2023**. Let me know if you'd like any modifications!
 
----
-
-### **Best Director (Beste Regie)**  
-2023: **Christian Petzold** (*Roter Himmel*),  
-2022: **Andreas Dresen** (*Rabiye Kurnaz gegen George W. Bush*),  
-2021: **Maria Schrader** (*Ich bin dein Mensch*),  
-2020: **Christian Petzold** (*Undine*),  
-2019: **Nora Fingscheidt** (*Systemsprenger*),  
-2018: **Thomas Stuber** (*In den Gängen*),  
-2017: **Maren Ade** (*Toni Erdmann*),  
-2016: **Lars Kraume** (*Der Staat gegen Fritz Bauer*),  
-2015: **Christian Petzold** (*Phoenix*),  
-2014: **Dominik Graf** (*Die geliebten Schwestern*),  
-2013: **Jan-Ole Gerster** (*Oh Boy*),  
-2012: **Andreas Dresen** (*Halt auf freier Strecke*),  
-2011: **Hans-Christian Schmid** (*Die kommenden Tage*),  
-2010: **Romuald Karmakar** (*Das merkwürdige Kätzchen*),  
-2009: **Uli Edel** (*Der Baader Meinhof Komplex*),  
-2008: **Fatih Akin** (*Auf der anderen Seite*),  
-2007: **Hans-Christian Schmid** (*Requiem*),  
-2006: **Marc Rothemund** (*Sophie Scholl – Die letzten Tage*),  
-2005: **Hans Weingartner** (*Die fetten Jahre sind vorbei*),  
-2004: **Wolfgang Becker** (*Good Bye, Lenin!*),  
-2003: **Oliver Hirschbiegel** (*Das Experiment*),  
-2002: **Tom Tykwer** (*Der Krieger und die Kaiserin*),  
-2001: **Roland Suso Richter** (*Der Tunnel*),  
-2000: **Tom Tykwer** (*Lola rennt*),  
-1999: **Dani Levy** (*Meschugge*).  
-
----
-
-### **Best Film (Bester Spielfilm)**  
-2023: **Roter Himmel** (dir. Christian Petzold),  
-2022: **Rabiye Kurnaz gegen George W. Bush** (dir. Andreas Dresen),  
-2021: **Ich bin dein Mensch** (dir. Maria Schrader),  
-2020: **Berlin Alexanderplatz** (dir. Burhan Qurbani),  
-2019: **Systemsprenger** (dir. Nora Fingscheidt),  
-2018: **In den Gängen** (dir. Thomas Stuber),  
-2017: **Toni Erdmann** (dir. Maren Ade),  
-2016: **Der Staat gegen Fritz Bauer** (dir. Lars Kraume),  
-2015: **Phoenix** (dir. Christian Petzold),  
-2014: **Die geliebten Schwestern** (dir. Dominik Graf),  
-2013: **Oh Boy** (dir. Jan-Ole Gerster),  
-2012: **Halt auf freier Strecke** (dir. Andreas Dresen),  
-2011: **Vincent will Meer** (dir. Ralf Huettner),  
-2010: **Die Friseuse** (dir. Doris Dörrie),  
-2009: **Der Baader Meinhof Komplex** (dir. Uli Edel),  
-2008: **Auf der anderen Seite** (dir. Fatih Akin),  
-2007: **Das Leben der Anderen** (dir. Florian Henckel von Donnersmarck),  
-2006: **Sophie Scholl – Die letzten Tage** (dir. Marc Rothemund),  
-2005: **Die fetten Jahre sind vorbei** (dir. Hans Weingartner),  
-2004: **Good Bye, Lenin!** (dir. Wolfgang Becker),  
-2003: **Das Experiment** (dir. Oliver Hirschbiegel),  
-2002: **Nirgendwo in Afrika** (dir. Caroline Link),  
-2001: **Der Tunnel** (dir. Roland Suso Richter),  
-2000: **Lola rennt** (dir. Tom Tykwer),  
-1999: **Aimée & Jaguar** (dir. Max Färberböck).  
-
----
-
-### **Observations:**  
-- **Multiple winners**: **Daniel Brühl** (4x Best Actor), **Nina Hoss** (3x Best Actress), **Christian Petzold** (3x Best Director).  
-- **Iconic films**: *Good Bye, Lenin!* (2004), *Toni Erdmann* (2017), *Das Leben der Anderen* (2007).  
-- **International acclaim**: Many winners later gained Oscars (e.g., *Nowhere in Africa* / *Nirgendwo in Afrika* won Best Foreign Film in 2003).  
-
-Here’s a **list of the greatest German actors, actresses, and directors of all time**, categorized by their contributions to cinema and theater:  
-
----
-
-### **Greatest German Actors of All Time**  
-1. **Marlene Dietrich** – Legendary Hollywood star (*The Blue Angel*, *Destry Rides Again*).  
-2. **Klaus Kinski** – Intense, iconic roles (*Aguirre, the Wrath of God*, *Nosferatu the Vampyre*).  
-3. **Bruno Ganz** – Master of emotional depth (*Downfall*, *Wings of Desire*).  
-4. **Werner Herzog** (also a director) – Unforgettable in *Jack Reacher*, *The Mandalorian*.  
-5. **Daniel Brühl** – Modern international star (*Good Bye, Lenin!*, *Rush*, *The Falcon and the Winter Soldier*).  
-6. **Jürgen Prochnow** – *Das Boot*, *The Da Vinci Code*.  
-7. **Heinz Rühmann** – Classic German cinema (*The Captain from Köpenick*).  
-8. **Götz George** – *Schtonk!*, *Downfall*.  
-9. **Thomas Kretschmann** – Hollywood villain (*The Pianist*, *Avengers: Age of Ultron*).  
-10. **Franz Rogowski** – Rising arthouse star (*Transit*, *Great Freedom*).  
-
----
-
-### **Greatest German Actresses of All Time**  
-1. **Hanna Schygulla** – Fassbinder’s muse (*The Marriage of Maria Braun*).  
-2. **Nastassja Kinski** – International icon (*Paris, Texas*, *Tess*).  
-3. **Nina Hoss** – Modern powerhouse (*Phoenix*, *Barbara*).  
-4. **Barbara Sukowa** – (*Lola*, *Hannah Arendt*).  
-5. **Diane Kruger** – Hollywood crossover (*Inglourious Basterds*, *Troy*).  
-6. **Martina Gedeck** – (*The Lives of Others*, *Bella Martha*).  
-7. **Senta Berger** – Classic & modern roles (*The Quiller Memorandum*).  
-8. **Paula Beer** – Rising star (*Undine*, *Transit*).  
-9. **Katharina Thalbach** – Theater & film legend (*The Tin Drum*).  
-10. **Sandra Hüller** – Acclaimed in *Toni Erdmann* & *Anatomy of a Fall*.  
-
----
-
-### **Greatest German Directors of All Time**  
-1. **Fritz Lang** – Pioneer (*Metropolis*, *M*).  
-2. **Werner Herzog** – Visionary (*Aguirre, the Wrath of God*, *Grizzly Man*).  
-3. **Rainer Werner Fassbinder** – Prolific genius (*Ali: Fear Eats the Soul*, *Berlin Alexanderplatz*).  
-4. **Wim Wenders** – Poetic cinema (*Wings of Desire*, *Paris, Texas*).  
-5. **Volker Schlöndorff** – (*The Tin Drum*, *The Lost Honor of Katharina Blum*).  
-6. **Tom Tykwer** – Stylish storytelling (*Run Lola Run*, *Cloud Atlas*).  
-7. **Maren Ade** – Modern auteur (*Toni Erdmann*).  
-8. **Christian Petzold** – (*Phoenix*, *Barbara*).  
-9. **Fatih Akin** – Cross-cultural narratives (*Head-On*, *The Edge of Heaven*).  
-10. **Florian Henckel von Donnersmarck** – (*The Lives of Others*, *Never Look Away*).  
-
----
-
-### **Honorable Mentions (Crossovers & Classics)**  
-- **Maximilian Schell** (Oscar-winning actor, *Judgment at Nuremberg*).  
-- **Karlheinz Böhm** (*Peeping Tom*, *Sissi*).  
-- **Leni Riefenstahl** (Controversial director, *Triumph of the Will*).  
-- **Franka Potente** (*Run Lola Run*, *The Bourne Identity*).  
+Here’s a list of some of the **greatest actors, actresses, and directors of all time**, based on critical acclaim, influence, awards, and legacy.  
 
 ---
 
-### **Key Takeaways:**  
-- **Golden Era**: Lang, Dietrich, and Fassbinder shaped early & New German Cinema.  
-- **Modern Icons**: Brühl, Hoss, and Petzold keep German cinema globally relevant.  
-- **Crossover Success**: Kruger, Kinski, and Kretschmann thrived in Hollywood.  
+### **Greatest Actors of All Time**  
+1. **Marlon Brando** – *The Godfather, On the Waterfront, A Streetcar Named Desire*  
+2. **Robert De Niro** – *Taxi Driver, Raging Bull, The Godfather Part II*  
+3. **Daniel Day-Lewis** – *There Will Be Blood, Lincoln, My Left Foot*  
+4. **Al Pacino** – *The Godfather, Scarface, Scent of a Woman*  
+5. **Laurence Olivier** – *Hamlet, Richard III, Wuthering Heights*  
+6. **Sidney Poitier** – *In the Heat of the Night, Guess Who’s Coming to Dinner*  
+7. **Denzel Washington** – *Training Day, Malcolm X, Glory*  
+8. **Humphrey Bogart** – *Casablanca, The Maltese Falcon*  
+9. **Jack Nicholson** – *One Flew Over the Cuckoo’s Nest, The Shining*  
+10. **Paul Newman** – *Cool Hand Luke, The Hustler, The Color of Money*  
+11. **Anthony Hopkins** – *The Silence of the Lambs, The Remains of the Day*  
+12. **Tom Hanks** – *Forrest Gump, Philadelphia, Saving Private Ryan*  
+13. **Charlie Chaplin** – *The Great Dictator, City Lights, Modern Times*  
+14. **Gary Oldman** – *Darkest Hour, The Dark Knight, Tinker Tailor Soldier Spy*  
+15. **James Stewart** – *It’s a Wonderful Life, Vertigo, Rear Window*  
+
+---
+
+### **Greatest Actresses of All Time**  
+1. **Meryl Streep** – *Sophie’s Choice, The Iron Lady, Kramer vs. Kramer*  
+2. **Katharine Hepburn** – *The African Queen, Guess Who’s Coming to Dinner*  
+3. **Ingrid Bergman** – *Casablanca, Notorious, Autumn Sonata*  
+4. **Audrey Hepburn** – *Breakfast at Tiffany’s, Roman Holiday*  
+5. **Bette Davis** – *All About Eve, What Ever Happened to Baby Jane?*  
+6. **Cate Blanchett** – *Blue Jasmine, Elizabeth, Tár*  
+7. **Vivien Leigh** – *Gone with the Wind, A Streetcar Named Desire*  
+8. **Elizabeth Taylor** – *Who’s Afraid of Virginia Woolf?, Cleopatra*  
+9. **Judi Dench** – *Shakespeare in Love, Notes on a Scandal*  
+10. **Glenda Jackson** – *Women in Love, A Touch of Class*  
+11. **Frances McDormand** – *Fargo, Nomadland, Three Billboards*  
+12. **Nicole Kidman** – *Moulin Rouge!, The Hours*  
+13. **Viola Davis** – *Fences, The Woman King, Ma Rainey’s Black Bottom*  
+14. **Jodie Foster** – *The Silence of the Lambs, Taxi Driver*  
+15. **Emma Thompson** – *Howards End, Sense and Sensibility*  
+
+---
+
+### **Greatest Directors of All Time**  
+1. **Alfred Hitchcock** – *Psycho, Vertigo, Rear Window*  
+2. **Stanley Kubrick** – *2001: A Space Odyssey, The Shining, A Clockwork Orange*  
+3. **Martin Scorsese** – *Goodfellas, Taxi Driver, The Departed*  
+4. **Steven Spielberg** – *Schindler’s List, Jaws, Jurassic Park*  
+5. **Akira Kurosawa** – *Seven Samurai, Rashomon, Ran*  
+6. **Francis Ford Coppola** – *The Godfather, Apocalypse Now*  
+7. **Quentin Tarantino** – *Pulp Fiction, Kill Bill, Django Unchained*  
+8. **Orson Welles** – *Citizen Kane, Touch of Evil*  
+9. **Ingmar Bergman** – *The Seventh Seal, Persona*  
+10. **Federico Fellini** – *La Dolce Vita, 8½*  
+11. **David Lean** – *Lawrence of Arabia, Doctor Zhivago*  
+12. **Billy Wilder** – *Some Like It Hot, Sunset Boulevard*  
+13. **Christopher Nolan** – *Inception, The Dark Knight, Oppenheimer*  
+14. **Sidney Lumet** – *12 Angry Men, Dog Day Afternoon*  
+15. **Jean-Luc Godard** – *Breathless, Contempt*  
+
+---
+
+### **Honorable Mentions (Modern Legends)**  
+- **Actors:** Joaquin Phoenix, Leonardo DiCaprio, Javier Bardem  
+- **Actresses:** Kate Winslet, Julianne Moore, Saoirse Ronan  
+- **Directors:** Denis Villeneuve, Bong Joon-ho, Greta Gerwig  
+
+## American Cinema
+
+Here is a list of the last **50 years (1974–2023)** of **Oscar winners** for **Best Actor, Best Actress, Best Director**, and **Best Picture**, categorized by role and film:
+
+---
+
+### **Best Actor (1974–2023)**
+| Year | Actor | Movie |
+|------|-------|-------|
+| **2023** | Cillian Murphy | *Oppenheimer* |
+| **2022** | Brendan Fraser | *The Whale* |
+| **2021** | Will Smith | *King Richard* |
+| **2020** | Anthony Hopkins | *The Father* |
+| **2019** | Joaquin Phoenix | *Joker* |
+| **2018** | Rami Malek | *Bohemian Rhapsody* |
+| **2017** | Gary Oldman | *Darkest Hour* |
+| **2016** | Casey Affleck | *Manchester by the Sea* |
+| **2015** | Leonardo DiCaprio | *The Revenant* |
+| **2014** | Eddie Redmayne | *The Theory of Everything* |
+| **2013** | Matthew McConaughey | *Dallas Buyers Club* |
+| **2012** | Daniel Day-Lewis | *Lincoln* |
+| **2011** | Jean Dujardin | *The Artist* |
+| **2010** | Colin Firth | *The King’s Speech* |
+| **2009** | Jeff Bridges | *Crazy Heart* |
+| **2008** | Sean Penn | *Milk* |
+| **2007** | Daniel Day-Lewis | *There Will Be Blood* |
+| **2006** | Forest Whitaker | *The Last King of Scotland* |
+| **2005** | Philip Seymour Hoffman | *Capote* |
+| **2004** | Jamie Foxx | *Ray* |
+| **2003** | Sean Penn | *Mystic River* |
+| **2002** | Adrien Brody | *The Pianist* |
+| **2001** | Denzel Washington | *Training Day* |
+| **2000** | Russell Crowe | *Gladiator* |
+| **1999** | Kevin Spacey | *American Beauty* |
+| **1998** | Roberto Benigni | *Life Is Beautiful* |
+| **1997** | Jack Nicholson | *As Good as It Gets* |
+| **1996** | Geoffrey Rush | *Shine* |
+| **1995** | Nicolas Cage | *Leaving Las Vegas* |
+| **1994** | Tom Hanks | *Forrest Gump* |
+| **1993** | Tom Hanks | *Philadelphia* |
+| **1992** | Al Pacino | *Scent of a Woman* |
+| **1991** | Anthony Hopkins | *The Silence of the Lambs* |
+| **1990** | Jeremy Irons | *Reversal of Fortune* |
+| **1989** | Daniel Day-Lewis | *My Left Foot* |
+| **1988** | Dustin Hoffman | *Rain Man* |
+| **1987** | Michael Douglas | *Wall Street* |
+| **1986** | Paul Newman | *The Color of Money* |
+| **1985** | William Hurt | *Kiss of the Spider Woman* |
+| **1984** | F. Murray Abraham | *Amadeus* |
+| **1983** | Robert Duvall | *Tender Mercies* |
+| **1982** | Ben Kingsley | *Gandhi* |
+| **1981** | Henry Fonda | *On Golden Pond* |
+| **1980** | Robert De Niro | *Raging Bull* |
+| **1979** | Dustin Hoffman | *Kramer vs. Kramer* |
+| **1978** | Jon Voight | *Coming Home* |
+| **1977** | Richard Dreyfuss | *The Goodbye Girl* |
+| **1976** | Peter Finch | *Network* |
+| **1975** | Jack Nicholson | *One Flew Over the Cuckoo’s Nest* |
+| **1974** | Art Carney | *Harry and Tonto* |
+
+---
+
+### **Best Actress (1974–2023)**
+| Year | Actress | Movie |
+|------|---------|-------|
+| **2023** | Emma Stone | *Poor Things* |
+| **2022** | Michelle Yeoh | *Everything Everywhere All at Once* |
+| **2021** | Jessica Chastain | *The Eyes of Tammy Faye* |
+| **2020** | Frances McDormand | *Nomadland* |
+| **2019** | Renée Zellweger | *Judy* |
+| **2018** | Olivia Colman | *The Favourite* |
+| **2017** | Frances McDormand | *Three Billboards Outside Ebbing, Missouri* |
+| **2016** | Emma Stone | *La La Land* |
+| **2015** | Brie Larson | *Room* |
+| **2014** | Julianne Moore | *Still Alice* |
+| **2013** | Cate Blanchett | *Blue Jasmine* |
+| **2012** | Jennifer Lawrence | *Silver Linings Playbook* |
+| **2011** | Meryl Streep | *The Iron Lady* |
+| **2010** | Natalie Portman | *Black Swan* |
+| **2009** | Sandra Bullock | *The Blind Side* |
+| **2008** | Kate Winslet | *The Reader* |
+| **2007** | Marion Cotillard | *La Vie en Rose* |
+| **2006** | Helen Mirren | *The Queen* |
+| **2005** | Reese Witherspoon | *Walk the Line* |
+| **2004** | Hilary Swank | *Million Dollar Baby* |
+| **2003** | Charlize Theron | *Monster* |
+| **2002** | Nicole Kidman | *The Hours* |
+| **2001** | Halle Berry | *Monster’s Ball* |
+| **2000** | Julia Roberts | *Erin Brockovich* |
+| **1999** | Hilary Swank | *Boys Don’t Cry* |
+| **1998** | Gwyneth Paltrow | *Shakespeare in Love* |
+| **1997** | Helen Hunt | *As Good as It Gets* |
+| **1996** | Frances McDormand | *Fargo* |
+| **1995** | Susan Sarandon | *Dead Man Walking* |
+| **1994** | Jessica Lange | *Blue Sky* |
+| **1993** | Holly Hunter | *The Piano* |
+| **1992** | Emma Thompson | *Howards End* |
+| **1991** | Jodie Foster | *The Silence of the Lambs* |
+| **1990** | Kathy Bates | *Misery* |
+| **1989** | Jessica Tandy | *Driving Miss Daisy* |
+| **1988** | Cher | *Moonstruck* |
+| **1987** | Marlee Matlin | *Children of a Lesser God* |
+| **1986** | Geraldine Page | *The Trip to Bountiful* |
+| **1985** | Sally Field | *Places in the Heart* |
+| **1984** | Shirley MacLaine | *Terms of Endearment* |
+| **1983** | Meryl Streep | *Sophie’s Choice* |
+| **1982** | Katharine Hepburn | *On Golden Pond* |
+| **1981** | Sissy Spacek | *Coal Miner’s Daughter* |
+| **1980** | Mary Steenburgen | *Melvin and Howard* |
+| **1979** | Sally Field | *Norma Rae* |
+| **1978** | Jane Fonda | *Coming Home* |
+| **1977** | Diane Keaton | *Annie Hall* |
+| **1976** | Faye Dunaway | *Network* |
+| **1975** | Louise Fletcher | *One Flew Over the Cuckoo’s Nest* |
+| **1974** | Ellen Burstyn | *Alice Doesn’t Live Here Anymore* |
+
+---
+
+### **Best Director (1974–2023)**
+| Year | Director | Movie |
+|------|----------|-------|
+| **2023** | Christopher Nolan | *Oppenheimer* |
+| **2022** | Daniel Kwan & Daniel Scheinert | *Everything Everywhere All at Once* |
+| **2021** | Jane Campion | *The Power of the Dog* |
+| **2020** | Chloé Zhao | *Nomadland* |
+| **2019** | Bong Joon-ho | *Parasite* |
+| **2018** | Alfonso Cuarón | *Roma* |
+| **2017** | Guillermo del Toro | *The Shape of Water* |
+| **2016** | Damien Chazelle | *La La Land* |
+| **2015** | Alejandro G. Iñárritu | *The Revenant* |
+| **2014** | Alejandro G. Iñárritu | *Birdman* |
+| **2013** | Alfonso Cuarón | *Gravity* |
+| **2012** | Ang Lee | *Life of Pi* |
+| **2011** | Michel Hazanavicius | *The Artist* |
+| **2010** | Tom Hooper | *The King’s Speech* |
+| **2009** | Kathryn Bigelow | *The Hurt Locker* |
+| **2008** | Danny Boyle | *Slumdog Millionaire* |
+| **2007** | Joel & Ethan Coen | *No Country for Old Men* |
+| **2006** | Martin Scorsese | *The Departed* |
+| **2005** | Ang Lee | *Brokeback Mountain* |
+| **2004** | Clint Eastwood | *Million Dollar Baby* |
+| **2003** | Peter Jackson | *The Lord of the Rings: The Return of the King* |
+| **2002** | Roman Polanski | *The Pianist* |
+| **2001** | Ron Howard | *A Beautiful Mind* |
+| **2000** | Steven Soderbergh | *Traffic* |
+| **1999** | Sam Mendes | *American Beauty* |
+| **1998** | Steven Spielberg | *Saving Private Ryan* |
+| **1997** | James Cameron | *Titanic* |
+| **1996** | Anthony Minghella | *The English Patient* |
+| **1995** | Mel Gibson | *Braveheart* |
+| **1994** | Robert Zemeckis | *Forrest Gump* |
+| **1993** | Steven Spielberg | *Schindler’s List* |
+| **1992** | Clint Eastwood | *Unforgiven* |
+| **1991** | Jonathan Demme | *The Silence of the Lambs* |
+| **1990** | Kevin Costner | *Dances with Wolves* |
+| **1989** | Oliver Stone | *Born on the Fourth of July* |
+| **1988** | Barry Levinson | *Rain Man* |
+| **1987** | Bernardo Bertolucci | *The Last Emperor* |
+| **1986** | Oliver Stone | *Platoon* |
+| **1985** | Sydney Pollack | *Out of Africa* |
+| **1984** | Milos Forman | *Amadeus* |
+| **1983** | James L. Brooks | *Terms of Endearment* |
+| **1982** | Richard Attenborough | *Gandhi* |
+| **1981** | Warren Beatty | *Reds* |
+| **1980** | Robert Redford | *Ordinary People* |
+| **1979** | Robert Benton | *Kramer vs. Kramer* |
+| **1978** | Michael Cimino | *The Deer Hunter* |
+| **1977** | Woody Allen | *Annie Hall* |
+| **1976** | John G. Avildsen | *Rocky* |
+| **1975** | Milos Forman | *One Flew Over the Cuckoo’s Nest* |
+| **1974** | Francis Ford Coppola | *The Godfather Part II* |
+
+---
+
+### **Best Picture (1974–2023)**
+| Year | Movie | Director |
+|------|-------|----------|
+| **2023** | *Oppenheimer* | Christopher Nolan |
+| **2022** | *Everything Everywhere All at Once* | Daniels |
+| **2021** | *CODA* | Sian Heder |
+| **2020** | *Nomadland* | Chloé Zhao |
+| **2019** | *Parasite* | Bong Joon-ho |
+| **2018** | *Green Book* | Peter Farrelly |
+| **2017** | *The Shape of Water* | Guillermo del Toro |
+| **2016** | *Moonlight* | Barry Jenkins |
+| **2015** | *Spotlight* | Tom McCarthy |
+| **2014** | *Birdman* | Alejandro G. Iñárritu |
+| **2013** | *12 Years a Slave* | Steve McQueen |
+| **2012** | *Argo* | Ben Affleck |
+| **2011** | *The Artist* | Michel Hazanavicius |
+| **2010** | *The King’s Speech* | Tom Hooper |
+| **2009** | *The Hurt Locker* | Kathryn Bigelow |
+| **2008** | *Slumdog Millionaire* | Danny Boyle |
+| **2007** | *No Country for Old Men* | Coen Brothers |
+| **2006** | *The Departed* | Martin Scorsese |
+| **2005** | *Crash* | Paul Haggis |
+| **2004** | *Million Dollar Baby* | Clint Eastwood |
+| **2003** | *The Lord of the Rings: The Return of the King* | Peter Jackson |
+| **2002** | *Chicago* | Rob Marshall |
+| **2001** | *A Beautiful Mind* | Ron Howard |
+| **2000** | *Gladiator* | Ridley Scott |
+| **1999** | *American Beauty* | Sam Mendes |
+| **1998** | *Shakespeare in Love* | John Madden |
+| **1997** | *Titanic* | James Cameron |
+| **1996** | *The English Patient* | Anthony Minghella |
+| **1995** | *Braveheart* | Mel Gibson |
+| **1994** | *Forrest Gump* | Robert Zemeckis |
+| **1993** | *Schindler’s List* | Steven Spielberg |
+| **1992** | *Unforgiven* | Clint Eastwood |
+| **1991** | *The Silence of the Lambs* | Jonathan Demme |
+| **1990** | *Dances with Wolves* | Kevin Costner |
+| **1989** | *Driving Miss Daisy* | Bruce Beresford |
+| **1988** | *Rain Man* | Barry Levinson |
+| **1987** | *The Last Emperor* | Bernardo Bertolucci |
+| **1986** | *Platoon* | Oliver Stone |
+| **1985** | *Out of Africa* | Sydney Pollack |
+| **1984** | *Amadeus* | Milos Forman |
+| **1983** | *Terms of Endearment* | James L. Brooks |
+| **1982** | *Gandhi* | Richard Attenborough |
+| **1981** | *Chariots of Fire* | Hugh Hudson |
+| **1980** | *Ordinary People* | Robert Redford |
+| **1979** | *Kramer vs. Kramer* | Robert Benton |
+| **1978** | *The Deer Hunter* | Michael Cimino |
+| **1977** | *Annie Hall* | Woody Allen |
+| **1976** | *Rocky* | John G. Avildsen |
+| **1975** | *One Flew Over the Cuckoo’s Nest* | Milos Forman |
+| **1974** | *The Godfather Part II* | Francis Ford Coppola |
+
+---
+
+This list covers **50 years of Oscar history** (1974–2023). Let me know if you'd like any modifications or additional details!
+
+Here’s a curated list of the **greatest American actors, actresses, and directors of all time**, based on legacy, awards, influence, and cultural impact:
+
+---
+
+### **Greatest American Actors**  
+1. **Marlon Brando** – *The Godfather, On the Waterfront, A Streetcar Named Desire*  
+2. **Robert De Niro** – *Taxi Driver, Raging Bull, The Godfather Part II*  
+3. **Daniel Day-Lewis** (born in UK but naturalized U.S. citizen) – *There Will Be Blood, Lincoln, My Left Foot*  
+4. **Al Pacino** – *The Godfather, Scarface, Scent of a Woman*  
+5. **Denzel Washington** – *Training Day, Malcolm X, Glory*  
+6. **Humphrey Bogart** – *Casablanca, The Maltese Falcon*  
+7. **Jack Nicholson** – *One Flew Over the Cuckoo’s Nest, The Shining*  
+8. **Paul Newman** – *Cool Hand Luke, The Hustler, The Color of Money*  
+9. **Tom Hanks** – *Forrest Gump, Philadelphia, Saving Private Ryan*  
+10. **James Stewart** – *It’s a Wonderful Life, Vertigo, Mr. Smith Goes to Washington*  
+11. **Sidney Poitier** – *In the Heat of the Night, Guess Who’s Coming to Dinner*  
+12. **Gary Oldman** (naturalized U.S. citizen) – *Darkest Hour, The Dark Knight*  
+13. **Gene Hackman** – *The French Connection, Unforgiven*  
+14. **Morgan Freeman** – *The Shawshank Redemption, Million Dollar Baby*  
+15. **Leonardo DiCaprio** – *The Revenant, The Wolf of Wall Street*  
+
+---
+
+### **Greatest American Actresses**  
+1. **Meryl Streep** – *Sophie’s Choice, The Iron Lady, Kramer vs. Kramer*  
+2. **Katharine Hepburn** – *The African Queen, Guess Who’s Coming to Dinner*  
+3. **Bette Davis** – *All About Eve, What Ever Happened to Baby Jane?*  
+4. **Audrey Hepburn** (born in Belgium, became U.S. citizen) – *Breakfast at Tiffany’s, Roman Holiday*  
+5. **Elizabeth Taylor** – *Who’s Afraid of Virginia Woolf?, Cleopatra*  
+6. **Vivien Leigh** (British but won Oscars for U.S. films) – *Gone with the Wind*  
+7. **Ingrid Bergman** (Swedish but worked extensively in Hollywood) – *Casablanca*  
+8. **Frances McDormand** – *Fargo, Nomadland, Three Billboards*  
+9. **Jodie Foster** – *The Silence of the Lambs, Taxi Driver*  
+10. **Julia Roberts** – *Erin Brockovich, Pretty Woman*  
+11. **Nicole Kidman** (Australian but major Hollywood career) – *Moulin Rouge!, The Hours*  
+12. **Cate Blanchett** (Australian but frequent U.S. films) – *Blue Jasmine, Tár*  
+13. **Viola Davis** – *Fences, The Woman King, Ma Rainey’s Black Bottom*  
+14. **Jane Fonda** – *Klute, Coming Home*  
+15. **Halle Berry** – *Monster’s Ball, Die Another Day*  
+
+---
+
+### **Greatest American Directors**  
+1. **Steven Spielberg** – *Schindler’s List, Jurassic Park, Jaws*  
+2. **Martin Scorsese** – *Goodfellas, Taxi Driver, The Departed*  
+3. **Alfred Hitchcock** (British-born but became U.S. citizen) – *Psycho, Vertigo, Rear Window*  
+4. **Francis Ford Coppola** – *The Godfather, Apocalypse Now*  
+5. **Stanley Kubrick** – *2001: A Space Odyssey, The Shining*  
+6. **Orson Welles** – *Citizen Kane, Touch of Evil*  
+7. **Billy Wilder** – *Some Like It Hot, Sunset Boulevard*  
+8. **Quentin Tarantino** – *Pulp Fiction, Kill Bill, Django Unchained*  
+9. **Clint Eastwood** – *Unforgiven, Million Dollar Baby*  
+10. **John Ford** – *The Searchers, The Grapes of Wrath*  
+11. **Woody Allen** – *Annie Hall, Manhattan*  
+12. **David Fincher** – *Fight Club, The Social Network*  
+13. **Sidney Lumet** – *12 Angry Men, Dog Day Afternoon*  
+14. **Oliver Stone** – *Platoon, JFK*  
+15. **Christopher Nolan** (British-American) – *The Dark Knight, Inception, Oppenheimer*  
+
+---
+
+### **Honorable Mentions (Modern Era)**  
+- **Actors:** Joaquin Phoenix, Brad Pitt, Matthew McConaughey  
+- **Actresses:** Cate Blanchett, Julianne Moore, Saoirse Ronan (Irish but U.S. films)  
+- **Directors:** Damien Chazelle, Greta Gerwig, Jordan Peele  
+
+This list focuses on **American-born or naturalized talent** who shaped Hollywood. Let me know if you'd like adjustments!
+
 
 ## German Cinema
 
