@@ -177,3 +177,24 @@ The White Ribbon 2009
 The Wicker Man 1973
 This Is England
 
+# 18/07/25
+Character 1997
+Kolya 1996
+Antonia's Line 1995
+Belle Epoque 1992
+Indochine 1992
+Mediterraneo 1991
+Journey of Hope 1990
+The Assault 1986
+The Official Story 1985
+Moscow Does Not Believe in Tears 1980
+War and Peace 1965
+Bicycle Thieves 1948
+Rashomon 1950
+The Shop on Main Street 1965
+Fanny and Alexander 1982
+Z 1969
+Nights of Cabiria 1957
+La Strada 1954
+The Virgin Spring 1960
+Day for Night 1973
