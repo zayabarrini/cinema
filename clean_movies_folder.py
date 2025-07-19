@@ -9,15 +9,18 @@ def format_folder_name(name):
     # Remove extra spaces
     name = re.sub(r'\s+', ' ', name).strip()
     
-    # Keep only the name and the year (if available)
-    match = re.match(r'(.*?)(\s\d{4})', name)
+    # Extract name and year (if available)
+    match = re.match(r'(.*?)(\s(\d{4}))', name)
     if match:
-        name = match.group(1) + match.group(2)  # Name and year
+        # If year is found, format as "Year MovieName"
+        movie_name = match.group(1).strip()
+        year = match.group(3)
+        name = f"{year} {movie_name}"
     else:
         # Remove everything after the first non-alphabetic group
-        name = re.sub(r'[^a-zA-Z0-9\s]+.*$', '', name)
+        name = re.sub(r'[^a-zA-Z0-9\s]+.*$', '', name).strip()
     
-    return name.strip()
+    return name
 
 def clean_folder_names(directory):
     for folder in os.listdir(directory):
@@ -32,10 +35,8 @@ def clean_folder_names(directory):
                 print(f'Skipped: "{folder}" (already formatted)')
 
 if __name__ == "__main__":
-    # directory = input("Enter the directory containing movie folders: ").strip()
-    directory = "/home/zaya/Downloads/Workspace/Subtitles/Favorites4"
+    directory = input("Enter the directory containing movie folders: ").strip()
     if os.path.isdir(directory):
         clean_folder_names(directory)
     else:
         print(f'Error: "{directory}" is not a valid directory.')
-
