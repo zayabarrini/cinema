@@ -198,3 +198,22 @@ Nights of Cabiria 1957
 La Strada 1954
 The Virgin Spring 1960
 Day for Night 1973
+
+ '1948 Bicycle Thieves'
+ '1950 Rashomon'
+ '1954 La Strada'
+ '1955 Antonia'
+ '1957 Nights of Cabiria'
+ '1960 The Virgin Spring'
+ '1965 The Shop on Main Street'
+ '1965 War and Peace'
+ '1969 Z'
+ '1973 Day for Night'
+ '1985 La Historia Oficial aka The Official Story'
+ '1991 Mediterraneo'
+ '1992 Belle Epoque'
+ '1992 Indochine'
+ '1996 Kolya'
+ '2017 Close-Knit'
+ '2021 The Eyes Of Tammy Faye'
+ F&A
