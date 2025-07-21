@@ -179,22 +179,41 @@ This Is England
 
 # 18/07/25
 Character 1997
-Kolya 1996
-Antonia's Line 1995
-Belle Epoque 1992
-Indochine 1992
-Mediterraneo 1991
-Journey of Hope 1990
-The Assault 1986
-The Official Story 1985
+Kolya 1996 ru
+Antonia's Line 1995 de
+Belle Epoque 1992 es
+Indochine 1992 ch
+Mediterraneo 1991 it 
+Journey of Hope 1990 
+The Assault 1986 
+The Official Story 1985 es
 Moscow Does Not Believe in Tears 1980
-War and Peace 1965
-Bicycle Thieves 1948
-Rashomon 1950
-The Shop on Main Street 1965
+War and Peace 1965 ru
+Bicycle Thieves 1948 it
+Rashomon 1950 ja
+The Shop on Main Street 1965 de
 Fanny and Alexander 1982
-Z 1969
-Nights of Cabiria 1957
-La Strada 1954
-The Virgin Spring 1960
-Day for Night 1973
+Z 1969 fr
+Nights of Cabiria 1957 it
+La Strada 1954 it
+The Virgin Spring 1960 de
+Day for Night 1973 fr
+
+# 21/07/25
+Blue Sky (1994)
+Dead Man Walking (1995)
+As Good as It Gets (1997)
+Walk the Line (2005)
+Gaslight (1944)
+Guess Who's Coming to Dinner (1967)
+Hud (1963)
+Two Women (1960)
+Mrs. Miniver (1942)
+The Song of Bernadette (1943)
+To Each His Own (1946)
+Born Yesterday (1950)
+Coal Miner's Daughter (1980)
+I Want to Live! (1958)
+Room at the Top (1958)
+The Good Earth (1937)
+Come Back, Little Sheba (1952)
