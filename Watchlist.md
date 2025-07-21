@@ -200,25 +200,6 @@ La Strada 1954 it
 The Virgin Spring 1960 de
 Day for Night 1973 fr
 
-# 21/07/25
-Blue Sky (1994)
-Dead Man Walking (1995)
-As Good as It Gets (1997)
-Walk the Line (2005)
-Gaslight (1944)
-Guess Who's Coming to Dinner (1967)
-Hud (1963)
-Two Women (1960)
-Mrs. Miniver (1942)
-The Song of Bernadette (1943)
-To Each His Own (1946)
-Born Yesterday (1950)
-Coal Miner's Daughter (1980)
-I Want to Live! (1958)
-Room at the Top (1958)
-The Good Earth (1937)
-Come Back, Little Sheba (1952)
-
 Z 1969
 Nights of Cabiria 1957
 La Strada 1954
@@ -243,3 +224,29 @@ Day for Night 1973
  '2017 Close-Knit'
  '2021 The Eyes Of Tammy Faye'
  F&A
+
+# 21/07/25
+Dead Man Walking (1995)
+As Good as It Gets (1997)
+Walk the Line (2005)
+Gaslight (1944)
+Guess Who's Coming to Dinner (1967)
+Two Women (1960)
+Mrs. Miniver (1942)
+The Song of Bernadette (1943)
+To Each His Own (1946)
+Born Yesterday (1950)
+Coal Miner's Daughter (1980)
+I Want to Live! (1958)
+The Good Earth (1937)
+Come Back, Little Sheba (1952)
+
+## Fail Torrent
+Blue Sky (1994)
+Hud (1963) - Big file, 5GB
+Room at the Top (1958)
+
+
+Journey of Hope 1990
+Character 1997
+Moscow Does Not Believe in Tears 1980
