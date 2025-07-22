@@ -229,7 +229,7 @@ David Lean
 Billy Wilder
 Christopher Nolan
 Sidney Lumet
-Jean-Luc Godard
+  Jean-Luc Godard
 
 ---
 
@@ -714,7 +714,7 @@ Danila Kozlovsky
 ---
 
 ### Greatest Russian Actresses (Женщины)
-Lyubov Orlova
+  Lyubov Orlova
 Faina Ranevskaya
 Inna Churikova
 Tatyana Samoilova
