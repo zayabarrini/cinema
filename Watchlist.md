@@ -241,12 +241,6 @@ I Want to Live! (1958)
 The Good Earth (1937)
 Come Back, Little Sheba (1952)
 
-## Fail Torrent
-Blue Sky (1994)
-Hud (1963) - Big file, 5GB
-Room at the Top (1958)
-
-
 Journey of Hope 1990
 Character 1997
 Moscow Does Not Believe in Tears 1980
