@@ -1,4 +1,25 @@
-Trans, Paranoid, Evil, Bullying, Crime
+# 10 favorites
+Tyra Sanchez
+Jinkx Monsoon
+Bendelacreme
+Courtney Act
+Violet Chachki
+Valentina
+Ivie Oddly
+Bosco
+Anetra
+Nymphia Wind
+
+Icesis Couture, Venus, Aurora Matrix
+Keiona
+Krystal Versace
+Carmen Farala
+Leexa Fox, Eva Blunt, Horacio Potasio, Jenary Bloom
+Hellena Malditta
+Maxie, Khianna, Angel, Tita Baby, Zymba Ding, Myx Chanel, Versex
+Frankie Wonga
+
+# Trans, Paranoid, Evil, Bullying, Crime
 
 https://chatgpt.com/c/d10ed4c6-19c2-46f1-907f-ac44c964ee65 | Drag, Trans, Family
 https://en.wikipedia.org/wiki/List_of_Drag_Race_contestants#Canada's_Drag_Race | List of Drag Race contestants - Wikipedia

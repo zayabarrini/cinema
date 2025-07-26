@@ -7,6 +7,49 @@ Official websites, national awards: https://www.one-tab.com/page/o5p_RH0MSyKo7s3
 National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
 Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
 
+# Favorites
+
+## Oscar winners
+Julianne Moore
+Katharine Hepburn
+Maggie Smith
+Vivien Leigh
+Olivia de Havilland
+Sophia Loren
+Bette Davis
+Nicole Kidman
+Marion Cotillard
+Cate Blanchett
+Emma Stone
+Claudette Colbert
+Emma Thompson
+Joan Crawford
+Julie Andrews
+Faye Dunaway
+Mikey Madison
+
+## International
+Marion Cotillard
+Sophia Loren
+Greta Lee
+Sandra Hüller
+Kim Min-hee
+Leila Hatami
+Vic Carmen Sonne
+Holly Hunter
+Kani Kusruti
+Fengyi Zhang
+Paola Cortellesi
+Simone Signoret
+Carmen Maura
+Gong Li
+Kamila Urzedowska
+Chantal Akerman
+Sarah Miles
+Cynthia Nixon
+Lyna Khoudri
+Hiromi Nagasaku
+
 # Mubi's lists
 Themes: Women, LGBTQ+, Melancholy, Mental Health, Top 1000
 https://www.one-tab.com/page/dm9M3AmzRouo6ocHpEqMCA | OneTab - Shared tabs
