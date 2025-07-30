@@ -19,6 +19,23 @@ ibooks:
   version: 1.3.4
 ...
 
+The neighbourhood
+  * I love You, 2013
+  * Wiped Out! 2015
+  * Hard to Imagine 2018
+  * Chip Chrome & The Mono-Tones
+Xamã
+Zayn
+  * Mind of Mine
+  * Icarus Fall
+Avril Lavigne
+  * Under My skin
+Artic Monkeys
+  * AM
+Taylor Swift
+  * The Tortured Poets Department
+Beyonce
+* Cowboy Carter
 
 # The neighbourhood
 

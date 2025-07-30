@@ -244,3 +244,38 @@ Come Back, Little Sheba (1952)
 Journey of Hope 1990
 Character 1997
 Moscow Does Not Believe in Tears 1980
+
+# 30/07/25
+
+2+ Oscar Actresses
+https://www.imdb.com/title/tt5164214/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ocean%25E2%2580%2599s%25208%2520 | Ocean's Eight (2018) - IMDb
+https://www.imdb.com/title/tt0098384/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Steel%2520Magnolias | Steel Magnolias (1989) - IMDb
+https://www.imdb.com/title/tt0042192/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_All%2520About%2520Eve%2509 | All About Eve (1950) - IMDb
+https://www.imdb.com/title/tt0051459/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Cat%2520on%2520a%2520Hot%2520Tin%2520Roof%2509 | Cat on a Hot Tin Roof (1958) - IMDb
+https://www.imdb.com/title/tt0053318/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Suddenly%252C%2520Last%2520Summer%2509 | Suddenly, Last Summer (1959) - IMDb
+https://www.imdb.com/title/tt0054743/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Children%27s%2520Hour%2509 | The Children's Hour (1961) - IMDb
+https://www.imdb.com/title/tt0056687/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_What%2520Ever%2520Happened%2520to%2520Baby%2520Jane%253F%250 | What Ever Happened to Baby Jane? (1962) - IMDb
+https://www.imdb.com/title/tt0094332/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Witches%2520of%2520Eastwick%2509 | The Witches of Eastwick (1987) - IMDb
+https://www.imdb.com/title/tt0100395/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Postcards%2520from%2520the%2520Edge%2509 | Postcards from the Edge (1990) - IMDb
+https://www.imdb.com/title/tt0120824/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Shipping%2520News%2509 | The Shipping News (2001) - IMDb
+https://www.imdb.com/title/tt0465551/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Notes%2520on%2520a%2520Scandal%2509 | Notes on a Scandal (2006) - IMDb
+https://www.imdb.com/title/tt3460252/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_The%2520Hateful%2520Eight%2509 | The Hateful Eight (2015) - IMDb
+https://www.imdb.com/title/tt6394270/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Bombshell%2509 | Bombshell (2019) - IMDb
+https://www.imdb.com/title/tt11286314/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Don%25E2%2580%2599t%2520Look%2520Up%2509 | Don't Look Up (2021) - IMDb
+
+2+ Oscar Actors
+https://www.imdb.com/title/tt0034583/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Casablanca%2509 | Casablanca (1942) - IMDb
+https://www.imdb.com/title/tt0047296/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_On%2520the%2520Waterfront%2509 | On the Waterfront (1954) - IMDb
+https://www.imdb.com/title/tt0052415/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Young%2520Lions%2509 | The Young Lions (1958) - IMDb
+https://www.imdb.com/title/tt0055031/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Judgment%2520at%2520Nuremberg%2509 | Judgment at Nuremberg (1961) - IMDb
+https://www.imdb.com/title/tt0056085/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_How%2520the%2520West%2520Was%2520Won%2509 | How the West Was Won (1962) - IMDb
+https://www.imdb.com/title/tt0068646/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_The%2520Godfather%2509 | The Godfather (1972) - IMDb
+https://www.imdb.com/title/tt0071562/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Godfather%2520Part%2520II%2509 | The Godfather Part II (1974) - IMDb
+https://www.imdb.com/title/tt0082979/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Reds | Reds (1981) - IMDb
+https://www.imdb.com/title/tt0099674/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Godfather%2520Part%2520III%2509 | The Godfather Part III (1990) - IMDb
+https://www.imdb.com/title/tt0104348/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Glengarry%2520Glen%2520Ross%2509 | Glengarry Glen Ross (1992) - IMDb
+https://www.imdb.com/title/tt0113277/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Heat%2509 | Heat (1995) - IMDb
+https://www.imdb.com/title/tt0119488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_L.A.%2520Confidential%2509 | L.A. Confidential (1997) - IMDb
+https://www.imdb.com/title/tt0140352/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Insider%2509 | The Insider (1999) - IMDb
+https://www.imdb.com/title/tt0765429/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_American%2520Gangster%2509 | American Gangster (2007) - IMDb
+https://www.imdb.com/title/tt1800241/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_American%2520Hustle%2509 | American Hustle (2013) - IMDb
