@@ -515,3 +515,112 @@ https://www.imdb.com/title/tt5844488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ice%252
 https://www.imdb.com/title/tt10140922/?ref_=fn_all_ttl_3 | Odessa (2019) - IMDb
 https://www.imdb.com/title/tt8820590/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_T-34 | T-34 (2018) - IMDb
 
+
+# Cross-Cultural Equivalents of Key Films
+
+The Banshees of Inisherin
+The Prime of Miss Jean Brodie
+Dead Poets Society
+A Streetcar Named Desire
+Doubt
+The Hours
+A Ghost Story
+Past Lives
+Parasite
+Spring, Summer, Autumn, Winter… and Spring
+Au revoir les enfants
+It’s Only the End of the World
+
+## German, French 
+
+https://www.imdb.com/title/tt5157326/?ref_=nm_ov_bio_lk | Western (2017) - IMDb
+https://www.imdb.com/title/tt0100557/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_The%2520Nasty%2520Girl%2520(Verhoeven)%2509 | The Nasty Girl (1990) - IMDb
+https://www.imdb.com/title/tt0806686/?ref_=nv_sr_srsg_5_tt_1_nm_5_in_0_q_Yella | Yella (2007) - IMDb
+https://www.imdb.com/title/tt1149362/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Das%2520wei%25C3%259Fe%2520Band%2520(Haneke)%2509 | The White Ribbon (2009) - IMDb
+https://www.imdb.com/title/tt2178941/?ref_=nm_knf_t_2 | Barbara (2012) - IMDb
+https://www.imdb.com/title/tt0093191/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Der%2520Himmel%2520%25C3%25BCber%2520Berlin%2520(Wenders)%25 | Wings of Desire (1987) - IMDb
+https://www.imdb.com/title/tt2764784/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Phoenix%2520(Petzold)%2509 | Phoenix (2014) - IMDb
+https://www.imdb.com/title/tt2723240/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Zeit%2520der%2520Kannibalen%2509 | Age of Cannibals (2014) - IMDb
+https://www.imdb.com/title/tt0478160/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Die%2520gro%25C3%259Fe%2520Stille%2509 | Into Great Silence (2005) - IMDb
+https://www.imdb.com/title/tt3822818/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Naked%2520Among%2520Wolves%2509 | Naked Among Wolves (TV Movie 2015) - IMDb
+https://www.imdb.com/title/tt2180587/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_Home%2520for%2520the%2520Weekend%2520(Hansson)%2509 | Home for the Weekend (2012) - IMDb
+https://www.imdb.com/title/tt2253939/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Camille%2520redouble | Camille Rewinds (2012) - IMDb
+https://www.imdb.com/title/tt1263778/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520Belle%2520Personne%2509 | The Beautiful Person (2008) - IMDb
+https://www.imdb.com/title/tt12592842/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_Entre%2520les%2520murs%2509 | Entre les Murs (Short 2019) - IMDb
+https://www.imdb.com/title/tt0254686/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520Pianiste | The Piano Teacher (2001) - IMDb
+https://www.imdb.com/title/tt0358807/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_La%2520Classe%2509 | La classe (TV Series 1987– ) - IMDb
+https://www.imdb.com/title/tt0108394/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Trois%2520couleurs%253A%2520Bleu%2509 | Three Colors: Blue (1993) - IMDb
+https://www.imdb.com/title/tt0422491/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_L%25E2%2580%2599Intrus%2520 | The Intruder (2004) - IMDb
+https://www.imdb.com/title/tt8260226/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Un%2520amour%2520impossible%2509 | An Impossible Love (2018) - IMDb
+https://www.imdb.com/title/tt0113247/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520Haine%2509 | La haine (1995) - IMDb
+https://www.imdb.com/title/tt1048171/?ref_=nv_sr_srsg_1_tt_1_nm_7_in_0_q_S%25C3%25A9raphine%2509 | Seraphine (2008) - IMDb
+
+## Chinese, japanese
+
+https://www.imdb.com/title/tt0103699/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Peach%2520Blossom%2520Land%2509 | Secret Love in Peach Blossom Land (1992) - IMDb
+https://www.imdb.com/title/tt0291032/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Balzac%2520and%2520the%2520Little%2520Chinese%2520Seamst | Balzac and the Little Chinese Seamstress (2002) - IMDb
+https://www.imdb.com/title/tt3401962/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_Einstein%2520and%2520Einstein%2509 | Gou shi san (2013) - IMDb
+https://www.imdb.com/title/tt0234837/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Suzhou%2520River%2520(Lou%2520Ye)%2509 | Suzhou River (2000) - IMDb
+https://www.imdb.com/title/tt3890278/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Red%2520Amnesia%2509 | Red Amnesia (2014) - IMDb
+https://www.imdb.com/title/tt0107358/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Blue%2520Kite%2509 | The Blue Kite (1993) - IMDb
+https://www.imdb.com/title/tt8033592/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Us%2520and%2520Them%2509 | Us and Them (2018) - IMDb
+https://www.imdb.com/title/tt0351299/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Blind%2520Shaft%2509 | Blind Shaft (2003) - IMDb
+https://www.imdb.com/title/tt0859765/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_Still%2520Life | Still Life (2006) - IMDb
+https://www.imdb.com/title/tt0110081/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_To%2520Live | To Live (1994) - IMDb
+https://www.imdb.com/title/tt6118258/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Summer%2520Is%2520Gone%2509 | The Summer Is Gone (2016) - IMDb
+https://www.imdb.com/title/tt0123948/?ref_=nm_knf_t_2 | Cure (1997) - IMDb
+https://www.imdb.com/title/tt0407851/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Hana%2520and%2520Alice%2509 | Hana and Alice (2004) - IMDb
+https://www.imdb.com/title/tt0297721/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_All%2520About%2520Lily%2520Chou-Chou%2509 | All About Lily Chou-Chou (2001) - IMDb
+https://www.imdb.com/title/tt0468820/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Noriko%27s%2520Dinner%2520Table%2509 | Noriko's Dinner Table (2005) - IMDb
+https://www.imdb.com/title/tt1590089/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Confessions%2520 | Confessions (2010) - IMDb
+https://www.imdb.com/title/tt0113725/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Maborosi | Maborosi (1995) - IMDb
+https://www.imdb.com/title/tt0165078/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_After%2520Life | After Life (1998) - IMDb
+https://www.imdb.com/title/tt0046438/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Tokyo%2520Story | Tokyo Story (1953) - IMDb
+https://www.imdb.com/title/tt1087578/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Still%2520Walking | Still Walking (2008) - IMDb
+https://www.imdb.com/title/tt0938341/?ref_=nv_sr_srsg_0_tt_5_nm_1_in_0_q_Tokyo%2520Sonata | Tokyo Sonata (2008) - IMDb
+
+## Russian, Arabic, Hindi
+
+https://www.imdb.com/title/tt1826603/?ref_=nv_sr_srsg_2_tt_1_nm_7_in_0_q_Asmaa | Asmaa (2011) - IMDb
+https://www.imdb.com/title/tt0090665/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Halfaouine%2509 | Halfaouine: Boy of the Terraces (1990) - IMDb
+https://www.imdb.com/title/tt0425321/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Yacoubian%2520Building | The Yacoubian Building (2006) - IMDb
+https://www.imdb.com/title/tt6776572/?ref_=nv_sr_srsg_2_tt_1_nm_6_in_0_q_The%2520Beauty%2520and%2520the%2520Dogs | Beauty and the Dogs (2017) - IMDb
+https://www.imdb.com/title/tt7583280/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Heaven%2520Without%2520People%2509 | Heaven Without People (2017) - IMDb
+https://www.imdb.com/title/tt0444182/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Days%2520of%2520Glory | Days of Glory (2006) - IMDb
+https://www.imdb.com/title/tt0157183/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_West%2520Beirut%2509 | West Beirut (1998) - IMDb
+https://www.imdb.com/title/tt1588875/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_How%2520I%2520Ended%2520This%2520Summer%2509 | How I Ended This Summer (2010) - IMDb
+https://www.imdb.com/title/tt3121746/?ref_=nm_knf_t_4 | Zivan Makes a Punk Festival (2014) - IMDb
+https://www.imdb.com/title/tt5354986/?ref_=nm_knf_t_2 | Depth Two (2016) - IMDb
+https://www.imdb.com/title/tt0445161/?ref_=nm_ov_bio_lk | 4 (2004) - IMDb
+https://www.imdb.com/title/tt2328813/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Hard%2520to%2520Be%2520a%2520God%2520( | Hard to Be a God (2013) - IMDb
+https://www.imdb.com/title/tt10796286/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Dear%2520Comrades!%2509 | Dear Comrades! (2020) - IMDb
+https://www.imdb.com/title/tt0449159/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_15%2520Park%2520Avenue | 15 Park Avenue (2005) - IMDb
+https://www.imdb.com/title/tt0986264/?ref_=nv_sr_srsg_0_tt_4_nm_1_in_0_q_Taare%2520Zameen%2520Par | Like Stars on Earth (2007) - IMDb
+https://www.imdb.com/title/tt2929690/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Margarita%2520with%2520a%2520Straw | Margarita with a Straw (2014) - IMDb
+https://www.imdb.com/title/tt0261545/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Astitva | Astitva (2000) - IMDb
+https://www.imdb.com/title/tt1773764/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_)%2509Ship%2520of%2520Theseus | Ship of Theseus (2012) - IMDb
+https://www.imdb.com/title/tt15097216/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2509Jai%2520Bhim | Jai Bhim (2021) - IMDb
+https://www.imdb.com/title/tt0048473/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Pather%2520Panchali | Pather Panchali (1955) - IMDb
+https://www.imdb.com/title/tt1263679/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Firaaq | Firaaq (2008) - IMDb
+https://www.imdb.com/title/tt4635372/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Masaan | Masaan (2015) - IMDb
+
+## Portuguese, Spanish
+
+https://www.imdb.com/title/tt2190367/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_O%2520som%2520ao%2520redor%2520 | Neighboring Sounds (2012) - IMDb
+https://www.imdb.com/title/tt0333074/?ref_=nv_sr_srsg_0_tt_1_nm_6_in_0_q_Amarelo%2520Manga | Amarelo Manga (2002) - IMDb
+https://www.imdb.com/title/tt0303408/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_O%2520Invasor | The Trespasser (2001) - IMDb
+https://www.imdb.com/title/tt6390668/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_A%2520Vida%2520Invis%25C3%25ADvel | Invisible Life (2019) - IMDb
+https://www.imdb.com/title/tt0803029/?ref_=nv_sr_srsg_0_tt_4_nm_1_in_0_q_Linha%2520de%2520Passe | Linha de Passe (2008) - IMDb
+https://www.imdb.com/title/tt0841175/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_O%2520C%25C3%25A9u%2520de%2520Suely | Love for Sale (2006) - IMDb
+https://www.imdb.com/title/tt0857355/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_O%2520Ano%2520em%2520que%2520Meus%2520Pais%2520Sa%25C3%25ADram | The Year My Parents Went on Vacation (2006) - IMDb
+https://www.imdb.com/title/tt0291003/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Abril%2520Despeda%25C3%25A7ado | Behind the Sun (2001) - IMDb
+https://www.imdb.com/title/tt0319769/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Los%2520lunes%2520al%2520sol | Mondays in the Sun (2002) - IMDb
+https://www.imdb.com/title/tt0188030/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520lengua%2520de%2520las%2520mariposas | Butterfly (1999) - IMDb
+https://www.imdb.com/title/tt0243794/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_El%2520Bola | Pellet (2000) - IMDb
+https://www.imdb.com/title/tt0254455/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Luc%25C3%25ADa%2520y%2520el%2520sexo | Sex and Lucía (2001) - IMDb
+https://www.imdb.com/title/tt7095482/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_El%2520Reino | The Candidate (2018) - IMDb
+https://www.imdb.com/title/tt4326444/?ref_=nm_flmg_job_1_cdt_t_6 | Julieta (2016) - IMDb
+https://www.imdb.com/title/tt0453047/?ref_=nv_sr_srsg_0_tt_4_nm_2_in_0_q_Elsa%2520y%2520Fred | Elsa y Fred (2005) - IMDb
+https://www.imdb.com/title/tt0350193/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Te%2520doy%2520mis%2520ojos | Take My Eyes (2003) - IMDb
+https://www.imdb.com/title/tt1454523/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Pa%2520negre | Black Bread (2010) - IMDb
+https://www.imdb.com/title/tt5897636/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_Verano%25201993 | Summer 1993 (2017) - IMDb
