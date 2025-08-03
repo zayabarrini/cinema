@@ -119,16 +119,25 @@ https://en.wikipedia.org/wiki/FIVB_Volleyball_Boys%27_U19_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Men%27s_U21_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Men%27s_U23_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_World_Championship
+https://en.wikipedia.org/wiki/FIVB_Men%27s_Volleyball_Nations_League
+https://en.wikipedia.org/wiki/FIVB_Volleyball_World_League
+https://en.wikipedia.org/wiki/FIVB_Volleyball_Men%27s_World_Cup
 
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Girls%27_U17_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Girls%27_U19_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Women%27s_U21_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Volleyball_Women%27s_U23_World_Championship
 https://en.wikipedia.org/wiki/FIVB_Women%27s_Volleyball_World_Championship
+https://en.wikipedia.org/wiki/FIVB_Women%27s_Volleyball_Nations_League
+https://en.wikipedia.org/wiki/FIVB_Volleyball_World_Grand_Prix
+https://en.wikipedia.org/wiki/FIVB_Volleyball_Women%27s_World_Cup
 
 https://en.wikipedia.org/wiki/Volleyball_at_the_Summer_Olympics#Most_valuable_player_by_edition
 
-## U19
+
+## Men
+
+### U19
 
 Most valuable player by edition
 1989–91 – Not awarded
@@ -150,7 +159,7 @@ Most valuable player by edition
 2023 –  Mathis Henno (FRA)
 2025 –
 
-## 21
+### 21
 
 Most valuable player by edition
 1977–93 – Not awarded
@@ -171,14 +180,14 @@ Most valuable player by edition
 2023 –  Amir Mohammad Golzadeh (IRI)
 2025 –
 
-## 23
+### 23
 
 Most valuable player by edition
 2013 –  Ricardo Lucarelli (BRA)
 2015 –  Egor Kliuka (RUS)
 2017 –  Germán Johansen (ARG)
 
-## Adult
+### Adult
 
 MVP by edition
 1949–66 – Not awarded
@@ -197,7 +206,7 @@ MVP by edition
 2018 –  Bartosz Kurek (POL)
 2022 –  Simone Giannelli (ITA)
 
-## Olympics
+### Olympics
 
 Men
 1984 –  Steve Timmons (USA)
@@ -212,7 +221,64 @@ Men
 2020 –  Earvin N'Gapeth (FRA)[15]
 2024 –  Earvin N'Gapeth (FRA)[16]
 
-## 19
+### VNL
+
+2018 – Russia Maxim Mikhaylov
+2019 – United States Matt Anderson
+2021 – Brazil Wallace de Souza and Poland Bartosz Kurek
+2022 – France Earvin N'Gapeth
+2023 – Poland Paweł Zatorski
+2024 – France Antoine Brizard
+2025 – TBD
+
+### World League
+
+1990 –  Andrea Zorzi (ITA)
+1991 –  Andrea Zorzi (ITA)
+1992 –  Lorenzo Bernardi (ITA)
+1993 –  Giovane Gávio (BRA)
+1994 –  Andrea Giani (ITA)
+1995 –  Dmitry Fomin (RUS)
+1996 –  Lorenzo Bernardi (ITA)
+1997 –  Guido Görtzen (NED)
+1998 –  Osvaldo Hernández (CUB)
+1999 –  Osvaldo Hernández (CUB)
+2000 –  Andrea Sartoretti (ITA)
+2001 –  Ivan Miljković (YUG)
+2002 –  Ivan Miljković (YUG)
+2003 –  Ivan Miljković (SCG)
+2004 –  Andrea Sartoretti (ITA)
+2005 –  Ivan Miljković (SCG)
+2006 –  Gilberto Godoy Filho (BRA)
+2007 –  Ricardo Garcia (BRA)
+2008 –  Lloy Ball (USA)
+2009 –  Sérgio Santos (BRA)
+2010 –  Murilo Endres (BRA)
+2011 –  Maxim Mikhaylov (RUS)
+2012 –  Bartosz Kurek (POL)
+2013 –  Nikolay Pavlov (RUS)
+2014 –  Taylor Sander (USA)
+2015 –  Earvin N'Gapeth (FRA)
+2016 –  Marko Ivović (SRB)
+2017 –  Earvin N'Gapeth (FRA)
+
+### WorldCup
+
+1977 –  Tomasz Wójtowicz (POL)
+1981 –  Vyacheslav Zaytsev (URS)
+1985 –  Karch Kiraly (USA)
+1989 –  Karch Kiraly (USA)
+1991 –  Dmitry Fomin (URS)
+1995 –  Andrea Giani (ITA)
+1999 –  Roman Yakovlev (RUS)
+2003 –  Takahiro Yamamoto (JPN)
+2007 –  Gilberto Godoy Filho (BRA)
+2011 –  Maxim Mikhaylov (RUS)
+2015 –  Matt Anderson (USA)
+2019 –  Alan Souza (BRA)
+
+## Women
+### 19
 
 Most valuable player by edition
 1989–95 – Not awarded
@@ -231,7 +297,7 @@ Most valuable player by edition
 2023 –  Abby Vander Wal (USA)
 2025 –  Dimana Ivanova (BUL)
 
-## 21
+### 21
 
 Most valuable player by edition
 1977–81 – Not awarded
@@ -255,14 +321,14 @@ Most valuable player by edition
 2021 –  Gaia Guiducci (ITA)
 2023 –  Zhuang Yushan (CHN)
 
-## 23
+### 23
 
 Most valuable player by edition
 2013 –  Yao Di (CHN)
 2015 –  Juma Silva (BRA)
 2017 –  Hande Baladın (TUR)
 
-## Adult
+### Adult
 
 MVP by edition
 1952–78 – Not awarded[3]
@@ -278,7 +344,7 @@ MVP by edition
 2018 –  Tijana Bošković (SRB)
 2022 –  Tijana Bošković (SRB)
 
-## Olympics
+### Olympics
 
 1984 –  Lang Ping (CHN)
 1988 –  Cecilia Tait (PER)
@@ -291,3 +357,58 @@ MVP by edition
 2016 –  Zhu Ting (CHN)[18]
 2020 –  Jordan Larson (USA)[19]
 2024 –  Paola Egonu (ITA)
+
+### VNL
+
+2018 – United States Michelle Bartsch-Hackley
+2019 – United States Andrea Drews
+2021 – United States Michelle Bartsch-Hackley (2)
+2022 – Italy Paola Egonu
+2023 – Turkey Melissa Vargas
+2024 – Italy Paola Egonu (2)
+2025 – Italy Monica De Gennaro
+
+### Grand-Prix
+
+1993 –  Mireya Luis (CUB)
+1994 –  Fernanda Venturini (BRA)
+1995 –  Tara Cross-Battle (USA)
+1996 –  Leila Barros (BRA)
+1997 –  Yevgeniya Artamonova (RUS)
+1998 –  Leila Barros (BRA)
+1999 –  Virna Dias (BRA)
+2000 –  Lyubov Sokolova (RUS)
+2001 –  Danielle Scott-Arruda (USA)
+2002 –  Yevgeniya Artamonova (RUS)
+2003 –  Paola Cardullo (ITA)
+2004 –  Logan Tom (USA)
+2005 –  Paula Pequeno (BRA)
+2006 –  Sheilla Castro (BRA)
+2007 –  Manon Flier (NED)
+2008 –  Mari Steinbrecher (BRA)
+2009 –  Sheilla Castro (BRA)
+2010 –  Foluke Akinradewo (USA)
+2011 –  Destinee Hooker (USA)
+2012 –  Megan Hodge (USA)
+2013 –  Thaísa Menezes (BRA)
+2014 –  Yūko Sano (JPN)
+2015 –  Karsta Lowe (USA)
+2016 –  Natália Pereira (BRA)
+2017 –  Natália Pereira (BRA)
+
+### World Cup
+
+Most valuable player by edition
+1973 –  Jo Hea-jung (KOR)[3]
+1977 –  Takako Shirai (JPN)
+1981 –  Sun Jinfang (CHN)
+1985 –  Lang Ping (CHN)
+1989 –  Mireya Luis (CUB)
+1991 –  Caren Kemner (USA)
+1995 –  Mireya Luis (CUB)
+1999 –  Taismary Agüero (CUB)
+2003 –  Małgorzata Glinka (POL)
+2007 –  Simona Gioli (ITA)
+2011 –  Carolina Costagrande (ITA)
+2015 –  Zhu Ting (CHN)
+2019 –  Zhu Ting (CHN)
