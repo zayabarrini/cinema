@@ -624,3 +624,361 @@ https://www.imdb.com/title/tt0453047/?ref_=nv_sr_srsg_0_tt_4_nm_2_in_0_q_Elsa%25
 https://www.imdb.com/title/tt0350193/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Te%2520doy%2520mis%2520ojos | Take My Eyes (2003) - IMDb
 https://www.imdb.com/title/tt1454523/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Pa%2520negre | Black Bread (2010) - IMDb
 https://www.imdb.com/title/tt5897636/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_Verano%25201993 | Summer 1993 (2017) - IMDb
+
+# Women Directors
+
+## German, French
+
+https://www.imdb.com/name/nm0011752/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Maren%2520Ade | Maren Ade - IMDb
+https://www.imdb.com/name/nm0770018/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_Angela%2520Schanelec | Angela Schanelec - IMDb
+https://www.imdb.com/name/nm1007136/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Valeska%2520Grisebach | Valeska Grisebach - IMDb
+https://www.imdb.com/name/nm0761400/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Helke%2520Sander | Helke Sander - IMDb
+https://www.imdb.com/name/nm0836693/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Ula%2520St%25C3%25B6ckl | Ula Stöckl - IMDb
+https://www.imdb.com/name/nm0512862/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Caroline%2520Link | Caroline Link - IMDb
+https://www.imdb.com/name/nm0903137/?ref_=nv_sr_srsg_0_tt_3_nm_1_in_0_q_Margarethe%2520von%2520Trotta | Margarethe von Trotta - IMDb
+https://www.imdb.com/name/nm1477692/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Emily%2520Atef | Emily Atef - IMDb
+https://www.imdb.com/name/nm0470514/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Nicolette%2520Krebitz | Nicolette Krebitz - IMDb
+https://www.imdb.com/name/nm0246903/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Doris%2520D%25C3%25B6rrie%2520%2520 | Doris Dörrie - IMDb
+https://www.imdb.com/name/nm0219136/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Claire%2520Denis | Claire Denis - IMDb
+https://www.imdb.com/name/nm1780037/?ref_=nv_sr_srsg_0_tt_2_nm_3_in_0_q_C%25C3%25A9line%2520Sciamma | Céline Sciamma - IMDb
+https://www.imdb.com/name/nm0889513/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Agn%25C3%25A8s%2520Varda | Agnès Varda - IMDb
+https://www.imdb.com/name/nm0361135/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Mia%2520Hansen-L%25C3%25B8ve | Mia Hansen-Løve - IMDb
+https://www.imdb.com/name/nm2630323/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Justine%2520Triet | Justine Triet - IMDb
+https://www.imdb.com/name/nm4629833/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Alice%2520Diop | Alice Diop - IMDb
+https://www.imdb.com/name/nm0233123/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Val%25C3%25A9rie%2520Donzelli | Valérie Donzelli - IMDb
+https://www.imdb.com/name/nm4469445/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Julia%2520Ducournau | Julia Ducournau - IMDb
+https://www.imdb.com/name/nm2294243/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Rebecca%2520Zlotowski | Rebecca Zlotowski - IMDb
+https://www.imdb.com/name/nm0352968/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Lucile%2520Had%25C5%25BEihalilovi%25C4%2587%2520%2520 | Lucile Hadzihalilovic - IMDb
+
+## Italy, China
+
+https://www.imdb.com/name/nm0921631/?ref_=nv_sr_srsg_0_tt_2_nm_4_in_0_q_Lina%2520Wertm%25C3%25BCller | Lina Wertmüller - IMDb
+https://www.imdb.com/name/nm3114621/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Alice%2520Rohrwacher | Alice Rohrwacher - IMDb
+https://www.imdb.com/name/nm3061633/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Emma%2520Dante | Emma Dante - IMDb
+https://www.imdb.com/name/nm0002180/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Francesca%2520Archibugi | Francesca Archibugi - IMDb
+https://www.imdb.com/name/nm3053575/?ref_=nv_sr_srsg_0_tt_0_nm_5_in_0_q_Laura%2520Bispuri | Laura Bispuri - IMDb
+https://www.imdb.com/name/nm0146960/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Liliana%2520Cavani | Liliana Cavani - IMDb
+https://www.imdb.com/name/nm0273919/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Elena%2520Ferrante | Elena Ferrante - IMDb
+https://www.imdb.com/name/nm1339604/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Susanna%2520Nicchiarelli | Susanna Nicchiarelli - IMDb
+https://www.imdb.com/name/nm0544967/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Alina%2520Marazzi | Alina Marazzi - IMDb
+https://www.imdb.com/name/nm1096471/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Ginevra%2520Elkann%2520%2520 | Ginevra Elkann - IMDb
+https://www.imdb.com/name/nm2125482/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Chlo%25C3%25A9%2520Zhao | Chloé Zhao - IMDb
+https://www.imdb.com/name/nm0401176/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Ann%2520Hui | Ann Hui - IMDb
+https://www.imdb.com/name/nm0151827/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Sylvia%2520Chang | Sylvia Chang - IMDb
+https://www.imdb.com/name/nm16717024/?ref_=nv_sr_srsg_1_tt_6_nm_2_in_0_q_Li%2520Yu | Li-Yu Chen - IMDb
+https://www.imdb.com/name/nm1033043/?ref_=nv_sr_srsg_1_tt_0_nm_8_in_0_q_Emily%2520Tang | Emily Tang - IMDb
+https://www.imdb.com/name/nm2735954/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Vivian%2520Qu | Vivian Qu - IMDb
+https://www.imdb.com/name/nm0001040/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Joan%2520Chen | Joan Chen - IMDb
+https://www.imdb.com/name/nm1292891/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Xu%2520Jinglei | Jinglei Xu - IMDb
+https://www.imdb.com/name/nm0948075/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Ning%2520Ying | Ying Ning - IMDb
+https://www.imdb.com/name/nm7614958/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Yang%2520Mingming%2520%2520 | Yang Mingming - IMDb
+
+## Japan, Korea
+
+https://www.imdb.com/name/nm0442905/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Naomi%2520Kawase | Naomi Kawase - IMDb
+https://www.imdb.com/name/nm2242451/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Mika%2520Ninagawa | Mika Ninagawa - IMDb
+https://www.imdb.com/name/nm2135242/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Yuki%2520Tanada | Yuki Tanada - IMDb
+https://www.imdb.com/name/nm2214307/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Satoko%2520Yokohama | Satoko Yokohama - IMDb
+https://www.imdb.com/name/nm0793997/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Shinohara%2520Tetsuo%2520 | Tetsuo Shinohara - IMDb
+https://www.imdb.com/name/nm3471776/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Yoshiko%2520Watanabe | Yoshiko Watanabe - IMDb
+https://www.imdb.com/name/nm4584318/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Mayumi%2520Komatsu | Mayumi Komatsu - IMDb
+https://www.imdb.com/name/nm5292466/?ref_=nv_sr_srsg_0_tt_0_nm_6_in_0_q_Keiko%2520Tsuruoka | Keiko Tsuruoka - IMDb
+https://www.imdb.com/name/nm10480760/?ref_=nv_sr_srsg_6_tt_2_nm_6_in_0_q_Nanae%2520Suzuki | Sanae Suzuki - IMDb
+https://www.imdb.com/name/nm1977463/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Mari%2520Asato%2520%2520 | Mari Asato - IMDb
+https://www.imdb.com/name/nm0948027/?ref_=nv_sr_srsg_0_tt_0_nm_7_in_0_q_Yim%2520Soon-rye | Soon-rye Yim - IMDb
+https://www.imdb.com/name/nm3819933/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Boo%2520Ji-young | Ji-young Boo - IMDb
+https://www.imdb.com/name/nm1410208/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Byun%2520Young-joo | Young-Joo Byun - IMDb
+https://www.imdb.com/name/nm5582432/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Kim%2520Bora | Bora Kim - IMDb
+https://www.imdb.com/name/nm3209293/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Lee%2520Kyoung-mi | Lee Kyoung-mi - IMDb
+https://www.imdb.com/name/nm4772133/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Jung%2520July | July Jung - IMDb
+https://www.imdb.com/name/nm1364221/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Park%2520Chan-ok | Chan-ok Park - IMDb
+https://www.imdb.com/name/nm4100260/?ref_=nv_sr_srsg_0_tt_2_nm_2_in_0_q_Shin%2520Su-won | Su-won Shin - IMDb
+https://www.imdb.com/name/nm10085606/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Han%2520Ka-ram | Han Ka-ram - IMDb
+https://www.imdb.com/name/nm9282974/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Jeong%2520Ga-young%2520%2520 | Ga-Young Jeong - IMDb
+
+## Arabic, Russia
+
+https://www.imdb.com/name/nm1701024/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_Nadine%2520Labaki%2520 | Nadine Labaki - IMDb
+https://www.imdb.com/name/nm2223783/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_Haifaa%2520al-Mansour%2520 | Haifaa Al-Mansour - IMDb
+https://www.imdb.com/name/nm4141599/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Kaouther%2520Ben%2520Hania%2520 | Kaouther Ben Hania - IMDb
+https://www.imdb.com/name/nm0252829/?ref_=nv_sr_srsg_0_tt_3_nm_1_in_0_q_Dima%2520El-Horr%2520 | Dima El-Horr - IMDb
+https://www.imdb.com/name/nm0636675/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Jehane%2520Noujaim%2520 | Jehane Noujaim - IMDb
+https://www.imdb.com/name/nm2670356/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Anissa%2520Daoud%2520 | Anissa Daoud - IMDb
+https://www.imdb.com/name/nm5593337/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Soudade%2520Kaadan%2520 | Soudade Kaadan - IMDb
+https://www.imdb.com/name/nm3960987/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Leyla%2520Bouzid%2520 | Leyla Bouzid - IMDb
+https://www.imdb.com/name/nm7647102/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Zeinab%2520Hind%2520Khadra%2520 | Zeinab Hind Khadra - IMDb
+https://www.imdb.com/name/nm2298061/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Amal%2520Ramsis%2520 | Amal Ramsis - IMDb
+https://www.imdb.com/name/nm0613645/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Kira%2520Muratova | Kira Muratova - IMDb
+https://www.imdb.com/name/nm0698757/?ref_=nv_sr_srsg_0_tt_0_nm_3_in_0_q_Svetlana%2520Proskurina | Svetlana Proskurina - IMDb
+https://www.imdb.com/name/nm0514852/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Renata%2520Litvinova | Renata Litvinova - IMDb
+https://www.imdb.com/name/nm0324683/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Lana%2520Gogoberidze | Lana Gogoberidze - IMDb
+https://www.imdb.com/name/nm1346885/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Anna%2520Melikian | Anna Melikyan - IMDb
+https://www.imdb.com/name/nm0513400/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Tatiana%2520Lioznova | Tatyana Lioznova - IMDb
+https://www.imdb.com/name/nm3437705/?ref_=nv_sr_srsg_0_tt_0_nm_6_in_0_q_Natalya%2520Kudryashova | Natalya Kudryashova - IMDb
+https://www.imdb.com/name/nm2294083/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Oksana%2520Bychkova | Oxana Bychkova - IMDb
+https://www.imdb.com/name/nm9336934/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Yuliya%2520Trofimova | Yuliya Trofimova - IMDb
+https://www.imdb.com/name/nm1975949/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Alisa%2520Khazanova%2520%2520 | Alisa Khazanova - IMDb
+
+## Brazil, Spain
+
+https://www.imdb.com/name/nm1155957/?ref_=nv_sr_srsg_0_tt_0_nm_6_in_0_q_Anna%2520Muylaert | Anna Muylaert - IMDb
+https://www.imdb.com/name/nm0463156/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Sandra%2520Kogut | Sandra Kogut - IMDb
+https://www.imdb.com/name/nm1738698/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_La%25C3%25ADs%2520Bodanzky | Laís Bodanzky - IMDb
+https://www.imdb.com/name/nm0858680/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Daniela%2520Thomas | Daniela Thomas - IMDb
+https://www.imdb.com/name/nm0014694/?ref_=nv_sr_srsg_0_tt_0_nm_7_in_0_q_Karim%2520A%25C3%25AFnouz | Karim Aïnouz - IMDb
+https://www.imdb.com/name/nm0024015/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Tata%2520Amaral | Tata Amaral - IMDb
+https://www.imdb.com/name/nm0812773/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Helena%2520Solberg | Helena Solberg - IMDb
+https://www.imdb.com/name/nm1099396/?ref_=nv_sr_srsg_0_tt_1_nm_5_in_0_q_Renata%2520Pinheiro | Renata Pinheiro - IMDb
+https://www.imdb.com/name/nm2663291/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Cris%2520Azzi | Cris Azzi - IMDb
+https://www.imdb.com/name/nm0613580/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Julia%2520Murat%2520%2520 | Júlia Murat - IMDb
+https://www.imdb.com/name/nm0093081/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Ic%25C3%25ADar%2520Bolla%25C3%25ADn | Icíar Bollaín - IMDb
+https://www.imdb.com/name/nm0170043/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Isabel%2520Coixet | Isabel Coixet - IMDb
+https://www.imdb.com/name/nm0592636/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Pilar%2520Mir%25C3%25B3 | Pilar Miró - IMDb
+https://www.imdb.com/name/nm0248401/?ref_=nv_sr_srsg_0_tt_0_nm_3_in_0_q_Arantxa%2520Echevarr%25C3%25ADa | Arantxa Echevarría - IMDb
+https://www.imdb.com/name/nm0703265/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Gracia%2520Querejeta | Gracia Querejeta - IMDb
+https://www.imdb.com/name/nm2717602/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Carlota%2520Pereda | Carlota Pereda - IMDb
+https://www.imdb.com/name/nm2315216/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Paula%2520Ortiz | Paula Ortiz - IMDb
+https://www.imdb.com/name/nm2843690/?ref_=nv_sr_srsg_0_tt_3_nm_4_in_0_q_Neus%2520Ball%25C3%25BAs | Neus Ballús - IMDb
+https://www.imdb.com/name/nm4652014/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Clara%2520Roquet | Clara Roquet - IMDb
+https://www.imdb.com/name/nm0352968/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Lucile%2520Had%25C5%25BEihalilovi%25C4%2587%2520%2520 | Lucile Hadzihalilovic - IMDb
+
+## Hindi, Mexico
+
+https://www.imdb.com/name/nm0031967/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Aparna%2520Sen | Aparna Sen - IMDb
+https://www.imdb.com/name/nm0015295/?ref_=nv_sr_srsg_0_tt_2_nm_4_in_0_q_Zoya%2520Akhtar | Zoya Akhtar - IMDb
+https://www.imdb.com/name/nm0619762/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Mira%2520Nair | Mira Nair - IMDb
+https://www.imdb.com/name/nm1126068/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Meghna%2520Gulzar | Meghna Gulzar - IMDb
+https://www.imdb.com/name/nm6436658/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Ashwiny%2520Iyer%2520Tiwari | Ashwiny Iyer Tiwari - IMDb
+https://www.imdb.com/name/nm1030373/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Reema%2520Kagti | Reema Kagti - IMDb
+https://www.imdb.com/name/nm1903006/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Gauri%2520Shinde | Gauri Shinde - IMDb
+https://www.imdb.com/name/nm0007134/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Farah%2520Khan | Farah Khan - IMDb
+https://www.imdb.com/name/nm1444479/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Kiran%2520Rao | Kiran Rao - IMDb
+https://www.imdb.com/name/nm1636742/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Leena%2520Yadav | Leena Yadav - IMDb
+https://www.imdb.com/name/nm2771884/?ref_=nv_sr_srsg_0_tt_0_nm_7_in_0_q_Alankrita%2520Shrivastava | Alankrita Shrivastava - IMDb
+https://www.imdb.com/name/nm3569165/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Lila%2520Avil%25C3%25A9s | Lila Avilés - IMDb
+https://www.imdb.com/name/nm1633015/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Michel%2520Franco%2520 | Michel Franco - IMDb
+https://www.imdb.com/name/nm1333964/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Luc%25C3%25ADa%2520Gaj%25C3%25A1 | Lucía Gajá - IMDb
+https://www.imdb.com/name/nm0636979/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Mar%25C3%25ADa%2520Novaro | María Novaro - IMDb
+https://www.imdb.com/name/nm4424289/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Guadalupe%2520Ferrer%2520%2520 | Guadalupe Ferrer Andrade - IMDb
+https://www.imdb.com/name/nm1773569/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Shonali%2520Bose | Shonali Bose - IMDb
+https://www.imdb.com/name/nm7498460/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Ruchika%2520Oberoi | Ruchika Oberoi - IMDb
+https://www.imdb.com/name/nm0201903/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Nandita%2520Das | Nandita Das - IMDb
+https://www.imdb.com/name/nm1234298/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Konkona%2520Sen%2520Sharma%2520%2520 | Konkona Sen Sharma - IMDb
+
+## UK, USA
+
+https://www.imdb.com/name/nm0708903/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Lynne%2520Ramsay | Lynne Ramsay - IMDb
+https://www.imdb.com/name/nm0036349/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Andrea%2520Arnold | Andrea Arnold - IMDb
+https://www.imdb.com/name/nm0006845/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Sally%2520Potter | Sally Potter - IMDb
+https://www.imdb.com/name/nm1163237/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Clio%2520Barnard | Clio Barnard - IMDb
+https://www.imdb.com/name/nm1392994/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Amma%2520Asante | Amma Asante - IMDb
+https://www.imdb.com/name/nm0389712/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Joanna%2520Hogg | Joanna Hogg - IMDb
+https://www.imdb.com/name/nm0335138/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Debra%2520Granik | Debra Granik - IMDb
+https://www.imdb.com/name/nm3834799/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_%2520%2520%2520%2520Charlotte%2520Wells | Charlotte Wells - IMDb
+https://www.imdb.com/name/nm1546686/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Alice%2520Lowe | Alice Lowe - IMDb
+https://www.imdb.com/name/nm4866189/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Molly%2520Manning%2520Walker%2520%2520 | Molly Manning Walker - IMDb
+https://www.imdb.com/name/nm0000941/?ref_=nv_sr_srsg_0_tt_2_nm_3_in_0_q_Kathryn%2520Bigelow | Kathryn Bigelow - IMDb
+https://www.imdb.com/name/nm1148550/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Ava%2520DuVernay | Ava DuVernay - IMDb
+https://www.imdb.com/name/nm1950086/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Greta%2520Gerwig | Greta Gerwig - IMDb
+https://www.imdb.com/name/nm2125482/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Chlo%25C3%25A9%2520Zhao | Chloé Zhao - IMDb
+https://www.imdb.com/name/nm0716980/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Kelly%2520Reichardt | Kelly Reichardt - IMDb
+https://www.imdb.com/name/nm0001068/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Sofia%2520Coppola | Sofia Coppola - IMDb
+https://www.imdb.com/name/nm0201969/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Julie%2520Dash | Julie Dash - IMDb
+https://www.imdb.com/name/nm0619762/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Mira%2520Nair | Mira Nair - IMDb
+https://www.imdb.com/name/nm2304675/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Lulu%2520Wang%2520%2520 | Lulu Wang - IMDb
+
+# Women Director Movies
+
+https://www.imdb.com/title/tt0314009/?ref_=nm_knf_t_3 | Durval Discos (2002) - IMDb
+https://www.imdb.com/title/tt0848596/?ref_=nm_knf_t_2 | Mutum (2007) - IMDb
+https://www.imdb.com/title/tt0977642/?ref_=nm_knf_t_1 | Chega de Saudade (2007) - IMDb
+https://www.imdb.com/title/tt0114651/?ref_=nm_knf_t_1 | Foreign Land (1995) - IMDb
+https://www.imdb.com/title/tt2199543/?ref_=nm_knf_t_3 | Futuro Beach (2014) - IMDb
+https://www.imdb.com/title/tt6390668/?ref_=nm_knf_t_1 | Invisible Life (2019) - IMDb
+https://www.imdb.com/title/tt0115999/?ref_=nm_knf_t_4 | A Starry Sky (1996) - IMDb
+https://www.imdb.com/title/tt1312241/?ref_=nm_knf_t_3 | Palavra (en)cantada (2008) - IMDb
+https://www.imdb.com/title/tt2650414/?ref_=nm_knf_t_2 | Love, Plastic and Noise (2013) - IMDb
+https://www.imdb.com/title/tt9031644/?ref_=nm_knf_t_2 | Luna (2018) - IMDb
+https://www.imdb.com/title/tt2043879/?ref_=nm_knf_t_2 | Found Memories (2011) - IMDb
+https://www.imdb.com/title/tt0350193/?ref_=nm_knf_t_1 | Take My Eyes (2003) - IMDb
+https://www.imdb.com/title/tt0401711/?ref_=nm_knf_t_4 | Paris, Je T'aime (2006) - IMDb
+https://www.imdb.com/title/tt0314412/?ref_=nm_knf_t_1 | My Life Without Me (2003) - IMDb
+https://www.imdb.com/title/tt0430576/?ref_=nm_knf_t_2 | The Secret Life of Words (2005) - IMDb
+https://www.imdb.com/title/tt0114115/?ref_=nm_knf_t_1 | The Dog in the Manger (1996) - IMDb
+https://www.imdb.com/title/tt7485508/?ref_=nm_knf_t_1 | Carmen & Lola (2018) - IMDb
+https://www.imdb.com/title/tt0214608/?ref_=nm_knf_t_3 | Cuando vuelvas a mi lado (1999) - IMDb
+https://www.imdb.com/title/tt10399608/?ref_=nm_knf_t_1 | Piggy (2022) - IMDb
+https://www.imdb.com/title/tt27599713/?ref_=nm_knf_t_4 | The Red Virgin (2024) - IMDb
+https://www.imdb.com/title/tt2645142/?ref_=nm_knf_t_1 | The Plague (2013) - IMDb
+https://www.imdb.com/title/tt7605702/?ref_=nm_knf_t_3 | The Days to Come (2019) - IMDb
+https://www.imdb.com/user/ur120912813/lists/?ref_=tt_nv_lst | Your lists
+
+https://www.imdb.com/title/tt0122630/?ref_=nm_knf_t_3 | Ramdenime interviu pirad sakitkhebze (1978) - IMDb
+https://www.imdb.com/title/tt0995747/?ref_=nm_knf_t_2 | Mermaid (2007) - IMDb
+https://www.imdb.com/title/tt0062393/?ref_=nm_knf_t_1 | Three Poplars on Plyuschikha Street (1968) - IMDb
+https://www.imdb.com/title/tt8900172/?ref_=nm_knf_t_2 | The Man Who Surprised Everyone (2018) - IMDb
+https://www.imdb.com/title/tt0813541/?ref_=nm_knf_t_4 | Piter FM (2006) - IMDb
+https://www.imdb.com/title/tt15528494/?ref_=nm_knf_t_2 | Strana Sasha (2022) - IMDb
+https://www.imdb.com/title/tt1596365/?ref_=nm_knf_t_1 | The Woman in Black (2012) - IMDb
+
+https://www.imdb.com/title/tt1242460/?ref_=nm_knf_t_1 | We Need to Talk About Kevin (2011) - IMDb
+https://www.imdb.com/title/tt1232776/?ref_=nm_knf_t_2 | Fish Tank (2009) - IMDb
+https://www.imdb.com/title/tt0107756/?ref_=nm_knf_t_2 | Orlando (1992) - IMDb
+https://www.imdb.com/title/tt2304426/?ref_=nm_knf_t_1 | The Selfish Giant (2013) - IMDb
+https://www.imdb.com/title/tt2404181/?ref_=nm_knf_t_1 | Belle (2013) - IMDb
+https://www.imdb.com/title/tt1107850/?ref_=nm_knf_t_3 | Unrelated (2007) - IMDb
+https://www.imdb.com/title/tt1399683/?ref_=nm_knf_t_1 | Winter's Bone (2010) - IMDb
+https://www.imdb.com/title/tt9495224/?ref_=nm_knf_t_3 | Black Mirror: Bandersnatch (2018) - IMDb
+https://www.imdb.com/title/tt22890246/?ref_=nm_knf_t_1 | How to Have Sex (2023) - IMDb
+https://www.imdb.com/title/tt1790885/?ref_=nm_knf_t_2 | Zero Dark Thirty (2012) - IMDb
+https://www.imdb.com/title/tt1211890/?ref_=nm_knf_t_4 | Middle of Nowhere (2012) - IMDb
+https://www.imdb.com/title/tt2872462/?ref_=nm_knf_t_3 | Mistress America (2015) - IMDb
+https://www.imdb.com/title/tt6217608/?ref_=nm_knf_t_3 | The Rider (2017) - IMDb
+https://www.imdb.com/title/tt4468634/?ref_=nm_knf_t_3 | Certain Women (2016) - IMDb
+https://www.imdb.com/title/tt0159097/?ref_=nm_knf_t_3 | The Virgin Suicides (1999) - IMDb
+https://www.imdb.com/title/tt0180708/?ref_=nm_knf_t_3 | Funny Valentines (1999) - IMDb
+https://www.imdb.com/title/tt0096028/?ref_=nm_knf_t_2 | Salaam Bombay! (1988) - IMDb
+https://www.imdb.com/title/tt8637428/?ref_=nm_knf_t_1 | The Farewell (2019) - IMDb
+
+https://www.imdb.com/title/tt1242460/?ref_=nm_knf_t_1 | We Need to Talk About Kevin (2011) - IMDb
+https://www.imdb.com/title/tt1232776/?ref_=nm_knf_t_2 | Fish Tank (2009) - IMDb
+https://www.imdb.com/title/tt0107756/?ref_=nm_knf_t_2 | Orlando (1992) - IMDb
+https://www.imdb.com/title/tt2304426/?ref_=nm_knf_t_1 | The Selfish Giant (2013) - IMDb
+https://www.imdb.com/title/tt2404181/?ref_=nm_knf_t_1 | Belle (2013) - IMDb
+https://www.imdb.com/title/tt1107850/?ref_=nm_knf_t_3 | Unrelated (2007) - IMDb
+https://www.imdb.com/title/tt1399683/?ref_=nm_knf_t_1 | Winter's Bone (2010) - IMDb
+https://www.imdb.com/title/tt9495224/?ref_=nm_knf_t_3 | Black Mirror: Bandersnatch (2018) - IMDb
+https://www.imdb.com/title/tt22890246/?ref_=nm_knf_t_1 | How to Have Sex (2023) - IMDb
+https://www.imdb.com/title/tt1790885/?ref_=nm_knf_t_2 | Zero Dark Thirty (2012) - IMDb
+https://www.imdb.com/title/tt1211890/?ref_=nm_knf_t_4 | Middle of Nowhere (2012) - IMDb
+https://www.imdb.com/title/tt2872462/?ref_=nm_knf_t_3 | Mistress America (2015) - IMDb
+https://www.imdb.com/title/tt6217608/?ref_=nm_knf_t_3 | The Rider (2017) - IMDb
+https://www.imdb.com/title/tt4468634/?ref_=nm_knf_t_3 | Certain Women (2016) - IMDb
+https://www.imdb.com/title/tt0159097/?ref_=nm_knf_t_3 | The Virgin Suicides (1999) - IMDb
+https://www.imdb.com/title/tt0180708/?ref_=nm_knf_t_3 | Funny Valentines (1999) - IMDb
+https://www.imdb.com/title/tt0096028/?ref_=nm_knf_t_2 | Salaam Bombay! (1988) - IMDb
+https://www.imdb.com/title/tt8637428/?ref_=nm_knf_t_1 | The Farewell (2019) - IMDb
+
+https://www.imdb.com/title/tt6083230/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Little%2520Forest | Little Forest (2018) - IMDb
+https://www.imdb.com/title/tt3953834/?ref_=nv_sr_srsg_3_tt_3_nm_5_in_0_q_Cart | Cart (2014) - IMDb
+https://www.imdb.com/title/tt0374083/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_The%2520Murmuring | The Murmuring (1995) - IMDb
+https://www.imdb.com/title/tt8951086/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_House%2520of%2520Hummingbird | House of Hummingbird (2018) - IMDb
+https://www.imdb.com/title/tt5768474/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Truth%2520Beneath | The Truth Beneath (2016) - IMDb
+https://www.imdb.com/title/tt3661798/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Girl%2520at%2520My%2520Door | A Girl at My Door (2014) - IMDb
+https://www.imdb.com/title/tt0352464/?ref_=nv_sr_srsg_1_tt_6_nm_2_in_0_q_Jealousy%2520Is%2520My%2520Middle%2520Name | Jealousy Is My Middle Name (2002) - IMDb
+https://www.imdb.com/title/tt26737616/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Pluto | Pluto (TV Mini Series 2023) - IMDb
+https://www.imdb.com/title/tt8922682/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Our%2520Body | Our Body (2018) - IMDb
+https://www.imdb.com/title/tt7390054/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Hit%2520the%2520Night%2520%2520 | Hit the Night (2017) - IMDb
+https://www.imdb.com/title/tt10360862/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Man%2520Who%2520Sold%2520His%2520Skin | The Man Who Sold His Skin (2020) - IMDb
+https://www.imdb.com/title/tt1353789/?ref_=nm_knf_t_1 | Chaque jour est une fête (2009) - IMDb
+https://www.imdb.com/title/tt2486682/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_The%2520Square | The Square (2013) - IMDb
+https://www.imdb.com/title/tt1039980/?ref_=nm_knf_t_3 | Tender Is the Wolf (2006) - IMDb
+https://www.imdb.com/title/tt8900142/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Day%2520I%2520Lost%2520My%2520Shadow | The Day I Lost My Shadow (2018) - IMDb
+https://www.imdb.com/name/nm0233123/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Val%25C3%25A9rie%2520Donzelli | Valérie Donzelli - IMDb
+https://www.imdb.com/title/tt0096841/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Asthenic%2520Syndrome | The Asthenic Syndrome (1989) - IMDb
+https://www.imdb.com/title/tt0423433/?ref_=nm_knf_t_1 | Remote Access (2004) - IMDb
+https://www.imdb.com/title/tt1766044/?ref_=nm_knf_t_1 | Poslednyaya skazka Rity (2012) - IMDb
+
+https://www.imdb.com/title/tt3646344/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Sworn%2520Virgin | Sworn Virgin (2015) - IMDb
+https://www.imdb.com/title/tt0071910/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Night%2520Porter | The Night Porter (1974) - IMDb
+https://www.imdb.com/title/tt7186092/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Nico%25201988 | Nico, 1988 (2017) - IMDb
+https://www.imdb.com/title/tt0329468/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_For%2520One%2520More%2520Hour%2520With%2520You | For One More Hour with You (2002) - IMDb
+https://www.imdb.com/title/tt0332136/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_If%2520Only%2520%2520 | If Only (2004) - IMDb
+https://www.imdb.com/title/tt2008006/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Simple%2520Life | A Simple Life (2011) - IMDb
+https://www.imdb.com/title/tt7479718/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Love%2520Education | Love Education (2017) - IMDb
+https://www.imdb.com/title/tt1745713/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Buddha%2520Mountain | Buddha Mountain (2010) - IMDb
+https://www.imdb.com/title/tt1510857/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_Perfect%2520Life | Wan mei sheng huo (2008) - IMDb
+https://www.imdb.com/title/tt7205208/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Angels%2520Wear%2520White | Angels Wear White (2017) - IMDb
+https://www.imdb.com/title/tt0115005/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%2520%2520%2520%2520Xiu%2520Xiu%253A%2520The%2520Sent%2520Down%252 | Xiu Xiu: The Sent-Down Girl (1998) - IMDb
+https://www.imdb.com/title/tt1621780/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Go%2520Lala%2520Go! | Go Lala Go! (2010) - IMDb
+https://www.imdb.com/title/tt0334732/?ref_=nm_knf_t_4 | Xi wang zhi lü (2002) - IMDb
+https://www.imdb.com/title/tt7955712/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Girls%2520Always%2520Happy%2520%2520 | Girls Always Happy (2018) - IMDb
+https://www.imdb.com/title/tt3230162/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Still%2520the%2520Water | Still the Water (2014) - IMDb
+https://www.imdb.com/title/tt0794338/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Sakuran | Sakuran (2006) - IMDb
+https://www.imdb.com/title/tt1077094/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_One%2520Million%2520Yen%2520Girl | One Million Yen Girl (2008) - IMDb
+https://www.imdb.com/title/tt1446204/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Bare%2520Essence%2520of%2520Life | Urutora mirakuru rabu sutôrî (2009) - IMDb
+https://www.imdb.com/title/tt3684484/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Fatal%2520Frame%2520%2520 | Fatal Frame (2014) - IMDb
+
+https://www.imdb.com/title/tt7760890/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_I%2520Was%2520at%2520Home%2520But... | I Was at Home, But... (2019) - IMDb
+https://www.imdb.com/title/tt0077150/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520All-Around%2520Reduced%2520Personality | Die allseitig reduzierte Persönlichkeit - Redupers (1978) - IMDb
+https://www.imdb.com/title/tt0130141/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Neun%2520Leben%2520hat%2520die%2520Katze | The Cat Has Nine Lives (1968) - IMDb
+https://www.imdb.com/title/tt1674773/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Hannah%2520Arendt | Hannah Arendt (2012) - IMDb
+https://www.imdb.com/title/tt6463494/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_3%2520Days%2520in%2520Quiberon | 3 Days in Quiberon (2018) - IMDb
+https://www.imdb.com/title/tt0910559/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Cherry%2520Blossoms%2520%2520 | Cherry Blossoms (2008) - IMDb
+https://www.imdb.com/title/tt4071086/?ref_=nm_knf_t_2 | Wild (2016) - IMDb
+https://www.imdb.com/title/tt0209933/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Beau%2520Travail | Beau Travail (1999) - IMDb
+https://www.imdb.com/title/tt0055852/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Cl%25C3%25A9o%2520from%25205%2520to%25207 | Cléo from 5 to 7 (1962) - IMDb
+https://www.imdb.com/title/tt0028358/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Things%2520to%2520Come | Things to Come (1936) - IMDb
+https://www.imdb.com/title/tt15376894/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Saint%2520Omer | Saint Omer (2022) - IMDb
+https://www.imdb.com/title/tt1931470/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Declaration%2520of%2520War | Declaration of War (2011) - IMDb
+https://www.imdb.com/title/tt10944760/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Titane | Titane (2021) - IMDb
+https://www.imdb.com/title/tt15403712/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Other%2520People%25E2%2580%2599s%2520Children | Other People's Children (2022) - IMDb
+https://www.imdb.com/title/tt4291590/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Evolution | Evolution (2015) - IMDb
+https://www.imdb.com/title/tt0075040/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Seven%2520Beauties | Seven Beauties (1975) - IMDb
+https://www.imdb.com/title/tt6752992/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Happy%2520as%2520Lazzaro | Happy as Lazzaro (2018) - IMDb
+https://www.imdb.com/title/tt1966637/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Street%2520in%2520Palermo | A Street in Palermo (2013) - IMDb
+https://www.imdb.com/title/tt0107040/?ref_=nm_knf_t_3 | Il grande cocomero (1993) - IMDb
+https://www.imdb.com/title/tt3646344/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Sworn%2520Virgin | Sworn Virgin (2015) - IMDb
+
+# Favorite Directors
+
+https://www.imdb.com/user/ur120912813/ratings/?ref_=ext_shr_lnk&sort=top_rated%2Cdesc | Your ratings
+https://www.imdb.com/name/nm0048918/?ref_=rt_li_1_1 | Sean Baker - IMDb
+https://www.imdb.com/name/nm0094435/?ref_=rt_li_1_1 | Bong Joon Ho - IMDb
+https://www.imdb.com/name/nm1227232/?ref_=rt_li_1_1 | Brady Corbet - IMDb
+https://www.imdb.com/name/nm0000759/?ref_=rt_li_1_1 | Paul Thomas Anderson - IMDb
+https://www.imdb.com/name/nm0001466/?ref_=rt_li_1_1 | Sergio Leone - IMDb
+https://www.imdb.com/name/nm0594503/?ref_=rt_li_1_1 | Hayao Miyazaki - IMDb
+https://www.imdb.com/name/nm0001837/?ref_=rt_li_1_1 | Peter Weir - IMDb
+https://www.imdb.com/name/nm6478535/?ref_=rt_li_1_1 | Gints Zilbalodis - IMDb
+https://www.imdb.com/name/nm0661791/?ref_=rt_li_1_1 | Park Chan-wook - IMDb
+https://www.imdb.com/name/nm10227660/?ref_=rt_li_1_1 | Celine Song - IMDb
+https://www.imdb.com/name/nm0574625/?ref_=rt_li_1_1 | James McTeigue - IMDb
+https://www.imdb.com/name/nm1396121/?ref_=rt_li_1_1 | Makoto Shinkai - IMDb
+https://www.imdb.com/name/nm3834799/?ref_=rt_li_1_1 | Charlotte Wells - IMDb
+https://www.imdb.com/name/nm0345174/?ref_=rt_li_1_1 | Luca Guadagnino - IMDb
+https://www.imdb.com/name/nm0518836/?ref_=rt_li_1_1 | Kenneth Lonergan - IMDb
+https://www.imdb.com/name/nm2630323/?ref_=rt_li_1_1 | Justine Triet - IMDb
+https://www.imdb.com/name/nm1732981/?ref_=rt_li_1_1 | Martin McDonagh - IMDb
+https://www.imdb.com/name/nm1258686/?ref_=rt_li_1_1 | Joachim Trier - IMDb
+https://www.imdb.com/name/nm1701024/?ref_=rt_li_1_1 | Nadine Labaki - IMDb
+https://www.imdb.com/name/nm0000264/?ref_=rt_li_1_1 | Pedro Almodóvar - IMDb
+https://www.imdb.com/name/nm1780037/?ref_=rt_li_1_1 | Céline Sciamma - IMDb
+https://www.imdb.com/name/nm3281319/?ref_=rt_li_1_1 | Magnus von Horn - IMDb
+https://www.imdb.com/name/nm0005237/?ref_=rt_li_1_1 | Anthony Minghella - IMDb
+https://www.imdb.com/name/nm0276062/?ref_=rt_li_1_1 | Todd Field - IMDb
+https://www.imdb.com/name/nm0001005/?ref_=rt_li_1_1 | Jane Campion - IMDb
+https://www.imdb.com/name/nm4080113/?ref_=rt_li_1_1 | Lukas Dhont - IMDb
+https://www.imdb.com/name/nm1108007/?ref_=rt_li_1_1 | David Lowery - IMDb
+https://www.imdb.com/name/nm0788234/?ref_=rt_li_1_1 | John Patrick Shanley - IMDb
+https://www.imdb.com/name/nm0197636/?ref_=rt_li_1_1 | Stephen Daldry - IMDb
+https://www.imdb.com/user/ur120912813/ratings/?ref_=ext_shr_lnk&sort=top_rated%2Cdesc | Your ratings
+https://www.imdb.com/name/nm0048918/?ref_=rt_li_1_1 | Sean Baker - IMDb
+https://www.imdb.com/name/nm0094435/?ref_=rt_li_1_1 | Bong Joon Ho - IMDb
+https://www.imdb.com/name/nm1227232/?ref_=rt_li_1_1 | Brady Corbet - IMDb
+https://www.imdb.com/name/nm0000759/?ref_=rt_li_1_1 | Paul Thomas Anderson - IMDb
+https://www.imdb.com/name/nm0001466/?ref_=rt_li_1_1 | Sergio Leone - IMDb
+https://www.imdb.com/name/nm0594503/?ref_=rt_li_1_1 | Hayao Miyazaki - IMDb
+https://www.imdb.com/name/nm0001837/?ref_=rt_li_1_1 | Peter Weir - IMDb
+https://www.imdb.com/name/nm6478535/?ref_=rt_li_1_1 | Gints Zilbalodis - IMDb
+https://www.imdb.com/name/nm0661791/?ref_=rt_li_1_1 | Park Chan-wook - IMDb
+https://www.imdb.com/name/nm10227660/?ref_=rt_li_1_1 | Celine Song - IMDb
+https://www.imdb.com/name/nm0574625/?ref_=rt_li_1_1 | James McTeigue - IMDb
+https://www.imdb.com/name/nm1396121/?ref_=rt_li_1_1 | Makoto Shinkai - IMDb
+https://www.imdb.com/name/nm3834799/?ref_=rt_li_1_1 | Charlotte Wells - IMDb
+https://www.imdb.com/name/nm0345174/?ref_=rt_li_1_1 | Luca Guadagnino - IMDb
+https://www.imdb.com/name/nm0518836/?ref_=rt_li_1_1 | Kenneth Lonergan - IMDb
+https://www.imdb.com/name/nm2630323/?ref_=rt_li_1_1 | Justine Triet - IMDb
+https://www.imdb.com/name/nm1732981/?ref_=rt_li_1_1 | Martin McDonagh - IMDb
+https://www.imdb.com/name/nm1258686/?ref_=rt_li_1_1 | Joachim Trier - IMDb
+https://www.imdb.com/name/nm1701024/?ref_=rt_li_1_1 | Nadine Labaki - IMDb
+https://www.imdb.com/name/nm0000264/?ref_=rt_li_1_1 | Pedro Almodóvar - IMDb
+https://www.imdb.com/name/nm1780037/?ref_=rt_li_1_1 | Céline Sciamma - IMDb
+https://www.imdb.com/name/nm3281319/?ref_=rt_li_1_1 | Magnus von Horn - IMDb
+https://www.imdb.com/name/nm0005237/?ref_=rt_li_1_1 | Anthony Minghella - IMDb
+https://www.imdb.com/name/nm0276062/?ref_=rt_li_1_1 | Todd Field - IMDb
+https://www.imdb.com/name/nm0001005/?ref_=rt_li_1_1 | Jane Campion - IMDb
+https://www.imdb.com/name/nm4080113/?ref_=rt_li_1_1 | Lukas Dhont - IMDb
+https://www.imdb.com/name/nm1108007/?ref_=rt_li_1_1 | David Lowery - IMDb
+https://www.imdb.com/name/nm0788234/?ref_=rt_li_1_1 | John Patrick Shanley - IMDb
+https://www.imdb.com/name/nm0197636/?ref_=rt_li_1_1 | Stephen Daldry - IMDb

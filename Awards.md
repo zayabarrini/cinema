@@ -1,3 +1,4 @@
+
 # Links and resources
 
 https://mubi.com/en/awards-and-festivals
@@ -2678,3 +2679,259 @@ Here’s a list of some of the **greatest African actors, actresses, and directo
 - **Danai Gurira** (Zimbabwe/US) – *Black Panther*, *The Walking Dead*.  
 
 Would you like a deeper dive into any of these legends?
+
+## Women Directors
+
+🎬 Top Women Directors by Country/Region
+🌍 Country / Region	🎥 Director	🎞️ Notable Works	🌐 Notes
+🇩🇪 Germany	Maren Ade	Toni Erdmann	Global acclaim; Berlinale & Cannes
+Angela Schanelec	I Was at Home, But...	Minimalist, Berlin School
+Valeska Grisebach	Western	Psychological realism
+Helke Sander	The All-Around Reduced Personality	Feminist cinema pioneer
+Ula Stöckl	Neun Leben hat die Katze	Experimental & feminist
+Caroline Link	Nowhere in Africa	Oscar-winner
+Margarethe von Trotta	Hannah Arendt	Politically charged biopics
+Emily Atef	3 Days in Quiberon	Contemporary drama
+Nicolette Krebitz	Wild	Actor-director
+Doris Dörrie	Cherry Blossoms	Japan-Germany themes
+
+| 🇫🇷 France | Claire Denis | Beau Travail | Major auteur, post-colonial themes |
+| | Céline Sciamma | Portrait of a Lady on Fire | Queer & feminist narratives |
+| | Agnès Varda | Cléo from 5 to 7 | Nouvelle Vague icon |
+| | Mia Hansen-Løve | Things to Come | Philosophical introspection |
+| | Justine Triet | Anatomy of a Fall | Palme d’Or winner |
+| | Alice Diop | Saint Omer | Essayist + filmmaker |
+| | Valérie Donzelli | Declaration of War | Hybrid, tragicomic tone |
+| | Julia Ducournau | Titane | Cannes Palme d’Or, body horror |
+| | Rebecca Zlotowski | Other People’s Children | Relationship studies |
+| | Lucile Hadžihalilović | Evolution | Surreal, poetic horror |
+
+| 🇮🇹 Italy | Lina Wertmüller | Seven Beauties | First woman Oscar-nominated |
+| | Alice Rohrwacher | Happy as Lazzaro | Magical realism & folklore |
+| | Emma Dante | A Street in Palermo | Theatre + cinema hybrid |
+| | Francesca Archibugi | The Great Pumpkin | Realist coming-of-age |
+| | Laura Bispuri | Sworn Virgin | Gender and borders |
+| | Liliana Cavani | The Night Porter | Eroticism and fascism |
+| | Elena Ferrante (scriptwriter) | The Lost Daughter (adapted) | Influence as writer/creator |
+| | Susanna Nicchiarelli | Nico, 1988 | Musical-biopic form |
+| | Alina Marazzi | For One More Hour With You | Archive + documentary |
+| | Ginevra Elkann | If Only | Personal, semi-autobiographical |
+
+| 🇨🇳 China | Chloé Zhao | Nomadland | Oscar winner, Chinese-American |
+| | Ann Hui | A Simple Life | Hong Kong New Wave |
+| | Sylvia Chang | Love Education | Actress-director |
+| | Li Yu | Buddha Mountain | Gender and family focus |
+| | Emily Tang | Perfect Life | Arthouse realism |
+| | Vivian Qu | Angels Wear White | Gendered violence |
+| | Joan Chen | Xiu Xiu: The Sent Down Girl | Political + intimate |
+| | Xu Jinglei | Go Lala Go! | Commercial + indie blend |
+| | Ning Ying | For Fun | Urban transformation |
+| | Yang Mingming | Girls Always Happy | Personal essay cinema |
+
+| 🇯🇵 Japan | Naomi Kawase | Still the Water | Nature + memory |
+| | Mika Ninagawa | Sakuran | Visual excess, baroque pop |
+| | Yuki Tanada | One Million Yen Girl | Female youth & freedom |
+| | Satoko Yokohama | Bare Essence of Life | Surrealist absurdism |
+| | Shinohara Tetsuo (as writer with female leads) | Female-led dramas | Gendered intimacy |
+| | Yoshiko Watanabe | Animation pioneer | Influenced anime history |
+| | Mayumi Komatsu | Documentaries | Urban realism |
+| | Keiko Tsuruoka | The House of Seasons | Family melodrama |
+| | Nanae Suzuki | Genre blend | Emerging voices |
+| | Mari Asato | Fatal Frame | Horror/fantasy blend |
+
+| 🇰🇷 South Korea | Yim Soon-rye | Little Forest | Quiet realism |
+| | Boo Ji-young | Cart | Labor politics & women |
+| | Byun Young-joo | The Murmuring | Comfort women documentary |
+| | Kim Bora | House of Hummingbird | Coming-of-age masterpiece |
+| | Lee Kyoung-mi | The Truth Beneath | Political thriller |
+| | Jung July | A Girl at My Door | Queer ethics, law |
+| | Park Chan-ok | Jealousy Is My Middle Name | Gendered isolation |
+| | Shin Su-won | Pluto | Class + elite systems |
+| | Han Ka-ram | Our Body | Body and fatigue |
+| | Jeong Ga-young | Hit the Night | Meta-comedy, sexual norms |
+
+| 🌍 Arabic Countries | Nadine Labaki (Lebanon) | Capernaum | Cannes Jury Prize |
+| | Haifaa al-Mansour (Saudi Arabia) | Wadjda | First Saudi woman director |
+| | Kaouther Ben Hania (Tunisia) | The Man Who Sold His Skin | Oscar nominee |
+| | Dima El-Horr (Lebanon) | Every Day Is a Holiday | Feminist road movie |
+| | Jehane Noujaim (Egypt) | The Square | Revolutionary documentary |
+| | Anissa Daoud (Tunisia) | Myopia | New voice in Arab cinema |
+| | Soudade Kaadan (Syria) | The Day I Lost My Shadow | Syrian civil war trauma |
+| | Leyla Bouzid (Tunisia) | As I Open My Eyes | Music + revolution |
+| | Zeinab Hind Khadra (Jordan) | Emerging talent | Social dramas |
+| | Amal Ramsis (Egypt) | Documentary voice | Feminist doc focus |
+
+| 🇷🇺 Russia | Kira Muratova | The Asthenic Syndrome | Post-Soviet experimentalism |
+| | Svetlana Proskurina | The French | Psychological dramas |
+| | Renata Litvinova | The Goddess | Actress-director, surrealist |
+| | Lana Gogoberidze | Day Is Longer Than Night | Georgian feminist classic |
+| | Anna Melikian | Star | Pop-surreal romance |
+| | Tatiana Lioznova | Seventeen Moments of Spring | Cold War espionage epic |
+| | Natalya Kudryashova | Pioneer Heroes | Personal/political conflict |
+| | Oksana Bychkova | Piter FM | Urban youth cinema |
+| | Yuliya Trofimova | Emerging female gaze | Contemporary youth |
+| | Alisa Khazanova | Middleground | Art + time + desire |
+
+| 🇧🇷 Brazil | Anna Muylaert | The Second Mother | Gender & class |
+| | Sandra Kogut | Mutum | Poetic childhood |
+| | Laís Bodanzky | Brainstorm | Teen and institutional critique |
+| | Daniela Thomas | Linha de Passe | Social realism |
+| | Karim Aïnouz | The Invisible Life of Eurídice Gusmão | Queer aesthetics (co-dir) |
+| | Tata Amaral | Antônia | Urban femininity |
+| | Helena Solberg | Carmen Miranda: Bananas Is My Business | Diaspora and gender |
+| | Renata Pinheiro | King Car | Tech & dystopia |
+| | Cris Azzi | Maria e o Tempo | Feminine temporality |
+| | Julia Murat | Pendular | Body, dance, identity |
+
+| 🇪🇸 Spain | Icíar Bollaín | Even the Rain | Social justice lens |
+| | Isabel Coixet | The Secret Life of Words | Subtle psychological drama |
+| | Pilar Miró | El crimen de Cuenca | Censorship-busting classic |
+| | Arantxa Echevarría | Carmen & Lola | Queer & Roma intersection |
+| | Gracia Querejeta | 15 Years and One Day | Teen and motherhood |
+| | Carlota Pereda | Piggy | Body, shame, horror |
+| | Paula Ortiz | The Bride | Lorca adaptation |
+| | Neus Ballús | The Odd-Job Men | Documentary-fiction blend |
+| | Clara Roquet | Libertad | Class and adolescence |
+| | Elena Trapé | Las distancias | Alienation of friendships |
+
+| 🇮🇳 Hindi (India) | Aparna Sen | 36 Chowringhee Lane | Female solitude |
+| | Zoya Akhtar | Gully Boy | Urban pop realism |
+| | Mira Nair | Monsoon Wedding | Global Indian diaspora |
+| | Meghna Gulzar | Raazi | Nationalism and gender |
+| | Ashwiny Iyer Tiwari | Nil Battey Sannata | Class & motherhood |
+| | Reema Kagti
+
+| 🇮🇳 Hindi (India) | Reema Kagti | Talaash | Noir + psychological depth |
+| | Gauri Shinde | English Vinglish | Female self-discovery |
+| Farah Khan | Om Shanti Om | Camp, Bollywood nostalgia |
+| Kiran Rao | Dhobi Ghat | Urban interconnectedness |
+| Leena Yadav | Parched | Rural female solidarity |
+| Alankrita Shrivastava | Lipstick Under My Burkha | Feminist rebellion |
+| Shonali Bose | Margarita with a Straw | Disability & queer identity |
+| Ruchika Oberoi | Island City | Satirical urban dystopia |
+| Nandita Das | Manto | Historical-political biopic |
+| Konkona Sen Sharma | A Death in the Gunj | Atmospheric family drama |
+
+Other Notable Regions/Directors
+🇬🇧 UK
+| Lynne Ramsay | We Need to Talk About Kevin | Psychological intensity |
+| Andrea Arnold | Fish Tank | Raw social realism |
+| Sally Potter | Orlando | Gender-fluid classic |
+| Clio Barnard | The Selfish Giant | Poetic social drama |
+| Amma Asante | Belle | Race + period drama |
+| Joanna Hogg | The Souvenir | Autobiographical arthouse |
+| Debra Granik | Winter’s Bone | Rural neo-noir (US/UK ties) |
+| Charlotte Wells | Aftersun | Emerging critical darling |
+| Alice Lowe | Prevenge | Dark comedy/horror |
+| Molly Manning Walker | How to Have Sex | Youth + consent |
+
+🇺🇸 USA
+| Kathryn Bigelow | The Hurt Locker | First woman Oscar-winner for Best Director |
+| Ava DuVernay | Selma | Race + historical epic |
+| Greta Gerwig | Little Women | Feminist literary adaptations |
+| Chloé Zhao | Nomadland (see China) | Transcendent Americana |
+| Lynne Ramsay | You Were Never Really Here | Psychological thriller |
+| Kelly Reichardt | Certain Women | Slow cinema, marginal lives |
+| Sofia Coppola | Lost in Translation | Alienation + intimacy |
+| Julie Dash | Daughters of the Dust | Black feminist landmark |
+| Mira Nair | Mississippi Masala (see India) | Diaspora stories |
+| Lulu Wang | The Farewell | Cultural displacement |
+
+🇲🇽 Mexico
+| Lila Avilés | The Chambermaid | Class + isolation |
+| Michel Franco (collab. w/ women) | Chronic | Dark social critique |
+| Lucía Gajá | Batallas Íntimas | Domestic violence doc |
+| María Novaro | Danzón | Female desire + dance |
+| Guadalupe Ferrer | Experimental films | Avant-garde legacy |
+
+Here’s a comma-separated list of all the directors mentioned in your original data, grouped by country/region for clarity:  
+
+### **🇩🇪 Germany**  
+Maren Ade, Angela Schanelec, Valeska Grisebach, Helke Sander, Ula Stöckl, Caroline Link, Margarethe von Trotta, Emily Atef, Nicolette Krebitz, Doris Dörrie  
+
+### **🇫🇷 France**  
+Claire Denis, Céline Sciamma, Agnès Varda, Mia Hansen-Løve, Justine Triet, Alice Diop, Valérie Donzelli, Julia Ducournau, Rebecca Zlotowski, Lucile Hadžihalilović  
+
+### **🇮🇹 Italy**  
+Lina Wertmüller, Alice Rohrwacher, Emma Dante, Francesca Archibugi, Laura Bispuri, Liliana Cavani, Elena Ferrante (scriptwriter), Susanna Nicchiarelli, Alina Marazzi, Ginevra Elkann  
+
+### **🇨🇳 China**  
+Chloé Zhao, Ann Hui, Sylvia Chang, Li Yu, Emily Tang, Vivian Qu, Joan Chen, Xu Jinglei, Ning Ying, Yang Mingming  
+
+### **🇯🇵 Japan**  
+Naomi Kawase, Mika Ninagawa, Yuki Tanada, Satoko Yokohama, Shinohara Tetsuo (writer), Yoshiko Watanabe, Mayumi Komatsu, Keiko Tsuruoka, Nanae Suzuki, Mari Asato  
+
+### **🇰🇷 South Korea**  
+Yim Soon-rye, Boo Ji-young, Byun Young-joo, Kim Bora, Lee Kyoung-mi, Jung July, Park Chan-ok, Shin Su-won, Han Ka-ram, Jeong Ga-young  
+
+### **🌍 Arabic Countries**  
+Nadine Labaki (Lebanon), Haifaa al-Mansour (Saudi Arabia), Kaouther Ben Hania (Tunisia), Dima El-Horr (Lebanon), Jehane Noujaim (Egypt), Anissa Daoud (Tunisia), Soudade Kaadan (Syria), Leyla Bouzid (Tunisia), Zeinab Hind Khadra (Jordan), Amal Ramsis (Egypt)  
+
+### **🇷🇺 Russia**  
+Kira Muratova, Svetlana Proskurina, Renata Litvinova, Lana Gogoberidze, Anna Melikian, Tatiana Lioznova, Natalya Kudryashova, Oksana Bychkova, Yuliya Trofimova, Alisa Khazanova  
+
+### **🇧🇷 Brazil**  
+Anna Muylaert, Sandra Kogut, Laís Bodanzky, Daniela Thomas, Karim Aïnouz, Tata Amaral, Helena Solberg, Renata Pinheiro, Cris Azzi, Julia Murat  
+
+### **🇪🇸 Spain**  
+Icíar Bollaín, Isabel Coixet, Pilar Miró, Arantxa Echevarría, Gracia Querejeta, Carlota Pereda, Paula Ortiz, Neus Ballús, Clara Roquet, Elena Trapé  
+
+### **🇮🇳 Hindi (India)**  
+Aparna Sen, Zoya Akhtar, Mira Nair, Meghna Gulzar, Ashwiny Iyer Tiwari, Reema Kagti, Gauri Shinde, Farah Khan, Kiran Rao, Leena Yadav, Alankrita Shrivastava, Shonali Bose, Ruchika Oberoi, Nandita Das, Konkona Sen Sharma  
+
+### **🇬🇧 UK**  
+Lynne Ramsay, Andrea Arnold, Sally Potter, Clio Barnard, Amma Asante, Joanna Hogg, Debra Granik, Charlotte Wells, Alice Lowe, Molly Manning Walker  
+
+### **🇺🇸 USA**  
+Kathryn Bigelow, Ava DuVernay, Greta Gerwig, Chloé Zhao, Lynne Ramsay, Kelly Reichardt, Sofia Coppola, Julie Dash, Mira Nair, Lulu Wang  
+
+### **🇲🇽 Mexico**  
+Lila Avilés, Michel Franco (collab.), Lucía Gajá, María Novaro, Guadalupe Ferrer  
+
+---
+
+Here’s a comma-separated list of all the **films cited** in your original data, grouped by director (alphabetical by country):  
+
+### **🇩🇪 Germany**  
+Toni Erdmann, I Was at Home But..., Western, The All-Around Reduced Personality, Neun Leben hat die Katze, Nowhere in Africa, Hannah Arendt, 3 Days in Quiberon, Wild, Cherry Blossoms  
+
+### **🇫🇷 France**  
+Beau Travail, Portrait of a Lady on Fire, Cléo from 5 to 7, Things to Come, Anatomy of a Fall, Saint Omer, Declaration of War, Titane, Other People’s Children, Evolution  
+
+### **🇮🇹 Italy**  
+Seven Beauties, Happy as Lazzaro, A Street in Palermo, The Great Pumpkin, Sworn Virgin, The Night Porter, The Lost Daughter, Nico 1988, For One More Hour With You, If Only  
+
+### **🇨🇳 China**  
+Nomadland, A Simple Life, Love Education, Buddha Mountain, Perfect Life, Angels Wear White, Xiu Xiu: The Sent Down Girl, Go Lala Go!, For Fun, Girls Always Happy  
+
+### **🇯🇵 Japan**  
+Still the Water, Sakuran, One Million Yen Girl, Bare Essence of Life, (Female-led dramas), (Animation pioneer), (Documentaries), The House of Seasons, (Genre blend), Fatal Frame  
+
+### **🇰🇷 South Korea**  
+Little Forest, Cart, The Murmuring, House of Hummingbird, The Truth Beneath, A Girl at My Door, Jealousy Is My Middle Name, Pluto, Our Body, Hit the Night  
+
+### **🌍 Arabic Countries**  
+Capernaum, Wadjda, The Man Who Sold His Skin, Every Day Is a Holiday, The Square, Myopia, The Day I Lost My Shadow, As I Open My Eyes, (Social dramas), (Feminist doc focus)  
+
+### **🇷🇺 Russia**  
+The Asthenic Syndrome, The French, The Goddess, Day Is Longer Than Night, Star, Seventeen Moments of Spring, Pioneer Heroes, Piter FM, (Contemporary youth), Middleground  
+
+### **🇧🇷 Brazil**  
+The Second Mother, Mutum, Brainstorm, Linha de Passe, The Invisible Life of Eurídice Gusmão, Antônia, Carmen Miranda: Bananas Is My Business, King Car, Maria e o Tempo, Pendular  
+
+### **🇪🇸 Spain**  
+Even the Rain, The Secret Life of Words, El crimen de Cuenca, Carmen & Lola, 15 Years and One Day, Piggy, The Bride, The Odd-Job Men, Libertad, Las distancias  
+
+### **🇮🇳 Hindi (India)**  
+36 Chowringhee Lane, Gully Boy, Monsoon Wedding, Raazi, Nil Battey Sannata, Talaash, English Vinglish, Om Shanti Om, Dhobi Ghat, Parched, Lipstick Under My Burkha, Margarita with a Straw, Island City, Manto, A Death in the Gunj  
+
+### **🇬🇧 UK**  
+We Need to Talk About Kevin, Fish Tank, Orlando, The Selfish Giant, Belle, The Souvenir, Winter’s Bone, Aftersun, Prevenge, How to Have Sex  
+
+### **🇺🇸 USA**  
+The Hurt Locker, Selma, Little Women, Nomadland, You Were Never Really Here, Certain Women, Lost in Translation, Daughters of the Dust, Mississippi Masala, The Farewell  
+
+### **🇲🇽 Mexico**  
+The Chambermaid, Chronic, Batallas Íntimas, Danzón, (Experimental films)  
+
+---
