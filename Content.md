@@ -38,4 +38,10 @@ Language-Spanish
 Language-Topology-Transexuality-Ivan
 Language-UK
 
-
+# 04/08/25
+Actors, Actresses, Directors from Countries
+Best of all time from countries
+Women Directors
+Favorite Movies - Directors - Body of work
+It's not that hard to make a movie
+Loss of a meaningful bond - movies that made me cry
