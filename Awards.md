@@ -2935,3 +2935,51 @@ The Hurt Locker, Selma, Little Women, Nomadland, You Were Never Really Here, Cer
 The Chambermaid, Chronic, Batallas Íntimas, Danzón, (Experimental films)  
 
 ---
+
+# Directors
+
+Here’s a structured table with available information on the directors, including birth dates, personal details, country of origin, languages spoken, estimated net worth, and Lacanian classification. (Note: Some personal details like marriages, children, and net worth are not always publicly available and may be omitted or approximated.)
+
+---
+
+### **Directors' Information & Lacanian Classification Table**  
+
+| **Director**         | **Birth Date** | **Marriages/Children**       | **Country**      | **Languages**       | **Net Worth (Est.)** | **Lacanian Classification**              |
+|----------------------|---------------|-----------------------------|------------------|---------------------|----------------------|------------------------------------------|
+| **Sean Baker**       | Feb 26, 1971  | Not publicly disclosed      | USA              | English             | $1–5M               | **The Real** (Marginalized realities)    |
+| **Bong Joon Ho**     | Sep 14, 1969  | Married, 1 child            | South Korea      | Korean, English     | $20M+               | **The Real** (Class trauma, rupture)     |
+| **Brady Corbet**     | Aug 17, 1988  | Married to Mona Fastvold    | USA              | English             | $1–3M               | **Symbolic** (Power structures)          |
+| **Paul Thomas Anderson** | Jun 26, 1970 | Partner: Maya Rudolph, 4 kids | USA           | English             | $50M+               | **Symbolic/Real** (Desire, alienation)  |
+| **Sergio Leone**     | Jan 3, 1929   | Married, 3 children (d. 1989) | Italy         | Italian, English    | N/A (deceased)      | **Imaginary** (Mythic masculinity)      |
+| **Hayao Miyazaki**   | Jan 5, 1941   | Married, 2 sons             | Japan            | Japanese            | $100M+              | **Imaginary** (Childhood fantasies)      |
+| **Peter Weir**       | Aug 21, 1944  | Married, 2 children         | Australia        | English             | $20M+               | **Imaginary/Symbolic** (Constructed realities) |
+| **Gints Zilbalodis** | Mar 25, 1988  | Not publicly disclosed      | Latvia           | Latvian, English    | <$1M                | **Imaginary** (Visual storytelling)      |
+| **Park Chan-wook**   | Aug 23, 1963  | Married, 1 child            | South Korea      | Korean, English     | $15M+               | **Real/Symbolic** (Violence, revenge)    |
+| **Celine Song**      | 1988 (exact date N/A) | Married to Justin Kuritzkes | South Korea/USA  | Korean, English     | $1–3M               | **Symbolic** (Memory, diaspora)          |
+| **James McTeigue**   | Dec 29, 1967  | Not publicly disclosed      | Australia        | English             | $5–10M              | **Symbolic** (Dystopian control)         |
+| **Makoto Shinkai**   | Feb 9, 1973   | Married                     | Japan            | Japanese            | $10M+               | **Imaginary** (Longing, separation)     |
+| **Charlotte Wells**  | 1987 (exact date N/A) | Not disclosed          | UK               | English             | <$1M                | **Real** (Trauma, memory gaps)           |
+| **Luca Guadagnino**  | Aug 10, 1971  | Not publicly disclosed      | Italy            | Italian, English    | $10M+               | **Imaginary** (Desire, aesthetics)       |
+| **Kenneth Lonergan** | Oct 16, 1962  | Married to J. Smith-Cameron | USA              | English             | $5–10M              | **Symbolic** (Guilt, language failure)   |
+| **Justine Triet**    | Jul 17, 1978  | Partner: Arthur Harari, 2 kids | France        | French, English     | $1–5M               | **Real/Symbolic** (Marital breakdown)    |
+| **Martin McDonagh**  | Mar 26, 1970  | Not publicly disclosed      | UK/Ireland       | English             | $15M+               | **Symbolic** (Moral absurdity)           |
+| **Joachim Trier**    | Mar 1, 1974   | Not publicly disclosed      | Norway           | Norwegian, English  | $2–5M               | **Symbolic** (Existential crises)        |
+| **Nadine Labaki**    | Feb 18, 1974  | Married to Khaled Mouzanar, 2 kids | Lebanon    | Arabic, French, English | $5M+          | **Real** (Social trauma)                 |
+| **Pedro Almodóvar**  | Sep 25, 1949  | Single, no children         | Spain            | Spanish, English    | $30M+               | **Imaginary/Symbolic** (Desire, melodrama) |
+| **Céline Sciamma**   | Nov 12, 1978  | Not publicly disclosed      | France           | French, English     | $1–5M               | **Imaginary** (Gaze, identity)           |
+| **Magnus von Horn**  | Oct 5, 1983   | Not publicly disclosed      | Poland/Sweden    | Swedish, Polish, English | <$1M         | **Real** (Isolation, violence)           |
+| **Anthony Minghella**| Jan 6, 1954   | Married, 2 children (d. 2008) | UK            | English             | N/A (deceased)      | **Imaginary** (Romantic illusions)       |
+| **Todd Field**       | Feb 24, 1964  | Married to Serena Rathbun   | USA              | English             | $5–10M              | **Symbolic** (Power, repression)         |
+| **Jane Campion**     | Apr 30, 1954  | Married, 2 children         | New Zealand      | English             | $20M+               | **Symbolic/Real** (Female repression)    |
+| **Lukas Dhont**      | 1991 (exact date N/A) | Not disclosed          | Belgium          | Dutch, French, English | <$1M         | **Real** (Gender, bodily trauma)         |
+| **David Lowery**     | Dec 26, 1980  | Not publicly disclosed      | USA              | English             | $2–5M               | **Imaginary** (Mythic nostalgia)         |
+| **John Patrick Shanley** | Oct 3, 1950 | Married, 2 children    | USA              | English             | $10M+               | **Symbolic** (Moral dilemmas)            |
+| **Stephen Daldry**   | May 2, 1960   | Married to Lucy Sexton      | UK               | English             | $20M+               | **Symbolic** (Institutional critique)    |
+
+---
+
+### **Notes:**
+- **Net worth** estimates are rough approximations based on career longevity, box office success, and industry reputation.  
+- **Lacanian Classification** is interpretive and based on recurring themes in their films.  
+- **Languages spoken** include confirmed or widely reported ones; some directors may speak others unofficially.  
+- Personal details (marriages, children) are included only if publicly verified.  
