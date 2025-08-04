@@ -412,3 +412,288 @@ Most valuable player by edition
 2011 –  Carolina Costagrande (ITA)
 2015 –  Zhu Ting (CHN)
 2019 –  Zhu Ting (CHN)
+
+
+# Best Of All time
+
+https://volleybox.net/players/ranking
+https://women.volleybox.net/players/ranking
+
+## Leon
+
+https://en.wikipedia.org/wiki/Wilfredo_Le%C3%B3n#Individual_awards
+
+Club
+CEV Champions League
+ 2014–15 – with Zenit Kazan
+ 2015–16 – with Zenit Kazan
+ 2016–17 – with Zenit Kazan
+ 2017–18 – with Zenit Kazan
+FIVB Club World Championship
+ Poland 2017 – with Zenit Kazan
+ Betim 2022 – with Sir Safety Perugia
+ Bangalore 2023 – with Sir Safety Perugia
+CEV Challenge Cup
+ 2024–25 – with Bogdanka LUK Lublin
+Domestic
+2008–09  Cuban Championship, with Capitalinos
+2009–10  Cuban Championship, with Capitalinos
+2010–11  Cuban Championship, with Orientales de Santiago
+2014–15  Russian Cup, with Zenit Kazan
+2014–15  Russian Championship, with Zenit Kazan
+2015–16  Russian SuperCup, with Zenit Kazan
+2015–16  Russian Cup, with Zenit Kazan
+2015–16  Russian Championship, with Zenit Kazan
+2016–17  Russian SuperCup, with Zenit Kazan
+2016–17  Russian Cup, with Zenit Kazan
+2016–17  Russian Championship, with Zenit Kazan
+2017–18  Russian SuperCup, with Zenit Kazan
+2017–18  Russian Cup, with Zenit Kazan
+2017–18  Russian Championship, with Zenit Kazan
+2018–19  Italian Cup, with Sir Safety Perugia
+2019–20  Italian SuperCup, with Sir Safety Perugia
+2020–21  Italian SuperCup, with Sir Safety Perugia
+2021–22  Italian Cup, with Sir Safety Perugia
+2022–23  Italian SuperCup, with Sir Safety Perugia
+2023–24  Italian SuperCup, with Sir Safety Perugia
+2023–24  Italian Cup, with Sir Safety Perugia
+2023–24  Italian Championship, with Sir Safety Perugia
+2024–25  Polish Championship, with Bogdanka LUK Lublin
+Individual awards
+2009: FIVB World League – Best server
+2009: NORCECA Championship – Best spiker
+2009: NORCECA Championship – Most valuable player
+2011: Pan American Games – Most valuable player
+2011: NORCECA Championship – Best spiker
+2011: NORCECA Championship – Best scorer
+2015: CEV Champions League – Best outside spiker
+2015: CEV Champions League – Most valuable player
+2015: FIVB Club World Championship – Best outside spiker
+2016: CEV Champions League – Best outside spiker
+2016: CEV Champions League – Most valuable player
+2016: FIVB Club World Championship – Best outside spiker
+2017: CEV Champions League – Best outside spiker
+2017: FIVB Club World Championship – Best outside spiker
+2018: CEV Champions League – Best outside spiker
+2019: CEV European Championship – Best outside spiker
+2022: FIVB Club World Championship – Best outside spiker
+2023: CEV European Championship – Most valuable player
+
+## Giba
+https://en.wikipedia.org/wiki/Giba#Clubs
+
+Clubs
+CEV Champions League
+ 2008/2009 – with Iskra Odintsovo
+National Championships
+1999/2000  Brazilian Championship, with Minas Tênis Clube
+2000/2001  Brazilian Championship, with Minas Tênis Clube
+2005/2006  Italian Cup, with Bre Banca Lannutti Cuneo
+2007/2008  Russian Championship, with Iskra Odintsovo
+2008/2009  Russian Championship, with Iskra Odintsovo
+2009/2010  Brazilian Championship, with Pinheiros
+National Team
+1993  FIVB U19 World Championship
+1995  FIVB U21 World Championship
+1995  South American Championship
+1997  South American Championship
+1997  FIVB World Grand Champions Cup
+1998  America's Cup
+1999  South American Championship
+1999  America's Cup
+2001  FIVB World League
+2001  South American Championship
+2001  America's Cup
+2002  FIVB World League
+2002  FIVB World Championship
+2003  FIVB World League
+2003  South American Championship
+2003  FIVB World Cup
+2004  FIVB World League
+2004  Olympic Games
+2005  FIVB World League
+2005  South American Championship
+2005  FIVB World Grand Champions Cup
+2006  FIVB World League
+2006  FIVB World Championship
+2007  FIVB World League
+2007  Pan American Games
+2007  South American Championship
+2007  FIVB World Cup
+2008  Olympic Games
+2009  FIVB World League
+2009  South American Championship
+2009  FIVB World Grand Champions Cup
+2010  FIVB World League
+2010  FIVB World Championship
+2011  FIVB World League
+2011  FIVB World Cup
+2012  Olympic Games
+Individually
+
+Giba in 2009
+1993 FIVB U19 World Championship – Most Valuable Player
+1995 FIVB U21 World Championship – Most Valuable Player
+2004 Olympic Games – Most Valuable Player
+2006 FIVB World League – Most Valuable Player
+2006 FIVB World Championship – Most Valuable Player
+2006 Prêmio Brasil Olímpico – Best athlete of the Year
+2007 Pan American Games – Most Valuable Player
+2007 South American Championship – Most Valuable Player
+2007 FIVB World Cup – Most Valuable Player
+2008 FIVB World League – Best Server
+2009 South American Championship – Best Spiker
+2010 Famous Magazine – Best Volleyball Player of the last Decade
+2011 State of Parana – Medal for promotion of Sports
+2011 Sky Sports – The most famous Volleyball player in the World[33]
+2015 Fox Sports – Best men's Volleyball player of all Time[34]
+2016 RCI Brasil – Best Sports Active
+2018 Inducted into the International Volleyball Hall of Fame
+
+
+## Jakub Kochanowski
+
+https://en.wikipedia.org/wiki/Jakub_Kochanowski
+
+Club
+CEV Champions League
+ 2020–21 – with ZAKSA Kędzierzyn-Koźle
+CEV Cup
+ 2023–24 – with Asseco Resovia
+Domestic
+2018–19  Polish SuperCup, with PGE Skra Bełchatów
+2020–21  Polish SuperCup, with ZAKSA Kędzierzyn-Koźle
+2020–21  Polish Cup, with ZAKSA Kędzierzyn-Koźle
+Youth national team
+2014  CEV U20 European Championship
+2015  CEV U19 European Championship
+2015  European Youth Olympic Festival
+2015  FIVB U19 World Championship
+2016  CEV U20 European Championship
+2017  FIVB U21 World Championship
+Individual awards
+2017: FIVB U21 World Championship – Most valuable player
+2023: FIVB Nations League – Best middle blocker
+2024: FIVB Nations League – Best middle blocker
+2024: Olympic Games – Best middle blocker
+State awards
+2018: Ribbon Gold Cross of Merit[16]
+2024: Ribbon Knight's Cross of Polonia Restituta[17]
+Statistics
+2017–18 PlusLiga – Best blocker (100 blocks)
+2022–23 PlusLiga – Best blocker (94 blocks)
+
+
+# Sérgio Santos 
+
+https://en.wikipedia.org/wiki/S%C3%A9rgio_Santos_(volleyball)#Clubs
+
+Clubs
+CEV Champions League
+ 2007/2008 – with Copra Piacenza
+CEV Top Teams Cup
+ 2005/2006 – with Copra Piacenza
+National championships
+1993/1994  Brazilian Championship, with SE Palmeiras
+1994/1995  Brazilian Championship, with SE Palmeiras
+2001/2002  Brazilian Championship, with CRET São Caetano
+2002/2003  Brazilian Championship, with CRET São Caetano
+2004/2005  Italian Championship, with Copra Piacenza
+2006/2007  Italian Championship, with Copra Piacenza
+2007/2008  Italian Championship, with Copra Piacenza
+2010/2011  Brazilian Championship, with SESI São Paulo
+2012/2013  Brazilian Championship, with SESI São Paulo
+2013/2014  Brazilian Championship, with SESI São Paulo
+2014/2015  Brazilian Championship, with SESI São Paulo
+National team
+2001  America's Cup
+2001  FIVB World League
+2001  South American Championship
+2002  FIVB World League
+2002  FIVB World Championship
+2003  Pan American Games
+2003  FIVB World League
+2003  South American Championship
+2003  FIVB World Cup
+2004  FIVB World League
+2004  Olympic Games
+2005  America's Cup
+2005  FIVB World League
+2005  South American Championship
+2005  FIVB World Grand Champions Cup
+2006  FIVB World League
+2006  FIVB World Championship
+2007  Pan American Games
+2007  FIVB World League
+2007  South American Championship
+2007  FIVB World Cup
+2008  America's Cup
+2008  Olympic Games
+2009  FIVB World League
+2009  South American Championship
+2009  FIVB World Grand Champions Cup
+2010  FIVB World League
+2010  FIVB World Championship
+2011  FIVB World League
+2011  South American Championship
+2011  FIVB World Cup
+2012  Olympic Games
+2015  South American Championship
+2016  FIVB World League
+2016  Olympic Games
+Individual
+2001 Brazilian League – Best Libero
+2001 America's Cup – Best Digger
+2002 Brazilian League – Best Libero
+2002 Brazilian League – Best Digger
+2002 FIVB World League – Best Digger
+2003 Brazilian League – Best Libero
+2003 Brazilian League – Best Receiver
+2003 Pan American Games – Best Libero[5]
+2003 FIVB World League – Best Digger
+2003 FIVB World League – Best Receiver
+2003 FIVB World Cup – Best Libero[5]
+2004 Olympic Games – Best Digger[5]
+2004 Olympic Games – Best Receiver[5]
+2004 Olympic Games – Best Libero[5]
+2006 CEV Top Teams Cup – Best Libero
+2007 Pan American Games – Best Receiver[5]
+2007 Pan American Games – Best Libero[5]
+2007 South American Championship – Best Libero
+2007 FIVB World Cup – Best Libero[5]
+2008 CEV Champions League – Best Libero
+2008 America's Cup – Best Receiver
+2008 America's Cup – Best Libero
+2009 FIVB World League – Most Valuable Player[5]
+2009 South American Championship – Best Libero[5]
+2009 FIVB World Grand Champions Cup – Best Libero[5]
+2010 Brazilian League – Best Digger
+2011 Brazilian League – Best Digger
+2011 South American Club Championship – Best Digger
+2011 South American Club Championship – Best Libero
+2011 South American Championship – Best Digger[5]
+2011 South American Championship – Best Receiver[5]
+2011 South American Championship – Best Libero[5]
+2011 South American Championship – Most Valuable Player[5]
+2011 FIVB World Cup – Best Receiver[5]
+2011 FIVB Club World Championship – Best Receiver
+2011 FIVB Club World Championship – Best Libero
+2015 South American Championship – Most Valuable Player
+2016 Olympic Games – Best Libero
+2016 Olympic Games – Most Valuable Player
+
+# Boskovic
+
+https://en.wikipedia.org/wiki/Tijana_Bo%C5%A1kovi%C4%87#Awards
+
+# Egonu
+
+https://en.wikipedia.org/wiki/Paola_Egonu
+
+# Gabi
+
+https://en.wikipedia.org/wiki/Gabriela_Guimar%C3%A3es#Awards
+
+# Zhu Ting
+
+https://en.wikipedia.org/wiki/Zhu_Ting_(volleyball)
