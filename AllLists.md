@@ -982,3 +982,18 @@ https://www.imdb.com/name/nm4080113/?ref_=rt_li_1_1 | Lukas Dhont - IMDb
 https://www.imdb.com/name/nm1108007/?ref_=rt_li_1_1 | David Lowery - IMDb
 https://www.imdb.com/name/nm0788234/?ref_=rt_li_1_1 | John Patrick Shanley - IMDb
 https://www.imdb.com/name/nm0197636/?ref_=rt_li_1_1 | Stephen Daldry - IMDb
+
+## Filtered
+
+https://www.imdb.com/name/nm0197636/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Stephen%2520Daldry | Stephen Daldry - IMDb
+https://www.imdb.com/name/nm0412465/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_James%2520Ivory | James Ivory - IMDb
+https://www.imdb.com/name/nm0594503/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Hayao%2520Miyazaki | Hayao Miyazaki - IMDb
+https://www.imdb.com/name/nm0000264/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Pedro%2520Almod%25C3%25B3var | Pedro Almodóvar - IMDb
+https://www.imdb.com/name/nm0005237/?ref_=nv_sr_srsg_0_tt_1_nm_2_in_0_q_Anthony%2520Minghella | Anthony Minghella - IMDb
+https://www.imdb.com/name/nm0001005/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Jane%2520Campion | Jane Campion - IMDb
+https://www.imdb.com/name/nm0661791/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Park%2520Chan-wook | Park Chan-wook - IMDb
+https://www.imdb.com/name/nm4080113/?ref_=nv_sr_srsg_0_tt_1_nm_2_in_0_q_Lukas%2520Dhont | Lukas Dhont - IMDb
+https://www.imdb.com/name/nm6478535/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Gints%2520Zilbalodis | Gints Zilbalodis - IMDb
+https://www.imdb.com/name/nm0716347/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Nicholas%2520winding%2520 | Nicolas Winding Refn - IMDb
+https://www.imdb.com/name/nm0000033/?ref_=tt_ov_1_1 | Alfred Hitchcock - IMDb
+https://www.imdb.com/name/nm0230859/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_xavier%2520do | Xavier Dolan - IMDb
