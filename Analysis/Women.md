@@ -1,3 +1,27 @@
+Julianne Moore, Katharine Hepburn, Maggie Smith, Vivien Leigh, Olivia de Havilland, Sophia Loren, Bette Davis, Nicole Kidman, Marion Cotillard, Cate Blanchett, Emma Stone, Claudette Colbert, Emma Thompson, Joan Crawford, Julie Andrews, Faye Dunaway, Mikey Madison
+
+# Ten biggest moments of Phallic woman standing up to a man, this is in dispute
+
+Annalise Keating x Sam 
+Annalise Keating x Senator Truco
+Meryl Streep x Father Flynn (Doubt)
+Virginia x Leonard (The Hours)
+Kathrine Hepburn x Husband (The Lion in the winter)
+The prime of Miss Jean Brody (Jean Brody x The student)
+Maggie Smith One-liners in Downtown Abbey
+Sandra Hüller x Husband (Anatomy of a fall)
+
+The Social Network (Mark x The brothers)
+Felicity Jones in The Brutalist
+Ethan Hawke (Oh captain, my captain - Dead Poets Society)
+
+# Ten Biggest feminine performance
+Julianne Moore (The hours)
+Past Lives
+Elio cries (Call me by your name)
+A ghost story
+
+
 # Analysing the Oscar winners for best actresses and the movies that they were in allow to trace a timeline for the last century and female narratives 
 
 Themes: RSI, Female Jouissance, Toxicomania, Delirium/Rivalry, Suicide, Family, Work and Love
