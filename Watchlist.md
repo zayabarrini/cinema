@@ -390,3 +390,17 @@ https://www.imdb.com/title/tt0062773/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_CALCUTA
 https://www.imdb.com/find/?q=jacques%20lacan&ref_=fn_nv_srb_sm | Find - IMDb
 https://www.imdb.com/title/tt0074102/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_EL%2520IMPERIO%2520DE%2520LOS%2520SENTIDOS%2520(1976) | In the Realm of the Senses (1976) - IMDb
 https://www.imdb.com/find/?q=LA%20PSYCHANALYSE&ref_=nm_nv_srb_sm | Find - IMDb
+
+The Rules of the Game (1939) 
+Monsieur Verdoux (1947) 
+El (1953) 
+Rififi (1955) 
+Rocco and His Brothers (1960) 
+La Dolce Vita (1960) 
+Viridiana (1961) 
+Che femmina!! E... che dollari! (1961) 
+Young Törless (1966) 
+If.... (1968) 
+Fellini - Satyricon (1969) 
+Calcutta (1969) 
+In the Realm of the Senses (1976) 
