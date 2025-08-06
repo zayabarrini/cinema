@@ -366,3 +366,27 @@ https://www.imdb.com/title/tt8902990/?ref_=ls_t_23 | The Sky Is Pink (2019) - IM
 https://www.imdb.com/title/tt0910559/?ref_=ls_t_24 | Cherry Blossoms (2008) - IMDb
 https://www.imdb.com/title/tt0081968/?ref_=ls_t_25 | 36 Chowringhee Lane (1981) - IMDb
 https://www.imdb.com/title/tt0249866/?ref_=ls_t_26 | Paromitar Ek Din (2000) - IMDb
+
+Las películas que Lacan vio y aplicó al psicoanálisis
+
+https://www.imdb.com/title/tt0020530/?ref_=nv_sr_srsg_0_tt_2_nm_1_in_0_q_UN%2520PERRO%2520ANDALUZ%2520(1929) | Un chien andalou (Short 1929) - IMDb
+https://www.imdb.com/title/tt0031885/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_LA%2520REGLA%2520DEL%2520JUEGO%2520(1939) | The Rules of the Game (1939) - IMDb
+https://www.imdb.com/title/tt1073536/?ref_=nv_sr_srsg_0_tt_4_nm_1_in_0_q_HENRI%2520MATISSE%2520(1946) | Henri Matisse (Short 1946) - IMDb
+https://www.imdb.com/title/tt0039631/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_MONSIEUR%2520VERDOUX%2520(1947) | Monsieur Verdoux (1947) - IMDb
+https://www.imdb.com/title/tt0042876/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_RASHOMON%2520(1950) | Rashomon (1950) - IMDb
+https://www.imdb.com/title/tt0045361/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%25C3%2589L%2520(1953) | El (1953) - IMDb
+https://www.imdb.com/title/tt0047396/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_LA%2520VENTANA%2520INDISCRETA%2520(1954) | Rear Window (1954) - IMDb
+https://www.imdb.com/title/tt0048021/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_RIFIF%25C3%258D%2520(1955) | Rififi (1955) - IMDb
+https://www.imdb.com/title/tt0053318/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_DE%2520REPENTE%252C%2520EL%2520%25C3%259ALTIMO%2520VERANO%2520 | Suddenly, Last Summer (1959) - IMDb
+https://www.imdb.com/title/tt0054248/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_ROCCO%2520Y%2520SUS%2520HERMANOS%2520(1960) | Rocco and His Brothers (1960) - IMDb
+https://www.imdb.com/title/tt0054215/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_PSICOSIS%2520(1960) | Psycho (1960) - IMDb
+https://www.imdb.com/title/tt0053779/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_LA%2520DOLCE%2520VITA%2520(1960) | La Dolce Vita (1960) - IMDb
+https://www.imdb.com/title/tt0055601/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_VIRIDIANA%2520(1961) | Viridiana (1961) - IMDb
+https://www.imdb.com/title/tt0054738/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_%2520(PARLEZ-MOI%2520D%25E2%2580%2599AMOUR)%2520%2520(1961) | Che femmina!! E... che dollari! (1961) - IMDb
+https://www.imdb.com/title/tt0060574/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_EL%2520JOVEN%2520T%25C3%2596RLESS%2520(1966) | Young Törless (1966) - IMDb
+https://www.imdb.com/title/tt0063850/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_IF%25E2%2580%25A6%2520(1968) | If.... (1968) - IMDb
+https://www.imdb.com/title/tt0064940/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_SATIRIC%25C3%2593N%2520(1969) | Fellini - Satyricon (1969) - IMDb
+https://www.imdb.com/title/tt0062773/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_CALCUTA%2520(1969) | Calcutta (1969) - IMDb
+https://www.imdb.com/find/?q=jacques%20lacan&ref_=fn_nv_srb_sm | Find - IMDb
+https://www.imdb.com/title/tt0074102/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_EL%2520IMPERIO%2520DE%2520LOS%2520SENTIDOS%2520(1976) | In the Realm of the Senses (1976) - IMDb
+https://www.imdb.com/find/?q=LA%20PSYCHANALYSE&ref_=nm_nv_srb_sm | Find - IMDb
