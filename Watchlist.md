@@ -279,3 +279,90 @@ https://www.imdb.com/title/tt0119488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_L.A.%25
 https://www.imdb.com/title/tt0140352/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Insider%2509 | The Insider (1999) - IMDb
 https://www.imdb.com/title/tt0765429/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_American%2520Gangster%2509 | American Gangster (2007) - IMDb
 https://www.imdb.com/title/tt1800241/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_American%2520Hustle%2509 | American Hustle (2013) - IMDb
+
+# 06/08/25
+
+Favorite Directors
+https://www.imdb.com/title/tt0477302/?ref_=nm_knf_t_4 | Extremely Loud & Incredibly Close (2011) - IMDb
+https://www.imdb.com/title/tt0107943/?ref_=nm_knf_t_3 | The Remains of the Day (1993) - IMDb
+https://www.imdb.com/title/tt0876563/?ref_=nm_flmg_job_1_type_1_cdt_t_2 | Ponyo (2008) - IMDb
+https://www.imdb.com/title/tt0092067/?ref_=nm_flmg_job_1_type_1_cdt_t_4 | Castle in the Sky (1986) - IMDb
+https://www.imdb.com/title/tt8942902/?ref_=nm_flmg_job_1_type_1_cdt_t_8 | Conan, the Boy in Future (1979) - IMDb
+https://www.imdb.com/title/tt0103129/?ref_=nm_knf_t_4 | Truly Madly Deeply (1990) - IMDb
+https://www.imdb.com/title/tt0159365/?ref_=nm_knf_t_2 | Cold Mountain (2003) - IMDb
+https://www.imdb.com/title/tt0810784/?ref_=nm_knf_t_1 | Bright Star (2009) - IMDb
+https://www.imdb.com/title/tt0762073/?ref_=nm_flmg_job_1_cdt_t_11 | Thirst (2009) - IMDb
+https://www.imdb.com/title/tt1706620/?ref_=nm_flmg_job_1_cdt_t_9 | Snowpiercer (2013) - IMDb
+https://www.imdb.com/title/tt8288450/?ref_=nm_knf_t_2 | Away (2019) - IMDb
+
+Favorite Directors Movies
+https://www.imdb.com/list/ls4107451990/?ref_=uspf_t_3&sort=user_rating%2Cdesc | Favorite Movies - Directors
+https://www.imdb.com/title/tt0087843/?ref_=ls_t_1 | Once Upon a Time in America (1984) - IMDb
+https://www.imdb.com/title/tt0111341/?ref_=ls_t_2 | Satantango (1994) - IMDb
+https://www.imdb.com/title/tt0780536/?ref_=ls_t_3 | In Bruges (2008) - IMDb
+https://www.imdb.com/title/tt0423866/?ref_=ls_t_4 | 3-Iron (2004) - IMDb
+https://www.imdb.com/title/tt0249241/?ref_=ls_t_5 | Werckmeister Harmonies (2000) - IMDb
+https://www.imdb.com/title/tt1216496/?ref_=ls_t_6 | Mother (2009) - IMDb
+https://www.imdb.com/title/tt2024519/?ref_=ls_t_8 | The Broken Circle Breakdown (2012) - IMDb
+https://www.imdb.com/title/tt4057480/?ref_=ls_t_9 | Tashi Delek! (2016) - IMDb
+https://www.imdb.com/title/tt16428256/?ref_=ls_t_10 | Suzume (2022) - IMDb
+https://www.imdb.com/title/tt1736633/?ref_=ls_t_11 | Oslo, August 31st (2011) - IMDb
+https://www.imdb.com/title/tt0095475/?ref_=ls_t_12 | Damnation (1988) - IMDb
+https://www.imdb.com/title/tt2140519/?ref_=ls_t_13 | The Farmer's Wife (Short 2012) - IMDb
+https://www.imdb.com/title/tt0120663/?ref_=ls_t_14 | Eyes Wide Shut (1999) - IMDb
+https://www.imdb.com/title/tt0404203/?ref_=ls_t_15 | Little Children (2006) - IMDb
+https://www.imdb.com/title/tt0311113/?ref_=ls_t_16 | Master and Commander: The Far Side of the World (2003) - IMDb
+https://www.imdb.com/title/tt0203230/?ref_=ls_t_17 | You Can Count on Me (2000) - IMDb
+https://www.imdb.com/title/tt0315983/?ref_=ls_t_18 | House of Sand and Fog (2003) - IMDb
+https://www.imdb.com/title/tt0488905/?ref_=ls_t_19 | The Banishment (2007) - IMDb
+https://www.imdb.com/title/tt0090329/?ref_=ls_t_20 | Witness (1985) - IMDb
+https://www.imdb.com/title/tt0247425/?ref_=ls_t_21 | In the Bedroom (2001) - IMDb
+https://www.imdb.com/title/tt1847731/?ref_=ls_t_22 | Tomboy (2011) - IMDb
+https://www.imdb.com/title/tt0095037/?ref_=ls_t_25 | Distant Voices, Still Lives (1988) - IMDb
+https://www.imdb.com/title/tt1772424/?ref_=ls_t_24 | Where Do We Go Now? (2011) - IMDb
+https://www.imdb.com/title/tt4298958/?ref_=ls_t_23 | Sweet Bean (2015) - IMDb
+
+Psicanálise
+https://www.imdb.com/list/ls507899398/?ref_=uspf_t_26&sort=user_rating%2Cdesc | Psicanálise
+https://www.imdb.com/title/tt2078648/?ref_=ls_t_2 | It's Such a Beautiful Day (Short 2011) - IMDb
+https://www.imdb.com/title/tt12837488/?ref_=ls_t_5 | World of Tomorrow Episode Three: The Absent Destinations of David Prime (Short 2020) - IMDb
+https://www.imdb.com/title/tt11080216/?ref_=ls_t_6 | En thérapie (TV Series 2021– ) - IMDb
+https://www.imdb.com/title/tt0083931/?ref_=ls_t_12 | Son of the White Mare (1981) - IMDb
+https://www.imdb.com/title/tt0040806/?ref_=ls_t_14 | The Snake Pit (1948) - IMDb
+https://www.imdb.com/title/tt0120663/?ref_=ls_t_15 | Eyes Wide Shut (1999) - IMDb
+https://www.imdb.com/title/tt0396171/?ref_=ls_t_16 | Perfume: The Story of a Murderer (2006) - IMDb
+https://www.imdb.com/title/tt0067778/?ref_=ls_t_19 | Murmur of the Heart (1971) - IMDb
+https://www.imdb.com/title/tt0315543/?ref_=ls_t_21 | Open Hearts (2002) - IMDb
+https://www.imdb.com/title/tt0068569/?ref_=ls_t_22 | Family Life (1971) - IMDb
+https://www.imdb.com/title/tt0121431/?ref_=ls_t_23 | Johnny Corncob (1973) - IMDb
+https://www.imdb.com/title/tt3187076/?ref_=ls_t_24 | Class Enemy (2013) - IMDb
+https://www.imdb.com/title/tt0233651/?ref_=ls_t_25 | Angels of the Universe (2000) - IMDb
+
+Women Directors
+https://www.imdb.com/list/ls4107407503/?ref_=uspf_t_4&sort=user_rating%2Cdesc | Women Directors
+https://www.imdb.com/title/tt21626284/?ref_=ls_t_1 | Lost Ladies (2023) - IMDb
+https://www.imdb.com/title/tt1562872/?ref_=ls_t_2 | Zindagi Na Milegi Dobara (2011) - IMDb
+https://www.imdb.com/title/tt5005684/?ref_=ls_t_3 | The New Classmate (2015) - IMDb
+https://www.imdb.com/title/tt26737616/?ref_=ls_t_4 | Pluto (TV Mini Series 2023) - IMDb
+https://www.imdb.com/title/tt4934950/?ref_=ls_t_5 | Guilty (2015) - IMDb
+https://www.imdb.com/title/tt0479713/?ref_=ls_t_6 | My Life Inside (2007) - IMDb
+https://www.imdb.com/title/tt1899224/?ref_=ls_t_7 | La historia en la mirada (2011) - IMDb
+https://www.imdb.com/title/tt0488414/?ref_=ls_t_8 | Omkara (2006) - IMDb
+https://www.imdb.com/title/tt2486682/?ref_=ls_t_9 | The Square (2013) - IMDb
+https://www.imdb.com/title/tt1039980/?ref_=ls_t_10 | Tender Is the Wolf (2006) - IMDb
+https://www.imdb.com/title/tt0096028/?ref_=ls_t_11 | Salaam Bombay! (1988) - IMDb
+https://www.imdb.com/title/tt2395469/?ref_=ls_t_12 | Gully Boy (2019) - IMDb
+https://www.imdb.com/title/tt0329393/?ref_=ls_t_13 | Mr. and Mrs. Iyer (2002) - IMDb
+https://www.imdb.com/title/tt1312241/?ref_=ls_t_14 | Palavra (en)cantada (2008) - IMDb
+https://www.imdb.com/title/tt0055852/?ref_=ls_t_15 | Cléo from 5 to 7 (1962) - IMDb
+https://www.imdb.com/title/tt2181931/?ref_=ls_t_16 | English Vinglish (2012) - IMDb
+https://www.imdb.com/title/tt0062393/?ref_=ls_t_17 | Three Poplars on Plyuschikha Street (1968) - IMDb
+https://www.imdb.com/title/tt0329468/?ref_=ls_t_18 | For One More Hour with You (2002) - IMDb
+https://www.imdb.com/title/tt6390668/?ref_=ls_t_19 | Invisible Life (2019) - IMDb
+https://www.imdb.com/title/tt0075040/?ref_=ls_t_20 | Seven Beauties (1975) - IMDb
+https://www.imdb.com/title/tt0334732/?ref_=ls_t_21 | Xi wang zhi lü (2002) - IMDb
+https://www.imdb.com/title/tt1620620/?ref_=ls_t_22 | The Japanese Wife (2010) - IMDb
+https://www.imdb.com/title/tt8902990/?ref_=ls_t_23 | The Sky Is Pink (2019) - IMDb
+https://www.imdb.com/title/tt0910559/?ref_=ls_t_24 | Cherry Blossoms (2008) - IMDb
+https://www.imdb.com/title/tt0081968/?ref_=ls_t_25 | 36 Chowringhee Lane (1981) - IMDb
+https://www.imdb.com/title/tt0249866/?ref_=ls_t_26 | Paromitar Ek Din (2000) - IMDb
