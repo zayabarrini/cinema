@@ -2822,3 +2822,84 @@ CN Fashion & Beauty
 
 Select international site
 United States
+
+# Best designers of all time
+
+Here is a table of some of the **greatest fashion and costume designers in film and history**, including their area of specialty, most iconic works, and impact. This includes **cinema costume designers**, **fashion designers with film collaborations**, and **Drag Race alumni** known for design.
+
+---
+
+### 🧵 **Best Designers of All Time (Fashion + Cinema)**
+
+| **Name**               | **Field**                | **Notable Works / Films / Shows**                     | **Legacy / Contribution**                                 |
+| ---------------------- | ------------------------ | ----------------------------------------------------- | --------------------------------------------------------- |
+| **Edith Head**         | Costume Design (Cinema)  | *All About Eve*, *Sabrina*, *Roman Holiday*           | Won 8 Oscars, known for timeless elegance & functionality |
+| **Eiko Ishioka**       | Costume Design (Cinema)  | *Dracula (1992)*, *The Fall*, *Mirror Mirror*         | Avant-garde, theatrical, Japanese surrealist influence    |
+| **Sandy Powell**       | Costume Design (Cinema)  | *Shakespeare in Love*, *The Favourite*, *Carol*       | Bold use of color and period reinterpretation             |
+| **Colleen Atwood**     | Costume Design (Cinema)  | *Chicago*, *Memoirs of a Geisha*, *Sweeney Todd*      | Gothic and fantastical designs; works with Tim Burton     |
+| **Milena Canonero**    | Costume Design (Cinema)  | *Marie Antoinette*, *The Grand Budapest Hotel*        | Baroque-modern blends, 4-time Oscar winner                |
+| **Jacqueline Durran**  | Costume Design (Cinema)  | *Atonement*, *Little Women*, *Anna Karenina*          | Period + modern aesthetic fusion                          |
+| **Bob Mackie**         | Fashion / Costume        | Cher, Diana Ross, *The Carol Burnett Show*            | Glamour, sequins, and camp excess                         |
+| **Jean Paul Gaultier** | Fashion + Film           | *The Fifth Element*, *The Cook, The Thief...*         | Queer fashion, sci-fi futurism, gender-bending designs    |
+| **Thierry Mugler**     | Fashion + Performance    | Beyoncé tours, *Too Funky* (George Michael) video     | Architectural silhouettes, fantasy couture                |
+| **Alexander McQueen**  | Fashion (Haute Couture)  | *Savage Beauty*, Lady Gaga, Sarah Jessica Parker      | Dark romanticism, innovation, theatrical shows            |
+| **Iris van Herpen**    | Futuristic Fashion       | 3D printed fashion, gravity-defying dresses           | Tech-meets-fashion sculptural futurism                    |
+| **Zaldy**              | Drag / Performance       | *RuPaul’s Drag Race*, Lady Gaga, Britney Spears tours | High-concept stage fashion, costume design excellence     |
+| **Marco Marco**        | Drag / Couture           | Designed for dozens of Drag Race queens               | Androgynous futurism, club-to-catwalk designs             |
+| **Brian Hemesath**     | Broadway / Drag          | *Sesame Street*, Drag Race pageants                   | Character-driven, accessible high-glam                    |
+| **Walter Plunkett**    | Costume Design (Classic) | *Gone With the Wind*, *Singin’ in the Rain*           | Golden Age of Hollywood’s period design pillar            |
+
+---
+
+### 🎖️ **Special Mentions (Drag Race Alumni Designers)**
+
+| **Name**           | **Best Known For**                             | **Design Strength**            |
+| ------------------ | ---------------------------------------------- | ------------------------------ |
+| **Violet Chachki** | Drag Race S7 winner, vintage corsetry          | Art Deco, fetish-glam          |
+| **Aquaria**        | Drag Race S10 winner, high fashion drag        | Futuristic punk couture        |
+| **Raja Gemini**    | Drag Race S3 winner, makeup & eastern opulence | Precision + cultural reference |
+| **Kim Chi**        | Korean anime drag aesthetic                    | Fantasy food couture           |
+| **Gottmik**        | High editorial fashion looks                   | Genderbending, editorial       |
+| **Marco Marco**    | Drag queen staple designer                     | Bold lines, neon, body contour |
+
+---
+
+# Table with 10 best designers from Drag Race
+
+Certainly! Here's a table highlighting 10 standout designers from *RuPaul's Drag Race*, known for their exceptional design skills and memorable runway creations:
+
+| Designer Name        | Notable Contributions                                                                                                                                                                                                             |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zaldy**            | Longtime collaborator with RuPaul, designing all of RuPaul's main stage outfits on *RuPaul's Drag Race* and its various iterations. His creations range from slinky gold gowns to vibrant zebra-print suits. ([wmagazine.com][1]) |
+| **Florence D'Lee**   | Renowned for crafting intricate and avant-garde costumes for numerous Drag Race contestants, elevating their runway presentations with unique designs.                                                                            |
+| **Dallas Coulter**   | Known for her whimsical and detailed designs, Dallas has dressed many Drag Race alumni, bringing a touch of fantasy to the runway.                                                                                                |
+| **Diego Montoya**    | Celebrated for his elaborate and artistic creations, Diego's designs have been showcased by queens seeking to make a bold statement on the Drag Race stage.                                                                       |
+| **Marco Marco**      | Famous for his bold and edgy designs, Marco has been a go-to designer for queens aiming for a modern and daring look on the runway.                                                                                               |
+| **Casey Caldwell**   | Recognized for his innovative use of materials and textures, Casey's designs have added a unique flair to many Drag Race runway moments.                                                                                          |
+| **Geoffrey Mac**     | With a penchant for sleek and futuristic designs, Geoffrey has contributed to some of the most memorable fashion moments on Drag Race.                                                                                            |
+| **Michael Brambila** | Known for his intricate beadwork and luxurious designs, Michael has elevated the runway presence of several Drag Race contestants.                                                                                                |
+| **August Getty**     | Bringing high fashion to the Drag Race stage, August's designs have been worn by queens aiming for an elegant and sophisticated look.                                                                                             |
+| **B. Calla**         | Celebrated for vibrant patterns and contemporary designs, B. Calla has been a favorite among queens seeking a fresh and stylish appearance.                                                                                       |
+
+*Note: The designers listed above have significantly influenced the fashion and presentation of contestants on *RuPaul's Drag Race*, contributing to the show's iconic status in the fashion world.*
+
+[1]: https://www.wmagazine.com/fashion/drag-queen-designers-pride?utm_source=chatgpt.com "Five Drag Designers to Know, From Underground Creators to RuPaul’s Go-To"
+
+# Table with 10 best designers alumns from Drag Race
+
+Here’s a table of 10 *RuPaul’s Drag Race* alumni known for their exceptional design skills:
+
+| Drag Queen             | Season(s) | Notable Creations & Skills                                  |
+| ---------------------- | --------- | ----------------------------------------------------------- |
+| **Raja Gemini**        | S3, AS7   | Avant-garde, fashion-forward, high-concept runway looks     |
+| **Violet Chachki**     | S7        | Corsetry, vintage glamour, stunning silhouette work         |
+| **Aquaria**            | S10       | High-fashion editorial looks, conceptual designs            |
+| **Sasha Velour**       | S9        | Theatrical and artistic performances, creative costuming    |
+| **Jaida Essence Hall** | S12, AS7  | Impeccable tailoring, pageant-level glam meets high fashion |
+| **Utica Queen**        | S13       | Quirky, avant-garde designs, innovative use of materials    |
+| **Kim Chi**            | S8        | High-concept, hand-painted looks, cartoonish couture        |
+| **Gottmik**            | S13       | High-fashion editorial, structured and gender-fluid designs |
+| **Crystal Methyd**     | S12       | Whimsical and colorful DIY aesthetic, unique silhouettes    |
+| **Yvie Oddly**         | S11, AS7  | Unconventional, performance-driven, and innovative fashion  |
+
+These queens left a mark on *Drag Race* with their ability to design, construct, and serve iconic runway moments!

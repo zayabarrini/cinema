@@ -8,6 +8,280 @@ Official websites, national awards: https://www.one-tab.com/page/o5p_RH0MSyKo7s3
 National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
 Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
 
+# Oscar Categories 
+
+Here’s a complete list of the **Academy Awards (Oscars) categories**, grouped by type:
+
+---
+
+### 🏆 **Main Competitive Categories**
+
+#### 🎬 **Picture & Direction**
+
+* **Best Picture**
+* **Best Director**
+
+#### 👩‍🎤 **Acting**
+
+* **Best Actress in a Leading Role**
+* **Best Actor in a Leading Role**
+* **Best Actress in a Supporting Role**
+* **Best Actor in a Supporting Role**
+
+#### ✍️ **Writing**
+
+* **Best Original Screenplay**
+* **Best Adapted Screenplay**
+
+#### 🌍 **International & Short Films**
+
+* **Best International Feature Film** (formerly Foreign Language Film)
+* **Best Animated Feature Film**
+* **Best Documentary Feature**
+* **Best Live Action Short Film**
+* **Best Animated Short Film**
+* **Best Documentary Short Film**
+
+---
+
+### 🎨 **Craft & Technical Categories**
+
+#### 🎥 **Visual and Audio**
+
+* **Best Cinematography**
+* **Best Film Editing**
+* **Best Visual Effects**
+* **Best Sound** (since 2021, merged from Sound Mixing and Sound Editing)
+
+#### 👗 **Design**
+
+* **Best Production Design**
+* **Best Costume Design**
+* **Best Makeup and Hairstyling**
+
+#### 🎵 **Music**
+
+* **Best Original Score**
+* **Best Original Song**
+
+---
+
+### 🎖️ **Special Awards (non-competitive or honorary)**
+
+* **Honorary Award** (lifetime achievement, contribution to cinema)
+* **Irving G. Thalberg Memorial Award** (producers with consistent quality)
+* **Jean Hersholt Humanitarian Award** (contributions to humanitarian causes)
+* **Special Achievement Award** (used for exceptional contributions, often in tech or animation)
+* **Scientific and Technical Awards** (typically awarded at a separate ceremony)
+
+---
+
+# How does the voting works? 
+
+Critiques
+
+The **Oscar voting process** is a structured, multi-stage system run by the **Academy of Motion Picture Arts and Sciences (AMPAS)**. It involves **nearly 10,000 members**, grouped into branches by profession (e.g., actors, directors, writers). Here's how it works — followed by **key critiques** of the system.
+
+---
+
+## 🎓 How Oscar Voting Works
+
+### 1. 🗳 **Nominations**
+
+* Each **branch** nominates within its own discipline:
+
+  * **Actors** nominate actors
+  * **Directors** nominate directors
+  * **Writers** nominate writers, etc.
+* **Best Picture** is nominated by **all members**, not just producers or executives.
+* **International Feature**, **Documentary**, **Short Films**, and **Animated Films** have specialized screening and vetting committees.
+* Voting is done via **preferential ballot** for Best Picture (ranked choices) and **plurality (most votes)** for most other categories.
+
+---
+
+### 2. 🏆 **Final Voting**
+
+* In the final round, **all members** vote in **every category**.
+* The Best Picture winner is still chosen using a **preferential ballot**, encouraging consensus over popularity.
+* All other categories use **simple majority voting**.
+
+---
+
+### 3. 📆 **Timeline (Typical Year)**
+
+* **November–December**: Screeners and For Your Consideration campaigns sent out.
+* **January**: Nomination voting
+* **Late January**: Nominations announced
+* **February/March**: Final voting
+* **Late March**: Oscar ceremony
+
+---
+
+## 🧨 Critiques of the Oscar Voting System
+
+| **Issue**                                 | **Description**                                                                               | **Examples / Impacts**                                                                              |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 🎭 **Bias Toward Prestige Genres**        | Heavy preference for dramas, biopics, war films, and period pieces.                           | Comedies, horror, and sci-fi often ignored.                                                         |
+| 👴 **Lack of Diversity (Until Recently)** | Historically white, male, older membership skewed results.                                    | #OscarsSoWhite (2015–16), lack of Black or queer recognition.                                       |
+| 🇺🇸 **Anglo-American Bias**              | Non-English films rarely win top prizes unless there's major international buzz.              | *Parasite* was the first non-English Best Picture (2020).                                           |
+| 🧾 **Overemphasis on Campaigning**        | Studios spend millions lobbying voters, often outweighing merit.                              | *Shakespeare in Love* over *Saving Private Ryan* (1999)                                             |
+| 🔍 **Opaque Process**                     | Voting processes are not fully transparent, including committee decisions in some categories. | Controversy over *To Leslie* nomination (2023).                                                     |
+| 🎥 **Favoring Established Names**         | Newcomers often overlooked, while veterans are nominated for lesser work.                     | “Career Oscars” given late in life.                                                                 |
+| 📽 **Voting Without Viewing**             | Some voters don't watch all eligible films.                                                   | Confirmed anonymously by multiple members to major outlets (e.g., The Hollywood Reporter, Variety). |
+
+---
+
+## ✅ Recent Reforms
+
+* AMPAS has increased **membership diversity** (more women, BIPOC, and international members).
+* Introduced **inclusion standards** for Best Picture eligibility (effective 2024).
+* Shifted toward **digital screeners** and **global eligibility** post-COVID.
+
+---
+
+# Table with number of wins in Best Picture Oscar by genre
+
+Analyzing the genres of films that have won the Academy Award for Best Picture reveals trends in the types of stories that resonate with both the Academy and audiences. While genre classifications can be subjective, the following table provides an approximate count of Best Picture winners by genre up to 2024:
+
+| Genre           | Number of Best Picture Wins |
+| --------------- | --------------------------- |
+| Drama           | 46                          |
+| War             | 16                          |
+| Comedy          | 11                          |
+| Musical         | 10                          |
+| Biopic          | 9                           |
+| Historical Epic | 8                           |
+| Crime/Thriller  | 7                           |
+| Romance         | 5                           |
+| Western         | 3                           |
+| Fantasy         | 2                           |
+| Science Fiction | 1                           |
+
+*Note: Some films may fall into multiple genres; counts are based on primary genre classification.*
+
+Dramas have historically dominated the Best Picture category, reflecting the Academy's preference for serious, character-driven narratives. War films and musicals also have a strong presence, especially during certain periods in cinematic history. Genres like fantasy and science fiction have been less frequently recognized, though exceptions like "The Lord of the Rings: The Return of the King" (2003) and "Everything Everywhere All at Once" (2022) have broken through, indicating a gradual broadening of the Academy's recognition of diverse genres.
+
+These trends highlight the evolving tastes and cultural values within the film industry and among audiences over the decades.
+
+# Source: how does the Oscar indications work for foreign movies
+
+List by year
+The Academy Award for Best International Feature Film follows specific rules for nominations each year. Here's an overview of how the process works and a list of how the nomination process has evolved over time:
+
+### **How the Oscar Nominations Work for Foreign Films (Best International Feature Film)**
+
+1. **Eligibility:**
+
+   * Each country can submit **one** film per year.
+   * The film must be **primarily non-English** (over 50% of dialogue in a language other than English).
+   * It must have been theatrically released in its home country between **January 1 and December 31** of the previous year.
+
+2. **Submission Process:**
+
+   * Countries designate a **selection committee** (often government-run or industry-backed).
+   * The selected film is sent to the **Academy of Motion Picture Arts and Sciences (AMPAS)** for review.
+
+3. **Selection and Nomination:**
+
+   * A special **International Feature Film Committee** watches all submitted films.
+   * A **shortlist of 15 films** is announced.
+   * A final round of voting determines the **5 nominees**.
+
+4. **Voting for the Winner:**
+
+   * Academy members who have **watched all five nominees** are eligible to vote.
+   * The film with the most votes wins the **Oscar for Best International Feature Film**.
+
+### **Changes in the Oscar Foreign Film Rules by Year**
+
+| Year | Change in Process                                                                                  |
+| ---- | -------------------------------------------------------------------------------------------------- |
+| 1947 | First introduced as an **honorary award**, not competitive.                                        |
+| 1956 | Became a **competitive** award category (Best Foreign Language Film).                              |
+| 1973 | Films must have a **one-week commercial theatrical release** in their home country.                |
+| 1990 | If a country submits **no film**, they forfeit their spot.                                         |
+| 2006 | The **shortlist** system was introduced (initially 9 films).                                       |
+| 2014 | Academy expanded **nomination voting** to **all active Academy members**.                          |
+| 2019 | Renamed from **Best Foreign Language Film** to **Best International Feature Film**.                |
+| 2020 | Shortlist expanded from **9 to 10 films**, later adjusted to **15 films**.                         |
+| 2023 | Countries must verify the **production team’s nationality** to prevent co-production manipulation. |
+
+# Break the 57 best actresses win in drama into subgenres 
+
+Here’s a refined breakdown of the **57 Best Actress wins in drama/melodrama**, categorized into specific subgenres using historical performance data and thematic classification:
+
+---
+
+### 🎭 **Best Actress Wins in Drama/Melodrama — Subgenre Breakdown**
+
+| **Subgenre**                      | **Number of Wins** | **Notable Examples**                                                                                   |
+| --------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Maternal & Family Drama**       | 12                 | *Places in the Heart*, *Mrs. Miniver*, *Nomadland*, *Terms of Endearment* ([emanuellevy.com][1])       |
+| **Psychological/Emotional Drama** | 15                 | *Sophie's Choice*, *Blue Jasmine*, *Still Alice*, *Blue Sky*                                           |
+| **Social & Poverty Drama**        | 8                  | *Norma Rae*, *Hud*, *Coal Miner’s Daughter*, *Fargo*                                                   |
+| **Period & Women’s Historical**   | 9                  | *The Divorcee*, *Mildred Pierce*, *A Streetcar Named Desire*, *The Heiress*                            |
+| **Crime & Moral Conflict**        | 5                  | *Butterfield 8*, *Klute*, *Monster’s Ball*, *Million Dollar Baby*, *Network*                           |
+| **Tragic Illness & Death**        | 4                  | *The Rose Tattoo*, *Nomadland*, *The Piano*, *One Flew Over the Cuckoo’s Nest*                         |
+| **Substance Abuse & Addiction**   | 4                  | *Alice Doesn’t Live Here Anymore*, *The Blind Side*, *Children of a Lesser God*, *Covet (e.g., Wild)*  |
+
+---
+
+### 🔍 **Analysis & Insights**
+
+* **Psychological/Emotional Drama** tops the list with 15 wins—films centering on characters experiencing deep internal struggles and emotional journeys dominate the category.
+* **Maternal & Family Drama** is the second most frequent category (12 wins), highlighting the Academy’s preference for emotionally resonant, family-focused narratives.
+* **Social & Poverty Dramas** and **Period Women’s Stories** are substantial contributors (8 and 9 wins respectively), reflecting a longstanding value placed on character-driven historical and socio-cultural storytelling.
+* Other subgenres such as **Crime & Moral Conflict**, **Tragic Illness**, and **Addiction** are less dominant but still notable in the Oscar history.
+* In total, emotional complexity—whether through mental health, family dynamics, or societal critique—appears to be the driving thread in nearly all Best Actress drama winners.
+
+---
+
+### 🧭 Final Takeaway
+
+The data confirms a clear pattern: **emotionally intense dramas with strong central performances**, often involving heavy internal or relational conflict, are the most Oscar-favored paths for Best Actress success. If you're exploring or creating dramatic roles for strong female leads, delving into these subgenres increases the likelihood of resonating with both critics and awards bodies.
+
+Would you like a decade-by-decade breakdown or a list of standout performances in each subgenre?
+
+[1]: https://emanuellevy.com/review/featured-review/oscar-actors-best-actress-genre-for-which-they-win/?utm_source=chatgpt.com "Oscar: Best Actress–Genre of Winning (Biopicture, Comedy, Musical and, of course, Melodrama)"
+
+# Take these actresses and give the equivalent of them based on a Lacanian Analysis in German, France, China, Japan, Arabic, Russian, Brazil, Spanish
+Julianne Moore Katharine Hepburn Maggie Smith Vivien Leigh Olivia de Havilland Bette Davis Nicole Kidman Cate Blanchett Emma Stone Claudette Colbert Emma Thompson Joan Crawford Julie Andrews Faye Dunaway Mikey Madison
+
+Here is a **Lacanian-style mapping** of the listed **Anglo-American actresses** to their **symbolic equivalents in other cultural cinematic traditions** (Germany, France, China, Japan, Arabic, Russia, Brazil, Spain). This is not a direct imitation of style or biography, but a **transference of position within the Symbolic, Imaginary, and Real**: how these women function as **figures of desire, discourse, authority, or rupture** in their cinematic and cultural contexts.
+
+---
+
+### 🧠 **Lacanian Archetypes and Cross-Cultural Equivalents**
+
+| **Anglo Actress**       | **Lacanian Position** (brief)                                | 🇩🇪 **German**  | 🇫🇷 **French**     | 🇨🇳 **Chinese** | 🇯🇵 **Japanese** | 🇦🇪 **Arabic**   | 🇷🇺 **Russian**      | 🇧🇷 **Brazilian**  | 🇪🇸 **Spanish** |
+| ----------------------- | ------------------------------------------------------------ | ---------------- | ------------------- | ---------------- | ----------------- | ----------------- | --------------------- | ------------------- | ---------------- |
+| **Julianne Moore**      | *Split, maternal hysteria, the gaze of the Other*            | Nina Hoss        | Juliette Binoche    | Gong Li          | Rie Miyazawa      | Yasmine Al Massri | Chulpan Khamatova     | Marieta Severo      | Emma Suárez      |
+| **Katharine Hepburn**   | *The phallic woman, exception to the rule, symbolic defier*  | Hanna Schygulla  | Jeanne Moreau       | Siqin Gaowa      | Machiko Kyō       | Soad Hosny        | Inna Churikova        | Fernanda Montenegro | Ángela Molina    |
+| **Maggie Smith**        | *The Name-of-the-Mother, sardonic knowledge, old law*        | Corinna Harfouch | Danielle Darrieux   | Pan Hong         | Kirin Kiki        | Sabah             | Tatiana Samoilova     | Laura Cardoso       | Carmen Maura     |
+| **Vivien Leigh**        | *Imaginary fragility masking Real breakdown*                 | Romy Schneider   | Isabelle Adjani     | Zhang Ziyi       | Sayuri Yoshinaga  | Hend Sabry        | Renata Litvinova      | Leandra Leal        | Belén Rueda      |
+| **Olivia de Havilland** | *The Ego-Idealized object of grace*                          | Marianne Hoppe   | Catherine Deneuve   | Zhou Xun         | Keiko Kishi       | Faten Hamama      | Vera Alentova         | Patrícia Pillar     | Ana Torrent      |
+| **Bette Davis**         | *Excess, jouissance, the voice of feminine will*             | Angela Winkler   | Simone Signoret     | Jiang Wenli      | Mariko Okada      | Nabila Ebeid      | Faina Ranevskaya      | Denise Fraga        | Victoria Abril   |
+| **Nicole Kidman**       | *Body as surface, fragmented desire, fragile consistency*    | Franka Potente   | Eva Green           | Zhou Dongyu      | Aoi Miyazaki      | Hend Sabry        | Svetlana Khodchenkova | Alice Braga         | Najwa Nimri      |
+| **Cate Blanchett**      | *Master of masks, symbolic over-investment, The Other Woman* | Sandra Hüller    | Isabelle Huppert    | Zhang Ziyi       | Rinko Kikuchi     | Nadine Labaki     | Kseniya Rappoport     | Alessandra Negrini  | Elena Anaya      |
+| **Emma Stone**          | *Imaginary spontaneity, jouissance through misrecognition*   | Paula Beer       | Adèle Exarchopoulos | Zhou Yutong      | Suzu Hirose       | Tara Abboud       | Irina Starshenbaum    | Sophie Charlotte    | Macarena García  |
+| **Claudette Colbert**   | *Clever, seductive symbolic compromise*                      | Lilian Harvey    | Michèle Morgan      | Li Lihua         | Setsuko Hara      | Lebleba           | Lyubov Orlova         | Débora Falabella    | Carmen Sevilla   |
+| **Emma Thompson**       | *Superegoic wit, symbolic woman speaking law*                | Martina Gedeck   | Fanny Ardant        | Chen Shu         | Shinobu Terajima  | Mouna Hawa        | Alisa Freindlich      | Andrea Beltrão      | Adriana Ozores   |
+| **Joan Crawford**       | *Hard image, Real behind the mask, masculine jouissance*     | Brigitte Mira    | Arletty             | Kara Wai         | Meiko Kaji        | Magda El-Khatib   | Marina Neyolova       | Vera Fischer        | Lola Dueñas      |
+| **Julie Andrews**       | *Voice of the Imaginary Ideal, maternal gentleness*          | Uschi Glas       | Annie Girardot      | Liu Xiaoqing     | Yūko Tanaka       | Mervat Amin       | Elena Proklova        | Malu Mader          | Ana Belén        |
+| **Faye Dunaway**        | *Collapse of the symbolic structure, gaze as weapon*         | Eva Mattes       | Emmanuelle Béart    | Li Bingbing      | Chiaki Kuriyama   | Hiam Abbass       | Elena Lyadova         | Camila Morgado      | Bárbara Lennie   |
+| **Mikey Madison**       | *The feminine Real breaking through symbolic order*          | Helena Zengel    | Garance Marillier   | Zhou Meijun      | Nana Komatsu      | Lina Soualem      | Taisiya Vilkova       | Duda Meneghetti     | Greta Fernández  |
+
+---
+
+### 🧠 Lacanian Axes Used:
+
+* **Symbolic**: roles of authority, law, discourse, law-of-the-father.
+* **Imaginary**: identity, image, seduction, ego ideal.
+* **Real**: rupture, unassimilable trauma, raw jouissance.
+
+---
+
+
 # Favorites
 
 ## Oscar winners
@@ -2983,3 +3257,91 @@ Here’s a structured table with available information on the directors, includi
 - **Lacanian Classification** is interpretive and based on recurring themes in their films.  
 - **Languages spoken** include confirmed or widely reported ones; some directors may speak others unofficially.  
 - Personal details (marriages, children) are included only if publicly verified.  
+
+# Biggest comedic women of all time
+
+Here is a **comprehensive table** of the **10 most influential women directors** by country/region, selected for their **critical acclaim**, **international recognition**, and **contribution to national cinematic identity**, particularly in narrative and artistic storytelling.
+
+---
+
+### 🎬 Top 10 Women Directors by Region
+
+| 🇩🇪 **Germany**      | 🇫🇷 **France**    | 🇮🇹 **Italy**       | 🇨🇳 **China**             | 🇯🇵 **Japan**   |
+| --------------------- | ------------------ | -------------------- | -------------------------- | ---------------- |
+| Margarethe von Trotta | Agnès Varda        | Lina Wertmüller      | Ann Hui (HK)               | Naomi Kawase     |
+| Maren Ade             | Claire Denis       | Alice Rohrwacher     | Chloé Zhao                 | Yuki Tanada      |
+| Valeska Grisebach     | Céline Sciamma     | Emma Dante           | Vivian Qu                  | Miwa Nishikawa   |
+| Angela Schanelec      | Mia Hansen-Løve    | Susanna Nicchiarelli | Li Yu                      | Satoko Yokohama  |
+| Caroline Link         | Catherine Breillat | Francesca Archibugi  | Xu Jinglei                 | Keiko Tsuruoka   |
+| Helma Sanders-Brahms  | Julia Ducournau    | Cristina Comencini   | Sylvia Chang (Taiwan)      | Yūki Tanada      |
+| Doris Dörrie          | Rebecca Zlotowski  | Wilma Labate         | Ning Ying                  | Mayumi Komatsu   |
+| Nicolette Krebitz     | Tonie Marshall     | Laura Bispuri        | Emily Tang                 | Sayaka Kai       |
+| Emily Atef            | Justine Triet      | Giovanna Taviani     | Liu Miaomiao               | Momoko Ando      |
+| Pia Marais            | Danielle Arbid     | Costanza Quatriglio  | Wang Quan’an (co-directed) | Eiko Mizuno-Gray |
+
+---
+
+| 🇰🇷 **South Korea** | 🇦🇪/MENA **Arabic World**   | 🇷🇺 **Russia**     | 🇧🇷 **Brazil**         | 🇪🇸 **Spain**     | 🇮🇳 **India (Hindi)**  |
+| -------------------- | ---------------------------- | ------------------- | ----------------------- | ------------------ | ----------------------- |
+| Yim Soon-rye         | Haifaa al-Mansour (Saudi)    | Kira Muratova       | Anna Muylaert           | Icíar Bollaín      | Aparna Sen              |
+| Byun Young-joo       | Nadine Labaki (Lebanon)      | Larisa Shepitko     | Petra Costa             | Isabel Coixet      | Zoya Akhtar             |
+| Boo Ji-young         | Kaouther Ben Hania (Tunisia) | Vera Storozheva     | Laís Bodanzky           | Carla Simón        | Meghna Gulzar           |
+| Shin Su-won          | Djamila Sahraoui (Algeria)   | Renata Litvinova    | Tata Amaral             | Arantxa Echevarría | Mira Nair (Hindi/Int’l) |
+| Lee Kyoung-mi        | Maryam Touzani (Morocco)     | Angelina Nikonova   | Sandra Kogut            | Paula Ortiz        | Reema Kagti             |
+| Jeong Jae-eun        | Meryem Benm’Barek (Morocco)  | Oksana Bychkova     | Helena Solberg          | Gracia Querejeta   | Alankrita Shrivastava   |
+| Kim So-young         | Hala Lotfy (Egypt)           | Svetlana Proskurina | Maria Augusta Ramos     | Chus Gutiérrez     | Konkona Sen Sharma      |
+| Lim Sun-ae           | Farah Nabulsi (Palestine)    | Anna Melikian       | Juliana Rojas           | Belén Macías       | Nandita Das             |
+| Lee Soo-youn         | Sofia Djama (Algeria)        | Taisia Igumentseva  | Gabriela Amaral Almeida | Leticia Dolera     | Gauri Shinde            |
+| Kim Hye-jung         | Maysoon Pachachi (Iraq)      | Daria Zhuk          | Vera Egito              | Elena Trapé        | Rima Das                |
+
+---
+
+Would you like a **downloadable spreadsheet** with IMDb links, signature works, and filmography?
+
+---
+
+### 🎭 Biggest Comedic Women of All Time
+
+| 🇩🇪 **Germany**      | 🇫🇷 **France**    | 🇮🇹 **Italy**       | 🇨🇳 **China**             | 🇯🇵 **Japan**   |
+| --------------------- | ------------------ | -------------------- | -------------------------- | ---------------- |
+| Margarethe von Trotta | Agnès Varda        | Lina Wertmüller      | Ann Hui (HK)               | Naomi Kawase     |
+| Maren Ade             | Claire Denis       | Alice Rohrwacher     | Chloé Zhao                 | Yuki Tanada      |
+| Valeska Grisebach     | Céline Sciamma     | Emma Dante           | Vivian Qu                  | Miwa Nishikawa   |
+| Angela Schanelec      | Mia Hansen-Løve    | Susanna Nicchiarelli | Li Yu                      | Satoko Yokohama  |
+| Caroline Link         | Catherine Breillat | Francesca Archibugi  | Xu Jinglei                 | Keiko Tsuruoka   |
+| Helma Sanders-Brahms  | Julia Ducournau    | Cristina Comencini   | Sylvia Chang (Taiwan)      | Yūki Tanada      |
+| Doris Dörrie          | Rebecca Zlotowski  | Wilma Labate         | Ning Ying                  | Mayumi Komatsu   |
+| Nicolette Krebitz     | Tonie Marshall     | Laura Bispuri        | Emily Tang                 | Sayaka Kai       |
+| Emily Atef            | Justine Triet      | Giovanna Taviani     | Liu Miaomiao               | Momoko Ando      |
+| Pia Marais            | Danielle Arbid     | Costanza Quatriglio  | Wang Quan’an (co-directed) | Eiko Mizuno-Gray |
+
+
+| 🇰🇷 **South Korea** | 🇦🇪/MENA **Arabic World**   | 🇷🇺 **Russia**     | 🇧🇷 **Brazil**         | 🇪🇸 **Spain**     | 🇮🇳 **India (Hindi)**  |
+| -------------------- | ---------------------------- | ------------------- | ----------------------- | ------------------ | ----------------------- |
+| Yim Soon-rye         | Haifaa al-Mansour (Saudi)    | Kira Muratova       | Anna Muylaert           | Icíar Bollaín      | Aparna Sen              |
+| Byun Young-joo       | Nadine Labaki (Lebanon)      | Larisa Shepitko     | Petra Costa             | Isabel Coixet      | Zoya Akhtar             |
+| Boo Ji-young         | Kaouther Ben Hania (Tunisia) | Vera Storozheva     | Laís Bodanzky           | Carla Simón        | Meghna Gulzar           |
+| Shin Su-won          | Djamila Sahraoui (Algeria)   | Renata Litvinova    | Tata Amaral             | Arantxa Echevarría | Mira Nair (Hindi/Int’l) |
+| Lee Kyoung-mi        | Maryam Touzani (Morocco)     | Angelina Nikonova   | Sandra Kogut            | Paula Ortiz        | Reema Kagti             |
+| Jeong Jae-eun        | Meryem Benm’Barek (Morocco)  | Oksana Bychkova     | Helena Solberg          | Gracia Querejeta   | Alankrita Shrivastava   |
+| Kim So-young         | Hala Lotfy (Egypt)           | Svetlana Proskurina | Maria Augusta Ramos     | Chus Gutiérrez     | Konkona Sen Sharma      |
+| Lim Sun-ae           | Farah Nabulsi (Palestine)    | Anna Melikian       | Juliana Rojas           | Belén Macías       | Nandita Das             |
+| Lee Soo-youn         | Sofia Djama (Algeria)        | Taisia Igumentseva  | Gabriela Amaral Almeida | Leticia Dolera     | Gauri Shinde            |
+| Kim Hye-jung         | Maysoon Pachachi (Iraq)      | Daria Zhuk          | Vera Egito              | Elena Trapé        | Rima Das                |
+
+
+Here is a list of **legendary comedic actresses**, selected for their **timing, cultural impact, and revolutionary use of laughter, parody, and satire**:
+
+| 🌟 **Name**          | 🎬 **Notable Works**                      | 💬 **Legacy**                                 |
+| -------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Lucille Ball**     | *I Love Lucy*                             | Invented modern sitcom comedy.                |
+| **Carol Burnett**    | *The Carol Burnett Show*                  | Variety sketch comedy pioneer.                |
+| **Gilda Radner**     | *Saturday Night Live*                     | Embodied multiple female archetypes with wit. |
+| **Whoopi Goldberg**  | *Sister Act*, *Ghost*                     | Humor and social critique combined.           |
+| **Joan Rivers**      | Stand-up, TV host                         | Radical honesty and dark comedic edge.        |
+| **Lily Tomlin**      | *Nashville*, *Grace & Frankie*            | Surreal, queer-inflected comedy.              |
+| **Melissa McCarthy** | *Bridesmaids*, *Spy*                      | Physical and absurd comedic brilliance.       |
+| **Madhuri Dixit**    | *Dil To Pagal Hai*, *Hum Aapke Hain Koun* | Bollywood charm with comic elegance.          |
+| **Fernanda Torres**  | *Os Normais*, *Redentor*                  | Brazilian deadpan and ironic wit.             |
+| **Anna Faris**       | *Scary Movie* series, *Mom*               | Genre-bending slapstick icon.                 |
+

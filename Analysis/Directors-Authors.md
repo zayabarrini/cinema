@@ -1,3 +1,42 @@
+# Table with young directors and how they made their first length-feature
+
+Here’s a table of **young directors** and how they made their first feature-length films, focusing on their strategies, funding sources, and notable aspects of their debut projects:
+
+| **Director**     | **Debut Film**                            | **Age at Debut** | **How It Was Made**                                                                                                          | **Notable Aspects**                                                                                |
+| ---------------- | ----------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Greta Gerwig     | *Lady Bird* (2017)                        | 34               | Worked with indie studio A24; transitioned from acting and co-directing with Noah Baumbach.                                  | Semi-autobiographical; critically acclaimed for authenticity and relatable storytelling.           |
+| Damien Chazelle  | *Guy and Madeline on a Park Bench* (2009) | 24               | Made on a \$60K budget while at Harvard; shot in black and white using non-professional actors.                              | Displayed a jazz-centric aesthetic that shaped his later works (*Whiplash*, *La La Land*).         |
+| Chloé Zhao       | *Songs My Brothers Taught Me* (2015)      | 33               | Funded through grants and support from Sundance Institute; filmed with non-professional actors in South Dakota’s Pine Ridge. | Established her style of blending documentary realism with fiction (*Nomadland*).                  |
+| Jordan Peele     | *Get Out* (2017)                          | 38               | Partnered with Blumhouse Productions, which specializes in low-budget horror; \$4.5M budget.                                 | Cleverly used genre conventions to explore racial themes; massive commercial and critical success. |
+| Robert Eggers    | *The Witch* (2015)                        | 32               | Secured funding through A24 and production companies focused on indie horror; \$4M budget.                                   | Gained recognition for meticulous historical detail and atmospheric storytelling.                  |
+| Céline Sciamma   | *Water Lilies* (2007)                     | 29               | Developed from her graduate screenplay project; received funding from French cultural institutions.                          | Explored themes of adolescence and identity, setting the stage for *Portrait of a Lady on Fire*.   |
+| Barry Jenkins    | *Medicine for Melancholy* (2008)          | 29               | Micro-budget film made for \$15K; funded partially through personal savings and small investors.                             | Focused on character-driven storytelling, later refined in *Moonlight*.                            |
+| Xavier Dolan     | *I Killed My Mother* (2009)               | 20               | Self-funded using savings and grants from Canadian arts programs; \$800K budget.                                             | Semi-autobiographical; received critical acclaim at Cannes Film Festival.                          |
+| Bo Burnham       | *Eighth Grade* (2018)                     | 28               | Partnered with indie distributor A24; financed through private investors and modest budget.                                  | Authentic portrayal of adolescence resonated with audiences and critics.                           |
+| Ryan Coogler     | *Fruitvale Station* (2013)                | 27               | Developed through Sundance Labs; secured financing from Forest Whitaker’s production company.                                | Real-life story that showcased his ability to handle socially relevant themes (*Black Panther*).   |
+| Sofia Coppola    | *The Virgin Suicides* (1999)              | 28               | Adapted Jeffrey Eugenides’ novel; secured funding through her family’s connections in the industry.                          | Established her signature dreamy aesthetic; breakout hit.                                          |
+| Ari Aster        | *Hereditary* (2018)                       | 31               | Secured funding from A24; \$10M budget, capitalizing on his acclaimed short films.                                           | A psychological horror debut that became a cultural phenomenon.                                    |
+| Lulu Wang        | *The Farewell* (2019)                     | 36               | Funded through independent financing after struggles with mainstream studios; supported by A24.                              | Based on a personal story; celebrated for cross-cultural themes and emotional depth.               |
+| Jonas Carpignano | *Mediterranea* (2015)                     | 31               | Developed at Cannes’ Cinéfondation; received European grants and co-production funding.                                      | Tackled migration and refugee issues with a neorealistic approach.                                 |
+| Julia Ducournau  | *Raw* (2016)                              | 33               | Supported by French film funds and co-produced by Canal+ and Wild Bunch.                                                     | Unique blend of horror and coming-of-age storytelling; acclaimed at Cannes.                        |
+
+---
+
+### **Trends and Insights**
+
+1. **Funding Sources:**
+
+   * Many directors leveraged **indie studios**, **grants**, or **personal savings** for their debut.
+   * Institutions like **Sundance Institute**, **Cinéfondation**, and **national film funds** (France, Canada) were critical.
+
+2. **Personal Stories:**
+
+   * Many debut films (e.g., Xavier Dolan, Greta Gerwig) were semi-autobiographical or inspired by personal experiences.
+
+3. **Collaborations:**
+
+   * Partnering with **A24**, **Blumhouse**, or experienced producers like **Forest Whitaker** helped secure funding and resources.
+
 # lacanian analysis of JK Howling
 
 the usage of a male name as author
@@ -370,3 +409,5 @@ Let the **Real leave its trace**.
 | Writer of *The Hours*        | Symbolic  | Stitch three timelines, construct echoes and displacements.    |
 
 ---
+
+

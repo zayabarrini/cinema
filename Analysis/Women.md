@@ -10,16 +10,27 @@ Kathrine Hepburn x Husband (The Lion in the winter)
 The prime of Miss Jean Brody (Jean Brody x The student)
 Maggie Smith One-liners in Downtown Abbey
 Sandra Hüller x Husband (Anatomy of a fall)
+Emily Dickson (A quiet passion)
 
+Honorable Mentions
+Cate Blanchet in TAR
+The color purple (Eat my shit)
 The Social Network (Mark x The brothers)
 Felicity Jones in The Brutalist
 Ethan Hawke (Oh captain, my captain - Dead Poets Society)
+Norma Aleandro (La história oficial)
 
 # Ten Biggest feminine performance
 Julianne Moore (The hours)
 Past Lives
 Elio cries (Call me by your name)
 A ghost story
+Vivien Leigh (+ A streetcar named desire + Gone with the wind)
+Gaspard Ulliel - It's only the end of the world
+Carlton (A home at the end of the world)
+Sigfried (Humuliated in Benediction)
+Olivia de Havilland (Gone with the wind)
+Claudette Colbert (It Happened One Night)
 
 
 # Analysing the Oscar winners for best actresses and the movies that they were in allow to trace a timeline for the last century and female narratives 

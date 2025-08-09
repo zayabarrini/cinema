@@ -38,9 +38,7 @@ CLARK: Objection, Your Honor.
 
 The witness cannot speak for the intentions of Senator Trucco.
 
-ANNALISE:
-
-Which is why I would like to ask the state at this time to subpoena Senator Trucco.
+ANNALISE: Which is why I would like to ask the state at this time to subpoena Senator Trucco.
 
 What? No!
 
@@ -106,15 +104,11 @@ Explain why your eviction suit against Miss
 
 Morelli was dropped despite her inability to pay rent.
 
-JUDGE: Miss Keating...
-
 Is it because her lost rent money was nothing compared to the millions you made once Miss Stanley was out of your way?
 
 (GAVEL BANGS)
 
 Answer the question, Senator.
-
-JUDGE: Miss Keating, enough.
 
 Why was Linda Morelli granted these concessions?
 
@@ -136,29 +130,15 @@ CLARK: Your Honor, please!
 
 But the thousands who were displaced in the name of lining your pockets...
 
-JUDGE: Miss Keating!
-
 The majority of whom are poor, powerless, and didn't bear the color of skin desirable to your business interests.
 
-JUDGE:
-
-That's enough, Miss Keating!
-
 You tore a community apart.
-
-JUDGE:
-
-Miss Keating, I want order!
 
 You tore families apart.
 
 You destroyed lives, Senator.
 
-JUDGE: Miss Keating!
-
 Admit it.
-
-JUDGE: Miss Keating.
 
 Admit you killed Trisha Stanley and had my client,
 
