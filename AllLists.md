@@ -1306,3 +1306,172 @@ https://www.imdb.com/title/tt5354386/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Antes%2
 https://www.imdb.com/title/tt5708028/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Cocote%2520(2017) | Cocote (2017) - IMDb
 https://www.imdb.com/title/tt14731294/ | The Girl from Uruguay (2022) - IMDb
 https://www.imdb.com/title/tt4721400/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_From%2520Afar%2520(2015) | From Afar (2015) - IMDb
+
+# Favorite Directors' favorite movies
+
+Lacan, Michael Haneke, Volker Schlöndorff, Stephen Daldry, Luca Guadagnino, Luis Bunuel, Pedro Almodóvar
+
+Un Chien Andalou (1929)
+Vertigo (1958)
+Persona (1966)
+Belle de Jour (1967)
+Last Year at Marienbad (1961)
+The Phantom of Liberty (1974)
+Eyes Without a Face (1960)
+The Trial (1962)
+Solaris (1972)
+The Mirror (1975)
+The Leopard (1963) 
+Vertigo (1958) 
+The Conformist (1970) 
+Contempt (1963) 
+Sunset Boulevard (1950) 
+Maurice (1987) 
+Death in Venice (1971) 
+The Night Porter (1974) 
+My Own Private Idaho (1991) 
+Suspiria (1977) 
+Don’t Look Now (1973) 
+The Shining (1980) 
+Mulholland Drive (2001) 
+Happy Together (1997) 
+The Piano Teacher (2001) 
+The Swimmer (1968) 
+The Damned (1969) 
+The Servant (1963) 
+Vertigo (1958) 
+Johnny Guitar (1954) 
+Psycho (1960) 
+The Night of the Hunter (1955) 
+All About Eve (1950) 
+Sunset Boulevard (1950) 
+The Red Shoes (1948) 
+The Wizard of Oz (1939) 
+Persona (1966) 
+Umbrellas of Cherbourg (1964) 
+Women on the Verge of a Nervous Breakdown (1988) 
+All About My Mother (1999) 
+Talk to Her (2002) 
+Volver (2006) 
+Pain and Glory (2019) 
+The Gold Rush (1925)
+Nosferatu (1922)
+The Cabinet of Dr. Caligari (1920)
+Un Chien Andalou (1929)
+Earth (1930)
+Greed (1924)
+The Rules of the Game (1939)
+Los Olvidados (1950)
+Un Chien Andalou (1929)
+L’Âge d’Or (1930)
+Los Olvidados (1950)
+Viridiana (1961)
+The Exterminating Angel (1962)
+Belle de Jour (1967)
+The Discreet Charm of the Bourgeoisie (1972)
+That Obscure Object of Desire (1977)
+Au Hasard Balthazar (1966) 
+L’Avventura (1960) 
+The Mirror (1975) 
+Pickpocket (1959) 
+The Exterminating Angel (1962) 
+Psycho (1960) 
+The Godfather Part II (1974) 
+Winter Light (1963) 
+Jeanne Dielman… (1975) 
+The Son (2002) 
+Un Chien Andalou (1929) 
+Vertigo (1958) 
+Persona (1966) 
+Belle de Jour (1967) 
+Last Year at Marienbad (1961) 
+The Phantom of Liberty (1974) 
+Eyes Without a Face (1960) 
+The Trial (1962) 
+Solaris (1972) 
+The Mirror (1975) 
+Tokyo Story (1953) 
+The Leopard (1963) 
+The 400 Blows (1959) 
+Rashomon (1950) 
+The Battle of Algiers (1966) 
+The Conformist (1970) 
+Breathless (1960) 
+M (1931) 
+The Night of the Hunter (1955) 
+The Leopard (1963) 
+The Bicycle Thieves (1948) 
+Stalker (1979) 
+Mulholland Drive (2001) 
+In the Mood for Love (2000) 
+Certified Copy (2010) 
+Kes (1969) 
+I, Daniel Blake (2016) 
+Secrets & Lies (1996) 
+The Loneliness of the Long Distance Runner (1962) 
+The Bicycle Thieves (1948) 
+Extremely Loud & Incredibly Close (2011) 
+The Tree of Life (2011) 
+Richard Eyre (Iris) 
+Swann in Love (1984).  
+The Tin Drum (1979) 
+The Lost Honor of Katharina Blum (1975) 
+The Rules of the Game (1939) 
+Tokyo Story (1953) 
+
+https://www.imdb.com/title/tt0020530/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Un%2520Chien%2520Andalou%2520(1929) | Un chien andalou (Short 1929) - IMDb
+https://www.imdb.com/title/tt0060827/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_Persona%2520(1966) | Persona (1966) - IMDb
+https://www.imdb.com/title/tt0061395/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Belle%2520de%2520Jour%2520(1967) | Belle de Jour (1967) - IMDb
+https://www.imdb.com/title/tt0054632/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Last%2520Year%2520at%2520Marienbad%2520(1961) | Last Year at Marienbad (1961) - IMDb
+https://www.imdb.com/title/tt0071487/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Phantom%2520of%2520Liberty%2520(1974) | The Phantom of Liberty (1974) - IMDb
+https://www.imdb.com/title/tt0053459/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Eyes%2520Without%2520a%2520Face%2520(1960) | Eyes Without a Face (1960) - IMDb
+https://www.imdb.com/title/tt0069293/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Solaris%2520(1972) | Solaris (1972) - IMDb
+https://www.imdb.com/title/tt0057091/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Leopard%2520(1963)%2520 | The Leopard (1963) - IMDb
+https://www.imdb.com/title/tt0065571/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Conformist%2520(1970)%2520 | The Conformist (1970) - IMDb
+https://www.imdb.com/title/tt0057345/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Contempt%2520(1963)%2520 | Contempt (1963) - IMDb
+https://www.imdb.com/title/tt0043014/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Sunset%2520Boulevard%2520(1950)%2520 | Sunset Boulevard (1950) - IMDb
+https://www.imdb.com/title/tt0093512/?ref_=nv_sr_srsg_1_tt_2_nm_5_in_0_q_Maurice%2520(1987)%2520 | Maurice (1987) - IMDb
+https://www.imdb.com/title/tt0067445/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Death%2520in%2520Venice%2520(1971)%2520 | Death in Venice (1971) - IMDb
+https://www.imdb.com/title/tt0071910/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Night%2520Porter%2520(1974)%2520 | The Night Porter (1974) - IMDb
+https://www.imdb.com/title/tt0102494/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_My%2520Own%2520Private%2520Idaho%2520(1991)%2520 | My Own Private Idaho (1991) - IMDb
+https://www.imdb.com/title/tt0076786/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Suspiria%2520(1977)%2520 | Suspiria (1977) - IMDb
+https://www.imdb.com/title/tt0069995/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Don%25E2%2580%2599t%2520Look%2520Now%2520(1973)%2520 | Don't Look Now (1973) - IMDb
+https://www.imdb.com/title/tt0081505/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Shining%2520(1980)%2520 | The Shining (1980) - IMDb
+https://www.imdb.com/title/tt0166924/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Mulholland%2520Drive%2520(2001)%2520 | Mulholland Drive (2001) - IMDb
+https://www.imdb.com/title/tt0118845/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Happy%2520Together%2520(1997)%2520 | Happy Together (1997) - IMDb
+https://www.imdb.com/title/tt0254686/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_The%2520Piano%2520Teacher%2520(2001)%2520 | The Piano Teacher (2001) - IMDb
+https://www.imdb.com/title/tt0063663/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Swimmer%2520(1968)%2520 | The Swimmer (1968) - IMDb
+https://www.imdb.com/title/tt0064118/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Damned%2520(1969)%2520 | The Damned (1969) - IMDb
+https://www.imdb.com/title/tt0057490/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Servant%2520(1963)%2520 | The Servant (1963) - IMDb
+https://www.imdb.com/title/tt0052357/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Vertigo%2520(1958)%2520 | Vertigo (1958) - IMDb
+https://www.imdb.com/title/tt0047136/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Johnny%2520Guitar%2520(1954)%2520 | Johnny Guitar (1954) - IMDb
+https://www.imdb.com/title/tt0054215/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Psycho%2520(1960)%2520 | Psycho (1960) - IMDb
+https://www.imdb.com/title/tt0048424/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_The%2520Night%2520of%2520the%2520Hunter%2520(1955)%2520 | The Night of the Hunter (1955) - IMDb
+https://www.imdb.com/title/tt0042192/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_All%2520About%2520Eve%2520(1950)%2520 | All About Eve (1950) - IMDb
+https://www.imdb.com/title/tt0040725/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Red%2520Shoes%2520(1948)%2520 | The Red Shoes (1948) - IMDb
+https://www.imdb.com/title/tt0032138/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_The%2520Wizard%2520of%2520Oz%2520(1939)%2520 | The Wizard of Oz (1939) - IMDb
+
+https://www.imdb.com/title/tt0058450/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Umbrellas%2520of%2520Cherbourg%2520(1964)%2520 | The Umbrellas of Cherbourg (1964) - IMDb
+https://www.imdb.com/title/tt0015864/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Gold%2520Rush%2520(1925) | The Gold Rush (1925) - IMDb
+https://www.imdb.com/title/tt0021571/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Earth%2520(1930) | Earth (1930) - IMDb
+https://www.imdb.com/title/tt0015881/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Greed%2520(1924) | Greed (1924) - IMDb
+https://www.imdb.com/title/tt0031885/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_The%2520Rules%2520of%2520the%2520Game%2520(1939) | The Rules of the Game (1939) - IMDb
+https://www.imdb.com/title/tt0042804/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Los%2520Olvidados%2520(1950) | The Young and the Damned (1950) - IMDb
+https://www.imdb.com/title/tt0021577/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_L%25E2%2580%2599%25C3%2582ge%2520d%25E2%2580%2599Or%2520(1930) | L'Age d'Or (1930) - IMDb
+https://www.imdb.com/title/tt0060138/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Au%2520Hasard%2520Balthazar%2520(1966)%2520 | Au hasard Balthazar (1966) - IMDb
+https://www.imdb.com/title/tt0053619/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_L%25E2%2580%2599Avventura%2520(1960)%2520 | L'Avventura (1960) - IMDb
+https://www.imdb.com/title/tt0053168/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Pickpocket%2520(1959)%2520 | Pickpocket (1959) - IMDb
+https://www.imdb.com/title/tt0057358/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Winter%2520Light%2520(1963)%2520 | Winter Light (1963) - IMDb
+https://www.imdb.com/title/tt0073198/?ref_=nv_sr_srsg_0_tt_2_nm_1_in_0_q_Jeanne%2520Dielman%25E2%2580%25A6%2520(1975)%2520 | Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975) - IMDb
+https://www.imdb.com/title/tt0291172/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Son%2520(2002)%2520 | The Son (2002) - IMDb
+https://www.imdb.com/title/tt0046438/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Tokyo%2520Story%2520(1953)%2520 | Tokyo Story (1953) - IMDb
+https://www.imdb.com/title/tt0053472/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Breathless%2520(1960)%2520 | Breathless (1960) - IMDb
+https://www.imdb.com/title/tt0022100/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_M%2520(1931)%2520 | M (1931) - IMDb
+https://www.imdb.com/title/tt1020773/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Certified%2520Copy%2520(2010)%2520 | Certified Copy (2010) - IMDb
+https://www.imdb.com/title/tt0117589/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Secrets%2520%2526%2520Lies%2520(1996)%2520 | Secrets & Lies (1996) - IMDb
+https://www.imdb.com/title/tt0056194/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Loneliness%2520of%2520the%2520Long%2520Distance%25 | The Loneliness of the Long Distance Runner (1962) - IMDb
+https://www.imdb.com/title/tt0478304/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_The%2520Tree%2520of%2520Life%2520(2011)%2520 | The Tree of Life (2011) - IMDb
+https://www.imdb.com/title/tt0280778/?ref_=nm_knf_t_2 | Iris (2001) - IMDb
+https://www.imdb.com/title/tt0465551/?ref_=nm_knf_t_1 | Notes on a Scandal (2006) - IMDb
+https://www.imdb.com/title/tt0088315/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Swann%2520in%2520Love%2520(1984).%2520%2520 | Swann in Love (1984) - IMDb
+https://www.imdb.com/title/tt0073858/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Lost%2520Honor%2520of%2520Katharina%2520Blum%2520( | The Lost Honor of Katharina Blum (1975) - IMDb
