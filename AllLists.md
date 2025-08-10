@@ -1142,3 +1142,167 @@ Below is a Lacanian-style **cross-cultural equivalence table** of the listed **A
 * **Arabic cinema** sometimes has less globally visible output in these genres, but films like *Capernaum* and *Wadjda* open real symbolic questions.
 
 ---
+
+# The Hours inspired
+
+### Asia
+Fire (1996)
+Joyland (2022)
+The Crow’s Egg (2014)
+The Newspaper (2021)
+Timi Sanga (2018)
+Harmony Lessons (2013)
+40 Days of Silence (2014)
+Bread and Salt (2022)
+The Apple (1998)
+200 Meters (2020)
+The Unorthodox (2018)
+The Terrorizers (1986)
+Rouge (1987)
+
+https://www.imdb.com/title/tt0116308/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Fire%2520(1996) | Fire (1996) - IMDb
+https://www.imdb.com/title/tt19719976/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Joyland%2520(2022) | Joyland (2022) - IMDb
+https://www.imdb.com/title/tt3973410/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Crow%25E2%2580%2599s%2520Egg%2520(2014) | The Crow's Egg (2014) - IMDb
+https://www.imdb.com/title/tt9711868/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_The%2520Newspaper%2520(2021) | The Newspaper (2020) - IMDb
+https://www.imdb.com/title/tt8243058/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Timi%2520Sanga%2520(2018) | Timi Sanga (2018) - IMDb
+https://www.imdb.com/title/tt2385101/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Harmony%2520Lessons%2520(2013) | Harmony Lessons (2013) - IMDb
+https://www.imdb.com/title/tt1546379/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_40%2520Days%2520of%2520Silence%2520(2014) | Chilla (2014) - IMDb
+https://www.imdb.com/title/tt15062756/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Bread%2520and%2520Salt%2520(2022) | Bread and Salt (2022) - IMDb
+https://www.imdb.com/title/tt0156901/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Apple%2520(1998) | The Apple (1998) - IMDb
+https://www.imdb.com/title/tt12246266/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_200%2520Meters%2520(2020) | 200 Meters (2020) - IMDb
+https://www.imdb.com/title/tt8657696/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Unorthodox%2520(2018) | The Unorthodox (2018) - IMDb
+https://www.imdb.com/title/tt0091355/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_The%2520Terrorizers%2520(1986) | The Terrorizers (1986) - IMDb
+https://www.imdb.com/title/tt0093258/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Rouge%2520(1987) | Rouge (1987) - IMDb
+
+### Africa
+Rachida (2002)
+Njinga: Queen of Angola (2013)
+The Night of Truth (2004)
+The No. 1 Ladies’ Detective Agency (2008)
+Moolaadé (2004)
+Imfura (2018)
+The Fisherman’s Diary (2020)
+José e Pilar (2010)
+Grisgris (2013)
+Mama Colonel (2017)
+Cairo 678 (2010)
+Daughters of the Dust (1990)
+Liyana (2017)
+Difret (2014)
+Dôlè (2000)
+The Hand of Fate (2019)
+The Perfect Picture (2009)
+Dakan (1997)
+Run (2014)
+
+Rafiki (2018)
+Pray the Devil Back to Hell (2008)
+Talking About Trees (2019)
+Zanaka (1955)
+The Last Fishing Boat (2013)
+Yeelen (1987)
+The Cathedral (2006)
+Adam (2019)
+The Train of Salt and Sugar (2016)
+The White Line (2019)
+The Wedding Ring (2016)
+Lionheart (2018)
+Munyurangabo (2007)
+Mossane (1996)
+Kreol (2012)
+Black November (2012)
+The Gravedigger’s Wife (2021)
+Yesterday (2004)
+
+You Will Die at Twenty (2019)
+Maangamizi: The Ancient One (2001)
+Kado (2022)
+Beauty and the Dogs (2017)
+The Girl in the Yellow Jumper (2020)
+I Am Not a Witch (2017)
+Neria (1993)
+
+https://www.imdb.com/title/tt0318011/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Rachida%2520(2002) | Rachida (2002) - IMDb
+https://www.imdb.com/title/tt3463004/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Njinga%253A%2520Queen%2520of%2520Angola%2520(2013) | Nzinga, Queen of Angola (2013) - IMDb
+https://www.imdb.com/title/tt0424318/?ref_=nv_sr_srsg_7_tt_4_nm_4_in_0_q_The%2520Night%2520of%2520Truth%2520(2004) | The Night of Truth (2004) - IMDb
+https://www.imdb.com/title/tt1356380/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520No.%25201%2520Ladies%25E2%2580%2599%2520Detective%2520 | The No. 1 Ladies' Detective Agency (TV Series 2008–2009) - IMDb
+https://www.imdb.com/title/tt0416991/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Moolaad%25C3%25A9%2520(2004) | Moolaadé (2003) - IMDb
+https://www.imdb.com/title/tt9070896/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Imfura%2520(2018) | Impuros (TV Series 2018– ) - IMDb
+https://www.imdb.com/title/tt13297136/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_The%2520Fisherman%25E2%2580%2599s%2520Diary%2520(2020) | The Fisherman's Diary (2020) - IMDb
+https://www.imdb.com/title/tt1789810/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Jose%25CC%2581%2520e%2520Pilar%2520(2010) | José and Pilar (2010) - IMDb
+https://www.imdb.com/title/tt2852394/?ref_=nv_sr_srsg_1_tt_2_nm_6_in_0_q_Grisgris%2520(2013) | GriGris (2013) - IMDb
+https://www.imdb.com/title/tt7133098/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Mama%2520Colonel%2520(2017) | Mama Colonel (2017) - IMDb
+https://www.imdb.com/title/tt1764141/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Cairo%2520678%2520(2010) | Cairo 678 (2010) - IMDb
+https://www.imdb.com/title/tt0104057/ | Daughters of the Dust (1991) - IMDb
+https://www.imdb.com/title/tt2611390/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Difret%2520(2014) | Difret (2014) - IMDb
+https://www.imdb.com/title/tt0270318/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_D%25C3%25B4l%25C3%25A8%2520(2000) | Dôlè (2000) - IMDb
+https://www.imdb.com/title/tt13071494/ | Hand of fate (2013) - IMDb
+https://www.imdb.com/title/tt1929410/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Perfect%2520Picture%2520(2009) | The Perfect Picture (2009) - IMDb
+https://www.imdb.com/title/tt0118917/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Dakan%2520(1997) | Destiny (1997) - IMDb
+https://www.imdb.com/title/tt2375473/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Run%2520(2014) | Run (2014) - IMDb
+
+https://www.imdb.com/title/tt8286894/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Rafiki%2520(2018) | Rafiki (2018) - IMDb
+https://www.imdb.com/title/tt1202203/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Pray%2520the%2520Devil%2520Back%2520to%2520Hell%2520(2008) | Pray the Devil Back to Hell (2008) - IMDb
+https://www.imdb.com/title/tt9658178/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Talking%2520About%2520Trees%2520(2019) | Talking About Trees (2019) - IMDb
+https://www.imdb.com/title/tt0326991/?ref_=fn_all_ttl_2 | Jibun no ana no nakade (1955) - IMDb
+https://www.imdb.com/title/tt22042288/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Last%2520Fishing%2520Boat%2520(2013) | The Last Fishing Boat (2012) - IMDb
+https://www.imdb.com/title/tt0094349/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Yeelen%2520(1987) | Yeelen (1987) - IMDb
+https://www.imdb.com/title/tt1042258/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Cathedral%2520(2006) | La cathédrale (2006) - IMDb
+https://www.imdb.com/title/tt10199664/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Adam%2520(2019) | Adam (2019) - IMDb
+https://www.imdb.com/title/tt4524676/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_The%2520Train%2520of%2520Salt%2520and%2520Sugar%2520(2016) | The Train of Salt and Sugar (2016) - IMDb
+https://www.imdb.com/title/tt9093870/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520White%2520Line%2520(2019) | The White Line (2019) - IMDb
+https://www.imdb.com/title/tt13888054/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Wedding%2520Ring%2520(2016) | The Wedding Ring (TV Movie 2021) - IMDb
+https://www.imdb.com/title/tt7707314/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Lionheart%2520(2018) | Lionheart (2018) - IMDb
+https://www.imdb.com/title/tt1031947/?ref_=nv_sr_srsg_0_tt_1_nm_1_in_0_q_Munyurangabo%2520(2007) | Munyurangabo (2007) - IMDb
+https://www.imdb.com/title/tt0117088/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Mossane%2520(1996) | Mossane (1996) - IMDb
+https://www.imdb.com/title/tt29612557/?ref_=nv_sr_srsg_7_tt_8_nm_0_in_0_q_Kreol%2520(2012) | Nuit du Kompa au Zénith de Paris: Djakout & Kreyol La (Video 2012) - IMDb
+https://www.imdb.com/title/tt2147225/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Black%2520November%2520(2012) | Black November (2012) - IMDb
+https://www.imdb.com/title/tt4440842/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Gravedigger%25E2%2580%2599s%2520Wife%2520(2021) | The Gravedigger's Wife (2021) - IMDb
+https://www.imdb.com/title/tt0419279/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Yesterday%2520(2004) | Yesterday (2004) - IMDb
+
+https://www.imdb.com/title/tt9686154/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_You%2520Will%2520Die%2520at%2520Twenty%2520(2019) | You Will Die at 20 (2019) - IMDb
+https://www.imdb.com/title/tt0236461/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Maangamizi%253A%2520The%2520Ancient%2520One%2520(2001) | Maangamizi: The Ancient One (1999) - IMDb
+https://www.imdb.com/title/tt13421498/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Kado%2520(2022) | The Lost King (2022) - IMDb
+https://www.imdb.com/title/tt6776572/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Beauty%2520and%2520the%2520Dogs%2520(2017) | Beauty and the Dogs (2017) - IMDb
+https://www.imdb.com/title/tt10954526/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Girl%2520in%2520the%2520Yellow%2520Jumper%2520(202 | The Girl in the Yellow Jumper (2020) - IMDb
+https://www.imdb.com/title/tt6213284/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_I%2520Am%2520Not%2520a%2520Witch%2520(2017) | I Am Not a Witch (2017) - IMDb
+https://www.imdb.com/title/tt0107711/?ref_=nv_sr_srsg_7_tt_1_nm_7_in_0_q_Neria%2520(1993) | Nowhere to Run (1993) - IMDb
+
+### America
+The Headless Woman (2008)
+I Am You (2019)
+Gloria (2013)
+The Snail’s Strategy (2023)
+Clara Sola (2021)
+Strawberry and Chocolate (1993)
+Alba (2016)
+The Silence of the River (2021)
+Ixcanul (2015)
+My Heart Goes Boom! (2020)
+La Yuma (2009)
+Everybody Changes (2022)
+The Heiresses (2018)
+The Milk of Sorrow (2009)
+Antes que cante el gallo (2016)
+Cocote (2017)
+The Girl from Uruguay 2022
+From Afar (2015)
+
+https://www.imdb.com/title/tt1221141/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_The%2520Headless%2520Woman%2520(2008) | The Headless Woman (2008) - IMDb
+https://www.imdb.com/title/tt7011130/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_I%2520Am%2520You%2520(2019) | I Am You (2019) - IMDb
+https://www.imdb.com/title/tt2425486/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Gloria%2520(2013) | Gloria (2013) - IMDb
+https://www.imdb.com/title/tt0109747/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Snail%25E2%2580%2599s%2520Strategy%2520(2023) | La estrategia del caracol (1993) - IMDb
+https://www.imdb.com/title/tt12637442/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Clara%2520Sola%2520(2021) | Clara Sola (2021) - IMDb
+https://www.imdb.com/title/tt0106966/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Strawberry%2520and%2520Chocolate%2520(1993) | Strawberry & Chocolate (1993) - IMDb
+https://www.imdb.com/title/tt4572682/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Alba%2520(2016) | Alba (2016) - IMDb
+https://www.imdb.com/title/tt16747572/?ref_=nv_sr_srsg_5_tt_6_nm_2_in_0_q_The%2520Silence%2520of%2520the%2520River%2520(2021) | The Silence of Swastika (2021) - IMDb
+https://www.imdb.com/title/tt4135844/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Ixcanul%2520(2015) | Ixcanul (2015) - IMDb
+https://www.imdb.com/title/tt11238932/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_My%2520Heart%2520Goes%2520Boom!%2520(2020) | My Heart Goes Boom! (2020) - IMDb
+https://www.imdb.com/title/tt1581322/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_La%2520Yuma%2520(2009) | La Yuma (2009) - IMDb
+https://www.imdb.com/title/tt10523404/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Everybody%2520Changes%2520(2022) | Everybody Changes (2019) - IMDb
+https://www.imdb.com/title/tt7875464/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Heiresses%2520(2018) | The Heiresses (2018) - IMDb
+https://www.imdb.com/title/tt1206488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Milk%2520of%2520Sorrow%2520(2009) | The Milk of Sorrow (2009) - IMDb
+https://www.imdb.com/title/tt5354386/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Antes%2520que%2520cante%2520el%2520gallo%2520(2016) | Antes que cante el gallo (2016) - IMDb
+https://www.imdb.com/title/tt5708028/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Cocote%2520(2017) | Cocote (2017) - IMDb
+https://www.imdb.com/title/tt14731294/ | The Girl from Uruguay (2022) - IMDb
+https://www.imdb.com/title/tt4721400/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_From%2520Afar%2520(2015) | From Afar (2015) - IMDb
