@@ -1311,7 +1311,7 @@ https://www.imdb.com/title/tt4721400/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_From%25
 
 Lacan, Michael Haneke, Volker Schlöndorff, Stephen Daldry, Luca Guadagnino, Luis Bunuel, Pedro Almodóvar
 
-Un Chien Andalou (1929)
+Un Chien Andalou (1929) 
 Vertigo (1958)
 Persona (1966)
 Belle de Jour (1967)
@@ -1321,8 +1321,9 @@ Eyes Without a Face (1960)
 The Trial (1962)
 Solaris (1972)
 The Mirror (1975)
-The Leopard (1963) 
 Vertigo (1958) 
+
+The Leopard (1963) 
 The Conformist (1970) 
 Contempt (1963) 
 Sunset Boulevard (1950) 
