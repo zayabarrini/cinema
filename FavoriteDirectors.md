@@ -10,3 +10,4 @@ Gints Zilbalodis
 Nicolas Winding Refn
 Alfred Hitchcock
 Xavier Dolan
+Michael Haneke, Volker Schlöndorff, Stephen Daldry, Luca Guadagnino, Luis Bunuel, Pedro Almodóvar

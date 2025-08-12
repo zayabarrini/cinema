@@ -1476,3 +1476,60 @@ https://www.imdb.com/title/tt0280778/?ref_=nm_knf_t_2 | Iris (2001) - IMDb
 https://www.imdb.com/title/tt0465551/?ref_=nm_knf_t_1 | Notes on a Scandal (2006) - IMDb
 https://www.imdb.com/title/tt0088315/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Swann%2520in%2520Love%2520(1984).%2520%2520 | Swann in Love (1984) - IMDb
 https://www.imdb.com/title/tt0073858/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Lost%2520Honor%2520of%2520Katharina%2520Blum%2520( | The Lost Honor of Katharina Blum (1975) - IMDb
+
+# International Film Oscar Nomination
+
+Honeyland 2019
+Paradise Now 2005 
+Omar 2013 
+Children of Nature 1991 
+The Sea 2002
+4 Months, 3 Weeks and 2 Days 
+The Man Without a Past 2002 
+Embrace of the Serpent 2015 
+Birds of Passage 2018 
+The Milk of Sorrow 2009 
+A Useful Life 2010
+Strawberry and Chocolate 1993
+Corn Island 2014
+Tangerines 2013 
+The Scent of Green Papaya 1993
+Killer 2012 
+The Shroud 2015 
+Shine 1996
+Caravan 1999
+What Happened to Santiago 1989
+The Missing Picture 2013
+The Man Who Sold His Skin 2020
+Arracht 2019
+Theeb 2014
+Alsino and the Condor 1982
+Lunana: A Yak in the Classroom 
+Timbuktu 2014             
+
+https://www.imdb.com/title/tt8991268/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Honeyland | Honeyland (2019) - IMDb
+https://www.imdb.com/title/tt0099902/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%25E8%258F%258A%25E8%25B1%2586 | Ju Dou (1990) - IMDb
+https://www.imdb.com/title/tt0445620/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Paradise%2520Now%25202005%2520 | Paradise Now (2005) - IMDb
+https://www.imdb.com/title/tt2852406/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Omar%25202013%2520 | Omar (2013) - IMDb
+https://www.imdb.com/title/tt0101526/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Children%2520of%2520Nature%25201991%2520 | Children of Nature (1991) - IMDb
+https://www.imdb.com/title/tt0332381/?ref_=nv_sr_srsg_5_tt_8_nm_0_in_0_q_The%2520Sea%25202002 | The Sea (2002) - IMDb
+https://www.imdb.com/title/tt1032846/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_4%2520Months%252C%25203%2520Weeks%2520and%25202%2520Days%2520 | 4 Months, 3 Weeks and 2 Days (2007) - IMDb
+https://www.imdb.com/title/tt0311519/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520Man%2520Without%2520a%2520Past%25202002%2520 | The Man Without a Past (2002) - IMDb
+https://www.imdb.com/title/tt4285496/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Embrace%2520of%2520the%2520Serpent%25202015%2520 | Embrace of the Serpent (2015) - IMDb
+https://www.imdb.com/title/tt6386748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Birds%2520of%2520Passage%25202018%2520 | Birds of Passage (2018) - IMDb
+https://www.imdb.com/title/tt1206488/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Milk%2520of%2520Sorrow%25202009%2520 | The Milk of Sorrow (2009) - IMDb
+https://www.imdb.com/title/tt1719497/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_A%2520Useful%2520Life%25202010 | A Useful Life (2010) - IMDb
+https://www.imdb.com/title/tt0106966/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Strawberry%2520and%2520Chocolate%25201993 | Strawberry & Chocolate (1993) - IMDb
+https://www.imdb.com/title/tt1863192/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Corn%2520Island%25202014 | Corn Island (2014) - IMDb
+https://www.imdb.com/title/tt2991224/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Tangerines%25202013%2520 | Tangerines (2013) - IMDb
+https://www.imdb.com/title/tt0107617/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_The%2520Scent%2520of%2520Green%2520Papaya%25201993 | The Scent of Green Papaya (1993) - IMDb
+https://www.imdb.com/title/tt0157124/?ref_=nm_ov_bio_lk | Killer (1998) - IMDb
+https://www.imdb.com/title/tt4261942/ | Exiled (2016) - IMDb
+https://www.imdb.com/title/tt0117631/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Shine%25201996 | Shine (1996) - IMDb
+https://www.imdb.com/title/tt0210727/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Caravan%25201999 | Himalaya (1999) - IMDb
+https://www.imdb.com/title/tt0097766/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_What%2520Happened%2520to%2520Santiago%25201989 | What Happened to Santiago (1989) - IMDb
+https://www.imdb.com/title/tt2852470/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_The%2520Missing%2520Picture%25202013 | The Missing Picture (2013) - IMDb
+https://www.imdb.com/title/tt10360862/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_The%2520Man%2520Who%2520Sold%2520His%2520Skin%25202020 | The Man Who Sold His Skin (2020) - IMDb
+https://www.imdb.com/title/tt9620986/?ref_=nm_knf_t_1 | Monster (2019) - IMDb
+https://www.imdb.com/title/tt0083543/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Alsino%2520and%2520the%2520Condor%25201982 | Alsino and the Condor (1982) - IMDb
+https://www.imdb.com/title/tt10189300/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Lunana%253A%2520A%2520Yak%2520in%2520the%2520Classroom%2520 | Lunana: A Yak in the Classroom (2019) - IMDb

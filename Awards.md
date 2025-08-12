@@ -7,6 +7,7 @@ Mubi's lists: https://www.one-tab.com/page/dm9M3AmzRouo6ocHpEqMCA
 Official websites, national awards: https://www.one-tab.com/page/o5p_RH0MSyKo7s3Pd1oC3g 
 National Awards: https://www.one-tab.com/page/yIsqreKNQwSPCRxWwQ2SuA
 Roger Ebert: https://www.rogerebert.com/features/the-best-films-of-2024
+https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Academy_Awards_for_Best_International_Feature_Film
 
 # Oscar Categories 
 
