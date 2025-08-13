@@ -229,7 +229,7 @@ David Lean
 Billy Wilder
 Christopher Nolan
 Sidney Lumet
-  Jean-Luc Godard
+Jean-Luc Godard
 
 ---
 
@@ -1658,17 +1658,17 @@ Alia Bhatt
 
 ---
 
-### Greatest Hindi Film Directors of All Time
-Guru Dutt
-Raj Kapoor
-Yash Chopra
-Bimal Roy
-Satyajit Ray
-Shyam Benegal
-Sanjay Leela Bhansali
-Ramesh Sippy
-Vishal Bhardwaj
-Zoya Akhtar
+  ### Greatest Hindi Film Directors of All Time
+  Guru Dutt
+  Raj Kapoor
+  Yash Chopra
+  Bimal Roy
+  Satyajit Ray
+  Shyam Benegal
+  Sanjay Leela Bhansali
+  Ramesh Sippy
+  Vishal Bhardwaj
+  Zoya Akhtar
 
 ---
 

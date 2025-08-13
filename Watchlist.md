@@ -405,3 +405,154 @@ Young Törless (1966)
 Che femmina!! E... che dollari! (1961) 
 El (1953) 
 Calcutta (1969) 
+
+# 13/07/25 Directors
+
+https://chat.deepseek.com/a/chat/s/b25e3d6d-bb86-465e-86a0-2f64d001e091 | Cinema Industry - DeepSeek
+https://www.imdb.com/list/ls4103014708/edit/?ref_=cr_lst_crte | Greatest Directors by language
+https://www.imdb.com/name/nm0000694/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Wim%2520Wenders | Wim Wenders - IMDb
+https://www.imdb.com/name/nm0000076/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Fran%25C3%25A7ois%2520Truffaut | François Truffaut - IMDb
+https://www.imdb.com/title/tt0070460/?ref_=nm_knf_t_1 | Day for Night (1973) - IMDb
+https://www.imdb.com/name/nm0000041/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Akira%2520Kurosawa | Akira Kurosawa - IMDb
+https://www.imdb.com/name/nm0001031/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Claude%2520Chabrol | Claude Chabrol - IMDb
+https://www.imdb.com/name/nm0440913/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Mathieu%2520Kassovitz | Mathieu Kassovitz - IMDb
+https://www.imdb.com/name/nm0654868/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Yasujir%25C5%258D%2520Ozu | Yasujirô Ozu - IMDb
+https://www.imdb.com/name/nm0003226/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Kenji%2520Mizoguchi | Kenji Mizoguchi - IMDb
+https://www.imdb.com/name/nm0462030/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_Masaki%2520Kobayashi | Masaki Kobayashi - IMDb
+https://www.imdb.com/name/nm0466153/?ref_=nv_sr_srsg_3_tt_4_nm_1_in_0_q_Hirokazu%2520Kore-eda | Hirokazu Koreeda - IMDb
+https://www.imdb.com/name/nm0899581/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Luchino%2520Visconti | Luchino Visconti - IMDb
+https://www.imdb.com/name/nm0744023/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Roberto%2520Rossellini | Roberto Rossellini - IMDb
+https://www.imdb.com/name/nm0258977/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Victor%2520Erice | Víctor Erice - IMDb
+https://www.imdb.com/name/nm0170043/?ref_=nv_sr_srsg_0_tt_0_nm_4_in_0_q_Isabel%2520Coixet | Isabel Coixet - IMDb
+https://www.imdb.com/name/nm1701024/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_Nadine%2520Labaki | Nadine Labaki - IMDb
+https://www.imdb.com/name/nm0244870/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Guru%2520Dutt | Guru Dutt - IMDb
+https://www.imdb.com/name/nm0007181/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Yash%2520Chopra | Yash Chopra - IMDb
+https://www.imdb.com/name/nm0746950/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Bimal%2520Roy | Bimal Roy - IMDb
+https://www.imdb.com/name/nm0006249/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Satyajit%2520Ray | Satyajit Ray - IMDb
+https://www.imdb.com/name/nm0080235/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Vishal%2520Bhardwaj | Vishal Bhardwaj - IMDb
+https://www.imdb.com/name/nm0015295/?ref_=nv_sr_srsg_0_tt_2_nm_4_in_0_q_Zoya%2520Akhtar | Zoya Akhtar - IMDb
+https://www.imdb.com/name/nm0496969/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Lee%2520Chang-dong | Lee Chang-dong - IMDb
+https://www.imdb.com/name/nm0002199/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_Hector%2520Babenco | Hector Babenco - IMDb
+https://www.imdb.com/name/nm2207625/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Kleber%2520Mendon%25C3%25A7a%2520Filho | Kleber Mendonça Filho - IMDb
+https://www.imdb.com/name/nm0673051/?ref_=nv_sr_srsg_1_tt_1_nm_7_in_0_q_Nelson%2520Pereira%2520dos%2520Santos | Nelson Pereira dos Santos - IMDb
+https://www.imdb.com/name/nm0014694/?ref_=nv_sr_srsg_0_tt_0_nm_7_in_0_q_Karim%2520A%25C3%25AFnouz | Karim Aïnouz - IMDb
+https://www.imdb.com/name/nm0783733/?ref_=nv_sr_srsg_0_tt_3_nm_2_in_0_q_Ousmane%2520Semb%25C3%25A8ne | Ousmane Sembene - IMDb
+
+https://www.imdb.com/title/tt0087884/?ref_=nm_knf_t_3 | Paris, Texas (1984) - IMDb
+https://www.imdb.com/title/tt0055032/?ref_=nm_knf_t_4 | Jules and Jim (1962) - IMDb
+https://www.imdb.com/title/tt0070460/?ref_=nm_knf_t_1 | Day for Night (1973) - IMDb
+https://www.imdb.com/title/tt0057565/?ref_=nm_knf_t_4 | High and Low (1963) - IMDb
+https://www.imdb.com/title/tt0096336/?ref_=nm_knf_t_3 | Story of Women (1988) - IMDb
+https://www.imdb.com/title/tt0113247/?ref_=nm_knf_t_2 | La haine (1995) - IMDb
+https://www.imdb.com/title/tt0043313/?ref_=nm_knf_t_3 | Early Summer (1951) - IMDb
+https://www.imdb.com/title/tt0041154/?ref_=nm_knf_t_2 | Late Spring (1949) - IMDb
+https://www.imdb.com/title/tt0045112/?ref_=nm_knf_t_2 | The Life of Oharu (1952) - IMDb
+https://www.imdb.com/title/tt0047445/?ref_=nm_knf_t_3 | Sansho the Bailiff (1954) - IMDb
+https://www.imdb.com/title/tt0053115/?ref_=nm_flmg_job_1_cdt_t_13 | The Human Condition II: Road to Eternity (1959) - IMDb
+https://www.imdb.com/title/tt0056058/?ref_=nm_knf_t_1 | Harakiri (1962) - IMDb
+https://www.imdb.com/title/tt0055233/?ref_=nm_knf_t_3 | The Human Condition III: A Soldier's Prayer (1961) - IMDb
+https://www.imdb.com/title/tt2331143/?ref_=nm_knf_t_3 | Like Father, Like Son (2013) - IMDb
+https://www.imdb.com/title/tt0057091/?ref_=nm_knf_t_1 | The Leopard (1963) - IMDb
+https://www.imdb.com/title/tt0054248/?ref_=nm_knf_t_3 | Rocco and His Brothers (1960) - IMDb
+https://www.imdb.com/title/tt0039417/?ref_=nm_knf_t_4 | Germany Year Zero (1948) - IMDb
+https://www.imdb.com/title/tt0038890/?ref_=nm_knf_t_2 | Rome, Open City (1945) - IMDb
+https://www.imdb.com/title/tt0084740/?ref_=nm_knf_t_2 | El Sur (1983) - IMDb
+https://www.imdb.com/title/tt0430576/?ref_=nm_knf_t_2 | The Secret Life of Words (2005) - IMDb
+https://www.imdb.com/title/tt0314412/?ref_=nm_knf_t_1 | My Life Without Me (2003) - IMDb
+https://www.imdb.com/title/tt0825236/?ref_=nm_knf_t_3 | Caramel (2007) - IMDb
+https://www.imdb.com/title/tt1772424/?ref_=nm_knf_t_1 | Where Do We Go Now? (2011) - IMDb
+https://www.imdb.com/title/tt0050870/?ref_=nm_knf_t_1 | Thirst (1957) - IMDb
+https://www.imdb.com/title/tt0420332/?ref_=nm_knf_t_1 | Veer-Zaara (2004) - IMDb
+https://www.imdb.com/title/tt0112870/?ref_=nm_knf_t_4 | Dilwale Dulhania Le Jayenge (1995) - IMDb
+https://www.imdb.com/title/tt0045693/?ref_=nm_knf_t_2 | Do Bigha Zamin (1953) - IMDb
+https://www.imdb.com/title/tt0048473/?ref_=nm_knf_t_1 | Pather Panchali (1955) - IMDb
+https://www.imdb.com/title/tt0060742/?ref_=nm_knf_t_2 | The Hero (1966) - IMDb
+https://www.imdb.com/title/tt0048956/?ref_=nm_knf_t_3 | The Unvanquished (1956) - IMDb
+https://www.imdb.com/title/tt4934950/?ref_=nm_knf_t_3 | Guilty (2015) - IMDb
+https://www.imdb.com/title/tt0488414/?ref_=nm_knf_t_2 | Omkara (2006) - IMDb
+https://www.imdb.com/title/tt2395469/?ref_=nm_knf_t_2 | Gully Boy (2019) - IMDb
+https://www.imdb.com/title/tt1562872/?ref_=nm_knf_t_1 | Zindagi Na Milegi Dobara (2011) - IMDb
+https://www.imdb.com/title/tt1287878/?ref_=nm_knf_t_4 | Poetry (2010) - IMDb
+https://www.imdb.com/title/tt0247613/?ref_=nm_knf_t_2 | Peppermint Candy (1999) - IMDb
+https://www.imdb.com/title/tt0320193/?ref_=nm_knf_t_3 | Oasis (2002) - IMDb
+https://www.imdb.com/title/tt0082912/?ref_=nm_knf_t_2 | Pixote (1980) - IMDb
+https://www.imdb.com/title/tt27847051/?ref_=nm_knf_t_4 | The Secret Agent (2025) - IMDb
+https://www.imdb.com/title/tt2190367/?ref_=nm_knf_t_3 | Neighboring Sounds (2012) - IMDb
+https://www.imdb.com/title/tt5221584/?ref_=nm_knf_t_2 | Aquarius (2016) - IMDb
+https://www.imdb.com/title/tt0087709/?ref_=nm_knf_t_1 | Memórias do Cárcere (1984) - IMDb
+https://www.imdb.com/title/tt0057654/?ref_=nm_knf_t_3 | Barren Lives (1963) - IMDb
+https://www.imdb.com/title/tt1500761/?ref_=nm_knf_t_4 | Viajo Porque Preciso, Volto Porque te Amo (2009) - IMDb
+https://www.imdb.com/title/tt6390668/?ref_=nm_knf_t_1 | Invisible Life (2019) - IMDb
+https://www.imdb.com/title/tt0060758/?ref_=nm_knf_t_4 | Black Girl (1966) - IMDb
+https://www.imdb.com/title/tt0092716/?ref_=nm_knf_t_2 | The Camp at Thiaroye (1988) - IMDb
+https://www.imdb.com/title/tt0416991/?ref_=nm_knf_t_1 | Moolaadé (2003) - IMDb
+https://www.imdb.com/title/tt0351817/?ref_=nm_knf_t_1 | The Twilight Samurai (2002) - IMDb
+https://www.imdb.com/title/tt0762073/?ref_=nm_knf_t_3 | Thirst (2009) - IMDb
+https://www.imdb.com/title/tt1216496/?ref_=nm_knf_t_4 | Mother (2009) - IMDb
+https://www.imdb.com/title/tt0423866/?ref_=nm_knf_t_1 | 3-Iron (2004) - IMDb
+https://www.imdb.com/title/tt1176096/?ref_=nm_knf_t_3 | Night and Day (2008) - IMDb
+https://www.imdb.com/title/tt4768776/?ref_=nm_knf_t_1 | Right Now, Wrong Then (2015) - IMDb
+https://www.imdb.com/title/tt0091953/?ref_=nm_knf_t_2 | The Surrogate Woman (1987) - IMDb
+https://www.imdb.com/title/tt1190539/?ref_=nm_knf_t_1 | The Chaser (2008) - IMDb
+https://www.imdb.com/title/tt14371900/?ref_=nm_knf_t_4 | The Book of Fish (2021) - IMDb
+https://www.imdb.com/title/tt1360860/?ref_=nm_knf_t_1
+
+Paris, Texas (1984) 
+Jules and Jim (1962) 
+Day for Night (1973) 
+High and Low (1963) 
+Story of Women (1988) 
+La haine (1995) 
+Early Summer (1951) 
+Late Spring (1949) 
+The Life of Oharu (1952) 
+Sansho the Bailiff (1954) 
+The Human Condition II: Road to Eternity (1959) 
+Harakiri (1962) 
+The Human Condition III: A Soldier's Prayer (1961) 
+Like Father, Like Son (2013) 
+The Leopard (1963) 
+Rocco and His Brothers (1960) 
+Germany Year Zero (1948) 
+Rome, Open City (1945) 
+El Sur (1983) 
+The Secret Life of Words (2005) 
+My Life Without Me (2003) 
+Caramel (2007) 
+Where Do We Go Now? (2011) 
+Thirst (1957) 
+Veer-Zaara (2004) 
+Dilwale Dulhania Le Jayenge (1995) 
+Do Bigha Zamin (1953) 
+Pather Panchali (1955) 
+The Hero (1966) 
+The Unvanquished (1956) 
+Guilty (2015) 
+Omkara (2006) 
+Gully Boy (2019) 
+Zindagi Na Milegi Dobara (2011) 
+Poetry (2010) 
+Peppermint Candy (1999) 
+Oasis (2002) 
+Pixote (1980) 
+The Secret Agent (2025) 
+Neighboring Sounds (2012) 
+Aquarius (2016) 
+Memórias do Cárcere (1984) 
+Barren Lives (1963) 
+Viajo Porque Preciso, Volto Porque te Amo (2009) 
+Invisible Life (2019) 
+Black Girl (1966) 
+The Camp at Thiaroye (1988) 
+Moolaadé (2003) 
+The Twilight Samurai (2002) 
+Thirst (2009) 
+Mother (2009) 
+3-Iron (2004) 
+Night and Day (2008) 
+Right Now, Wrong Then (2015) 
+The Surrogate Woman (1987) 
+The Chaser (2008) 
+The Book of Fish (2021) 
+About Elly 2009
+
