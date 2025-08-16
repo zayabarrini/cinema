@@ -1800,3 +1800,61 @@ https://www.imdb.com/title/tt1847731/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Tomboy%
 https://www.imdb.com/title/tt12786834/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_No%2520Ordinary%2520Man%2520(2020)%2509 | No Ordinary Man (2020) - IMDb
 https://www.imdb.com/title/tt3007302/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Boy%2520Meets%2520Girl%2520(2014)%2509 | Boy Meets Girl (2014) - IMDb
 https://www.imdb.com/title/tt6884200/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_A%2520Kid%2520Like%2520Jake%2520(2018)%2509 | A Kid Like Jake (2018) - IMDb
+
+# User's ratings - The Hours 10
+
+## Users
+
+https://www.imdb.com/title/tt0274558/reviews/?rating=10&ref_=tt_ururv_histo_10 | The Hours (2002) - User reviews - IMDb
+https://www.imdb.com/user/ur6663090/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | MarieGabrielle's ratings
+https://www.imdb.com/user/ur2904081/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | aimless-46's ratings
+https://www.imdb.com/user/ur4029596/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | freshy's ratings
+https://www.imdb.com/user/ur36863705/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | paul-nemecek's ratings
+https://www.imdb.com/user/ur4532636/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | evanston_dad's ratings
+https://www.imdb.com/user/ur188489534/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | filmephile's ratings
+https://www.imdb.com/user/ur61387862/ratings/?ref_=up_hd_ql_urrat&sort=top_rated%2Cdesc | qeter's ratings
+
+https://www.imdb.com/search/title/?title_type=feature&user_rating=8,&num_votes=20000,&genres=drama&keywords=woman&my_ratings=exclude&sort=user_rating,desc | Movie, IMDb ratings at least 8, Number of votes at least 20000, Drama, woman, Exclude titles I've rated (Sorted by User rating Ascending)
+https://www.imdb.com/title/tt0253474/?ref_=sr_t_11 | The Pianist (2002) - IMDb
+https://www.imdb.com/title/tt0034583/?ref_=sr_t_13 | Casablanca (1942) - IMDb
+https://www.imdb.com/title/tt0058625/?ref_=sr_t_33 | Woman in the Dunes (1964) - IMDb
+https://www.imdb.com/title/tt2140203/?ref_=sr_t_2 | Wolf Children (2012) - IMDb
+https://www.imdb.com/title/tt0405508/?ref_=sr_t_3 | Rang De Basanti (2006) - IMDb
+https://www.imdb.com/title/tt0375611/?ref_=sr_t_4 | Black (2005) - IMDb
+https://www.imdb.com/title/tt0037558/?ref_=sr_t_5 | Brief Encounter (1945) - IMDb
+https://www.imdb.com/title/tt0056732/?ref_=sr_t_6 | The Exterminating Angel (1962) - IMDb
+https://www.imdb.com/title/tt0046961/?ref_=rt_t_32 | Escuela de vagabundos (1955) - IMDb
+https://www.imdb.com/title/tt0037558/?ref_=rt_t_40 | Brief Encounter (1945) - IMDb
+https://www.imdb.com/title/tt0209144/?ref_=rt_t_4 | Memento (2000) - IMDb
+https://www.imdb.com/title/tt0075314/?ref_=rt_t_16 | Taxi Driver (1976) - IMDb
+https://www.imdb.com/title/tt0432283/?ref_=rt_t_44 | Fantastic Mr. Fox (2009) - IMDb
+https://www.imdb.com/title/tt0056172/?ref_=rt_t_56 | Lawrence of Arabia (1962) - IMDb
+https://www.imdb.com/title/tt0017136/?ref_=rt_t_77 | Metropolis (1927) - IMDb
+https://www.imdb.com/title/tt0192718/?ref_=rt_t_8 | The Man Who Sleeps (1974) - IMDb
+https://www.imdb.com/title/tt0043014/?ref_=rt_t_3 | Sunset Boulevard (1950) - IMDb
+https://www.imdb.com/title/tt0123948/?ref_=rt_t_5 | Cure (1997) - IMDb
+https://www.imdb.com/title/tt1028532/?ref_=rt_t_13 | Hachi: A Dog's Tale (2009) - IMDb
+
+The Pianist (2002) 
+Casablanca (1942) 
+Woman in the Dunes (1964) 
+Wolf Children (2012) 
+Rang De Basanti (2006) 
+Black (2005) 
+Brief Encounter (1945) 
+The Exterminating Angel (1962) 
+Escuela de vagabundos (1955) 
+Brief Encounter (1945) 
+Memento (2000) 
+Taxi Driver (1976) 
+Fantastic Mr. Fox (2009) 
+Lawrence of Arabia (1962) 
+Metropolis (1927) 
+The Man Who Sleeps (1974) 
+
+# Arabic
+
+https://www.imdb.com/search/title/?title_type=feature&user_rating=7,7.5&num_votes=10000,&primary_language=ar | Movie, IMDb ratings between 7 and 7.5, Number of votes at least 10000, Arabic (Sorted by Popularity Ascending)
+https://www.imdb.com/title/tt0058946/?ref_=sr_t_2 | The Battle of Algiers (1966) - IMDb
+https://www.imdb.com/title/tt3461252/?ref_=sr_t_7 | The Blue Elephant (2014) - IMDb
+https://www.imdb.com/title/tt1772424/?ref_=sr_t_3 | Where Do We Go Now? (2011) - IMDb
