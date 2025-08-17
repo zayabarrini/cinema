@@ -1858,3 +1858,46 @@ https://www.imdb.com/search/title/?title_type=feature&user_rating=7,7.5&num_vote
 https://www.imdb.com/title/tt0058946/?ref_=sr_t_2 | The Battle of Algiers (1966) - IMDb
 https://www.imdb.com/title/tt3461252/?ref_=sr_t_7 | The Blue Elephant (2014) - IMDb
 https://www.imdb.com/title/tt1772424/?ref_=sr_t_3 | Where Do We Go Now? (2011) - IMDb
+
+# Women's direction
+
+Carmen & Lola (2018) 
+Hannah Arendt (2012) 
+Other People's Children (2022) 
+Saint Omer (2022) 
+The Farewell (2019) 
+A Simple Life (2011) 
+Xiu Xiu: The Sent-Down Girl (1998) 
+My Life Without Me (2003) 
+Foreign Land (1995) 
+House of Hummingbird (2018) 
+Beau Travail (1999) 
+Love Education (2017) 
+Hit the Night (2017) 
+Paris, Je T'aime (2006) 
+Chega de Saudade (2007) 
+Found Memories (2011) 
+Joyland (2022) 
+The Perfect Picture (2009) 
+Fire (1996) 
+
+https://www.imdb.com/title/tt7485508/?ref_=ls_t_60 | Carmen & Lola (2018) - IMDb
+https://www.imdb.com/title/tt1674773/?ref_=ls_t_63 | Hannah Arendt (2012) - IMDb
+https://www.imdb.com/title/tt15403712/?ref_=ls_t_76 | Other People's Children (2022) - IMDb
+https://www.imdb.com/title/tt15376894/?ref_=ls_t_77 | Saint Omer (2022) - IMDb
+https://www.imdb.com/title/tt8637428/?ref_=ls_t_27 | The Farewell (2019) - IMDb
+https://www.imdb.com/title/tt2008006/?ref_=ls_t_30 | A Simple Life (2011) - IMDb
+https://www.imdb.com/title/tt0115005/?ref_=ls_t_31 | Xiu Xiu: The Sent-Down Girl (1998) - IMDb
+https://www.imdb.com/title/tt0314412/?ref_=ls_t_36 | My Life Without Me (2003) - IMDb
+https://www.imdb.com/title/tt0114651/?ref_=ls_t_37 | Foreign Land (1995) - IMDb
+https://www.imdb.com/title/tt8951086/?ref_=ls_t_40 | House of Hummingbird (2018) - IMDb
+https://www.imdb.com/title/tt0209933/?ref_=ls_t_44 | Beau Travail (1999) - IMDb
+https://www.imdb.com/title/tt7479718/?ref_=ls_t_47 | Love Education (2017) - IMDb
+https://www.imdb.com/title/tt7390054/?ref_=ls_t_48 | Hit the Night (2017) - IMDb
+https://www.imdb.com/title/tt0401711/?ref_=ls_t_50 | Paris, Je T'aime (2006) - IMDb
+https://www.imdb.com/title/tt0977642/?ref_=ls_t_54 | Chega de Saudade (2007) - IMDb
+https://www.imdb.com/title/tt2043879/?ref_=ls_t_55 | Found Memories (2011) - IMDb
+
+https://www.imdb.com/title/tt19719976/?ref_=ls_t_14 | Joyland (2022) - IMDb
+https://www.imdb.com/title/tt1929410/?ref_=ls_t_19 | The Perfect Picture (2009) - IMDb
+https://www.imdb.com/title/tt0116308/?ref_=ls_t_44 | Fire (1996) - IMDb
