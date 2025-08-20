@@ -1,0 +1,6323 @@
+1
+00:02:45,667 --> 00:02:48,750
+{\an8}I've lived here maybe 23 years.
+
+2
+00:02:45,667 --> 00:02:48,750
+{\an2}I've lived here maybe 23 years.
+
+3
+00:02:52,583 --> 00:02:55,958
+{\an8}But I feel afraid to call it home.
+
+4
+00:02:52,583 --> 00:02:55,958
+{\an2}But I feel afraid to call it home.
+
+5
+00:02:57,792 --> 00:03:01,167
+{\an8}There's always the feeling
+I'll have to leave.
+
+6
+00:02:57,792 --> 00:03:01,167
+{\an2}There's always the feeling
+I'll have to leave.
+
+7
+00:03:14,250 --> 00:03:17,750
+{\an8}I fought with my dad.
+
+8
+00:03:14,250 --> 00:03:17,750
+{\an2}I fought with my dad.
+
+9
+00:03:17,917 --> 00:03:21,208
+{\an8}So I packed my bag
+and left for Mumbai.
+
+10
+00:03:17,917 --> 00:03:21,208
+{\an2}So I packed my bag
+and left for Mumbai.
+
+11
+00:03:24,833 --> 00:03:27,667
+{\an8}My brother had a job at the dockyard.
+
+12
+00:03:24,833 --> 00:03:27,667
+{\an2}My brother had a job at the dockyard.
+
+13
+00:03:29,167 --> 00:03:31,792
+{\an8}His place smelled so bad,
+
+14
+00:03:29,167 --> 00:03:31,792
+{\an2}His place smelled so bad,
+
+15
+00:03:31,958 --> 00:03:34,583
+{\an8}the first night I couldn't sleep.
+
+16
+00:03:31,958 --> 00:03:34,583
+{\an2}the first night I couldn't sleep.
+
+17
+00:03:44,875 --> 00:03:47,417
+{\an8}I was pregnant,
+but I didn't tell anyone.
+
+18
+00:03:44,875 --> 00:03:47,417
+{\an2}I was pregnant,
+but I didn't tell anyone.
+
+19
+00:03:47,583 --> 00:03:51,875
+{\an8}Because I'd recently
+found a job at a house.
+
+20
+00:03:47,583 --> 00:03:51,875
+{\an2}Because I'd recently
+found a job at a house.
+
+21
+00:03:54,625 --> 00:03:59,542
+{\an8}I had to take care of a lady's kids,
+but they were pests.
+
+22
+00:03:54,625 --> 00:03:59,542
+{\an2}I had to take care of a lady's kids,
+but they were pests.
+
+23
+00:04:02,000 --> 00:04:05,625
+{\an8}But the lady... she fed me well.
+
+24
+00:04:02,000 --> 00:04:05,625
+{\an2}But the lady... she fed me well.
+
+25
+00:04:06,333 --> 00:04:09,417
+{\an8}That year I ate like a queen.
+
+26
+00:04:06,333 --> 00:04:09,417
+{\an2}That year I ate like a queen.
+
+27
+00:04:27,250 --> 00:04:31,167
+{\an8}Every family in the village
+has at least one person in Mumbai.
+
+28
+00:04:27,250 --> 00:04:31,167
+{\an2}Every family in the village
+has at least one person in Mumbai.
+
+29
+00:04:31,333 --> 00:04:33,708
+{\an8}In Mumbai,
+there is work and money!
+
+30
+00:04:31,333 --> 00:04:33,708
+{\an2}In Mumbai,
+there is work and money!
+
+31
+00:04:35,125 --> 00:04:37,333
+{\an8}Why would anyone
+want to move back?
+
+32
+00:04:35,125 --> 00:04:37,333
+{\an2}Why would anyone
+want to move back?
+
+33
+00:04:45,667 --> 00:04:48,333
+{\an8}I'd just had my heart broken.
+
+34
+00:04:45,667 --> 00:04:48,333
+{\an2}I'd just had my heart broken.
+
+35
+00:04:49,208 --> 00:04:52,375
+{\an8}But the city helps you
+forget these things.
+
+36
+00:04:49,208 --> 00:04:52,375
+{\an2}But the city helps you
+forget these things.
+
+37
+00:05:17,375 --> 00:05:20,833
+{\an8}I didn't realise
+how much time had passed.
+
+38
+00:05:17,375 --> 00:05:20,833
+{\an2}I didn't realise
+how much time had passed.
+
+39
+00:05:23,833 --> 00:05:25,958
+{\an8}The city takes time away from you.
+
+40
+00:05:23,833 --> 00:05:25,958
+{\an2}The city takes time away from you.
+
+41
+00:05:31,875 --> 00:05:33,917
+{\an8}That's life.
+
+42
+00:05:31,875 --> 00:05:33,917
+{\an2}That's life.
+
+43
+00:05:37,292 --> 00:05:39,542
+{\an8}You better get used to impermanence.
+
+44
+00:05:37,292 --> 00:05:39,542
+{\an2}You better get used to impermanence.
+
+45
+00:06:53,000 --> 00:06:54,667
+{\an8}Breathe in.
+
+46
+00:06:53,000 --> 00:06:54,667
+{\an2}Breathe in.
+
+47
+00:06:56,792 --> 00:06:57,917
+{\an8}Breathe out.
+
+48
+00:06:56,792 --> 00:06:57,917
+{\an2}Breathe out.
+
+49
+00:07:31,042 --> 00:07:34,417
+{\an8}Nurse Prabha tells me
+<font color="#FFFFFF"you've been making trouble.
+
+50
+00:07:31,042 --> 00:07:34,417
+{\an2}Nurse Prabha tells me
+
+51
+00:07:35,417 --> 00:07:36,792
+{\an8}What's the matter?
+
+52
+00:07:35,417 --> 00:07:36,792
+{\an2}What's the matter?
+
+53
+00:07:37,750 --> 00:07:41,125
+{\an8}Tell Doctor why you hid
+<font color="#FFFFFF"your medication under your pillow?
+
+54
+00:07:37,750 --> 00:07:41,125
+{\an2}Tell Doctor why you hid
+
+55
+00:07:41,667 --> 00:07:43,042
+{\an8}I will not take it.
+
+56
+00:07:41,667 --> 00:07:43,042
+{\an2}I will not take it.
+
+57
+00:07:44,292 --> 00:07:45,417
+{\an8}Why?
+
+58
+00:07:44,292 --> 00:07:45,417
+{\an2}Why?
+
+59
+00:07:46,750 --> 00:07:47,958
+{\an8}What happened?
+
+60
+00:07:46,750 --> 00:07:47,958
+{\an2}What happened?
+
+61
+00:07:48,125 --> 00:07:51,125
+{\an8}She told me
+<font color="#FFFFFF"the pills are giving her bad dreams.
+
+62
+00:07:48,125 --> 00:07:51,125
+{\an2}She told me
+
+63
+00:07:53,000 --> 00:07:55,375
+{\an8}I'll give you
+<font color="#FFFFFF"a prescription for that.
+
+64
+00:07:53,000 --> 00:07:55,375
+{\an2}I'll give you
+
+65
+00:07:55,542 --> 00:07:56,542
+{\an8}OK?
+
+66
+00:07:55,542 --> 00:07:56,542
+{\an2}OK?
+
+67
+00:07:58,167 --> 00:07:59,542
+{\an8}Please, Doctor.
+
+68
+00:07:58,167 --> 00:07:59,542
+{\an2}Please, Doctor.
+
+69
+00:08:00,125 --> 00:08:02,042
+{\an8}I don't want to stay here.
+
+70
+00:08:00,125 --> 00:08:02,042
+{\an2}I don't want to stay here.
+
+71
+00:08:02,917 --> 00:08:04,375
+{\an8}Please let me go home.
+
+72
+00:08:02,917 --> 00:08:04,375
+{\an2}Please let me go home.
+
+73
+00:08:04,542 --> 00:08:07,500
+{\an8}- What is it?
+<font color="#FFFFFF"- He comes here.
+
+74
+00:08:04,542 --> 00:08:07,500
+{\an2}- What is it?
+
+75
+00:08:07,667 --> 00:08:09,125
+{\an8}After dinner,
+
+76
+00:08:07,667 --> 00:08:09,125
+{\an2}After dinner,
+
+77
+00:08:09,417 --> 00:08:11,292
+{\an8}when I'm watching TV.
+
+78
+00:08:09,417 --> 00:08:11,292
+{\an2}when I'm watching TV.
+
+79
+00:08:11,458 --> 00:08:12,750
+{\an8}Who comes?
+
+80
+00:08:11,458 --> 00:08:12,750
+{\an2}Who comes?
+
+81
+00:08:13,417 --> 00:08:15,875
+{\an8}Jairam, my husband.
+
+82
+00:08:13,417 --> 00:08:15,875
+{\an2}Jairam, my husband.
+
+83
+00:08:16,292 --> 00:08:17,667
+{\an8}He came yesterday as well.
+
+84
+00:08:16,292 --> 00:08:17,667
+{\an2}He came yesterday as well.
+
+85
+00:08:18,167 --> 00:08:19,875
+{\an8}I was watching TV.
+
+86
+00:08:18,167 --> 00:08:19,875
+{\an2}I was watching TV.
+
+87
+00:08:21,125 --> 00:08:23,042
+{\an8}Mr. Bachchan was on.
+
+88
+00:08:21,125 --> 00:08:23,042
+{\an2}Mr. Bachchan was on.
+
+89
+00:08:23,875 --> 00:08:26,000
+{\an8}His voice always makes me feel good.
+
+90
+00:08:23,875 --> 00:08:26,000
+{\an2}His voice always makes me feel good.
+
+91
+00:08:26,417 --> 00:08:28,667
+{\an8}He talks so smoothly.
+
+92
+00:08:26,417 --> 00:08:28,667
+{\an2}He talks so smoothly.
+
+93
+00:08:29,917 --> 00:08:32,292
+{\an8}And then suddenly,
+<font color="#FFFFFF"out of nowhere,
+
+94
+00:08:29,917 --> 00:08:32,292
+{\an2}And then suddenly,
+
+95
+00:08:33,417 --> 00:08:36,042
+{\an8}there was
+<font color="#FFFFFF"that dirty smell of tobacco.
+
+96
+00:08:33,417 --> 00:08:36,042
+{\an2}there was
+
+97
+00:08:36,625 --> 00:08:38,250
+{\an8}Then I looked up,
+
+98
+00:08:36,625 --> 00:08:38,250
+{\an2}Then I looked up,
+
+99
+00:08:39,042 --> 00:08:42,458
+{\an8}and he was sitting there
+<font color="#FFFFFF"on that stool.
+
+100
+00:08:39,042 --> 00:08:42,458
+{\an2}and he was sitting there
+
+101
+00:08:44,292 --> 00:08:45,417
+{\an8}No.
+
+102
+00:08:44,292 --> 00:08:45,417
+{\an2}No.
+
+103
+00:08:46,292 --> 00:08:47,625
+{\an8}Not sitting.
+
+104
+00:08:46,292 --> 00:08:47,625
+{\an2}Not sitting.
+
+105
+00:08:48,292 --> 00:08:50,375
+{\an8}He had no legs!
+
+106
+00:08:48,292 --> 00:08:50,375
+{\an2}He had no legs!
+
+107
+00:08:50,917 --> 00:08:52,542
+{\an8}He was only a torso!
+
+108
+00:08:50,917 --> 00:08:52,542
+{\an2}He was only a torso!
+
+109
+00:08:53,917 --> 00:08:55,958
+{\an8}Can we please pick a film already?
+
+110
+00:08:53,917 --> 00:08:55,958
+{\an2}Can we please pick a film already?
+
+111
+00:08:56,125 --> 00:08:59,375
+{\an8}If it's just another action film,
+<font color="#FFFFFF"I'm not coming.
+
+112
+00:08:56,125 --> 00:08:59,375
+{\an2}If it's just another action film,
+
+113
+00:08:59,542 --> 00:09:02,250
+{\an8}You're a wuss
+<font color="#FFFFFF"who only likes romances.
+
+114
+00:08:59,542 --> 00:09:02,250
+{\an2}You're a wuss
+
+115
+00:09:02,417 --> 00:09:04,000
+{\an8}And the new release?
+
+116
+00:09:02,417 --> 00:09:04,000
+{\an2}And the new release?
+
+117
+00:09:04,167 --> 00:09:06,000
+{\an8}The one with Shane Nigam!
+
+118
+00:09:04,167 --> 00:09:06,000
+{\an2}The one with Shane Nigam!
+
+119
+00:09:06,167 --> 00:09:07,667
+{\an8}He's so dreamy.
+
+120
+00:09:06,167 --> 00:09:07,667
+{\an2}He's so dreamy.
+
+121
+00:09:08,875 --> 00:09:10,042
+{\an8}Nurse Prabha,
+
+122
+00:09:08,875 --> 00:09:10,042
+{\an2}Nurse Prabha,
+
+123
+00:09:10,208 --> 00:09:11,583
+{\an8}want to come with us?
+
+124
+00:09:10,208 --> 00:09:11,583
+{\an2}want to come with us?
+
+125
+00:09:11,750 --> 00:09:14,250
+{\an8}Yeah, Nurse Prabha,
+<font color="#FFFFFF"you pick the film!
+
+126
+00:09:11,750 --> 00:09:14,250
+{\an2}Yeah, Nurse Prabha,
+
+127
+00:09:14,417 --> 00:09:16,125
+{\an8}No, you girls go ahead.
+
+128
+00:09:14,417 --> 00:09:16,125
+{\an2}No, you girls go ahead.
+
+129
+00:09:17,042 --> 00:09:19,792
+{\an8}Why? Come with us, please!
+
+130
+00:09:17,042 --> 00:09:19,792
+{\an2}Why? Come with us, please!
+
+131
+00:09:21,542 --> 00:09:25,667
+{\an8}I told you, she never comes.
+
+132
+00:09:21,542 --> 00:09:25,667
+{\an2}I told you, she never comes.
+
+133
+00:09:33,125 --> 00:09:35,417
+{\an8}I explained your situation
+<font color="#FFFFFF"to Dr. Supriya.
+
+134
+00:09:33,125 --> 00:09:35,417
+{\an2}I explained your situation
+
+135
+00:09:35,792 --> 00:09:38,542
+{\an8}Her friend agreed
+<font color="#FFFFFF"to take up your case.
+
+136
+00:09:35,792 --> 00:09:38,542
+{\an2}Her friend agreed
+
+137
+00:09:39,167 --> 00:09:42,167
+{\an8}He's a big-shot lawyer.
+
+138
+00:09:39,167 --> 00:09:42,167
+{\an2}He's a big-shot lawyer.
+
+139
+00:09:43,167 --> 00:09:44,750
+{\an8}He'll do it for free.
+
+140
+00:09:43,167 --> 00:09:44,750
+{\an2}He'll do it for free.
+
+141
+00:09:50,292 --> 00:09:52,000
+{\an8}I don't need any help.
+
+142
+00:09:50,292 --> 00:09:52,000
+{\an2}I don't need any help.
+
+143
+00:09:52,167 --> 00:09:54,042
+{\an8}Why are you being so stubborn?
+
+144
+00:09:52,167 --> 00:09:54,042
+{\an2}Why are you being so stubborn?
+
+145
+00:09:55,042 --> 00:09:57,500
+{\an8}Last night the builders
+<font color="#FFFFFF"sent a goon over
+
+146
+00:09:55,042 --> 00:09:57,500
+{\an2}Last night the builders
+
+147
+00:09:57,667 --> 00:09:58,792
+{\an8}to threaten me!
+
+148
+00:09:57,667 --> 00:09:58,792
+{\an2}to threaten me!
+
+149
+00:10:00,792 --> 00:10:04,542
+{\an8}He said: "Buzz off
+<font color="#FFFFFF"before Ganpati festival or else."
+
+150
+00:10:00,792 --> 00:10:04,542
+{\an2}He said: "Buzz off
+
+151
+00:10:10,000 --> 00:10:11,500
+{\an8}It's too dangerous.
+
+152
+00:10:10,000 --> 00:10:11,500
+{\an2}It's too dangerous.
+
+153
+00:10:12,625 --> 00:10:14,750
+{\an8}Parvaty,
+<font color="#FFFFFF"stay with me for a few days.
+
+154
+00:10:12,625 --> 00:10:14,750
+{\an2}Parvaty,
+
+155
+00:10:15,750 --> 00:10:17,667
+{\an8}Why should I?
+
+156
+00:10:15,750 --> 00:10:17,667
+{\an2}Why should I?
+
+157
+00:10:20,292 --> 00:10:22,167
+{\an8}Why should I leave my place?
+
+158
+00:10:20,292 --> 00:10:22,167
+{\an2}Why should I leave my place?
+
+159
+00:10:23,292 --> 00:10:24,500
+{\an8}I told him:
+
+160
+00:10:23,292 --> 00:10:24,500
+{\an2}I told him:
+
+161
+00:10:24,667 --> 00:10:28,875
+{\an8}"Threaten me all you want,
+<font color="#FFFFFF"I won't leave my place!
+
+162
+00:10:24,667 --> 00:10:28,875
+{\an2}"Threaten me all you want,
+
+163
+00:10:29,042 --> 00:10:31,375
+{\an8}"Over my dead body!"
+
+164
+00:10:29,042 --> 00:10:31,375
+{\an2}"Over my dead body!"
+
+165
+00:10:31,542 --> 00:10:33,000
+{\an8}I told them like that.
+
+166
+00:10:31,542 --> 00:10:33,000
+{\an2}I told them like that.
+
+167
+00:10:35,250 --> 00:10:36,792
+{\an8}Let's speak to the lawyer.
+
+168
+00:10:35,250 --> 00:10:36,792
+{\an2}Let's speak to the lawyer.
+
+169
+00:10:37,625 --> 00:10:39,417
+{\an8}It can't go on like this.
+
+170
+00:10:37,625 --> 00:10:39,417
+{\an2}It can't go on like this.
+
+171
+00:11:00,417 --> 00:11:02,042
+{\an8}And the younger one?
+
+172
+00:11:00,417 --> 00:11:02,042
+{\an2}And the younger one?
+
+173
+00:11:02,542 --> 00:11:03,458
+{\an8}How old is he?
+
+174
+00:11:02,542 --> 00:11:03,458
+{\an2}How old is he?
+
+175
+00:11:04,500 --> 00:11:05,625
+{\an8}1 year old.
+
+176
+00:11:04,500 --> 00:11:05,625
+{\an2}1 year old.
+
+177
+00:11:08,042 --> 00:11:09,583
+{\an8}So you have 3 children?
+
+178
+00:11:08,042 --> 00:11:09,583
+{\an2}So you have 3 children?
+
+179
+00:11:09,750 --> 00:11:10,750
+{\an8}Yes.
+
+180
+00:11:09,750 --> 00:11:10,750
+{\an2}Yes.
+
+181
+00:11:12,042 --> 00:11:13,500
+{\an8}How old are you?
+
+182
+00:11:12,042 --> 00:11:13,500
+{\an2}How old are you?
+
+183
+00:11:14,750 --> 00:11:16,042
+{\an8}24.
+
+184
+00:11:14,750 --> 00:11:16,042
+{\an2}24.
+
+185
+00:11:17,042 --> 00:11:18,417
+{\an8}No! 25.
+
+186
+00:11:17,042 --> 00:11:18,417
+{\an2}No! 25.
+
+187
+00:11:20,042 --> 00:11:21,917
+{\an8}Yes. 25, definitely.
+
+188
+00:11:20,042 --> 00:11:21,917
+{\an2}Yes. 25, definitely.
+
+189
+00:11:27,917 --> 00:11:29,167
+{\an8}Nurse?
+
+190
+00:11:27,917 --> 00:11:29,167
+{\an2}Nurse?
+
+191
+00:11:31,667 --> 00:11:35,292
+{\an8}The girls told me there's a prize?
+
+192
+00:11:31,667 --> 00:11:35,292
+{\an2}The girls told me there's a prize?
+
+193
+00:11:35,792 --> 00:11:37,750
+{\an8}A prize for... you know?
+
+194
+00:11:35,792 --> 00:11:37,750
+{\an2}A prize for... you know?
+
+195
+00:11:38,750 --> 00:11:40,167
+{\an8}Vasectomy?
+
+196
+00:11:38,750 --> 00:11:40,167
+{\an2}Vasectomy?
+
+197
+00:11:41,750 --> 00:11:43,875
+{\an8}If your husband agrees,
+
+198
+00:11:41,750 --> 00:11:43,875
+{\an2}If your husband agrees,
+
+199
+00:11:44,042 --> 00:11:47,625
+{\an8}the government will give you a bucket
+<font color="#FFFFFF"and 1,000 rupees.
+
+200
+00:11:44,042 --> 00:11:47,625
+{\an2}the government will give you a bucket
+
+201
+00:11:48,917 --> 00:11:52,000
+{\an8}I told my husband, but...
+
+202
+00:11:48,917 --> 00:11:52,000
+{\an2}I told my husband, but...
+
+203
+00:11:52,167 --> 00:11:54,792
+{\an8}He says it makes them
+<font color="#FFFFFF"lose their strength!
+
+204
+00:11:52,167 --> 00:11:54,792
+{\an2}He says it makes them
+
+205
+00:12:13,875 --> 00:12:15,125
+{\an8}Take this every day.
+
+206
+00:12:13,875 --> 00:12:15,125
+{\an2}Take this every day.
+
+207
+00:12:15,292 --> 00:12:18,500
+{\an8}If you want another kid
+<font color="#FFFFFF"just stop it for a month.
+
+208
+00:12:15,292 --> 00:12:18,500
+{\an2}If you want another kid
+
+209
+00:12:18,667 --> 00:12:19,917
+{\an8}Oh, no way!
+
+210
+00:12:18,667 --> 00:12:19,917
+{\an2}Oh, no way!
+
+211
+00:12:22,917 --> 00:12:24,042
+{\an8}How much for this?
+
+212
+00:12:22,917 --> 00:12:24,042
+{\an2}How much for this?
+
+213
+00:12:26,917 --> 00:12:29,250
+{\an8}When did you last get your period?
+
+214
+00:12:26,917 --> 00:12:29,250
+{\an2}When did you last get your period?
+
+215
+00:12:59,583 --> 00:13:02,000
+{\an8}Hey... what u doing?
+
+216
+00:12:59,583 --> 00:13:02,000
+{\an2}Hey... what u doing?
+
+217
+00:13:03,333 --> 00:13:06,708
+{\an8}Boss is driving me mad.
+
+218
+00:13:03,333 --> 00:13:06,708
+{\an2}Boss is driving me mad.
+
+219
+00:13:12,833 --> 00:13:16,083
+{\an8}IMA bored...
+
+220
+00:13:12,833 --> 00:13:16,083
+{\an2}IMA bored...
+
+221
+00:13:17,333 --> 00:13:21,042
+{\an8}Wanna C U...
+
+222
+00:13:17,333 --> 00:13:21,042
+{\an2}Wanna C U...
+
+223
+00:14:01,625 --> 00:14:03,417
+{\an8}You'll have to wait
+
+224
+00:14:01,625 --> 00:14:03,417
+{\an2}You'll have to wait
+
+225
+00:14:05,250 --> 00:14:07,333
+{\an8}until tonight to see me.
+
+226
+00:14:05,250 --> 00:14:07,333
+{\an2}until tonight to see me.
+
+227
+00:14:08,542 --> 00:14:09,833
+{\an8}But for now...
+
+228
+00:14:08,542 --> 00:14:09,833
+{\an2}But for now...
+
+229
+00:14:16,958 --> 00:14:21,250
+{\an8}I'm sending you kisses
+through the clouds.
+
+230
+00:14:16,958 --> 00:14:21,250
+{\an2}I'm sending you kisses
+through the clouds.
+
+231
+00:14:23,500 --> 00:14:26,083
+{\an8}So when it rains,
+
+232
+00:14:23,500 --> 00:14:26,083
+{\an2}So when it rains,
+
+233
+00:14:26,833 --> 00:14:29,583
+{\an8}my kisses will touch your lips.
+
+234
+00:14:26,833 --> 00:14:29,583
+{\an2}my kisses will touch your lips.
+
+235
+00:15:12,917 --> 00:15:16,125
+{\an8}But oil won't make
+<font color="#FFFFFF"my hair grow back any faster!
+
+236
+00:15:12,917 --> 00:15:16,125
+{\an2}But oil won't make
+
+237
+00:15:17,667 --> 00:15:19,500
+{\an8}I like it short.
+
+238
+00:15:17,667 --> 00:15:19,500
+{\an2}I like it short.
+
+239
+00:15:19,792 --> 00:15:21,417
+{\an8}It's the new style.
+
+240
+00:15:19,792 --> 00:15:21,417
+{\an2}It's the new style.
+
+241
+00:15:23,917 --> 00:15:27,167
+{\an8}Next month I can't come home.
+<font color="#FFFFFF"I can't get leave.
+
+242
+00:15:23,917 --> 00:15:27,167
+{\an2}Next month I can't come home.
+
+243
+00:15:27,625 --> 00:15:29,917
+{\an8}Alright, Mama.
+<font color="#FFFFFF"I'm going in for surgery.
+
+244
+00:15:27,625 --> 00:15:29,917
+{\an2}Alright, Mama.
+
+245
+00:15:33,500 --> 00:15:35,583
+{\an8}Of course surgeries
+<font color="#FFFFFF"happen at night!
+
+246
+00:15:33,500 --> 00:15:35,583
+{\an2}Of course surgeries
+
+247
+00:15:35,750 --> 00:15:38,417
+{\an8}As if a patient's heart will wait!
+
+248
+00:15:35,750 --> 00:15:38,417
+{\an2}As if a patient's heart will wait!
+
+249
+00:15:39,750 --> 00:15:43,250
+{\an8}Dr. Supriya is calling, Mama!
+<font color="#FFFFFF"I have to go. Bye.
+
+250
+00:15:39,750 --> 00:15:43,250
+{\an2}Dr. Supriya is calling, Mama!
+
+251
+00:15:47,042 --> 00:15:48,167
+{\an8}Prabha?
+
+252
+00:15:47,042 --> 00:15:48,167
+{\an2}Prabha?
+
+253
+00:15:48,542 --> 00:15:49,875
+{\an8}I'm leaving.
+
+254
+00:15:48,542 --> 00:15:49,875
+{\an2}I'm leaving.
+
+255
+00:15:50,042 --> 00:15:51,417
+{\an8}Will you be long?
+
+256
+00:15:50,042 --> 00:15:51,417
+{\an2}Will you be long?
+
+257
+00:15:52,542 --> 00:15:54,542
+{\an8}Go ahead.
+<font color="#FFFFFF"I'll see you at home.
+
+258
+00:15:52,542 --> 00:15:54,542
+{\an2}Go ahead.
+
+259
+00:15:55,667 --> 00:15:57,000
+{\an8}Open your mouth.
+
+260
+00:15:55,667 --> 00:15:57,000
+{\an2}Open your mouth.
+
+261
+00:15:57,917 --> 00:15:59,042
+{\an8}More.
+
+262
+00:15:57,917 --> 00:15:59,042
+{\an2}More.
+
+263
+00:16:03,292 --> 00:16:05,417
+{\an8}Are you hiding them
+<font color="#FFFFFF"under your tongue?
+
+264
+00:16:03,292 --> 00:16:05,417
+{\an2}Are you hiding them
+
+265
+00:16:08,667 --> 00:16:09,500
+{\an8}Good.
+
+266
+00:16:08,667 --> 00:16:09,500
+{\an2}Good.
+
+267
+00:16:28,375 --> 00:16:29,667
+{\an8}Nurse Prabha?
+
+268
+00:16:28,375 --> 00:16:29,667
+{\an2}Nurse Prabha?
+
+269
+00:16:32,750 --> 00:16:34,000
+{\an8}Working late again?
+
+270
+00:16:32,750 --> 00:16:34,000
+{\an2}Working late again?
+
+271
+00:16:34,167 --> 00:16:36,375
+{\an8}Sorry, Doctor.
+<font color="#FFFFFF"I lost track of time.
+
+272
+00:16:34,167 --> 00:16:36,375
+{\an2}Sorry, Doctor.
+
+273
+00:16:36,542 --> 00:16:37,667
+{\an8}It's OK.
+
+274
+00:16:36,542 --> 00:16:37,667
+{\an2}It's OK.
+
+275
+00:16:54,667 --> 00:16:56,750
+{\an8}Hindi is so frustrating.
+
+276
+00:16:54,667 --> 00:16:56,750
+{\an2}Hindi is so frustrating.
+
+277
+00:16:57,625 --> 00:17:02,042
+{\an8}The word kal means both
+<font color="#FFFFFF"yesterday and tomorrow!
+
+278
+00:16:57,625 --> 00:17:02,042
+{\an2}The word kal means both
+
+279
+00:17:02,208 --> 00:17:06,500
+{\an8}Don't make excuses,
+<font color="#FFFFFF"how will you improve without hard work?
+
+280
+00:17:02,208 --> 00:17:06,500
+{\an2}Don't make excuses,
+
+281
+00:17:07,042 --> 00:17:10,125
+{\an8}I wanted to ask a patient
+
+282
+00:17:07,042 --> 00:17:10,125
+{\an2}I wanted to ask a patient
+
+283
+00:17:10,542 --> 00:17:14,000
+{\an8}to come back tomorrow in Hindi
+
+284
+00:17:10,542 --> 00:17:14,000
+{\an2}to come back tomorrow in Hindi
+
+285
+00:17:14,167 --> 00:17:16,583
+{\an8}but when the time came,
+<font color="#FFFFFF"I couldn't say it.
+
+286
+00:17:14,167 --> 00:17:16,583
+{\an2}but when the time came,
+
+287
+00:17:16,750 --> 00:17:19,833
+{\an8}You have to say it like this:
+kal wapas ana<font color="#FFFFFF".
+
+288
+00:17:16,750 --> 00:17:19,833
+{\an2}You have to say it like this:
+kal wapas ana
+
+289
+00:17:20,000 --> 00:17:20,833
+{\an8}Again?
+
+290
+00:17:20,000 --> 00:17:20,833
+{\an2}Again?
+
+291
+00:17:30,250 --> 00:17:32,000
+{\an8}You make it sound so simple.
+
+292
+00:17:30,250 --> 00:17:32,000
+{\an2}You make it sound so simple.
+
+293
+00:17:36,833 --> 00:17:39,000
+{\an8}Good evening, Nurse Prabha.
+
+294
+00:17:36,833 --> 00:17:39,000
+{\an2}Good evening, Nurse Prabha.
+
+295
+00:17:47,167 --> 00:17:48,500
+{\an8}OK then, I'm going.
+
+296
+00:17:47,167 --> 00:17:48,500
+{\an2}OK then, I'm going.
+
+297
+00:17:49,500 --> 00:17:50,542
+{\an8}Nurse?
+
+298
+00:17:49,500 --> 00:17:50,542
+{\an2}Nurse?
+
+299
+00:17:51,292 --> 00:17:53,500
+{\an8}I have something to show you.
+
+300
+00:17:51,292 --> 00:17:53,500
+{\an2}I have something to show you.
+
+301
+00:18:26,542 --> 00:18:29,167
+{\an8}Don't look.
+<font color="#FFFFFF"Open it when you get home.
+
+302
+00:18:26,542 --> 00:18:29,167
+{\an2}Don't look.
+
+303
+00:18:29,542 --> 00:18:30,708
+{\an8}It's a poem.
+
+304
+00:18:29,542 --> 00:18:30,708
+{\an2}It's a poem.
+
+305
+00:18:30,875 --> 00:18:32,292
+{\an8}A poem?
+
+306
+00:18:30,875 --> 00:18:32,292
+{\an2}A poem?
+
+307
+00:18:33,917 --> 00:18:37,375
+{\an8}There's a poetry competition
+<font color="#FFFFFF"in our monthly journal.
+
+308
+00:18:33,917 --> 00:18:37,375
+{\an2}There's a poetry competition
+
+309
+00:18:37,917 --> 00:18:40,042
+{\an8}I thought I'd give it a shot.
+
+310
+00:18:37,917 --> 00:18:40,042
+{\an2}I thought I'd give it a shot.
+
+311
+00:18:41,292 --> 00:18:43,500
+{\an8}I didn't know you were a poet.
+
+312
+00:18:41,292 --> 00:18:43,500
+{\an2}I didn't know you were a poet.
+
+313
+00:18:43,667 --> 00:18:46,167
+{\an8}Nothing like that.
+<font color="#FFFFFF"It's just a hobby.
+
+314
+00:18:43,667 --> 00:18:46,167
+{\an2}Nothing like that.
+
+315
+00:18:48,167 --> 00:18:50,417
+{\an8}Alright. See you tomorrow.
+
+316
+00:18:48,167 --> 00:18:50,417
+{\an2}Alright. See you tomorrow.
+
+317
+00:19:33,667 --> 00:19:35,292
+{\an8}Who's this?
+
+318
+00:19:33,667 --> 00:19:35,292
+{\an2}Who's this?
+
+319
+00:19:37,792 --> 00:19:39,917
+{\an8}How did you get out?
+
+320
+00:19:37,792 --> 00:19:39,917
+{\an2}How did you get out?
+
+321
+00:20:23,667 --> 00:20:25,167
+{\an8}You're all wet!
+
+322
+00:20:23,667 --> 00:20:25,167
+{\an2}You're all wet!
+
+323
+00:20:26,792 --> 00:20:28,542
+{\an8}Lost your umbrella again?
+
+324
+00:20:26,792 --> 00:20:28,542
+{\an2}Lost your umbrella again?
+
+325
+00:20:29,917 --> 00:20:31,542
+{\an8}It was so windy,
+
+326
+00:20:29,917 --> 00:20:31,542
+{\an2}It was so windy,
+
+327
+00:20:31,917 --> 00:20:33,292
+{\an8}it broke.
+
+328
+00:20:31,917 --> 00:20:33,292
+{\an2}it broke.
+
+329
+00:20:41,917 --> 00:20:44,167
+{\an8}You left so early.
+<font color="#FFFFFF"What happened?
+
+330
+00:20:41,917 --> 00:20:44,167
+{\an2}You left so early.
+
+331
+00:20:46,625 --> 00:20:48,167
+{\an8}Nothing happened.
+
+332
+00:20:46,625 --> 00:20:48,167
+{\an2}Nothing happened.
+
+333
+00:20:50,875 --> 00:20:53,292
+{\an8}One of my cousins
+<font color="#FFFFFF"is visiting Mumbai.
+
+334
+00:20:50,875 --> 00:20:53,292
+{\an2}One of my cousins
+
+335
+00:20:53,667 --> 00:20:57,292
+{\an8}So I just went shopping with her.
+
+336
+00:20:53,667 --> 00:20:57,292
+{\an2}So I just went shopping with her.
+
+337
+00:20:58,667 --> 00:20:59,875
+{\an8}A cousin?
+
+338
+00:20:58,667 --> 00:20:59,875
+{\an2}A cousin?
+
+339
+00:21:00,042 --> 00:21:01,167
+{\an8}Just a cousin.
+
+340
+00:21:00,042 --> 00:21:01,167
+{\an2}Just a cousin.
+
+341
+00:21:02,042 --> 00:21:03,167
+{\an8}Sweetie!
+
+342
+00:21:02,042 --> 00:21:03,167
+{\an2}Sweetie!
+
+343
+00:21:05,417 --> 00:21:07,792
+{\an8}Your tummy has become so big.
+
+344
+00:21:05,417 --> 00:21:07,792
+{\an2}Your tummy has become so big.
+
+345
+00:21:13,792 --> 00:21:16,292
+{\an8}How many babies
+<font color="#FFFFFF"are you hiding inside?
+
+346
+00:21:13,792 --> 00:21:16,292
+{\an2}How many babies
+
+347
+00:21:16,875 --> 00:21:19,875
+{\an8}She was loitering
+<font color="#FFFFFF"outside Kulkarni's flat.
+
+348
+00:21:16,875 --> 00:21:19,875
+{\an2}She was loitering
+
+349
+00:21:20,917 --> 00:21:22,542
+{\an8}What was she doing there?
+
+350
+00:21:20,917 --> 00:21:22,542
+{\an2}What was she doing there?
+
+351
+00:21:23,750 --> 00:21:25,875
+{\an8}What were you doing, sweetie?
+
+352
+00:21:23,750 --> 00:21:25,875
+{\an2}What were you doing, sweetie?
+
+353
+00:21:31,625 --> 00:21:34,667
+{\an8}I've asked Dr. Manoj
+<font color="#FFFFFF"to have a look at her.
+
+354
+00:21:31,625 --> 00:21:34,667
+{\an2}I've asked Dr. Manoj
+
+355
+00:21:37,875 --> 00:21:40,167
+{\an8}We shouldn't bother him
+<font color="#FFFFFF"with such things.
+
+356
+00:21:37,875 --> 00:21:40,167
+{\an2}We shouldn't bother him
+
+357
+00:21:42,000 --> 00:21:43,833
+{\an8}He won't mind.
+
+358
+00:21:42,000 --> 00:21:43,833
+{\an2}He won't mind.
+
+359
+00:21:44,000 --> 00:21:45,250
+{\an8}He's a nice guy.
+
+360
+00:21:44,000 --> 00:21:45,250
+{\an2}He's a nice guy.
+
+361
+00:21:46,000 --> 00:21:47,042
+{\an8}Isn't he?
+
+362
+00:21:46,000 --> 00:21:47,042
+{\an2}Isn't he?
+
+363
+00:21:54,000 --> 00:21:55,292
+{\an8}Prabha?
+
+364
+00:21:54,000 --> 00:21:55,292
+{\an2}Prabha?
+
+365
+00:21:57,250 --> 00:22:00,292
+{\an8}Can you cover my rent this month?
+
+366
+00:21:57,250 --> 00:22:00,292
+{\an2}Can you cover my rent this month?
+
+367
+00:22:02,917 --> 00:22:04,875
+{\an8}The same situation again?
+
+368
+00:22:02,917 --> 00:22:04,875
+{\an2}The same situation again?
+
+369
+00:22:06,375 --> 00:22:08,083
+{\an8}I promise I'll pay you back.
+
+370
+00:22:06,375 --> 00:22:08,083
+{\an2}I promise I'll pay you back.
+
+371
+00:22:08,250 --> 00:22:10,792
+{\an8}You need to watch
+<font color="#FFFFFF"your spending, Anu.
+
+372
+00:22:08,250 --> 00:22:10,792
+{\an2}You need to watch
+
+373
+00:22:12,667 --> 00:22:14,625
+{\an8}My salary is never enough.
+
+374
+00:22:12,667 --> 00:22:14,625
+{\an2}My salary is never enough.
+
+375
+00:22:15,042 --> 00:22:16,292
+{\an8}That's why.
+
+376
+00:22:15,042 --> 00:22:16,292
+{\an2}That's why.
+
+377
+00:22:18,792 --> 00:22:20,375
+{\an8}OK, but it's the last time.
+
+378
+00:22:18,792 --> 00:22:20,375
+{\an2}OK, but it's the last time.
+
+379
+00:22:20,542 --> 00:22:21,792
+{\an8}Don't ask again.
+
+380
+00:22:20,542 --> 00:22:21,792
+{\an2}Don't ask again.
+
+381
+00:22:31,167 --> 00:22:32,250
+{\an8}Sorry.
+
+382
+00:22:31,167 --> 00:22:32,250
+{\an2}Sorry.
+
+383
+00:22:35,417 --> 00:22:37,542
+{\an8}What are you doing, Anu?
+<font color="#FFFFFF"Move aside.
+
+384
+00:22:35,417 --> 00:22:37,542
+{\an2}What are you doing, Anu?
+
+385
+00:22:49,625 --> 00:22:51,875
+{\an8}This parcel arrived for you.
+
+386
+00:22:49,625 --> 00:22:51,875
+{\an2}This parcel arrived for you.
+
+387
+00:22:52,167 --> 00:22:53,042
+{\an8}Thank you.
+
+388
+00:22:52,167 --> 00:22:53,042
+{\an2}Thank you.
+
+389
+00:23:01,708 --> 00:23:03,042
+{\an8}What is it?
+
+390
+00:23:01,708 --> 00:23:03,042
+{\an2}What is it?
+
+391
+00:23:06,792 --> 00:23:08,125
+{\an8}Is it from your mom?
+
+392
+00:23:06,792 --> 00:23:08,125
+{\an2}Is it from your mom?
+
+393
+00:23:08,292 --> 00:23:09,667
+{\an8}I don't know.
+
+394
+00:23:08,292 --> 00:23:09,667
+{\an2}I don't know.
+
+395
+00:23:16,958 --> 00:23:18,875
+{\an8}Prabha, it's for you!
+
+396
+00:23:16,958 --> 00:23:18,875
+{\an2}Prabha, it's for you!
+
+397
+00:23:24,917 --> 00:23:26,542
+{\an8}Who's it from?
+
+398
+00:23:24,917 --> 00:23:26,542
+{\an2}Who's it from?
+
+399
+00:23:26,917 --> 00:23:28,542
+{\an8}It doesn't say.
+
+400
+00:23:26,917 --> 00:23:28,542
+{\an2}It doesn't say.
+
+401
+00:23:31,667 --> 00:23:33,792
+{\an8}Let's open and see.
+
+402
+00:23:31,667 --> 00:23:33,792
+{\an2}Let's open and see.
+
+403
+00:23:59,667 --> 00:24:01,042
+{\an8}Awesome!
+
+404
+00:23:59,667 --> 00:24:01,042
+{\an2}Awesome!
+
+405
+00:24:01,542 --> 00:24:03,750
+{\an8}We had a rice cooker at home,
+
+406
+00:24:01,542 --> 00:24:03,750
+{\an2}We had a rice cooker at home,
+
+407
+00:24:04,542 --> 00:24:06,667
+{\an8}but nothing like this!
+
+408
+00:24:04,542 --> 00:24:06,667
+{\an2}but nothing like this!
+
+409
+00:24:09,000 --> 00:24:10,917
+{\an8}This one looks so international!
+
+410
+00:24:09,000 --> 00:24:10,917
+{\an2}This one looks so international!
+
+411
+00:24:13,375 --> 00:24:15,667
+{\an8}Whatever we make will taste super.
+
+412
+00:24:13,375 --> 00:24:15,667
+{\an2}Whatever we make will taste super.
+
+413
+00:24:17,042 --> 00:24:19,417
+{\an8}But who could've sent it?
+
+414
+00:24:17,042 --> 00:24:19,417
+{\an2}But who could've sent it?
+
+415
+00:24:22,125 --> 00:24:23,917
+{\an8}Doesn't say.
+
+416
+00:24:22,125 --> 00:24:23,917
+{\an2}Doesn't say.
+
+417
+00:24:33,292 --> 00:24:35,417
+{\an8}It's written in English letters.
+
+418
+00:24:33,292 --> 00:24:35,417
+{\an2}It's written in English letters.
+
+419
+00:24:38,750 --> 00:24:41,042
+{\an8}But it's some other language.
+
+420
+00:24:38,750 --> 00:24:41,042
+{\an2}But it's some other language.
+
+421
+00:24:48,500 --> 00:24:49,583
+{\an8}Made in...
+
+422
+00:24:48,500 --> 00:24:49,583
+{\an2}Made in...
+
+423
+00:24:49,750 --> 00:24:50,917
+{\an8}Germany.
+
+424
+00:24:49,750 --> 00:24:50,917
+{\an2}Germany.
+
+425
+00:24:53,125 --> 00:24:55,125
+{\an8}Doesn't your husband live there?
+
+426
+00:24:53,125 --> 00:24:55,125
+{\an2}Doesn't your husband live there?
+
+427
+00:26:15,625 --> 00:26:17,625
+{\an8}My dreams are made of
+everyday things,
+
+428
+00:26:15,625 --> 00:26:17,625
+{\an2}My dreams are made of
+everyday things,
+
+429
+00:26:17,917 --> 00:26:23,000
+{\an8}small and scattered,
+that I've left behind.
+
+430
+00:26:17,917 --> 00:26:23,000
+{\an2}small and scattered,
+that I've left behind.
+
+431
+00:26:27,500 --> 00:26:29,167
+{\an8}My hope
+
+432
+00:26:27,500 --> 00:26:29,167
+{\an2}My hope
+
+433
+00:26:29,667 --> 00:26:33,542
+{\an8}is just another casket of things
+
+434
+00:26:29,667 --> 00:26:33,542
+{\an2}is just another casket of things
+
+435
+00:26:33,917 --> 00:26:36,625
+{\an8}I carry with me wherever I go.
+
+436
+00:26:33,917 --> 00:26:36,625
+{\an2}I carry with me wherever I go.
+
+437
+00:26:42,250 --> 00:26:43,375
+{\an8}And now,
+
+438
+00:26:42,250 --> 00:26:43,375
+{\an2}And now,
+
+439
+00:26:43,792 --> 00:26:47,250
+{\an8}you are there
+in a neighbour's house
+
+440
+00:26:43,792 --> 00:26:47,250
+{\an2}you are there
+in a neighbour's house
+
+441
+00:26:47,417 --> 00:26:49,000
+{\an8}like a burning lamp
+
+442
+00:26:47,417 --> 00:26:49,000
+{\an2}like a burning lamp
+
+443
+00:26:49,750 --> 00:26:51,375
+{\an8}whose glow I watch
+
+444
+00:26:49,750 --> 00:26:51,375
+{\an2}whose glow I watch
+
+445
+00:26:51,792 --> 00:26:54,542
+{\an8}to keep me warm at night.
+
+446
+00:26:51,792 --> 00:26:54,542
+{\an2}to keep me warm at night.
+
+447
+00:27:14,083 --> 00:27:17,500
+{\an8}C U at the same time.
+
+448
+00:27:14,083 --> 00:27:17,500
+{\an2}C U at the same time.
+
+449
+00:27:19,917 --> 00:27:22,875
+{\an8}Don't wait 2 close to hospital.
+
+450
+00:27:19,917 --> 00:27:22,875
+{\an2}Don't wait 2 close to hospital.
+
+451
+00:27:23,792 --> 00:27:26,708
+{\an8}Someone might see you.
+
+452
+00:27:23,792 --> 00:27:26,708
+{\an2}Someone might see you.
+
+453
+00:27:30,000 --> 00:27:32,542
+{\an8}See you soon
+
+454
+00:27:30,000 --> 00:27:32,542
+{\an2}See you soon
+
+455
+00:27:45,625 --> 00:27:46,750
+{\an8}Have you noticed
+
+456
+00:27:45,625 --> 00:27:46,750
+{\an2}Have you noticed
+
+457
+00:27:47,542 --> 00:27:50,792
+{\an8}any changes in your new roommate?
+
+458
+00:27:47,542 --> 00:27:50,792
+{\an2}any changes in your new roommate?
+
+459
+00:27:53,875 --> 00:27:56,167
+{\an8}All the nurses are talking about her.
+
+460
+00:27:53,875 --> 00:27:56,167
+{\an2}All the nurses are talking about her.
+
+461
+00:28:00,542 --> 00:28:02,792
+{\an8}She's in love with a boy.
+
+462
+00:28:00,542 --> 00:28:02,792
+{\an2}She's in love with a boy.
+
+463
+00:28:07,125 --> 00:28:08,917
+{\an8}That can't be.
+
+464
+00:28:07,125 --> 00:28:08,917
+{\an2}That can't be.
+
+465
+00:28:09,333 --> 00:28:11,292
+{\an8}She's not like that.
+
+466
+00:28:09,333 --> 00:28:11,292
+{\an2}She's not like that.
+
+467
+00:28:13,667 --> 00:28:16,167
+{\an8}You know, he's Muslim.
+
+468
+00:28:13,667 --> 00:28:16,167
+{\an2}You know, he's Muslim.
+
+469
+00:28:18,042 --> 00:28:19,792
+{\an8}Everyone here knows.
+
+470
+00:28:18,042 --> 00:28:19,792
+{\an2}Everyone here knows.
+
+471
+00:28:20,625 --> 00:28:23,625
+{\an8}I don't have a problem with it.
+
+472
+00:28:20,625 --> 00:28:23,625
+{\an2}I don't have a problem with it.
+
+473
+00:28:23,792 --> 00:28:26,083
+{\an8}But she's your roommate,
+
+474
+00:28:23,792 --> 00:28:26,083
+{\an2}But she's your roommate,
+
+475
+00:28:26,250 --> 00:28:28,458
+{\an8}you better keep an eye on her.
+
+476
+00:28:26,250 --> 00:28:28,458
+{\an2}you better keep an eye on her.
+
+477
+00:28:28,625 --> 00:28:30,542
+{\an8}I just thought you should know.
+
+478
+00:28:28,625 --> 00:28:30,542
+{\an2}I just thought you should know.
+
+479
+00:28:33,292 --> 00:28:34,250
+{\an8}What is this?
+
+480
+00:28:33,292 --> 00:28:34,250
+{\an2}What is this?
+
+481
+00:28:34,417 --> 00:28:36,875
+{\an8}Sims' vaginal speculum.
+
+482
+00:28:34,417 --> 00:28:36,875
+{\an2}Sims' vaginal speculum.
+
+483
+00:28:37,042 --> 00:28:37,917
+{\an8}Good.
+
+484
+00:28:37,042 --> 00:28:37,917
+{\an2}Good.
+
+485
+00:28:38,292 --> 00:28:39,375
+{\an8}What about...
+
+486
+00:28:38,292 --> 00:28:39,375
+{\an2}What about...
+
+487
+00:28:39,875 --> 00:28:40,833
+{\an8}this?
+
+488
+00:28:39,875 --> 00:28:40,833
+{\an2}this?
+
+489
+00:28:41,000 --> 00:28:42,125
+{\an8}Artery forceps.
+
+490
+00:28:41,000 --> 00:28:42,125
+{\an2}Artery forceps.
+
+491
+00:28:42,292 --> 00:28:43,958
+{\an8}Artery forceps, correct.
+
+492
+00:28:42,292 --> 00:28:43,958
+{\an2}Artery forceps, correct.
+
+493
+00:28:44,125 --> 00:28:45,583
+{\an8}Nurse Anu will show you
+
+494
+00:28:44,125 --> 00:28:45,583
+{\an2}Nurse Anu will show you
+
+495
+00:28:46,375 --> 00:28:48,625
+{\an8}placenta from
+<font color="#FFFFFF"today morning's delivery.
+
+496
+00:28:46,375 --> 00:28:48,625
+{\an2}placenta from
+
+497
+00:28:48,792 --> 00:28:53,042
+{\an8}And I'll demonstrate
+<font color="#FFFFFF"our placenta disposal procedure.
+
+498
+00:28:48,792 --> 00:28:53,042
+{\an2}And I'll demonstrate
+
+499
+00:28:53,208 --> 00:28:54,417
+{\an8}Pass it on.
+
+500
+00:28:53,208 --> 00:28:54,417
+{\an2}Pass it on.
+
+501
+00:28:58,625 --> 00:29:00,667
+{\an8}Still bothered by the smell?
+
+502
+00:28:58,625 --> 00:29:00,667
+{\an2}Still bothered by the smell?
+
+503
+00:29:02,667 --> 00:29:04,208
+{\an8}You're all nurses,
+
+504
+00:29:02,667 --> 00:29:04,208
+{\an2}You're all nurses,
+
+505
+00:29:04,375 --> 00:29:05,875
+{\an8}you have to be stronger.
+
+506
+00:29:04,375 --> 00:29:05,875
+{\an2}you have to be stronger.
+
+507
+00:30:29,667 --> 00:30:30,667
+{\an8}Listen...
+
+508
+00:30:29,667 --> 00:30:30,667
+{\an2}Listen...
+
+509
+00:30:32,167 --> 00:30:34,542
+{\an8}I've been dying to tell you
+<font color="#FFFFFF"what happened today.
+
+510
+00:30:32,167 --> 00:30:34,542
+{\an2}I've been dying to tell you
+
+511
+00:30:35,917 --> 00:30:37,500
+{\an8}You know Crystal, right?
+
+512
+00:30:35,917 --> 00:30:37,500
+{\an2}You know Crystal, right?
+
+513
+00:30:37,667 --> 00:30:39,167
+{\an8}The new nurse.
+
+514
+00:30:37,667 --> 00:30:39,167
+{\an2}The new nurse.
+
+515
+00:30:39,833 --> 00:30:43,292
+{\an8}She was giving an old man
+<font color="#FFFFFF"a sponge bath...
+
+516
+00:30:39,833 --> 00:30:43,292
+{\an2}She was giving an old man
+
+517
+00:30:44,792 --> 00:30:46,917
+{\an8}when suddenly,
+
+518
+00:30:44,792 --> 00:30:46,917
+{\an2}when suddenly,
+
+519
+00:30:47,083 --> 00:30:49,292
+{\an8}she let out a scream!
+
+520
+00:30:47,083 --> 00:30:49,292
+{\an2}she let out a scream!
+
+521
+00:30:49,458 --> 00:30:50,625
+{\an8}Why?
+
+522
+00:30:49,458 --> 00:30:50,625
+{\an2}Why?
+
+523
+00:30:50,792 --> 00:30:54,375
+{\an8}She looked down and...
+
+524
+00:30:50,792 --> 00:30:54,375
+{\an2}She looked down and...
+
+525
+00:30:54,750 --> 00:30:57,042
+{\an8}his 'thing' was standing all the way up!
+
+526
+00:30:54,750 --> 00:30:57,042
+{\an2}his 'thing' was standing all the way up!
+
+527
+00:30:58,417 --> 00:31:00,875
+{\an8}She'd never seen one standing before!
+
+528
+00:30:58,417 --> 00:31:00,875
+{\an2}She'd never seen one standing before!
+
+529
+00:31:01,042 --> 00:31:03,125
+{\an8}She ran out of the room.
+
+530
+00:31:01,042 --> 00:31:03,125
+{\an2}She ran out of the room.
+
+531
+00:31:03,542 --> 00:31:04,500
+{\an8}And then?
+
+532
+00:31:03,542 --> 00:31:04,500
+{\an2}And then?
+
+533
+00:31:04,667 --> 00:31:08,167
+{\an8}Then Prabha came in and scolded him,
+
+534
+00:31:04,667 --> 00:31:08,167
+{\an2}Then Prabha came in and scolded him,
+
+535
+00:31:08,542 --> 00:31:11,417
+{\an8}he got so scared...
+
+536
+00:31:08,542 --> 00:31:11,417
+{\an2}he got so scared...
+
+537
+00:31:12,125 --> 00:31:14,125
+{\an8}I don't think
+
+538
+00:31:12,125 --> 00:31:14,125
+{\an2}I don't think
+
+539
+00:31:14,625 --> 00:31:17,917
+{\an8}it'll ever stand up again!
+
+540
+00:31:14,625 --> 00:31:17,917
+{\an2}it'll ever stand up again!
+
+541
+00:31:26,917 --> 00:31:29,250
+{\an8}Boss sent me
+<font color="#FFFFFF"to pick up his watch.
+
+542
+00:31:26,917 --> 00:31:29,250
+{\an2}Boss sent me
+
+543
+00:31:29,750 --> 00:31:30,625
+{\an8}Mr. Aslam?
+
+544
+00:31:29,750 --> 00:31:30,625
+{\an2}Mr. Aslam?
+
+545
+00:31:32,125 --> 00:31:34,125
+{\an8}Two minutes.
+
+546
+00:31:32,125 --> 00:31:34,125
+{\an2}Two minutes.
+
+547
+00:31:48,792 --> 00:31:50,667
+{\an8}Don't they look great on me?
+
+548
+00:31:48,792 --> 00:31:50,667
+{\an2}Don't they look great on me?
+
+549
+00:32:09,375 --> 00:32:10,500
+{\an8}Anu?
+
+550
+00:32:09,375 --> 00:32:10,500
+{\an2}Anu?
+
+551
+00:32:14,708 --> 00:32:16,917
+{\an8}Have you seen many?
+
+552
+00:32:14,708 --> 00:32:16,917
+{\an2}Have you seen many?
+
+553
+00:32:17,542 --> 00:32:18,792
+{\an8}Many what?
+
+554
+00:32:17,542 --> 00:32:18,792
+{\an2}Many what?
+
+555
+00:32:19,708 --> 00:32:22,292
+{\an8}What Nurse Crystal saw
+<font color="#FFFFFF"at the hospital today.
+
+556
+00:32:19,708 --> 00:32:22,292
+{\an2}What Nurse Crystal saw
+
+557
+00:32:28,042 --> 00:32:30,500
+{\an8}What's up with you?
+<font color="#FFFFFF"Are you jealous?
+
+558
+00:32:28,042 --> 00:32:30,500
+{\an2}What's up with you?
+
+559
+00:32:30,667 --> 00:32:32,667
+{\an8}No, I'm just asking.
+
+560
+00:32:30,667 --> 00:32:32,667
+{\an2}No, I'm just asking.
+
+561
+00:32:34,167 --> 00:32:36,375
+{\an8}Why are you acting like a virgin?
+
+562
+00:32:34,167 --> 00:32:36,375
+{\an2}Why are you acting like a virgin?
+
+563
+00:32:39,750 --> 00:32:40,792
+{\an8}Mister?
+
+564
+00:32:39,750 --> 00:32:40,792
+{\an2}Mister?
+
+565
+00:32:42,125 --> 00:32:43,667
+{\an8}Your watch.
+
+566
+00:32:42,125 --> 00:32:43,667
+{\an2}Your watch.
+
+567
+00:32:44,500 --> 00:32:45,875
+{\an8}Your watch is ready.
+
+568
+00:32:44,500 --> 00:32:45,875
+{\an2}Your watch is ready.
+
+569
+00:32:46,250 --> 00:32:48,250
+{\an8}The balance is 5,000 rupees.
+
+570
+00:32:46,250 --> 00:32:48,250
+{\an2}The balance is 5,000 rupees.
+
+571
+00:32:53,917 --> 00:32:57,833
+{\an8}Shobhna said if we pay off the guard,
+<font color="#FFFFFF"he won't bother us.
+
+572
+00:32:53,917 --> 00:32:57,833
+{\an2}Shobhna said if we pay off the guard,
+
+573
+00:32:58,000 --> 00:32:59,250
+{\an8}Are you sure?
+
+574
+00:32:58,000 --> 00:32:59,250
+{\an2}Are you sure?
+
+575
+00:32:59,417 --> 00:33:01,417
+{\an8}Don't be such a wuss.
+
+576
+00:32:59,417 --> 00:33:01,417
+{\an2}Don't be such a wuss.
+
+577
+00:33:03,375 --> 00:33:04,958
+{\an8}Let's go see.
+
+578
+00:33:03,375 --> 00:33:04,958
+{\an2}Let's go see.
+
+579
+00:33:05,875 --> 00:33:07,875
+{\an8}There's nobody here.
+
+580
+00:33:05,875 --> 00:33:07,875
+{\an2}There's nobody here.
+
+581
+00:35:36,458 --> 00:35:38,833
+{\an8}When did he last phone you?
+
+582
+00:35:36,458 --> 00:35:38,833
+{\an2}When did he last phone you?
+
+583
+00:35:40,583 --> 00:35:42,375
+{\an8}It's been over a year.
+
+584
+00:35:40,583 --> 00:35:42,375
+{\an2}It's been over a year.
+
+585
+00:35:43,500 --> 00:35:45,000
+{\an8}Maybe longer...
+
+586
+00:35:43,500 --> 00:35:45,000
+{\an2}Maybe longer...
+
+587
+00:35:46,875 --> 00:35:47,875
+{\an8}Nurse?
+
+588
+00:35:46,875 --> 00:35:47,875
+{\an2}Nurse?
+
+589
+00:35:50,125 --> 00:35:52,625
+{\an8}When people go abroad,
+
+590
+00:35:50,125 --> 00:35:52,625
+{\an2}When people go abroad,
+
+591
+00:35:53,625 --> 00:35:56,000
+{\an8}they can lose their minds,
+
+592
+00:35:53,625 --> 00:35:56,000
+{\an2}they can lose their minds,
+
+593
+00:35:56,625 --> 00:35:58,458
+{\an8}or their memory.
+
+594
+00:35:56,625 --> 00:35:58,458
+{\an2}or their memory.
+
+595
+00:36:00,083 --> 00:36:01,458
+{\an8}That's how it is.
+
+596
+00:36:00,083 --> 00:36:01,458
+{\an2}That's how it is.
+
+597
+00:36:03,625 --> 00:36:05,250
+{\an8}What will you do now?
+
+598
+00:36:03,625 --> 00:36:05,250
+{\an2}What will you do now?
+
+599
+00:36:06,875 --> 00:36:09,417
+{\an8}I'll tell you what, call him.
+
+600
+00:36:06,875 --> 00:36:09,417
+{\an2}I'll tell you what, call him.
+
+601
+00:36:09,583 --> 00:36:11,250
+{\an8}- Me, call him?
+<font color="#FFFFFF"- Yeah.
+
+602
+00:36:09,583 --> 00:36:11,250
+{\an2}- Me, call him?
+
+603
+00:36:17,500 --> 00:36:19,875
+{\an8}If I meet that husband of yours,
+
+604
+00:36:17,500 --> 00:36:19,875
+{\an2}If I meet that husband of yours,
+
+605
+00:36:21,875 --> 00:36:23,000
+{\an8}I swear,
+
+606
+00:36:21,875 --> 00:36:23,000
+{\an2}I swear,
+
+607
+00:36:24,875 --> 00:36:26,875
+{\an8}I'm gonna box his ears.
+
+608
+00:36:24,875 --> 00:36:26,875
+{\an2}I'm gonna box his ears.
+
+609
+00:36:39,125 --> 00:36:40,750
+{\an8}It's a real shame.
+
+610
+00:36:39,125 --> 00:36:40,750
+{\an2}It's a real shame.
+
+611
+00:36:44,500 --> 00:36:48,333
+{\an8}It says here the builder
+<font color="#FFFFFF"is suing you for trespassing.
+
+612
+00:36:44,500 --> 00:36:48,333
+{\an2}It says here the builder
+
+613
+00:36:48,708 --> 00:36:53,042
+{\an8}They could begin demolition
+<font color="#FFFFFF"any day now.
+
+614
+00:36:48,708 --> 00:36:53,042
+{\an2}They could begin demolition
+
+615
+00:36:55,917 --> 00:36:58,625
+{\an8}Are other tenants
+<font color="#FFFFFF"in the same situation?
+
+616
+00:36:55,917 --> 00:36:58,625
+{\an2}Are other tenants
+
+617
+00:36:58,792 --> 00:37:02,417
+{\an8}The ones with papers
+<font color="#FFFFFF"have been given new flats.
+
+618
+00:36:58,792 --> 00:37:02,417
+{\an2}The ones with papers
+
+619
+00:37:04,583 --> 00:37:07,917
+{\an8}When the cotton mills shut down,
+
+620
+00:37:04,583 --> 00:37:07,917
+{\an2}When the cotton mills shut down,
+
+621
+00:37:08,083 --> 00:37:11,292
+{\an8}my husband was allowed to stay on.
+
+622
+00:37:08,083 --> 00:37:11,292
+{\an2}my husband was allowed to stay on.
+
+623
+00:37:11,458 --> 00:37:13,583
+{\an8}Then you must have papers!
+
+624
+00:37:11,458 --> 00:37:13,583
+{\an2}Then you must have papers!
+
+625
+00:37:16,208 --> 00:37:18,542
+{\an8}He never told me
+<font color="#FFFFFF"about any papers.
+
+626
+00:37:16,208 --> 00:37:18,542
+{\an2}He never told me
+
+627
+00:37:18,708 --> 00:37:21,208
+{\an8}Now that he's dead,
+<font color="#FFFFFF"I can't ask him, can I?
+
+628
+00:37:18,708 --> 00:37:21,208
+{\an2}Now that he's dead,
+
+629
+00:37:24,042 --> 00:37:25,875
+{\an8}Isn't there another solution?
+
+630
+00:37:24,042 --> 00:37:25,875
+{\an2}Isn't there another solution?
+
+631
+00:37:30,792 --> 00:37:32,125
+{\an8}Look Parvati,
+
+632
+00:37:30,792 --> 00:37:32,125
+{\an2}Look Parvati,
+
+633
+00:37:32,292 --> 00:37:35,250
+{\an8}the problem is
+<font color="#FFFFFF"you don't really have a case.
+
+634
+00:37:32,292 --> 00:37:35,250
+{\an2}the problem is
+
+635
+00:37:36,417 --> 00:37:40,375
+{\an8}Because there is no proof
+<font color="#FFFFFF"that you have lived there.
+
+636
+00:37:36,417 --> 00:37:40,375
+{\an2}Because there is no proof
+
+637
+00:37:40,542 --> 00:37:44,292
+{\an8}But can't you just ask my neighbours?
+
+638
+00:37:40,542 --> 00:37:44,292
+{\an2}But can't you just ask my neighbours?
+
+639
+00:37:44,750 --> 00:37:46,125
+{\an8}I've lived there 22 years,
+
+640
+00:37:44,750 --> 00:37:46,125
+{\an2}I've lived there 22 years,
+
+641
+00:37:46,292 --> 00:37:49,000
+{\an8}what do I need papers for?
+
+642
+00:37:46,292 --> 00:37:49,000
+{\an2}what do I need papers for?
+
+643
+00:37:49,167 --> 00:37:51,417
+{\an8}That won't hold up in court.
+
+644
+00:37:49,167 --> 00:37:51,417
+{\an2}That won't hold up in court.
+
+645
+00:37:52,000 --> 00:37:53,667
+{\an8}There, we need papers.
+
+646
+00:37:52,000 --> 00:37:53,667
+{\an2}There, we need papers.
+
+647
+00:37:54,292 --> 00:37:57,667
+{\an8}Can't you find any document
+<font color="#FFFFFF"with your name on it?
+
+648
+00:37:54,292 --> 00:37:57,667
+{\an2}Can't you find any document
+
+649
+00:38:04,208 --> 00:38:05,292
+{\an8}That bastard!
+
+650
+00:38:04,208 --> 00:38:05,292
+{\an2}That bastard!
+
+651
+00:38:08,042 --> 00:38:09,583
+{\an8}I will kick his ass!
+
+652
+00:38:08,042 --> 00:38:09,583
+{\an2}I will kick his ass!
+
+653
+00:38:10,875 --> 00:38:12,417
+{\an8}I'll show him.
+
+654
+00:38:10,875 --> 00:38:12,417
+{\an2}I'll show him.
+
+655
+00:38:16,042 --> 00:38:18,458
+{\an8}Who does he think he is?
+
+656
+00:38:16,042 --> 00:38:18,458
+{\an2}Who does he think he is?
+
+657
+00:38:18,625 --> 00:38:21,500
+{\an8}How dare those builders
+<font color="#FFFFFF"cut off my electricity!
+
+658
+00:38:18,625 --> 00:38:21,500
+{\an2}How dare those builders
+
+659
+00:38:23,750 --> 00:38:25,042
+{\an8}It's so damn dark!
+
+660
+00:38:23,750 --> 00:38:25,042
+{\an2}It's so damn dark!
+
+661
+00:38:28,875 --> 00:38:31,292
+{\an8}These are just old medical reports.
+
+662
+00:38:28,875 --> 00:38:31,292
+{\an2}These are just old medical reports.
+
+663
+00:38:54,625 --> 00:38:56,625
+{\an8}How is your son doing?
+
+664
+00:38:54,625 --> 00:38:56,625
+{\an2}How is your son doing?
+
+665
+00:38:58,000 --> 00:38:59,375
+{\an8}It's been a long time.
+
+666
+00:38:58,000 --> 00:38:59,375
+{\an2}It's been a long time.
+
+667
+00:39:08,125 --> 00:39:10,542
+{\an8}You had gotten him chocolates too.
+
+668
+00:39:08,125 --> 00:39:10,542
+{\an2}You had gotten him chocolates too.
+
+669
+00:39:11,292 --> 00:39:13,542
+{\an8}Those, he gobbled up.
+
+670
+00:39:11,292 --> 00:39:13,542
+{\an2}Those, he gobbled up.
+
+671
+00:39:15,583 --> 00:39:18,917
+{\an8}You used to be so terrified
+<font color="#FFFFFF"of the Head Nurse.
+
+672
+00:39:15,583 --> 00:39:18,917
+{\an2}You used to be so terrified
+
+673
+00:39:21,042 --> 00:39:22,333
+{\an8}That terror, Nurse Lissy.
+
+674
+00:39:21,042 --> 00:39:22,333
+{\an2}That terror, Nurse Lissy.
+
+675
+00:39:23,125 --> 00:39:24,625
+{\an8}Don't remind me.
+
+676
+00:39:23,125 --> 00:39:24,625
+{\an2}Don't remind me.
+
+677
+00:39:31,042 --> 00:39:33,917
+{\an8}Why not move in with your son?
+
+678
+00:39:31,042 --> 00:39:33,917
+{\an2}Why not move in with your son?
+
+679
+00:39:34,833 --> 00:39:36,000
+{\an8}No, no.
+
+680
+00:39:34,833 --> 00:39:36,000
+{\an2}No, no.
+
+681
+00:39:36,583 --> 00:39:40,792
+{\an8}He already lives in a tiny room
+<font color="#FFFFFF"with his wife and kid.
+
+682
+00:39:36,583 --> 00:39:40,792
+{\an2}He already lives in a tiny room
+
+683
+00:39:42,292 --> 00:39:45,792
+{\an8}I don't want anyone
+<font color="#FFFFFF"breathing down my neck.
+
+684
+00:39:42,292 --> 00:39:45,792
+{\an2}I don't want anyone
+
+685
+00:39:48,750 --> 00:39:50,667
+{\an8}We're the same, you and I.
+
+686
+00:39:48,750 --> 00:39:50,667
+{\an2}We're the same, you and I.
+
+687
+00:39:51,750 --> 00:39:53,375
+{\an8}We're better off alone.
+
+688
+00:39:51,750 --> 00:39:53,375
+{\an2}We're better off alone.
+
+689
+00:40:23,625 --> 00:40:26,708
+{\an8}Evening is my favourite time of day.
+
+690
+00:40:23,625 --> 00:40:26,708
+{\an2}Evening is my favourite time of day.
+
+691
+00:40:27,292 --> 00:40:29,125
+{\an8}In my village,
+<font color="#FFFFFF"this was the time
+
+692
+00:40:27,292 --> 00:40:29,125
+{\an2}In my village,
+
+693
+00:40:29,292 --> 00:40:32,083
+{\an8}to stop playing football
+<font color="#FFFFFF"and go home.
+
+694
+00:40:29,292 --> 00:40:32,083
+{\an2}to stop playing football
+
+695
+00:40:34,583 --> 00:40:35,625
+{\an8}But here,
+
+696
+00:40:34,583 --> 00:40:35,625
+{\an2}But here,
+
+697
+00:40:35,792 --> 00:40:39,250
+{\an8}it feels like
+<font color="#FFFFFF"the day has just begun.
+
+698
+00:40:35,792 --> 00:40:39,250
+{\an2}it feels like
+
+699
+00:40:50,750 --> 00:40:53,625
+{\an8}I wanted to be an airhostess.
+
+700
+00:40:50,750 --> 00:40:53,625
+{\an2}I wanted to be an airhostess.
+
+701
+00:40:55,583 --> 00:40:59,167
+{\an8}I secretly signed up for the exam.
+
+702
+00:40:55,583 --> 00:40:59,167
+{\an2}I secretly signed up for the exam.
+
+703
+00:40:59,542 --> 00:41:02,167
+{\an8}But I got scared of Dad
+<font color="#FFFFFF"and didn't go.
+
+704
+00:40:59,542 --> 00:41:02,167
+{\an2}But I got scared of Dad
+
+705
+00:41:03,500 --> 00:41:06,625
+{\an8}At least this way,
+<font color="#FFFFFF"I got to meet you.
+
+706
+00:41:03,500 --> 00:41:06,625
+{\an2}At least this way,
+
+707
+00:41:07,458 --> 00:41:11,375
+{\an8}Who knows,
+<font color="#FFFFFF"we could have met on a flight.
+
+708
+00:41:07,458 --> 00:41:11,375
+{\an2}Who knows,
+
+709
+00:41:13,875 --> 00:41:16,125
+{\an8}You seem different somehow.
+
+710
+00:41:13,875 --> 00:41:16,125
+{\an2}You seem different somehow.
+
+711
+00:41:17,292 --> 00:41:18,500
+{\an8}How so?
+
+712
+00:41:17,292 --> 00:41:18,500
+{\an2}How so?
+
+713
+00:41:18,667 --> 00:41:20,375
+{\an8}I sense some change.
+
+714
+00:41:18,667 --> 00:41:20,375
+{\an2}I sense some change.
+
+715
+00:41:25,500 --> 00:41:26,792
+{\an8}What's the matter?
+
+716
+00:41:25,500 --> 00:41:26,792
+{\an2}What's the matter?
+
+717
+00:41:27,625 --> 00:41:28,792
+{\an8}Nothing.
+
+718
+00:41:27,625 --> 00:41:28,792
+{\an2}Nothing.
+
+719
+00:41:29,458 --> 00:41:30,417
+{\an8}Okay.
+
+720
+00:41:29,458 --> 00:41:30,417
+{\an2}Okay.
+
+721
+00:41:41,625 --> 00:41:43,542
+{\an8}Who are you avoiding?
+
+722
+00:41:41,625 --> 00:41:43,542
+{\an2}Who are you avoiding?
+
+723
+00:41:43,708 --> 00:41:44,708
+{\an8}Mother.
+
+724
+00:41:43,708 --> 00:41:44,708
+{\an2}Mother.
+
+725
+00:41:44,875 --> 00:41:46,000
+{\an8}Why not answer?
+
+726
+00:41:44,875 --> 00:41:46,000
+{\an2}Why not answer?
+
+727
+00:41:46,167 --> 00:41:48,042
+{\an8}I know exactly why she's calling.
+
+728
+00:41:46,167 --> 00:41:48,042
+{\an2}I know exactly why she's calling.
+
+729
+00:42:05,333 --> 00:42:07,375
+{\an8}This guy looks like an eggplant.
+
+730
+00:42:05,333 --> 00:42:07,375
+{\an2}This guy looks like an eggplant.
+
+731
+00:42:08,208 --> 00:42:09,375
+{\an8}What about him?
+
+732
+00:42:08,208 --> 00:42:09,375
+{\an2}What about him?
+
+733
+00:42:10,042 --> 00:42:12,708
+{\an8}"I have a 50-acre
+<font color="#FFFFFF"cardamom plantation in Munnar.
+
+734
+00:42:10,042 --> 00:42:12,708
+{\an2}"I have a 50-acre
+
+735
+00:42:12,875 --> 00:42:14,792
+{\an8}"Two houseboats in Alappuzha.
+
+736
+00:42:12,875 --> 00:42:14,792
+{\an2}"Two houseboats in Alappuzha.
+
+737
+00:42:14,958 --> 00:42:17,417
+{\an8}"I go pigeon hunting
+<font color="#FFFFFF"in my free time."
+
+738
+00:42:14,958 --> 00:42:17,417
+{\an2}"I go pigeon hunting
+
+739
+00:42:20,625 --> 00:42:23,708
+{\an8}"I'm the right-hand man
+<font color="#FFFFFF"of the Sheikh in Dubai.
+
+740
+00:42:20,625 --> 00:42:23,708
+{\an2}"I'm the right-hand man
+
+741
+00:42:24,292 --> 00:42:27,000
+{\an8}"All I ask for is 1,001 gold coins.
+
+742
+00:42:24,292 --> 00:42:27,000
+{\an2}"All I ask for is 1,001 gold coins.
+
+743
+00:42:27,458 --> 00:42:29,375
+{\an8}"and one Mercedes Benz."
+
+744
+00:42:27,458 --> 00:42:29,375
+{\an2}"and one Mercedes Benz."
+
+745
+00:42:30,875 --> 00:42:32,750
+{\an8}"That's not possible.
+
+746
+00:42:30,875 --> 00:42:32,750
+{\an2}"That's not possible.
+
+747
+00:42:32,917 --> 00:42:36,250
+{\an8}"But we can offer 50 gold coins
+<font color="#FFFFFF"and one Swift car."
+
+748
+00:42:32,917 --> 00:42:36,250
+{\an2}"But we can offer 50 gold coins
+
+749
+00:42:36,750 --> 00:42:40,208
+{\an8}"Marry your daughter for so cheap?
+<font color="#FFFFFF"Never!"
+
+750
+00:42:36,750 --> 00:42:40,208
+{\an2}"Marry your daughter for so cheap?
+
+751
+00:42:44,583 --> 00:42:45,625
+{\an8}Anu,
+
+752
+00:42:44,583 --> 00:42:45,625
+{\an2}Anu,
+
+753
+00:42:46,667 --> 00:42:49,625
+{\an8}if I used a Hindu name
+<font color="#FFFFFF"for a fake matrimony profile,
+
+754
+00:42:46,667 --> 00:42:49,625
+{\an2}if I used a Hindu name
+
+755
+00:42:49,792 --> 00:42:52,042
+{\an8}would your father send it to you?
+
+756
+00:42:49,792 --> 00:42:52,042
+{\an2}would your father send it to you?
+
+757
+00:42:53,792 --> 00:42:56,625
+{\an8}Even if he did, I'd turn it down.
+
+758
+00:42:53,792 --> 00:42:56,625
+{\an2}Even if he did, I'd turn it down.
+
+759
+00:42:58,667 --> 00:43:00,625
+{\an8}You sure are hard to please.
+
+760
+00:42:58,667 --> 00:43:00,625
+{\an2}You sure are hard to please.
+
+761
+00:44:11,333 --> 00:44:14,000
+{\an8}I keep thinking he'll come back.
+
+762
+00:44:11,333 --> 00:44:14,000
+{\an2}I keep thinking he'll come back.
+
+763
+00:44:15,375 --> 00:44:18,208
+{\an8}And he'll say that
+<font color="#FFFFFF"he wants to live with me,
+
+764
+00:44:15,375 --> 00:44:18,208
+{\an2}And he'll say that
+
+765
+00:44:19,042 --> 00:44:20,833
+{\an8}and be with me.
+
+766
+00:44:19,042 --> 00:44:20,833
+{\an2}and be with me.
+
+767
+00:45:40,958 --> 00:45:42,375
+{\an8}Hold its legs.
+
+768
+00:45:40,958 --> 00:45:42,375
+{\an2}Hold its legs.
+
+769
+00:45:51,708 --> 00:45:52,833
+{\an8}Ready?
+
+770
+00:45:51,708 --> 00:45:52,833
+{\an2}Ready?
+
+771
+00:45:55,333 --> 00:45:56,333
+{\an8}One...
+
+772
+00:45:55,333 --> 00:45:56,333
+{\an2}One...
+
+773
+00:45:58,000 --> 00:45:59,000
+{\an8}two...
+
+774
+00:45:58,000 --> 00:45:59,000
+{\an2}two...
+
+775
+00:46:02,708 --> 00:46:03,708
+{\an8}three...
+
+776
+00:46:02,708 --> 00:46:03,708
+{\an2}three...
+
+777
+00:46:07,583 --> 00:46:10,750
+{\an8}Four heartbeats, wow!
+
+778
+00:46:07,583 --> 00:46:10,750
+{\an2}Four heartbeats, wow!
+
+779
+00:46:17,208 --> 00:46:18,875
+{\an8}She doesn't bite.
+
+780
+00:46:17,208 --> 00:46:18,875
+{\an2}She doesn't bite.
+
+781
+00:46:21,625 --> 00:46:22,958
+{\an8}Don't be afraid.
+
+782
+00:46:21,625 --> 00:46:22,958
+{\an2}Don't be afraid.
+
+783
+00:46:23,125 --> 00:46:24,792
+{\an8}- Go ahead and pet her.
+<font color="#FFFFFF"- No!
+
+784
+00:46:23,125 --> 00:46:24,792
+{\an2}- Go ahead and pet her.
+
+785
+00:46:25,000 --> 00:46:27,375
+{\an8}- Touch her, your fear will vanish.
+<font color="#FFFFFF"- No.
+
+786
+00:46:25,000 --> 00:46:27,375
+{\an2}- Touch her, your fear will vanish.
+
+787
+00:46:29,125 --> 00:46:31,542
+{\an8}People who are afraid of cats
+
+788
+00:46:29,125 --> 00:46:31,542
+{\an2}People who are afraid of cats
+
+789
+00:46:31,708 --> 00:46:33,167
+{\an8}were mice in a past life.
+
+790
+00:46:31,708 --> 00:46:33,167
+{\an2}were mice in a past life.
+
+791
+00:46:35,667 --> 00:46:37,958
+{\an8}- Just touch her.
+<font color="#FFFFFF"- No, no.
+
+792
+00:46:35,667 --> 00:46:37,958
+{\an2}- Just touch her.
+
+793
+00:46:46,250 --> 00:46:47,833
+{\an8}If we're done, let's go.
+
+794
+00:46:46,250 --> 00:46:47,833
+{\an2}If we're done, let's go.
+
+795
+00:47:00,917 --> 00:47:02,208
+{\an8}Should I take her home?
+
+796
+00:47:00,917 --> 00:47:02,208
+{\an2}Should I take her home?
+
+797
+00:47:02,375 --> 00:47:04,208
+{\an8}What was that back there?
+
+798
+00:47:02,375 --> 00:47:04,208
+{\an2}What was that back there?
+
+799
+00:47:05,583 --> 00:47:07,042
+{\an8}What did I do?
+
+800
+00:47:05,583 --> 00:47:07,042
+{\an2}What did I do?
+
+801
+00:47:10,375 --> 00:47:12,708
+{\an8}Why were you flirting with Dr. Manoj?
+
+802
+00:47:10,375 --> 00:47:12,708
+{\an2}Why were you flirting with Dr. Manoj?
+
+803
+00:47:12,875 --> 00:47:14,625
+{\an8}You can't do that.
+
+804
+00:47:12,875 --> 00:47:14,625
+{\an2}You can't do that.
+
+805
+00:47:15,417 --> 00:47:17,500
+{\an8}If you behave like a slut,
+
+806
+00:47:15,417 --> 00:47:17,500
+{\an2}If you behave like a slut,
+
+807
+00:47:18,083 --> 00:47:19,833
+{\an8}people won't respect you.
+
+808
+00:47:18,083 --> 00:47:19,833
+{\an2}people won't respect you.
+
+809
+00:47:20,250 --> 00:47:23,250
+{\an8}You know what people
+<font color="#FFFFFF"are saying about you?
+
+810
+00:47:20,250 --> 00:47:23,250
+{\an2}You know what people
+
+811
+00:47:39,750 --> 00:47:40,750
+{\an8}Let it go.
+
+812
+00:47:39,750 --> 00:47:40,750
+{\an2}Let it go.
+
+813
+00:47:41,333 --> 00:47:43,750
+{\an8}I have something
+<font color="#FFFFFF"that will cheer you up.
+
+814
+00:47:41,333 --> 00:47:43,750
+{\an2}I have something
+
+815
+00:47:45,458 --> 00:47:47,583
+{\an8}Nothing can cheer me up.
+
+816
+00:47:45,458 --> 00:47:47,583
+{\an2}Nothing can cheer me up.
+
+817
+00:47:49,125 --> 00:47:50,250
+{\an8}Fine.
+
+818
+00:47:49,125 --> 00:47:50,250
+{\an2}Fine.
+
+819
+00:47:50,708 --> 00:47:51,958
+{\an8}Then I won't tell you.
+
+820
+00:47:50,708 --> 00:47:51,958
+{\an2}Then I won't tell you.
+
+821
+00:47:55,500 --> 00:47:56,625
+{\an8}Tell me!
+
+822
+00:47:55,500 --> 00:47:56,625
+{\an2}Tell me!
+
+823
+00:48:00,250 --> 00:48:02,500
+{\an8}- Please tell me, Shiaz.
+<font color="#FFFFFF"- Never mind.
+
+824
+00:48:00,250 --> 00:48:02,500
+{\an2}- Please tell me, Shiaz.
+
+825
+00:48:04,708 --> 00:48:05,875
+{\an8}Come on!
+
+826
+00:48:04,708 --> 00:48:05,875
+{\an2}Come on!
+
+827
+00:48:07,458 --> 00:48:09,500
+{\an8}OK, I'll tell you.
+
+828
+00:48:07,458 --> 00:48:09,500
+{\an2}OK, I'll tell you.
+
+829
+00:48:11,000 --> 00:48:12,625
+{\an8}Do you have a burqa?
+
+830
+00:48:11,000 --> 00:48:12,625
+{\an2}Do you have a burqa?
+
+831
+00:48:13,333 --> 00:48:14,875
+{\an8}Why would I have a burqa?
+
+832
+00:48:13,333 --> 00:48:14,875
+{\an2}Why would I have a burqa?
+
+833
+00:48:15,750 --> 00:48:17,833
+{\an8}Without a burqa, there's no plan.
+
+834
+00:48:15,750 --> 00:48:17,833
+{\an2}Without a burqa, there's no plan.
+
+835
+00:48:19,458 --> 00:48:20,625
+{\an8}What plan?
+
+836
+00:48:19,458 --> 00:48:20,625
+{\an2}What plan?
+
+837
+00:48:22,250 --> 00:48:25,000
+{\an8}Aunty and Uncle are going
+<font color="#FFFFFF"to a wedding tomorrow.
+
+838
+00:48:22,250 --> 00:48:25,000
+{\an2}Aunty and Uncle are going
+
+839
+00:48:30,750 --> 00:48:33,833
+{\an8}Goodness!
+<font color="#FFFFFF"No need to scrunch up your face.
+
+840
+00:48:30,750 --> 00:48:33,833
+{\an2}Goodness!
+
+841
+00:48:37,958 --> 00:48:39,750
+{\an8}So nobody will be home?
+
+842
+00:48:37,958 --> 00:48:39,750
+{\an2}So nobody will be home?
+
+843
+00:48:48,000 --> 00:48:50,208
+{\an8}You know my neighbourhood, right?
+
+844
+00:48:48,000 --> 00:48:50,208
+{\an2}You know my neighbourhood, right?
+
+845
+00:48:50,583 --> 00:48:53,625
+{\an8}If anybody sees you like this,
+
+846
+00:48:50,583 --> 00:48:53,625
+{\an2}If anybody sees you like this,
+
+847
+00:48:54,125 --> 00:48:55,750
+{\an8}we're screwed.
+
+848
+00:48:54,125 --> 00:48:55,750
+{\an2}we're screwed.
+
+849
+00:49:26,250 --> 00:49:27,375
+{\an8}Anu?
+
+850
+00:49:26,250 --> 00:49:27,375
+{\an2}Anu?
+
+851
+00:49:28,833 --> 00:49:30,375
+{\an8}Aren't you hungry?
+
+852
+00:49:28,833 --> 00:49:30,375
+{\an2}Aren't you hungry?
+
+853
+00:49:40,625 --> 00:49:43,500
+{\an8}I've prepared
+<font color="#FFFFFF"your favourite fish curry.
+
+854
+00:49:40,625 --> 00:49:43,500
+{\an2}I've prepared
+
+855
+00:49:54,250 --> 00:49:55,833
+{\an8}It's chilli fish curry.
+
+856
+00:49:54,250 --> 00:49:55,833
+{\an2}It's chilli fish curry.
+
+857
+00:49:56,250 --> 00:49:57,875
+{\an8}I'm not hungry.
+
+858
+00:49:56,250 --> 00:49:57,875
+{\an2}I'm not hungry.
+
+859
+00:50:03,875 --> 00:50:05,000
+{\an8}Anu, I'm...
+
+860
+00:50:03,875 --> 00:50:05,000
+{\an2}Anu, I'm...
+
+861
+00:50:06,500 --> 00:50:07,625
+{\an8}sorry.
+
+862
+00:50:06,500 --> 00:50:07,625
+{\an2}sorry.
+
+863
+00:50:10,708 --> 00:50:12,750
+{\an8}I didn't mean what I said.
+
+864
+00:50:10,708 --> 00:50:12,750
+{\an2}I didn't mean what I said.
+
+865
+00:50:13,792 --> 00:50:16,333
+{\an8}I don't know why
+<font color="#FFFFFF"I spoke to you like that.
+
+866
+00:50:13,792 --> 00:50:16,333
+{\an2}I don't know why
+
+867
+00:50:35,625 --> 00:50:37,000
+{\an8}Prabha?
+
+868
+00:50:35,625 --> 00:50:37,000
+{\an2}Prabha?
+
+869
+00:50:39,792 --> 00:50:42,000
+{\an8}Did you know him from before?
+
+870
+00:50:39,792 --> 00:50:42,000
+{\an2}Did you know him from before?
+
+871
+00:50:46,458 --> 00:50:47,500
+{\an8}Who?
+
+872
+00:50:46,458 --> 00:50:47,500
+{\an2}Who?
+
+873
+00:50:48,167 --> 00:50:49,583
+{\an8}Your husband.
+
+874
+00:50:48,167 --> 00:50:49,583
+{\an2}Your husband.
+
+875
+00:50:51,792 --> 00:50:53,250
+{\an8}No. Not at all.
+
+876
+00:50:51,792 --> 00:50:53,250
+{\an2}No. Not at all.
+
+877
+00:50:57,000 --> 00:50:59,708
+{\an8}One day,
+<font color="#FFFFFF"Father asked me to come back home.
+
+878
+00:50:57,000 --> 00:50:59,708
+{\an2}One day,
+
+879
+00:51:00,208 --> 00:51:03,667
+{\an8}When I got there,
+<font color="#FFFFFF"they'd already fixed my marriage.
+
+880
+00:51:00,208 --> 00:51:03,667
+{\an2}When I got there,
+
+881
+00:51:05,083 --> 00:51:07,625
+{\an8}Didn't you try to
+<font color="#FFFFFF"find out more about him?
+
+882
+00:51:05,083 --> 00:51:07,625
+{\an2}Didn't you try to
+
+883
+00:51:10,625 --> 00:51:13,500
+{\an8}I did. I tried to meet him.
+
+884
+00:51:10,625 --> 00:51:13,500
+{\an2}I did. I tried to meet him.
+
+885
+00:51:16,292 --> 00:51:18,375
+{\an8}It must have been romantic.
+
+886
+00:51:16,292 --> 00:51:18,375
+{\an2}It must have been romantic.
+
+887
+00:51:20,792 --> 00:51:22,500
+{\an8}Not at all!
+
+888
+00:51:20,792 --> 00:51:22,500
+{\an2}Not at all!
+
+889
+00:51:25,083 --> 00:51:27,250
+{\an8}He had just a few days of leave.
+
+890
+00:51:25,083 --> 00:51:27,250
+{\an2}He had just a few days of leave.
+
+891
+00:51:28,500 --> 00:51:31,667
+{\an8}When we tried to talk,
+<font color="#FFFFFF"there were always relatives around.
+
+892
+00:51:28,500 --> 00:51:31,667
+{\an2}When we tried to talk,
+
+893
+00:51:43,375 --> 00:51:46,375
+{\an8}How could you marry a total stranger?
+
+894
+00:51:43,375 --> 00:51:46,375
+{\an2}How could you marry a total stranger?
+
+895
+00:51:50,083 --> 00:51:51,958
+{\an8}I don't think I could.
+
+896
+00:51:50,083 --> 00:51:51,958
+{\an2}I don't think I could.
+
+897
+00:52:00,875 --> 00:52:03,583
+{\an8}You might think you know someone,
+
+898
+00:52:00,875 --> 00:52:03,583
+{\an2}You might think you know someone,
+
+899
+00:52:04,875 --> 00:52:08,000
+{\an8}but they can also become strangers.
+
+900
+00:52:04,875 --> 00:52:08,000
+{\an2}but they can also become strangers.
+
+901
+00:52:36,833 --> 00:52:39,833
+{\an8}Soon after the wedding,
+<font color="#FFFFFF"he left for Germany.
+
+902
+00:52:36,833 --> 00:52:39,833
+{\an2}Soon after the wedding,
+
+903
+00:52:43,750 --> 00:52:45,250
+{\an8}In the early days,
+
+904
+00:52:43,750 --> 00:52:45,250
+{\an2}In the early days,
+
+905
+00:52:45,667 --> 00:52:47,625
+{\an8}he used to call.
+
+906
+00:52:45,667 --> 00:52:47,625
+{\an2}he used to call.
+
+907
+00:52:48,208 --> 00:52:51,875
+{\an8}But gradually,
+<font color="#FFFFFF"the conversations grew less frequent.
+
+908
+00:52:48,208 --> 00:52:51,875
+{\an2}But gradually,
+
+909
+00:52:53,333 --> 00:52:55,208
+{\an8}I don't know what happened.
+
+910
+00:52:53,333 --> 00:52:55,208
+{\an2}I don't know what happened.
+
+911
+00:53:00,833 --> 00:53:02,250
+{\an8}Maybe...
+
+912
+00:53:00,833 --> 00:53:02,250
+{\an2}Maybe...
+
+913
+00:53:04,417 --> 00:53:06,375
+{\an8}there was nothing left to say.
+
+914
+00:53:04,417 --> 00:53:06,375
+{\an2}there was nothing left to say.
+
+915
+00:53:12,542 --> 00:53:14,500
+{\an8}I think of him
+
+916
+00:53:12,542 --> 00:53:14,500
+{\an2}I think of him
+
+917
+00:53:14,875 --> 00:53:17,625
+{\an8}in this faraway country.
+
+918
+00:53:14,875 --> 00:53:17,625
+{\an2}in this faraway country.
+
+919
+00:53:22,583 --> 00:53:26,625
+{\an8}I think of him working
+<font color="#FFFFFF"alone in this large factory.
+
+920
+00:53:22,583 --> 00:53:26,625
+{\an2}I think of him working
+
+921
+00:53:35,042 --> 00:53:36,583
+{\an8}It all seems...
+
+922
+00:53:35,042 --> 00:53:36,583
+{\an2}It all seems...
+
+923
+00:53:37,333 --> 00:53:39,958
+{\an8}so far away.
+
+924
+00:53:37,333 --> 00:53:39,958
+{\an2}so far away.
+
+925
+00:54:17,375 --> 00:54:18,500
+{\an8}Nurse?
+
+926
+00:54:17,375 --> 00:54:18,500
+{\an2}Nurse?
+
+927
+00:54:22,000 --> 00:54:24,375
+{\an8}There's something I have to tell you.
+
+928
+00:54:22,000 --> 00:54:24,375
+{\an2}There's something I have to tell you.
+
+929
+00:54:28,000 --> 00:54:29,667
+{\an8}I'm moving back to my village.
+
+930
+00:54:28,000 --> 00:54:29,667
+{\an2}I'm moving back to my village.
+
+931
+00:54:29,833 --> 00:54:30,875
+{\an8}What?
+
+932
+00:54:29,833 --> 00:54:30,875
+{\an2}What?
+
+933
+00:54:32,125 --> 00:54:34,500
+{\an8}There's nothing more I can do,
+<font color="#FFFFFF"is there?
+
+934
+00:54:32,125 --> 00:54:34,500
+{\an2}There's nothing more I can do,
+
+935
+00:54:36,167 --> 00:54:37,708
+{\an8}What are you saying?
+
+936
+00:54:36,167 --> 00:54:37,708
+{\an2}What are you saying?
+
+937
+00:54:37,875 --> 00:54:40,125
+{\an8}We can do more.
+
+938
+00:54:37,875 --> 00:54:40,125
+{\an2}We can do more.
+
+939
+00:54:43,250 --> 00:54:44,500
+{\an8}I'm fed up.
+
+940
+00:54:43,250 --> 00:54:44,500
+{\an2}I'm fed up.
+
+941
+00:54:46,000 --> 00:54:48,250
+{\an8}I spoke to a guy in the village.
+
+942
+00:54:46,000 --> 00:54:48,250
+{\an2}I spoke to a guy in the village.
+
+943
+00:54:49,250 --> 00:54:51,250
+{\an8}- He'll find me a job.
+<font color="#FFFFFF"- Where?
+
+944
+00:54:49,250 --> 00:54:51,250
+{\an2}- He'll find me a job.
+
+945
+00:54:52,375 --> 00:54:53,792
+{\an8}In a hostel.
+
+946
+00:54:52,375 --> 00:54:53,792
+{\an2}In a hostel.
+
+947
+00:54:53,958 --> 00:54:55,208
+{\an8}As a cook.
+
+948
+00:54:53,958 --> 00:54:55,208
+{\an2}As a cook.
+
+949
+00:54:58,708 --> 00:55:01,500
+{\an8}At least in the village
+<font color="#FFFFFF"I have my own home.
+
+950
+00:54:58,708 --> 00:55:01,500
+{\an2}At least in the village
+
+951
+00:55:02,375 --> 00:55:04,333
+{\an8}But how will you manage?
+
+952
+00:55:02,375 --> 00:55:04,333
+{\an2}But how will you manage?
+
+953
+00:55:04,500 --> 00:55:05,750
+{\an8}I'll figure it out.
+
+954
+00:55:04,500 --> 00:55:05,750
+{\an2}I'll figure it out.
+
+955
+00:55:09,583 --> 00:55:11,250
+{\an8}You see that tower there?
+
+956
+00:55:09,583 --> 00:55:11,250
+{\an2}You see that tower there?
+
+957
+00:55:12,417 --> 00:55:13,708
+{\an8}It's the same builders.
+
+958
+00:55:12,417 --> 00:55:13,708
+{\an2}It's the same builders.
+
+959
+00:55:15,583 --> 00:55:20,000
+{\an8}They think that by building
+<font color="#FFFFFF"their towers taller and taller,
+
+960
+00:55:15,583 --> 00:55:20,000
+{\an2}They think that by building
+
+961
+00:55:20,375 --> 00:55:22,625
+{\an8}one day they can replace God.
+
+962
+00:55:20,375 --> 00:55:22,625
+{\an2}one day they can replace God.
+
+963
+00:55:33,333 --> 00:55:36,708
+{\an8}On my way.
+<font color="#FFFFFF"Are you home?
+
+964
+00:55:33,333 --> 00:55:36,708
+{\an2}On my way.
+
+965
+00:55:47,167 --> 00:55:50,792
+{\an8}Crazy rain here...
+
+966
+00:55:47,167 --> 00:55:50,792
+{\an2}Crazy rain here...
+
+967
+00:56:00,333 --> 00:56:04,500
+{\an8}I feel like a spy in a movie.
+
+968
+00:56:00,333 --> 00:56:04,500
+{\an2}I feel like a spy in a movie.
+
+969
+00:56:51,958 --> 00:56:55,375
+{\an8}Have you left yet?
+
+970
+00:56:51,958 --> 00:56:55,375
+{\an2}Have you left yet?
+
+971
+00:56:58,333 --> 00:57:01,333
+{\an8}Don't come now...
+
+972
+00:56:58,333 --> 00:57:01,333
+{\an2}Don't come now...
+
+973
+00:57:02,667 --> 00:57:05,375
+{\an8}The wedding is cancelled.
+
+974
+00:57:02,667 --> 00:57:05,375
+{\an2}The wedding is cancelled.
+
+975
+00:57:06,292 --> 00:57:10,417
+{\an8}Harbour Line is flooded.
+<font color="#FFFFFF"Don't b mad :(
+
+976
+00:57:06,292 --> 00:57:10,417
+{\an2}Harbour Line is flooded.
+
+977
+00:57:15,833 --> 00:57:19,083
+{\an8}Sorry baby.
+
+978
+00:57:15,833 --> 00:57:19,083
+{\an2}Sorry baby.
+
+979
+00:57:49,375 --> 00:57:54,875
+{\an8}Attention all passengers,
+
+980
+00:57:49,375 --> 00:57:54,875
+{\an2}Attention all passengers,
+
+981
+00:57:55,042 --> 00:57:57,292
+{\an8}due to water logging,
+
+982
+00:57:55,042 --> 00:57:57,292
+{\an2}due to water logging,
+
+983
+00:57:57,458 --> 00:57:59,500
+{\an8}all trains are delayed.
+
+984
+00:57:57,458 --> 00:57:59,500
+{\an2}all trains are delayed.
+
+985
+00:57:59,667 --> 00:58:03,750
+{\an8}Stand by for further updates.
+
+986
+00:57:59,667 --> 00:58:03,750
+{\an2}Stand by for further updates.
+
+987
+00:58:06,708 --> 00:58:07,833
+{\an8}Hello?
+
+988
+00:58:06,708 --> 00:58:07,833
+{\an2}Hello?
+
+989
+00:58:09,583 --> 00:58:10,958
+{\an8}Hello, Mama?
+
+990
+00:58:09,583 --> 00:58:10,958
+{\an2}Hello, Mama?
+
+991
+00:58:11,125 --> 00:58:13,125
+{\an8}How are you feeling?
+
+992
+00:58:11,125 --> 00:58:13,125
+{\an2}How are you feeling?
+
+993
+00:58:14,375 --> 00:58:16,833
+{\an8}No, nothing's wrong.
+
+994
+00:58:14,375 --> 00:58:16,833
+{\an2}No, nothing's wrong.
+
+995
+00:58:19,458 --> 00:58:21,583
+{\an8}I'm just calling.
+
+996
+00:58:19,458 --> 00:58:21,583
+{\an2}I'm just calling.
+
+997
+00:58:26,125 --> 00:58:27,375
+{\an8}Yes, I've eaten.
+
+998
+00:58:26,125 --> 00:58:27,375
+{\an2}Yes, I've eaten.
+
+999
+00:58:53,417 --> 00:58:55,250
+{\an8}We built their buildings!
+
+1000
+00:58:53,417 --> 00:58:55,250
+{\an2}We built their buildings!
+
+1001
+00:58:55,625 --> 00:58:58,250
+{\an8}We cleaned their gutters,
+<font color="#FFFFFF"cooked their food,
+
+1002
+00:58:55,625 --> 00:58:58,250
+{\an2}We cleaned their gutters,
+
+1003
+00:58:58,417 --> 00:59:01,500
+{\an8}and did all the work
+<font color="#FFFFFF"they refused to do themselves.
+
+1004
+00:58:58,417 --> 00:59:01,500
+{\an2}and did all the work
+
+1005
+00:59:01,667 --> 00:59:06,417
+{\an8}But when we ask for a home
+<font color="#FFFFFF"near theirs, they can't stand it.
+
+1006
+00:59:01,667 --> 00:59:06,417
+{\an2}But when we ask for a home
+
+1007
+00:59:07,125 --> 00:59:09,625
+{\an8}We have to unite,
+
+1008
+00:59:07,125 --> 00:59:09,625
+{\an2}We have to unite,
+
+1009
+00:59:09,792 --> 00:59:12,000
+{\an8}and make them understand
+
+1010
+00:59:09,792 --> 00:59:12,000
+{\an2}and make them understand
+
+1011
+00:59:12,167 --> 00:59:15,375
+{\an8}that ours are the hands
+<font color="#FFFFFF"that built this city!
+
+1012
+00:59:12,167 --> 00:59:15,375
+{\an2}that ours are the hands
+
+1013
+00:59:19,583 --> 00:59:21,958
+{\an8}- Workers' unity!
+<font color="#FFFFFF"- Long live!
+
+1014
+00:59:19,583 --> 00:59:21,958
+{\an2}- Workers' unity!
+
+1015
+00:59:22,125 --> 00:59:24,375
+{\an8}- Workers' unity!
+<font color="#FFFFFF"- Long live!
+
+1016
+00:59:22,125 --> 00:59:24,375
+{\an2}- Workers' unity!
+
+1017
+00:59:43,708 --> 00:59:46,417
+{\an8}All these years
+<font color="#FFFFFF"I walked past this place,
+
+1018
+00:59:43,708 --> 00:59:46,417
+{\an2}All these years
+
+1019
+00:59:47,083 --> 00:59:48,708
+{\an8}but I've never eaten here.
+
+1020
+00:59:47,083 --> 00:59:48,708
+{\an2}but I've never eaten here.
+
+1021
+00:59:49,917 --> 00:59:51,542
+{\an8}Today I've done it.
+
+1022
+00:59:49,917 --> 00:59:51,542
+{\an2}Today I've done it.
+
+1023
+00:59:58,583 --> 01:00:00,542
+{\an8}I'm going to miss this place.
+
+1024
+00:59:58,583 --> 01:00:00,542
+{\an2}I'm going to miss this place.
+
+1025
+01:00:04,458 --> 01:00:07,125
+{\an8}But it's like this place isn't real.
+
+1026
+01:00:04,458 --> 01:00:07,125
+{\an2}But it's like this place isn't real.
+
+1027
+01:00:07,292 --> 01:00:08,458
+{\an8}What do you mean?
+
+1028
+01:00:07,292 --> 01:00:08,458
+{\an2}What do you mean?
+
+1029
+01:00:10,708 --> 01:00:13,542
+{\an8}You only seem to be real
+<font color="#FFFFFF"if you have papers.
+
+1030
+01:00:10,708 --> 01:00:13,542
+{\an2}You only seem to be real
+
+1031
+01:00:14,833 --> 01:00:18,500
+{\an8}You could just vanish into thin air,
+
+1032
+01:00:14,833 --> 01:00:18,500
+{\an2}You could just vanish into thin air,
+
+1033
+01:00:18,667 --> 01:00:20,583
+{\an8}and no one would even know.
+
+1034
+01:00:18,667 --> 01:00:20,583
+{\an2}and no one would even know.
+
+1035
+01:00:22,792 --> 01:00:24,833
+{\an8}We would know, Parvaty.
+
+1036
+01:00:22,792 --> 01:00:24,833
+{\an2}We would know, Parvaty.
+
+1037
+01:00:27,792 --> 01:00:31,083
+{\an8}All of us at the hospital,
+<font color="#FFFFFF"we'll miss you.
+
+1038
+01:00:27,792 --> 01:00:31,083
+{\an2}All of us at the hospital,
+
+1039
+01:00:36,917 --> 01:00:39,208
+{\an8}You're a very good lady, Nurse.
+
+1040
+01:00:36,917 --> 01:00:39,208
+{\an2}You're a very good lady, Nurse.
+
+1041
+01:00:54,167 --> 01:00:55,667
+{\an8}I'm gonna do it!
+
+1042
+01:00:54,167 --> 01:00:55,667
+{\an2}I'm gonna do it!
+
+1043
+01:01:35,708 --> 01:01:37,167
+{\an8}Run, run!
+
+1044
+01:01:35,708 --> 01:01:37,167
+{\an2}Run, run!
+
+1045
+01:01:48,500 --> 01:01:49,833
+{\an8}Nurse Prabha!
+
+1046
+01:01:48,500 --> 01:01:49,833
+{\an2}Nurse Prabha!
+
+1047
+01:01:55,375 --> 01:01:57,500
+{\an8}When did your shift end?
+
+1048
+01:01:55,375 --> 01:01:57,500
+{\an2}When did your shift end?
+
+1049
+01:01:57,958 --> 01:01:59,375
+{\an8}I didn't see you around.
+
+1050
+01:01:57,958 --> 01:01:59,375
+{\an2}I didn't see you around.
+
+1051
+01:02:02,500 --> 01:02:03,958
+{\an8}Nurse, I'm off.
+
+1052
+01:02:02,500 --> 01:02:03,958
+{\an2}Nurse, I'm off.
+
+1053
+01:02:23,083 --> 01:02:25,875
+{\an8}Nurse, I made some sweets for you.
+
+1054
+01:02:23,083 --> 01:02:25,875
+{\an2}Nurse, I made some sweets for you.
+
+1055
+01:02:26,750 --> 01:02:27,750
+{\an8}Here.
+
+1056
+01:02:26,750 --> 01:02:27,750
+{\an2}Here.
+
+1057
+01:02:30,000 --> 01:02:31,375
+{\an8}Don't have them now!
+
+1058
+01:02:30,000 --> 01:02:31,375
+{\an2}Don't have them now!
+
+1059
+01:02:32,042 --> 01:02:34,750
+{\an8}I won't be able to face you
+<font color="#FFFFFF"if they're awful.
+
+1060
+01:02:32,042 --> 01:02:34,750
+{\an2}I won't be able to face you
+
+1061
+01:02:44,917 --> 01:02:47,375
+{\an8}My contract here is ending soon,
+
+1062
+01:02:44,917 --> 01:02:47,375
+{\an2}My contract here is ending soon,
+
+1063
+01:02:48,667 --> 01:02:50,875
+{\an8}and I'm thinking of not renewing it.
+
+1064
+01:02:48,667 --> 01:02:50,875
+{\an2}and I'm thinking of not renewing it.
+
+1065
+01:02:53,458 --> 01:02:55,833
+{\an8}You'll be leaving us then?
+
+1066
+01:02:53,458 --> 01:02:55,833
+{\an2}You'll be leaving us then?
+
+1067
+01:02:58,000 --> 01:02:59,875
+{\an8}So what's your plan now?
+
+1068
+01:02:58,000 --> 01:02:59,875
+{\an2}So what's your plan now?
+
+1069
+01:03:03,125 --> 01:03:04,833
+{\an8}Can we go somewhere to talk?
+
+1070
+01:03:03,125 --> 01:03:04,833
+{\an2}Can we go somewhere to talk?
+
+1071
+01:03:12,167 --> 01:03:13,958
+{\an8}Mumbai is nice....
+
+1072
+01:03:12,167 --> 01:03:13,958
+{\an2}Mumbai is nice....
+
+1073
+01:03:15,750 --> 01:03:17,417
+{\an8}But I never got used to it.
+
+1074
+01:03:15,750 --> 01:03:17,417
+{\an2}But I never got used to it.
+
+1075
+01:03:20,750 --> 01:03:24,000
+{\an8}And I have a problem
+<font color="#FFFFFF"with the language too.
+
+1076
+01:03:20,750 --> 01:03:24,000
+{\an2}And I have a problem
+
+1077
+01:03:26,458 --> 01:03:29,375
+{\an8}Hindi isn't hard to learn.
+
+1078
+01:03:26,458 --> 01:03:29,375
+{\an2}Hindi isn't hard to learn.
+
+1079
+01:03:31,000 --> 01:03:32,375
+{\an8}Maybe.
+
+1080
+01:03:31,000 --> 01:03:32,375
+{\an2}Maybe.
+
+1081
+01:03:33,875 --> 01:03:35,750
+{\an8}But it's not just that.
+
+1082
+01:03:33,875 --> 01:03:35,750
+{\an2}But it's not just that.
+
+1083
+01:03:37,250 --> 01:03:39,375
+{\an8}I've been here
+<font color="#FFFFFF"for so many months now,
+
+1084
+01:03:37,250 --> 01:03:39,375
+{\an2}I've been here
+
+1085
+01:03:41,708 --> 01:03:44,625
+{\an8}but yesterday
+<font color="#FFFFFF"I forgot to get off at my stop.
+
+1086
+01:03:41,708 --> 01:03:44,625
+{\an2}but yesterday
+
+1087
+01:03:46,375 --> 01:03:48,750
+{\an8}I went all the way
+<font color="#FFFFFF"to the end of the line...
+
+1088
+01:03:46,375 --> 01:03:48,750
+{\an2}I went all the way
+
+1089
+01:03:49,208 --> 01:03:50,375
+{\an8}by mistake.
+
+1090
+01:03:49,208 --> 01:03:50,375
+{\an2}by mistake.
+
+1091
+01:04:08,458 --> 01:04:09,500
+{\an8}Prabha?
+
+1092
+01:04:08,458 --> 01:04:09,500
+{\an2}Prabha?
+
+1093
+01:04:13,875 --> 01:04:15,250
+{\an8}I'm...
+
+1094
+01:04:13,875 --> 01:04:15,250
+{\an2}I'm...
+
+1095
+01:04:16,083 --> 01:04:17,875
+{\an8}Before I go I wanted to...
+
+1096
+01:04:16,083 --> 01:04:17,875
+{\an2}Before I go I wanted to...
+
+1097
+01:04:18,833 --> 01:04:20,250
+{\an8}tell you...
+
+1098
+01:04:18,833 --> 01:04:20,250
+{\an2}tell you...
+
+1099
+01:04:21,708 --> 01:04:23,500
+{\an8}I wanted to know...
+
+1100
+01:04:21,708 --> 01:04:23,500
+{\an2}I wanted to know...
+
+1101
+01:04:26,500 --> 01:04:28,375
+{\an8}if I should stay?
+
+1102
+01:04:26,500 --> 01:04:28,375
+{\an2}if I should stay?
+
+1103
+01:04:29,625 --> 01:04:30,958
+{\an8}I mean...
+
+1104
+01:04:29,625 --> 01:04:30,958
+{\an2}I mean...
+
+1105
+01:04:31,958 --> 01:04:34,958
+{\an8}If there was a reason
+<font color="#FFFFFF"for me to stay here...
+
+1106
+01:04:31,958 --> 01:04:34,958
+{\an2}If there was a reason
+
+1107
+01:04:49,375 --> 01:04:51,375
+{\an8}But Doctor, I'm married.
+
+1108
+01:04:49,375 --> 01:04:51,375
+{\an2}But Doctor, I'm married.
+
+1109
+01:04:57,375 --> 01:04:58,625
+{\an8}I know...
+
+1110
+01:04:57,375 --> 01:04:58,625
+{\an2}I know...
+
+1111
+01:05:01,125 --> 01:05:02,250
+{\an8}But still...
+
+1112
+01:05:01,125 --> 01:05:02,250
+{\an2}But still...
+
+1113
+01:05:14,875 --> 01:05:16,708
+{\an8}May I go, Doctor?
+
+1114
+01:05:14,875 --> 01:05:16,708
+{\an2}May I go, Doctor?
+
+1115
+01:05:17,458 --> 01:05:19,125
+{\an8}I'll miss my train.
+
+1116
+01:05:17,458 --> 01:05:19,125
+{\an2}I'll miss my train.
+
+1117
+01:06:26,000 --> 01:06:28,333
+{\an8}Some people call this
+the city of dreams,
+
+1118
+01:06:26,000 --> 01:06:28,333
+{\an2}Some people call this
+the city of dreams,
+
+1119
+01:06:29,083 --> 01:06:30,375
+{\an8}but I don't.
+
+1120
+01:06:29,083 --> 01:06:30,375
+{\an2}but I don't.
+
+1121
+01:06:34,833 --> 01:06:37,167
+{\an8}I think it's the city of illusions.
+
+1122
+01:06:34,833 --> 01:06:37,167
+{\an2}I think it's the city of illusions.
+
+1123
+01:06:41,417 --> 01:06:43,792
+{\an8}There's an unspoken code
+in this city:
+
+1124
+01:06:41,417 --> 01:06:43,792
+{\an2}There's an unspoken code
+in this city:
+
+1125
+01:06:45,750 --> 01:06:50,500
+{\an8}even if you live in the gutter,
+you're allowed to feel no anger.
+
+1126
+01:06:45,750 --> 01:06:50,500
+{\an2}even if you live in the gutter,
+you're allowed to feel no anger.
+
+1127
+01:06:53,375 --> 01:06:56,542
+{\an8}People call this,
+"The Spirit of Mumbai."
+
+1128
+01:06:53,375 --> 01:06:56,542
+{\an2}People call this,
+"The Spirit of Mumbai."
+
+1129
+01:07:00,917 --> 01:07:03,125
+{\an8}You have to believe the illusion,
+
+1130
+01:07:00,917 --> 01:07:03,125
+{\an2}You have to believe the illusion,
+
+1131
+01:07:04,458 --> 01:07:06,292
+{\an8}or else you'll go mad.
+
+1132
+01:07:04,458 --> 01:07:06,292
+{\an2}or else you'll go mad.
+
+1133
+01:09:46,333 --> 01:09:48,500
+{\an8}Parvaty, there's no electricity here?
+
+1134
+01:09:46,333 --> 01:09:48,500
+{\an2}Parvaty, there's no electricity here?
+
+1135
+01:10:33,333 --> 01:10:35,875
+{\an8}She made us carry her junk
+<font color="#FFFFFF"all this way.
+
+1136
+01:10:33,333 --> 01:10:35,875
+{\an2}She made us carry her junk
+
+1137
+01:10:57,083 --> 01:10:59,833
+{\an8}Is she planning on
+<font color="#FFFFFF"doing operations here?
+
+1138
+01:10:57,083 --> 01:10:59,833
+{\an2}Is she planning on
+
+1139
+01:11:35,875 --> 01:11:37,083
+{\an8}Parvaty?
+
+1140
+01:11:35,875 --> 01:11:37,083
+{\an2}Parvaty?
+
+1141
+01:11:38,250 --> 01:11:40,250
+{\an8}Is this still good?
+
+1142
+01:11:38,250 --> 01:11:40,250
+{\an2}Is this still good?
+
+1143
+01:11:53,333 --> 01:11:54,500
+{\an8}Perfectly good!
+
+1144
+01:11:53,333 --> 01:11:54,500
+{\an2}Perfectly good!
+
+1145
+01:11:59,292 --> 01:12:01,167
+{\an8}Prabha, have a sip.
+
+1146
+01:11:59,292 --> 01:12:01,167
+{\an2}Prabha, have a sip.
+
+1147
+01:12:01,333 --> 01:12:04,167
+{\an8}Close your eyes and gulp it down.
+
+1148
+01:12:01,333 --> 01:12:04,167
+{\an2}Close your eyes and gulp it down.
+
+1149
+01:12:04,333 --> 01:12:07,542
+{\an8}It will make you feel relaxed!
+
+1150
+01:12:04,333 --> 01:12:07,542
+{\an2}It will make you feel relaxed!
+
+1151
+01:12:07,708 --> 01:12:08,708
+{\an8}Trust me.
+
+1152
+01:12:07,708 --> 01:12:08,708
+{\an2}Trust me.
+
+1153
+01:12:09,083 --> 01:12:10,583
+{\an8}Just try it and see.
+
+1154
+01:12:09,083 --> 01:12:10,583
+{\an2}Just try it and see.
+
+1155
+01:12:15,875 --> 01:12:17,208
+{\an8}How is it?
+
+1156
+01:12:15,875 --> 01:12:17,208
+{\an2}How is it?
+
+1157
+01:12:21,875 --> 01:12:22,958
+{\an8}Your turn!
+
+1158
+01:12:21,875 --> 01:12:22,958
+{\an2}Your turn!
+
+1159
+01:12:23,333 --> 01:12:24,375
+{\an8}Drink!
+
+1160
+01:12:23,333 --> 01:12:24,375
+{\an2}Drink!
+
+1161
+01:12:45,375 --> 01:12:48,542
+{\an8}Where on earth have I landed myself!
+
+1162
+01:12:45,375 --> 01:12:48,542
+{\an2}Where on earth have I landed myself!
+
+1163
+01:12:48,708 --> 01:12:52,208
+{\an8}Stuck in this weird place,
+how did I get here?
+
+1164
+01:12:48,708 --> 01:12:52,208
+{\an2}Stuck in this weird place,
+how did I get here?
+
+1165
+01:12:52,375 --> 01:12:55,458
+{\an8}Should I cry or should I laugh?
+
+1166
+01:12:52,375 --> 01:12:55,458
+{\an2}Should I cry or should I laugh?
+
+1167
+01:12:55,625 --> 01:12:59,083
+{\an8}Will someone save me?
+
+1168
+01:12:55,625 --> 01:12:59,083
+{\an2}Will someone save me?
+
+1169
+01:13:44,292 --> 01:13:45,583
+{\an8}How much for the mackerel?
+
+1170
+01:13:44,292 --> 01:13:45,583
+{\an2}How much for the mackerel?
+
+1171
+01:13:45,750 --> 01:13:47,708
+{\an8}50 rupees.
+
+1172
+01:13:45,750 --> 01:13:47,708
+{\an2}50 rupees.
+
+1173
+01:13:47,875 --> 01:13:48,625
+{\an8}Is it dried?
+
+1174
+01:13:47,875 --> 01:13:48,625
+{\an2}Is it dried?
+
+1175
+01:13:48,792 --> 01:13:50,833
+{\an8}No, these are fresh!
+
+1176
+01:13:48,792 --> 01:13:50,833
+{\an2}No, these are fresh!
+
+1177
+01:13:51,000 --> 01:13:54,458
+{\an8}Of course they're fresh!
+
+1178
+01:13:51,000 --> 01:13:54,458
+{\an2}Of course they're fresh!
+
+1179
+01:13:55,750 --> 01:13:56,917
+{\an8}Give me a good price.
+
+1180
+01:13:55,750 --> 01:13:56,917
+{\an2}Give me a good price.
+
+1181
+01:13:57,875 --> 01:13:59,583
+{\an8}- How much?
+<font color="#FFFFFF"- 100 rupees.
+
+1182
+01:13:57,875 --> 01:13:59,583
+{\an2}- How much?
+
+1183
+01:13:59,750 --> 01:14:00,792
+{\an8}What?
+
+1184
+01:13:59,750 --> 01:14:00,792
+{\an2}What?
+
+1185
+01:14:00,958 --> 01:14:02,458
+{\an8}Who are you trying to fool?
+
+1186
+01:14:00,958 --> 01:14:02,458
+{\an2}Who are you trying to fool?
+
+1187
+01:14:02,625 --> 01:14:05,125
+{\an8}Just look at the size of these fish!
+
+1188
+01:14:02,625 --> 01:14:05,125
+{\an2}Just look at the size of these fish!
+
+1189
+01:14:21,375 --> 01:14:22,875
+{\an8}Prabha?
+
+1190
+01:14:21,375 --> 01:14:22,875
+{\an2}Prabha?
+
+1191
+01:14:24,083 --> 01:14:26,625
+{\an8}Could you ever move back
+<font color="#FFFFFF"to your village?
+
+1192
+01:14:24,083 --> 01:14:26,625
+{\an2}Could you ever move back
+
+1193
+01:14:28,000 --> 01:14:30,000
+{\an8}I don't think I could.
+
+1194
+01:14:28,000 --> 01:14:30,000
+{\an2}I don't think I could.
+
+1195
+01:14:33,208 --> 01:14:35,208
+{\an8}I didn't think
+<font color="#FFFFFF"you'd come today, Anu.
+
+1196
+01:14:33,208 --> 01:14:35,208
+{\an2}I didn't think
+
+1197
+01:14:36,000 --> 01:14:37,583
+{\an8}It was a big help to Parvaty.
+
+1198
+01:14:36,000 --> 01:14:37,583
+{\an2}It was a big help to Parvaty.
+
+1199
+01:14:37,875 --> 01:14:39,458
+{\an8}I didn't mind.
+
+1200
+01:14:37,875 --> 01:14:39,458
+{\an2}I didn't mind.
+
+1201
+01:14:39,625 --> 01:14:41,208
+{\an8}I like her.
+
+1202
+01:14:39,625 --> 01:14:41,208
+{\an2}I like her.
+
+1203
+01:15:26,833 --> 01:15:27,958
+{\an8}Prabha?
+
+1204
+01:15:26,833 --> 01:15:27,958
+{\an2}Prabha?
+
+1205
+01:15:28,750 --> 01:15:30,625
+{\an8}I have something to tell you.
+
+1206
+01:15:28,750 --> 01:15:30,625
+{\an2}I have something to tell you.
+
+1207
+01:15:32,083 --> 01:15:36,250
+{\an8}My parents are sending me photos of guys
+<font color="#FFFFFF"for marriage proposals.
+
+1208
+01:15:32,083 --> 01:15:36,250
+{\an2}My parents are sending me photos of guys
+
+1209
+01:15:37,958 --> 01:15:40,042
+{\an8}But I don't want to get married now.
+
+1210
+01:15:37,958 --> 01:15:40,042
+{\an2}But I don't want to get married now.
+
+1211
+01:15:43,750 --> 01:15:46,583
+{\an8}Have you tried talking to them?
+
+1212
+01:15:43,750 --> 01:15:46,583
+{\an2}Have you tried talking to them?
+
+1213
+01:15:47,500 --> 01:15:49,708
+{\an8}As if they would listen!
+
+1214
+01:15:47,500 --> 01:15:49,708
+{\an2}As if they would listen!
+
+1215
+01:15:57,625 --> 01:15:59,625
+{\an8}So what will you do?
+
+1216
+01:15:57,625 --> 01:15:59,625
+{\an2}So what will you do?
+
+1217
+01:16:00,250 --> 01:16:01,792
+{\an8}I don't know.
+
+1218
+01:16:00,250 --> 01:16:01,792
+{\an2}I don't know.
+
+1219
+01:16:03,000 --> 01:16:04,875
+{\an8}Maybe run away.
+
+1220
+01:16:03,000 --> 01:16:04,875
+{\an2}Maybe run away.
+
+1221
+01:16:11,375 --> 01:16:13,625
+{\an8}It's no use, Anu.
+
+1222
+01:16:11,375 --> 01:16:13,625
+{\an2}It's no use, Anu.
+
+1223
+01:16:14,375 --> 01:16:16,500
+{\an8}You can't escape your fate.
+
+1224
+01:16:14,375 --> 01:16:16,500
+{\an2}You can't escape your fate.
+
+1225
+01:16:43,208 --> 01:16:44,583
+{\an8}I'm very tired.
+
+1226
+01:16:43,208 --> 01:16:44,583
+{\an2}I'm very tired.
+
+1227
+01:16:44,750 --> 01:16:46,500
+{\an8}I want to rest.
+
+1228
+01:16:44,750 --> 01:16:46,500
+{\an2}I want to rest.
+
+1229
+01:16:46,875 --> 01:16:47,792
+{\an8}Are you sure?
+
+1230
+01:16:46,875 --> 01:16:47,792
+{\an2}Are you sure?
+
+1231
+01:16:48,500 --> 01:16:50,208
+{\an8}Aren't you coming with us?
+
+1232
+01:16:48,500 --> 01:16:50,208
+{\an2}Aren't you coming with us?
+
+1233
+01:16:50,375 --> 01:16:52,583
+{\an8}No, Prabha. I want to rest.
+
+1234
+01:16:50,375 --> 01:16:52,583
+{\an2}No, Prabha. I want to rest.
+
+1235
+01:16:55,875 --> 01:16:58,750
+{\an8}Let her be.
+<font color="#FFFFFF"She did carry those heavy bags.
+
+1236
+01:16:55,875 --> 01:16:58,750
+{\an2}Let her be.
+
+1237
+01:16:59,500 --> 01:17:01,958
+{\an8}Not everyone can hold their liquor.
+
+1238
+01:16:59,500 --> 01:17:01,958
+{\an2}Not everyone can hold their liquor.
+
+1239
+01:17:38,625 --> 01:17:39,458
+{\an8}Prabha!
+
+1240
+01:17:38,625 --> 01:17:39,458
+{\an2}Prabha!
+
+1241
+01:17:40,375 --> 01:17:41,625
+{\an8}Come in!
+
+1242
+01:17:40,375 --> 01:17:41,625
+{\an2}Come in!
+
+1243
+01:19:03,667 --> 01:19:05,083
+{\an8}I should get back now.
+
+1244
+01:19:03,667 --> 01:19:05,083
+{\an2}I should get back now.
+
+1245
+01:19:07,000 --> 01:19:08,625
+{\an8}Will you be long?
+
+1246
+01:19:07,000 --> 01:19:08,625
+{\an2}Will you be long?
+
+1247
+01:19:10,458 --> 01:19:11,708
+{\an8}Not long.
+
+1248
+01:19:10,458 --> 01:19:11,708
+{\an2}Not long.
+
+1249
+01:19:30,833 --> 01:19:32,708
+{\an8}Save some for later.
+
+1250
+01:19:30,833 --> 01:19:32,708
+{\an2}Save some for later.
+
+1251
+01:20:38,250 --> 01:20:39,375
+{\an8}Parvaty?
+
+1252
+01:20:38,250 --> 01:20:39,375
+{\an2}Parvaty?
+
+1253
+01:20:41,000 --> 01:20:43,000
+{\an8}How long will you be gone?
+
+1254
+01:20:41,000 --> 01:20:43,000
+{\an2}How long will you be gone?
+
+1255
+01:20:44,500 --> 01:20:46,583
+{\an8}I only need to tell them
+
+1256
+01:20:44,500 --> 01:20:46,583
+{\an2}I only need to tell them
+
+1257
+01:20:46,750 --> 01:20:48,375
+{\an8}I'm here for the job.
+
+1258
+01:20:46,750 --> 01:20:48,375
+{\an2}I'm here for the job.
+
+1259
+01:20:49,125 --> 01:20:50,750
+{\an8}I'll be back by 5 o'clock.
+
+1260
+01:20:49,125 --> 01:20:50,750
+{\an2}I'll be back by 5 o'clock.
+
+1261
+01:20:52,250 --> 01:20:54,458
+{\an8}Then I think we should leave now.
+
+1262
+01:20:52,250 --> 01:20:54,458
+{\an2}Then I think we should leave now.
+
+1263
+01:20:56,208 --> 01:20:57,875
+{\an8}What nonsense!
+
+1264
+01:20:56,208 --> 01:20:57,875
+{\an2}What nonsense!
+
+1265
+01:20:58,500 --> 01:21:01,250
+{\an8}- You have a ticket for tomorrow.
+<font color="#FFFFFF"- Yes, but...
+
+1266
+01:20:58,500 --> 01:21:01,250
+{\an2}- You have a ticket for tomorrow.
+
+1267
+01:21:01,917 --> 01:21:05,625
+{\an8}You came all this way,
+<font color="#FFFFFF"of course you should stay!
+
+1268
+01:21:01,917 --> 01:21:05,625
+{\an2}You came all this way,
+
+1269
+01:23:33,792 --> 01:23:35,875
+{\an8}How did you find this place?
+
+1270
+01:23:33,792 --> 01:23:35,875
+{\an2}How did you find this place?
+
+1271
+01:24:26,208 --> 01:24:29,000
+{\an8}It's like she's been
+<font color="#FFFFFF"stuck here forever.
+
+1272
+01:24:26,208 --> 01:24:29,000
+{\an2}It's like she's been
+
+1273
+01:24:34,125 --> 01:24:38,792
+{\an8}As if she's waiting
+<font color="#FFFFFF"for something to happen.
+
+1274
+01:24:34,125 --> 01:24:38,792
+{\an2}As if she's waiting
+
+1275
+01:24:40,125 --> 01:24:42,000
+{\an8}She looks like you!
+
+1276
+01:24:40,125 --> 01:24:42,000
+{\an2}She looks like you!
+
+1277
+01:24:54,542 --> 01:24:56,250
+{\an8}I like this place.
+
+1278
+01:24:54,542 --> 01:24:56,250
+{\an2}I like this place.
+
+1279
+01:25:01,500 --> 01:25:03,375
+{\an8}Seems like another world.
+
+1280
+01:25:01,500 --> 01:25:03,375
+{\an2}Seems like another world.
+
+1281
+01:25:43,333 --> 01:25:44,458
+{\an8}Shiaz?
+
+1282
+01:25:43,333 --> 01:25:44,458
+{\an2}Shiaz?
+
+1283
+01:25:46,500 --> 01:25:48,708
+{\an8}Do you ever think about the future?
+
+1284
+01:25:46,500 --> 01:25:48,708
+{\an2}Do you ever think about the future?
+
+1285
+01:25:50,167 --> 01:25:51,417
+{\an8}What do you mean?
+
+1286
+01:25:50,167 --> 01:25:51,417
+{\an2}What do you mean?
+
+1287
+01:25:52,458 --> 01:25:53,667
+{\an8}I mean...
+
+1288
+01:25:52,458 --> 01:25:53,667
+{\an2}I mean...
+
+1289
+01:25:54,208 --> 01:25:56,500
+{\an8}In 10 or 15 years...
+
+1290
+01:25:54,208 --> 01:25:56,500
+{\an2}In 10 or 15 years...
+
+1291
+01:25:56,667 --> 01:26:00,083
+{\an8}what will your life be like?
+
+1292
+01:25:56,667 --> 01:26:00,083
+{\an2}what will your life be like?
+
+1293
+01:26:02,875 --> 01:26:04,750
+{\an8}Am I there with you?
+
+1294
+01:26:02,875 --> 01:26:04,750
+{\an2}Am I there with you?
+
+1295
+01:26:06,125 --> 01:26:07,750
+{\an8}What's come over you?
+
+1296
+01:26:06,125 --> 01:26:07,750
+{\an2}What's come over you?
+
+1297
+01:26:11,750 --> 01:26:13,125
+{\an8}I don't know.
+
+1298
+01:26:11,750 --> 01:26:13,125
+{\an2}I don't know.
+
+1299
+01:26:14,208 --> 01:26:16,500
+{\an8}I never used to think about
+<font color="#FFFFFF"stuff like this.
+
+1300
+01:26:14,208 --> 01:26:16,500
+{\an2}I never used to think about
+
+1301
+01:26:17,250 --> 01:26:18,792
+{\an8}But I feel like
+
+1302
+01:26:17,250 --> 01:26:18,792
+{\an2}But I feel like
+
+1303
+01:26:18,958 --> 01:26:21,750
+{\an8}the future is here
+<font color="#FFFFFF"and I'm not prepared for it.
+
+1304
+01:26:18,958 --> 01:26:21,750
+{\an2}the future is here
+
+1305
+01:26:30,042 --> 01:26:33,375
+{\an8}Why don't my parents understand
+<font color="#FFFFFF"what I want?
+
+1306
+01:26:30,042 --> 01:26:33,375
+{\an2}Why don't my parents understand
+
+1307
+01:26:36,125 --> 01:26:38,083
+{\an8}Maybe we can talk to them?
+
+1308
+01:26:36,125 --> 01:26:38,083
+{\an2}Maybe we can talk to them?
+
+1309
+01:26:38,750 --> 01:26:42,250
+{\an8}We can try to convince them,
+<font color="#FFFFFF"maybe they'll agree.
+
+1310
+01:26:38,750 --> 01:26:42,250
+{\an2}We can try to convince them,
+
+1311
+01:26:46,208 --> 01:26:49,708
+{\an8}If I tell them,
+<font color="#FFFFFF"they'll never let me see you again.
+
+1312
+01:26:46,208 --> 01:26:49,708
+{\an2}If I tell them,
+
+1313
+01:26:57,333 --> 01:26:58,500
+{\an8}Shiaz,
+
+1314
+01:26:57,333 --> 01:26:58,500
+{\an2}Shiaz,
+
+1315
+01:26:59,375 --> 01:27:01,833
+{\an8}I feel so scared.
+
+1316
+01:26:59,375 --> 01:27:01,833
+{\an2}I feel so scared.
+
+1317
+01:27:17,875 --> 01:27:21,000
+{\an8}I've been scared
+<font color="#FFFFFF"ever since I met you.
+
+1318
+01:27:17,875 --> 01:27:21,000
+{\an2}I've been scared
+
+1319
+01:27:25,958 --> 01:27:29,875
+{\an8}I'd ask myself if it was right,
+<font color="#FFFFFF"my being with you.
+
+1320
+01:27:25,958 --> 01:27:29,875
+{\an2}I'd ask myself if it was right,
+
+1321
+01:27:31,750 --> 01:27:35,125
+{\an8}Or if it would've been best
+<font color="#FFFFFF"for us to stay apart.
+
+1322
+01:27:31,750 --> 01:27:35,125
+{\an2}Or if it would've been best
+
+1323
+01:27:46,458 --> 01:27:48,458
+{\an8}But when I'm with you,
+
+1324
+01:27:46,458 --> 01:27:48,458
+{\an2}But when I'm with you,
+
+1325
+01:27:48,875 --> 01:27:50,750
+{\an8}I don't know what it is...
+
+1326
+01:27:48,875 --> 01:27:50,750
+{\an2}I don't know what it is...
+
+1327
+01:27:51,583 --> 01:27:53,500
+{\an8}I don't feel afraid at all.
+
+1328
+01:27:51,583 --> 01:27:53,500
+{\an2}I don't feel afraid at all.
+
+1329
+01:27:57,458 --> 01:28:00,375
+{\an8}As if this is
+<font color="#FFFFFF"the most natural way for us to be.
+
+1330
+01:27:57,458 --> 01:28:00,375
+{\an2}As if this is
+
+1331
+01:28:13,250 --> 01:28:17,208
+{\an8}It all gets too heavy
+<font color="#FFFFFF"for me sometimes.
+
+1332
+01:28:13,250 --> 01:28:17,208
+{\an2}It all gets too heavy
+
+1333
+01:28:54,625 --> 01:28:55,875
+{\an8}Shiaz?
+
+1334
+01:28:54,625 --> 01:28:55,875
+{\an2}Shiaz?
+
+1335
+01:28:57,000 --> 01:28:59,125
+{\an8}There's graffiti here in Malayalam.
+
+1336
+01:28:57,000 --> 01:28:59,125
+{\an2}There's graffiti here in Malayalam.
+
+1337
+01:29:00,458 --> 01:29:04,167
+{\an8}OUR LOVE
+<font color="#FFFFFF"IS LIKE THE ENDLESS SEA
+
+1338
+01:29:00,458 --> 01:29:04,167
+{\an2}OUR LOVE
+
+1339
+01:29:05,125 --> 01:29:06,500
+{\an8}You wrote it, didn't you?
+
+1340
+01:29:05,125 --> 01:29:06,500
+{\an2}You wrote it, didn't you?
+
+1341
+01:32:23,583 --> 01:32:25,958
+{\an8}Somebody help!
+
+1342
+01:32:23,583 --> 01:32:25,958
+{\an2}Somebody help!
+
+1343
+01:32:29,083 --> 01:32:30,417
+{\an8}He's not breathing.
+
+1344
+01:32:29,083 --> 01:32:30,417
+{\an2}He's not breathing.
+
+1345
+01:32:31,417 --> 01:32:34,458
+{\an8}Looks like it's too late.
+
+1346
+01:32:31,417 --> 01:32:34,458
+{\an2}Looks like it's too late.
+
+1347
+01:32:34,625 --> 01:32:36,125
+{\an8}Pump his stomach!
+
+1348
+01:32:34,625 --> 01:32:36,125
+{\an2}Pump his stomach!
+
+1349
+01:32:37,292 --> 01:32:38,667
+{\an8}Flip him over.
+
+1350
+01:32:37,292 --> 01:32:38,667
+{\an2}Flip him over.
+
+1351
+01:32:40,292 --> 01:32:42,542
+{\an8}Make him sit up.
+
+1352
+01:32:40,292 --> 01:32:42,542
+{\an2}Make him sit up.
+
+1353
+01:32:45,667 --> 01:32:47,583
+{\an8}Step back please!
+
+1354
+01:32:45,667 --> 01:32:47,583
+{\an2}Step back please!
+
+1355
+01:32:48,792 --> 01:32:51,292
+{\an8}Move aside! Move aside!
+
+1356
+01:32:48,792 --> 01:32:51,292
+{\an2}Move aside! Move aside!
+
+1357
+01:32:55,542 --> 01:32:57,500
+{\an8}Step back please!
+
+1358
+01:32:55,542 --> 01:32:57,500
+{\an2}Step back please!
+
+1359
+01:33:16,542 --> 01:33:18,000
+{\an8}He's dead, no?
+
+1360
+01:33:16,542 --> 01:33:18,000
+{\an2}He's dead, no?
+
+1361
+01:33:19,750 --> 01:33:21,542
+{\an8}He's not one of ours.
+
+1362
+01:33:19,750 --> 01:33:21,542
+{\an2}He's not one of ours.
+
+1363
+01:33:23,583 --> 01:33:24,792
+{\an8}He's a goner.
+
+1364
+01:33:23,583 --> 01:33:24,792
+{\an2}He's a goner.
+
+1365
+01:34:02,167 --> 01:34:03,917
+{\an8}He needs to go to the hospital.
+
+1366
+01:34:02,167 --> 01:34:03,917
+{\an2}He needs to go to the hospital.
+
+1367
+01:34:05,125 --> 01:34:07,042
+{\an8}There's no hospital here.
+
+1368
+01:34:05,125 --> 01:34:07,042
+{\an2}There's no hospital here.
+
+1369
+01:34:07,667 --> 01:34:09,208
+{\an8}But there's a village doctor.
+
+1370
+01:34:07,667 --> 01:34:09,208
+{\an2}But there's a village doctor.
+
+1371
+01:34:09,375 --> 01:34:10,542
+{\an8}OK, quickly.
+
+1372
+01:34:09,375 --> 01:34:10,542
+{\an2}OK, quickly.
+
+1373
+01:34:28,875 --> 01:34:30,250
+{\an8}She saved his life.
+
+1374
+01:34:28,875 --> 01:34:30,250
+{\an2}She saved his life.
+
+1375
+01:34:34,083 --> 01:34:35,833
+{\an8}He was totally dead.
+
+1376
+01:34:34,083 --> 01:34:35,833
+{\an2}He was totally dead.
+
+1377
+01:34:52,667 --> 01:34:53,792
+{\an8}Miss?
+
+1378
+01:34:52,667 --> 01:34:53,792
+{\an2}Miss?
+
+1379
+01:34:55,625 --> 01:34:58,750
+{\an8}He should see a familiar face
+<font color="#FFFFFF"when he wakes up.
+
+1380
+01:34:55,625 --> 01:34:58,750
+{\an2}He should see a familiar face
+
+1381
+01:34:59,667 --> 01:35:01,917
+{\an8}Come inside.
+
+1382
+01:34:59,667 --> 01:35:01,917
+{\an2}Come inside.
+
+1383
+01:35:07,958 --> 01:35:09,750
+{\an8}Some tea?
+
+1384
+01:35:07,958 --> 01:35:09,750
+{\an2}Some tea?
+
+1385
+01:35:12,000 --> 01:35:13,417
+{\an8}Don't be shy.
+
+1386
+01:35:12,000 --> 01:35:13,417
+{\an2}Don't be shy.
+
+1387
+01:35:17,458 --> 01:35:19,208
+{\an8}Doctor will be here soon.
+
+1388
+01:35:17,458 --> 01:35:19,208
+{\an2}Doctor will be here soon.
+
+1389
+01:35:20,292 --> 01:35:21,500
+{\an8}Go inside.
+
+1390
+01:35:20,292 --> 01:35:21,500
+{\an2}Go inside.
+
+1391
+01:36:44,208 --> 01:36:45,292
+{\an8}Sorry.
+
+1392
+01:36:44,208 --> 01:36:45,292
+{\an2}Sorry.
+
+1393
+01:36:45,458 --> 01:36:48,083
+{\an8}I was only cleaning your wound.
+
+1394
+01:36:45,458 --> 01:36:48,083
+{\an2}I was only cleaning your wound.
+
+1395
+01:36:52,375 --> 01:36:53,875
+{\an8}It hurts.
+
+1396
+01:36:52,375 --> 01:36:53,875
+{\an2}It hurts.
+
+1397
+01:37:03,542 --> 01:37:07,167
+{\an8}It hurts now, but you'll be alright.
+
+1398
+01:37:03,542 --> 01:37:07,167
+{\an2}It hurts now, but you'll be alright.
+
+1399
+01:37:27,000 --> 01:37:28,875
+{\an8}What happened to me?
+
+1400
+01:37:27,000 --> 01:37:28,875
+{\an2}What happened to me?
+
+1401
+01:37:29,750 --> 01:37:31,500
+{\an8}Don't worry.
+
+1402
+01:37:29,750 --> 01:37:31,500
+{\an2}Don't worry.
+
+1403
+01:37:31,667 --> 01:37:33,333
+{\an8}Just rest.
+
+1404
+01:37:31,667 --> 01:37:33,333
+{\an2}Just rest.
+
+1405
+01:37:37,250 --> 01:37:39,875
+{\an8}I feel like I've been resting
+<font color="#FFFFFF"for a long time.
+
+1406
+01:37:37,250 --> 01:37:39,875
+{\an2}I feel like I've been resting
+
+1407
+01:37:43,708 --> 01:37:45,375
+{\an8}How long has it been?
+
+1408
+01:37:43,708 --> 01:37:45,375
+{\an2}How long has it been?
+
+1409
+01:37:47,250 --> 01:37:49,875
+{\an8}A few hours, maybe.
+
+1410
+01:37:47,250 --> 01:37:49,875
+{\an2}A few hours, maybe.
+
+1411
+01:38:00,125 --> 01:38:02,292
+{\an8}I don't remember anything.
+
+1412
+01:38:00,125 --> 01:38:02,292
+{\an2}I don't remember anything.
+
+1413
+01:38:09,083 --> 01:38:10,083
+{\an8}It's windy.
+
+1414
+01:38:09,083 --> 01:38:10,083
+{\an2}It's windy.
+
+1415
+01:38:12,917 --> 01:38:16,500
+{\an8}He'll catch a cold.
+<font color="#FFFFFF"Cover him nicely, dear.
+
+1416
+01:38:12,917 --> 01:38:16,500
+{\an2}He'll catch a cold.
+
+1417
+01:38:37,958 --> 01:38:39,208
+{\an8}What does he do?
+
+1418
+01:38:37,958 --> 01:38:39,208
+{\an2}What does he do?
+
+1419
+01:38:44,333 --> 01:38:47,000
+{\an8}There's some kind of
+<font color="#FFFFFF"misunderstanding.
+
+1420
+01:38:44,333 --> 01:38:47,000
+{\an2}There's some kind of
+
+1421
+01:38:47,583 --> 01:38:49,625
+{\an8}Where does your husband work?
+
+1422
+01:38:47,583 --> 01:38:49,625
+{\an2}Where does your husband work?
+
+1423
+01:39:01,750 --> 01:39:03,708
+{\an8}He works in Germany.
+
+1424
+01:39:01,750 --> 01:39:03,708
+{\an2}He works in Germany.
+
+1425
+01:39:06,875 --> 01:39:09,583
+{\an8}Then you must not
+<font color="#FFFFFF"see each other often.
+
+1426
+01:39:06,875 --> 01:39:09,583
+{\an2}Then you must not
+
+1427
+01:39:10,375 --> 01:39:13,375
+{\an8}Pity your holiday got ruined.
+
+1428
+01:39:10,375 --> 01:39:13,375
+{\an2}Pity your holiday got ruined.
+
+1429
+01:39:16,667 --> 01:39:19,625
+{\an8}Lucky that you were
+<font color="#FFFFFF"there for him today.
+
+1430
+01:39:16,667 --> 01:39:19,625
+{\an2}Lucky that you were
+
+1431
+01:39:33,000 --> 01:39:34,708
+{\an8}What did she say?
+
+1432
+01:39:33,000 --> 01:39:34,708
+{\an2}What did she say?
+
+1433
+01:39:39,458 --> 01:39:40,500
+{\an8}Nothing.
+
+1434
+01:39:39,458 --> 01:39:40,500
+{\an2}Nothing.
+
+1435
+01:39:42,000 --> 01:39:44,625
+{\an8}She thought you were my husband.
+
+1436
+01:39:42,000 --> 01:39:44,625
+{\an2}She thought you were my husband.
+
+1437
+01:39:56,125 --> 01:39:57,375
+{\an8}Am I?
+
+1438
+01:39:56,125 --> 01:39:57,375
+{\an2}Am I?
+
+1439
+01:40:04,375 --> 01:40:05,250
+{\an8}No.
+
+1440
+01:40:04,375 --> 01:40:05,250
+{\an2}No.
+
+1441
+01:40:21,542 --> 01:40:23,250
+{\an8}Why is there sand on me?
+
+1442
+01:40:21,542 --> 01:40:23,250
+{\an2}Why is there sand on me?
+
+1443
+01:40:23,875 --> 01:40:25,625
+{\an8}They found you in the sea.
+
+1444
+01:40:23,875 --> 01:40:25,625
+{\an2}They found you in the sea.
+
+1445
+01:40:27,125 --> 01:40:28,458
+{\an8}In the sea?
+
+1446
+01:40:27,125 --> 01:40:28,458
+{\an2}In the sea?
+
+1447
+01:40:30,458 --> 01:40:32,500
+{\an8}What was I doing there?
+
+1448
+01:40:30,458 --> 01:40:32,500
+{\an2}What was I doing there?
+
+1449
+01:40:45,333 --> 01:40:47,333
+{\an8}You don't remember?
+
+1450
+01:40:45,333 --> 01:40:47,333
+{\an2}You don't remember?
+
+1451
+01:41:40,458 --> 01:41:45,958
+{\an8}You've changed so much
+<font color="#FFFFFF"in all these years.
+
+1452
+01:41:40,458 --> 01:41:45,958
+{\an2}You've changed so much
+
+1453
+01:41:51,542 --> 01:41:53,417
+{\an8}Have I?
+
+1454
+01:41:51,542 --> 01:41:53,417
+{\an2}Have I?
+
+1455
+01:42:09,417 --> 01:42:12,875
+{\an8}Some days I was stuck
+<font color="#FFFFFF"in the factory for so long,
+
+1456
+01:42:09,417 --> 01:42:12,875
+{\an2}Some days I was stuck
+
+1457
+01:42:13,958 --> 01:42:17,250
+{\an8}I didn't know if it
+<font color="#FFFFFF"was day or night.
+
+1458
+01:42:13,958 --> 01:42:17,250
+{\an2}I didn't know if it
+
+1459
+01:42:19,542 --> 01:42:22,542
+{\an8}I would come out
+<font color="#FFFFFF"after 3 or 4 days
+
+1460
+01:42:19,542 --> 01:42:22,542
+{\an2}I would come out
+
+1461
+01:42:23,500 --> 01:42:25,458
+{\an8}as if in a daze.
+
+1462
+01:42:23,500 --> 01:42:25,458
+{\an2}as if in a daze.
+
+1463
+01:42:27,958 --> 01:42:31,083
+{\an8}I was blinded by the light.
+
+1464
+01:42:27,958 --> 01:42:31,083
+{\an2}I was blinded by the light.
+
+1465
+01:42:38,542 --> 01:42:42,417
+{\an8}In the darkness,
+<font color="#FFFFFF"you try to imagine light.
+
+1466
+01:42:38,542 --> 01:42:42,417
+{\an2}In the darkness,
+
+1467
+01:42:44,375 --> 01:42:46,000
+{\an8}But you cannot.
+
+1468
+01:42:44,375 --> 01:42:46,000
+{\an2}But you cannot.
+
+1469
+01:42:49,750 --> 01:42:51,750
+{\an8}I thought about you.
+
+1470
+01:42:49,750 --> 01:42:51,750
+{\an2}I thought about you.
+
+1471
+01:42:56,292 --> 01:42:57,792
+{\an8}What did you think about?
+
+1472
+01:42:56,292 --> 01:42:57,792
+{\an2}What did you think about?
+
+1473
+01:43:00,000 --> 01:43:01,625
+{\an8}Sitting next to you like this.
+
+1474
+01:43:00,000 --> 01:43:01,625
+{\an2}Sitting next to you like this.
+
+1475
+01:43:05,875 --> 01:43:08,458
+{\an8}I wanted to reach out and touch you,
+
+1476
+01:43:05,875 --> 01:43:08,458
+{\an2}I wanted to reach out and touch you,
+
+1477
+01:43:17,333 --> 01:43:19,958
+{\an8}Why haven't you told me this before?
+
+1478
+01:43:17,333 --> 01:43:19,958
+{\an2}Why haven't you told me this before?
+
+1479
+01:43:36,583 --> 01:43:37,667
+{\an8}Prabha,
+
+1480
+01:43:36,583 --> 01:43:37,667
+{\an2}Prabha,
+
+1481
+01:43:40,042 --> 01:43:41,750
+{\an8}come with me.
+
+1482
+01:43:40,042 --> 01:43:41,750
+{\an2}come with me.
+
+1483
+01:43:49,917 --> 01:43:51,958
+{\an8}It will be different this time.
+
+1484
+01:43:49,917 --> 01:43:51,958
+{\an2}It will be different this time.
+
+1485
+01:43:53,083 --> 01:43:54,583
+{\an8}I promise.
+
+1486
+01:43:53,083 --> 01:43:54,583
+{\an2}I promise.
+
+1487
+01:44:57,958 --> 01:44:59,208
+{\an8}Stop.
+
+1488
+01:44:57,958 --> 01:44:59,208
+{\an2}Stop.
+
+1489
+01:45:03,875 --> 01:45:06,250
+{\an8}I don't want to see you...
+
+1490
+01:45:03,875 --> 01:45:06,250
+{\an2}I don't want to see you...
+
+1491
+01:45:09,958 --> 01:45:11,500
+{\an8}ever again.
+
+1492
+01:45:09,958 --> 01:45:11,500
+{\an2}ever again.
+
+1493
+01:46:44,625 --> 01:46:46,000
+{\an8}Are you closing up?
+
+1494
+01:46:44,625 --> 01:46:46,000
+{\an2}Are you closing up?
+
+1495
+01:46:47,708 --> 01:46:50,833
+{\an8}No. You can sit as long as you like.
+
+1496
+01:46:47,708 --> 01:46:50,833
+{\an2}No. You can sit as long as you like.
+
+1497
+01:47:29,333 --> 01:47:30,625
+{\an8}Sand...
+
+1498
+01:47:29,333 --> 01:47:30,625
+{\an2}Sand...
+
+1499
+01:47:55,000 --> 01:47:56,333
+{\an8}Where is that boy?
+
+1500
+01:47:55,000 --> 01:47:56,333
+{\an2}Where is that boy?
+
+1501
+01:48:01,417 --> 01:48:02,542
+{\an8}Who?
+
+1502
+01:48:01,417 --> 01:48:02,542
+{\an2}Who?
+
+1503
+01:48:06,292 --> 01:48:08,500
+{\an8}The boy who was with you.
+
+1504
+01:48:06,292 --> 01:48:08,500
+{\an2}The boy who was with you.
+
+1505
+01:48:21,208 --> 01:48:22,333
+{\an8}Prabha,
+
+1506
+01:48:21,208 --> 01:48:22,333
+{\an2}Prabha,
+
+1507
+01:48:24,792 --> 01:48:26,042
+{\an8}I'm...
+
+1508
+01:48:24,792 --> 01:48:26,042
+{\an2}I'm...
+
+1509
+01:48:28,375 --> 01:48:29,708
+{\an8}sorry.
+
+1510
+01:48:28,375 --> 01:48:29,708
+{\an2}sorry.
+
+1511
+01:48:35,792 --> 01:48:37,042
+{\an8}It's alright.
+
+1512
+01:48:35,792 --> 01:48:37,042
+{\an2}It's alright.
+
+1513
+01:48:38,958 --> 01:48:40,417
+{\an8}Just call him.
+
+1514
+01:48:38,958 --> 01:48:40,417
+{\an2}Just call him.
+
+1515
+01:49:09,250 --> 01:49:10,750
+{\an8}Who's that?
+
+1516
+01:49:09,250 --> 01:49:10,750
+{\an2}Who's that?
+
+1517
+01:49:12,750 --> 01:49:14,250
+{\an8}Anu's boyfriend.
+
+1518
+01:49:12,750 --> 01:49:14,250
+{\an2}Anu's boyfriend.
+
+1519
+01:49:16,542 --> 01:49:18,625
+{\an8}He followed her all this way?
+
+1520
+01:49:16,542 --> 01:49:18,625
+{\an2}He followed her all this way?
+
+1521
+01:49:40,958 --> 01:49:42,958
+{\an8}This is Shiaz.
+
+1522
+01:49:40,958 --> 01:49:42,958
+{\an2}This is Shiaz.
+
+1523
+01:49:46,125 --> 01:49:47,542
+{\an8}Where are you from?
+
+1524
+01:49:46,125 --> 01:49:47,542
+{\an2}Where are you from?
+
+1525
+01:49:49,542 --> 01:49:50,625
+{\an8}Vithura.
+
+1526
+01:49:49,542 --> 01:49:50,625
+{\an2}Vithura.
+
+1527
+01:49:53,708 --> 01:49:55,000
+{\an8}Sit down.
+
+1528
+01:49:53,708 --> 01:49:55,000
+{\an2}Sit down.
+
+1529
+01:50:12,667 --> 01:50:14,458
+{\an8}I was there once.
+
+1530
+01:50:12,667 --> 01:50:14,458
+{\an2}I was there once.
+
+1531
+01:50:14,958 --> 01:50:16,833
+{\an8}It's very beautiful there.
+
+1532
+01:50:14,958 --> 01:50:16,833
+{\an2}It's very beautiful there.
+
+1533
+01:50:30,708 --> 01:50:33,208
+{\an8}It's very beautiful here too.
+
+1534
+01:50:30,708 --> 01:50:33,208
+{\an2}It's very beautiful here too.

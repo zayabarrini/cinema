@@ -1,0 +1,4463 @@
+1
+00:00:58,900 --> 00:01:02,820
+Hi! Hi! Hi!
+
+2
+00:01:56,680 --> 00:01:57,740
+Does it hurt?
+
+3
+00:01:58,960 --> 00:01:59,870
+Okay.
+
+4
+00:02:01,820 --> 00:02:02,610
+Name?
+
+5
+00:02:03,260 --> 00:02:04,880
+Kevin Abdela.
+
+6
+00:02:04,880 --> 00:02:08,300
+Kevin Abdela. Good, Mary. You'll be fine.
+
+7
+00:02:20,370 --> 00:02:21,260
+So, fine.
+
+8
+00:02:22,340 --> 00:02:24,620
+She has to keep it on for four weeks.
+
+9
+00:02:26,960 --> 00:02:31,100
+Even when the pain stops, she has to keep it on.
+
+10
+00:02:31,100 --> 00:02:34,180
+Let's wrap it up in ten minutes,
+folks, please! Ten minutes, thank you!
+
+11
+00:02:34,180 --> 00:02:34,750
+Najeeb?
+
+12
+00:02:34,750 --> 00:02:35,550
+Yeah?
+
+13
+00:02:36,370 --> 00:02:37,970
+We take two more, each.
+
+14
+00:02:37,970 --> 00:02:38,700
+Two?
+
+15
+00:02:39,280 --> 00:02:41,340
+OK, we can have four more.
+
+16
+00:02:46,260 --> 00:02:48,460
+She will have to give her something for the fever.
+
+17
+00:02:51,260 --> 00:02:52,540
+Three times a day.
+
+18
+00:02:58,900 --> 00:03:00,300
+Come back here...
+
+19
+00:03:01,120 --> 00:03:03,900
+Najeeb, stretcher please!
+
+20
+00:03:05,240 --> 00:03:06,380
+Prepare to operate!
+
+21
+00:03:07,740 --> 00:03:10,410
+Easy, easy. Come, come, come.
+
+22
+00:03:16,980 --> 00:03:18,380
+Tie me on the back.
+
+23
+00:03:20,340 --> 00:03:21,540
+I need help here.
+
+24
+00:03:27,000 --> 00:03:27,950
+She can make it.
+
+25
+00:03:29,140 --> 00:03:31,380
+Check her pulse. She can make it.
+
+26
+00:03:31,920 --> 00:03:33,250
+I need some light.
+
+27
+00:03:36,140 --> 00:03:37,100
+Patient asleep?
+
+28
+00:03:37,100 --> 00:03:38,590
+Yes, doctor.
+
+29
+00:03:38,590 --> 00:03:39,620
+Swabs.
+
+30
+00:03:44,740 --> 00:03:45,300
+Take the swab.
+
+31
+00:03:47,180 --> 00:03:48,150
+Clamp.
+
+32
+00:03:48,860 --> 00:03:49,770
+What's the pulse?
+
+33
+00:03:50,320 --> 00:03:51,950
+Pulse at 78.
+
+34
+00:03:52,700 --> 00:03:53,620
+Stable.
+
+35
+00:03:54,420 --> 00:03:56,760
+Okay. Hold tight.
+
+36
+00:03:56,760 --> 00:03:57,470
+Clamp.
+
+37
+00:03:58,510 --> 00:03:59,550
+Looks stable now.
+
+38
+00:04:10,540 --> 00:04:12,080
+I didn't think she'd make it.
+
+39
+00:04:13,090 --> 00:04:15,240
+I've seen that type of injury before.
+
+40
+00:04:15,240 --> 00:04:18,210
+It's the work of a local villain. Big Man.
+
+41
+00:04:18,930 --> 00:04:22,730
+He takes bets with his boys as to what sex the child will be.
+
+42
+00:04:23,210 --> 00:04:25,140
+Then he cuts the girls open to see.
+
+43
+00:05:32,180 --> 00:05:35,140
+"And Death gave back these treasures for a song.
+
+44
+00:05:36,980 --> 00:05:38,770
+The nightingale sang on.
+
+45
+00:05:40,160 --> 00:05:44,180
+It sang of the quiet churchyard, where white roses grow,
+
+46
+00:05:44,520 --> 00:05:47,180
+where the elderflowers make the air sweet,
+
+47
+00:05:47,180 --> 00:05:49,020
+and where the grass is always green,
+
+48
+00:05:50,100 --> 00:05:52,820
+wet with the tears of those who are still alive.
+
+49
+00:05:53,820 --> 00:05:55,780
+Death longed for his garden.
+
+50
+00:05:56,640 --> 00:06:01,700
+Out through the windows drifted
+a cold gray mist as Death departed.
+
+51
+00:06:02,440 --> 00:06:05,660
+'Thank you, thank you,' the emperor said.
+
+52
+00:06:06,460 --> 00:06:10,100
+'Little bird from Heaven, I know you of old.
+
+53
+00:06:11,700 --> 00:06:13,700
+I banished you once from my land,
+
+54
+00:06:14,450 --> 00:06:18,500
+and yet you have sung away the evil faces from my bed,
+
+55
+00:06:19,580 --> 00:06:21,540
+and Death from my heart.
+
+56
+00:06:22,670 --> 00:06:24,260
+How can I repay you?'
+
+57
+00:06:25,380 --> 00:06:29,060
+'You have already rewarded me,' said the nightingale.
+
+58
+00:06:29,940 --> 00:06:33,460
+'I brought tears to your eyes when first I sang for you.
+
+59
+00:06:34,640 --> 00:06:39,850
+To the heart of a singer, those are
+more precious than any precious stone.
+
+60
+00:06:41,300 --> 00:06:44,910
+But sleep now, and grow fresh and strong while I sing. '
+
+61
+00:06:47,820 --> 00:06:51,340
+He sang until the emperor fell into a sound, refreshing sleep,
+
+62
+00:06:52,400 --> 00:06:56,460
+a sweet and soothing slumber."
+
+63
+00:07:08,980 --> 00:07:11,760
+She used to read it to me before I'd go to sleep.
+
+64
+00:07:12,460 --> 00:07:14,380
+I think it's good that he did it.
+
+65
+00:07:14,380 --> 00:07:15,570
+So do I.
+
+66
+00:07:16,160 --> 00:07:19,500
+Hey, Hanna. This is my mother. This is Hanna.
+
+67
+00:07:19,500 --> 00:07:21,080
+You're the one they'll be staying with?
+
+68
+00:07:21,080 --> 00:07:21,900
+Yes.
+
+69
+00:07:22,560 --> 00:07:25,820
+I think Christian is looking forward
+to getting back home, right?
+
+70
+00:07:27,380 --> 00:07:29,410
+It's so hard to believe she's gone.
+
+71
+00:07:36,980 --> 00:07:37,930
+Christian?
+
+72
+00:07:41,420 --> 00:07:44,660
+I just want to tell you that you did really well.
+
+73
+00:07:45,100 --> 00:07:46,280
+I'm really proud of you.
+
+74
+00:07:47,250 --> 00:07:48,760
+Mom would have been too.
+
+75
+00:07:49,240 --> 00:07:51,050
+You don't have to say something all the time, dad.
+
+76
+00:07:53,740 --> 00:07:55,180
+We can talk, can't we?
+
+77
+00:07:57,540 --> 00:07:59,060
+You don't have to on my account.
+
+78
+00:08:09,520 --> 00:08:10,540
+Are you ready?
+
+79
+00:08:10,540 --> 00:08:11,420
+Coming.
+
+80
+00:08:26,030 --> 00:08:27,070
+Good morning, Mohammed.
+
+81
+00:08:27,070 --> 00:08:28,120
+Good morning, sir.
+
+82
+00:08:31,180 --> 00:08:32,740
+OK, let's go.
+
+83
+00:09:02,450 --> 00:09:03,470
+Hello.
+
+84
+00:09:07,380 --> 00:09:08,740
+Hello, my darling.
+
+85
+00:09:14,260 --> 00:09:15,220
+Welcome.
+
+86
+00:09:16,260 --> 00:09:17,260
+Hi, mom.
+
+87
+00:09:18,500 --> 00:09:20,970
+Here's so much space.
+
+88
+00:09:20,970 --> 00:09:23,580
+Lots of peace and quiet. I won't bother you.
+
+89
+00:09:23,580 --> 00:09:28,540
+Internet has been installed for you,
+and you can choose which room you want.
+
+90
+00:09:57,820 --> 00:09:59,460
+This is the smallest room.
+
+91
+00:10:00,190 --> 00:10:01,320
+It's fine.
+
+92
+00:10:03,580 --> 00:10:05,650
+You don't have to decide now.
+
+93
+00:10:05,650 --> 00:10:07,240
+Can I choose myself or can't I?
+
+94
+00:10:07,720 --> 00:10:11,540
+Of course, but your desk and your bed won't fit in here.
+
+95
+00:10:12,780 --> 00:10:14,900
+But you decide.
+
+96
+00:10:17,220 --> 00:10:18,970
+Your call.
+
+97
+00:10:21,580 --> 00:10:23,200
+The view is great.
+
+98
+00:11:29,700 --> 00:11:31,050
+You'll get it.
+
+99
+00:11:32,500 --> 00:11:34,980
+What's up, ratboy?
+
+100
+00:11:34,980 --> 00:11:36,370
+Got air in your tyres?
+
+101
+00:11:36,910 --> 00:11:38,180
+Lost your bottom jaw?
+
+102
+00:11:38,180 --> 00:11:38,900
+Excited?
+
+103
+00:11:39,550 --> 00:11:40,300
+Yes.
+
+104
+00:11:41,160 --> 00:11:41,980
+Want me to come with you?
+
+105
+00:11:42,510 --> 00:11:44,650
+No. Of course not.
+
+106
+00:11:46,860 --> 00:11:48,140
+Take care.
+
+107
+00:11:48,140 --> 00:11:48,960
+Yep.
+
+108
+00:11:50,750 --> 00:11:51,300
+See you.
+
+109
+00:11:52,030 --> 00:11:54,220
+Crawl between our legs, rat.
+
+110
+00:11:54,220 --> 00:11:56,740
+Go home and eat some cheese.
+
+111
+00:11:57,070 --> 00:11:58,540
+Aren't you a rat?
+
+112
+00:11:58,540 --> 00:11:59,800
+Is there a problem?
+
+113
+00:12:00,800 --> 00:12:02,680
+Walking fountain.
+
+114
+00:12:02,680 --> 00:12:03,540
+Damn swede.
+
+115
+00:12:03,540 --> 00:12:06,020
+Mutant! Damn, you're ugly!
+
+116
+00:12:08,860 --> 00:12:10,570
+Fucking rat!
+
+117
+00:12:15,540 --> 00:12:18,660
+Please sit down, and try to be quiet.
+
+118
+00:12:20,540 --> 00:12:21,820
+Sit down!
+
+119
+00:12:23,220 --> 00:12:24,730
+Whose is this?
+
+120
+00:12:26,140 --> 00:12:28,500
+This is Christian.
+
+121
+00:12:28,500 --> 00:12:29,620
+Be quiet.
+
+122
+00:12:30,380 --> 00:12:35,120
+Christian lived in lots of countries
+and has just moved here from London.
+
+123
+00:12:35,120 --> 00:12:36,260
+Does he speak danish?
+
+124
+00:12:37,860 --> 00:12:39,420
+Of course he does, Trine.
+
+125
+00:12:42,450 --> 00:12:46,020
+Well, I'll just mark your birthday on the calendar.
+
+126
+00:12:46,020 --> 00:12:47,020
+When's your birthday?
+
+127
+00:12:47,020 --> 00:12:48,860
+July 7th.
+
+128
+00:12:49,660 --> 00:12:53,220
+The same as Elias. That's quite funny.
+
+129
+00:12:54,660 --> 00:12:57,540
+That's quite funny. Be quiet.
+
+130
+00:12:58,500 --> 00:13:01,960
+You can sit next to Elias then.
+
+131
+00:13:03,260 --> 00:13:04,680
+Stop it!
+
+132
+00:13:04,680 --> 00:13:06,400
+Poor you!
+
+133
+00:13:08,820 --> 00:13:14,160
+Then we can talk about London
+during form time. That'll be fun.
+
+134
+00:13:14,160 --> 00:13:18,980
+Now please get out your history books.
+
+135
+00:13:19,460 --> 00:13:23,220
+I don't wanna fight you.
+
+136
+00:13:26,500 --> 00:13:28,340
+No!
+
+137
+00:13:37,020 --> 00:13:38,620
+Want to borrow my bicycle pump?
+
+138
+00:13:38,620 --> 00:13:40,360
+No thanks. It's all right.
+
+139
+00:13:40,360 --> 00:13:42,100
+The took the valves too.
+
+140
+00:13:42,750 --> 00:13:44,100
+They always do that.
+
+141
+00:13:45,060 --> 00:13:46,660
+I'll just walk. It's okay.
+
+142
+00:13:48,140 --> 00:13:50,020
+Why not take some from the other bikes?
+
+143
+00:13:50,980 --> 00:13:52,460
+Then he'll have to walk.
+
+144
+00:13:54,060 --> 00:13:54,940
+Then today is his turn.
+
+145
+00:14:01,420 --> 00:14:01,920
+Here.
+
+146
+00:14:01,920 --> 00:14:02,500
+Thanks.
+
+147
+00:14:04,270 --> 00:14:07,140
+Letting other peoples' tyres down?
+
+148
+00:14:08,210 --> 00:14:09,620
+And who the hell are you?
+
+149
+00:14:11,140 --> 00:14:12,240
+I'm Christian.
+
+150
+00:14:13,640 --> 00:14:14,570
+Christian?
+
+151
+00:14:15,690 --> 00:14:17,150
+What are you doing with ratboy?
+
+152
+00:14:17,980 --> 00:14:19,030
+Ratboy?
+
+153
+00:14:19,660 --> 00:14:22,500
+Yeah, he's got the teeth of a rat.
+
+154
+00:14:25,020 --> 00:14:27,300
+I don't go around looking in other peoples' mouths.
+
+155
+00:14:32,860 --> 00:14:34,900
+You're supposed to catch it.
+
+156
+00:14:36,090 --> 00:14:38,900
+And you'll just walk home, ratboy.
+
+157
+00:14:38,900 --> 00:14:40,060
+Are you okay?
+
+158
+00:14:40,460 --> 00:14:40,900
+Yeah.
+
+159
+00:14:41,320 --> 00:14:42,540
+I'm really sorry.
+
+160
+00:14:46,500 --> 00:14:47,740
+Want me to help you?
+
+161
+00:14:48,530 --> 00:14:49,820
+No, I'm OK.
+
+162
+00:14:49,820 --> 00:14:50,840
+You sure?
+
+163
+00:14:50,840 --> 00:14:51,420
+Yeah.
+
+164
+00:14:56,220 --> 00:14:57,300
+I'm really sorry.
+
+165
+00:15:09,260 --> 00:15:11,090
+That one was really stuck in there.
+
+166
+00:15:11,090 --> 00:15:13,150
+How many did you eat?
+
+167
+00:15:13,640 --> 00:15:14,300
+Hi, sweetheart.
+
+168
+00:15:22,020 --> 00:15:23,230
+How was your day?
+
+169
+00:15:23,230 --> 00:15:24,180
+It was all right.
+
+170
+00:15:25,780 --> 00:15:27,660
+Look at me? Are you sure?
+
+171
+00:15:27,660 --> 00:15:28,460
+Yes.
+
+172
+00:15:31,300 --> 00:15:31,880
+Sure?
+
+173
+00:15:31,880 --> 00:15:32,780
+Yes.
+
+174
+00:15:32,780 --> 00:15:36,720
+If you lie to me, I'll eat you up!
+
+175
+00:15:38,110 --> 00:15:39,230
+Me too!
+
+176
+00:15:41,370 --> 00:15:42,440
+Leave me alone!
+
+177
+00:15:43,260 --> 00:15:44,930
+Just leave me alone.
+
+178
+00:15:44,930 --> 00:15:46,120
+Elias...
+
+179
+00:15:47,530 --> 00:15:48,850
+I hate you.
+
+180
+00:16:29,780 --> 00:16:30,540
+Aren't you sleeping?
+
+181
+00:16:32,590 --> 00:16:34,420
+No, I had to finish my game.
+
+182
+00:16:37,300 --> 00:16:38,780
+Is that blood on your shirt?
+
+183
+00:16:38,780 --> 00:16:40,740
+We were playing soccer.
+
+184
+00:16:41,650 --> 00:16:43,020
+Did someone punch you?
+
+185
+00:16:43,020 --> 00:16:43,970
+No.
+
+186
+00:16:44,430 --> 00:16:47,060
+It was an accident.
+
+187
+00:16:51,340 --> 00:16:54,620
+Won't you come down to the kitchen
+and keep me company?
+
+188
+00:16:55,600 --> 00:16:56,820
+That'd be nice.
+
+189
+00:16:56,820 --> 00:16:58,930
+I'll be right there.
+
+190
+00:17:41,100 --> 00:17:42,090
+Hi, dad!
+
+191
+00:17:43,260 --> 00:17:44,730
+Hi, sweetheart.
+
+192
+00:17:44,730 --> 00:17:46,050
+It's so good to see you.
+
+193
+00:17:46,050 --> 00:17:48,450
+You too. I missed you.
+
+194
+00:17:50,580 --> 00:17:51,220
+How are you?
+
+195
+00:17:51,220 --> 00:17:52,350
+How was your trip?
+
+196
+00:17:53,610 --> 00:17:56,100
+Long. But all right.
+
+197
+00:18:08,520 --> 00:18:09,320
+Hi.
+
+198
+00:18:11,300 --> 00:18:11,950
+Hi.
+
+199
+00:18:12,960 --> 00:18:15,340
+Morten made you a present, in case you were hungry.
+
+200
+00:18:18,540 --> 00:18:19,380
+Did you get a haircut?
+
+201
+00:18:20,330 --> 00:18:21,220
+No.
+
+202
+00:18:34,420 --> 00:18:38,140
+It was good hearing from you, Elias.
+
+203
+00:18:38,140 --> 00:18:41,620
+But now we'd like to talk
+to your parents alone, if that's okay?
+
+204
+00:18:52,260 --> 00:18:53,740
+What do you say?
+
+205
+00:18:54,500 --> 00:18:56,050
+Let's be reasonable.
+
+206
+00:18:56,050 --> 00:18:58,330
+Elias isolates himself a lot.
+
+207
+00:18:58,330 --> 00:18:59,880
+We have to relate to that.
+
+208
+00:19:00,520 --> 00:19:02,570
+His tyres are let down every day.
+
+209
+00:19:03,080 --> 00:19:04,580
+The other kids call him ratboy.
+
+210
+00:19:04,580 --> 00:19:07,970
+It's not Sofus who lets his tyres down.
+
+211
+00:19:07,970 --> 00:19:09,970
+Maybe not him personally,
+
+212
+00:19:10,750 --> 00:19:12,440
+but he has his own little mafia.
+
+213
+00:19:13,460 --> 00:19:17,100
+He'll get the others to it, but he's behind it.
+
+214
+00:19:17,100 --> 00:19:20,240
+We shouldn't give Sofus too much credit...
+
+215
+00:19:20,240 --> 00:19:23,540
+Other pupils' tyres are let down too.
+
+216
+00:19:24,380 --> 00:19:26,700
+We are of course aware of that.
+
+217
+00:19:30,180 --> 00:19:34,140
+It's not an easy situation for Elias...
+
+218
+00:19:35,460 --> 00:19:38,400
+With you, Anton, who travels a lot.
+
+219
+00:19:38,400 --> 00:19:41,580
+It must be hard for Elias, that his father is away so often.
+
+220
+00:19:42,080 --> 00:19:46,100
+And if there are other problems between you...
+
+221
+00:19:47,300 --> 00:19:49,090
+What problems are those?
+
+222
+00:19:51,340 --> 00:19:52,880
+Your separation, Marianne.
+
+223
+00:19:53,780 --> 00:19:55,600
+Let me tell you something.
+
+224
+00:19:57,380 --> 00:20:00,100
+Don't you interfere with our personal life.
+
+225
+00:20:00,600 --> 00:20:02,510
+That has nothing to do with anything!
+
+226
+00:20:03,500 --> 00:20:04,500
+No, stop.
+
+227
+00:20:04,500 --> 00:20:09,240
+I'm shocked that we have to listen to this.
+
+228
+00:20:09,240 --> 00:20:14,980
+We'll end up having to move Elias
+to another school, because Sofus is a...
+
+229
+00:20:15,940 --> 00:20:17,460
+...sadistic little psychopath!
+
+230
+00:20:25,900 --> 00:20:27,840
+If we could try
+
+231
+00:20:28,960 --> 00:20:32,580
+to be a little constructive, what do you suggest?
+
+232
+00:21:21,820 --> 00:21:24,260
+Maybe you should try buying some flowers for mom?
+
+233
+00:21:39,620 --> 00:21:41,150
+Or some chocolate.
+
+234
+00:21:48,660 --> 00:21:51,100
+You're even uglier up close.
+
+235
+00:21:51,100 --> 00:21:52,520
+Fuck off!
+
+236
+00:21:52,520 --> 00:21:55,360
+Shut up. You're from Sweden.
+
+237
+00:21:55,360 --> 00:21:57,540
+Kiss my shoe if you want to pass.
+
+238
+00:21:57,540 --> 00:21:59,220
+What's up, loser?
+
+239
+00:22:02,180 --> 00:22:03,580
+You're so gross.
+
+240
+00:22:32,420 --> 00:22:33,500
+What's up, Elias?
+
+241
+00:22:35,060 --> 00:22:36,220
+You know, yesterday?
+
+242
+00:22:36,750 --> 00:22:37,460
+If anyone asks...
+
+243
+00:22:37,460 --> 00:22:38,380
+I won't tell.
+
+244
+00:22:39,160 --> 00:22:40,220
+Nothing happened to him.
+
+245
+00:22:42,580 --> 00:22:44,780
+Just keep your mouth shut.
+
+246
+00:22:44,780 --> 00:22:47,490
+If you talk, you're dead.
+
+247
+00:23:01,500 --> 00:23:03,060
+Never touch me again!
+
+248
+00:23:03,060 --> 00:23:04,220
+I won't do anything.
+
+249
+00:23:05,690 --> 00:23:07,180
+Not me or anyone else.
+
+250
+00:23:08,220 --> 00:23:10,740
+I don't give a fuck if you die.
+
+251
+00:23:11,280 --> 00:23:12,180
+Do you understand?
+
+252
+00:23:16,540 --> 00:23:18,840
+Hide the knife. You'll be expelled.
+
+253
+00:23:25,140 --> 00:23:28,440
+We changed your medication.
+You might get a little confused.
+
+254
+00:23:28,440 --> 00:23:30,210
+Did you eat anything yesterday?
+
+255
+00:23:31,480 --> 00:23:34,640
+It ate it all. Pork roast.
+
+256
+00:23:35,210 --> 00:23:36,640
+It was delicious.
+
+257
+00:23:36,640 --> 00:23:38,500
+Then you are getting really confused, huh?
+
+258
+00:23:38,900 --> 00:23:39,780
+Marianne?
+
+259
+00:23:40,980 --> 00:23:43,130
+They have called twice from Elias' school.
+
+260
+00:23:43,130 --> 00:23:44,740
+You have to call them back.
+
+261
+00:23:44,740 --> 00:23:46,140
+Did they say what it was about?
+
+262
+00:23:46,140 --> 00:23:48,110
+You forgot to turn on your cellphone.
+
+263
+00:23:48,110 --> 00:23:49,480
+I don't have it on me.
+
+264
+00:23:51,260 --> 00:23:52,290
+You're lying, Elias.
+
+265
+00:23:53,150 --> 00:23:54,560
+Why are you lying?
+
+266
+00:23:54,560 --> 00:23:55,700
+I'm not lying.
+
+267
+00:23:55,700 --> 00:23:57,920
+Christian admitted that he had a knife.
+
+268
+00:23:58,510 --> 00:24:01,580
+He hit him several times in the head with a bicycle pump.
+
+269
+00:24:01,580 --> 00:24:05,460
+I only saw them hitting each other. There was no knife.
+
+270
+00:24:14,140 --> 00:24:15,560
+Listen to me.
+
+271
+00:24:16,370 --> 00:24:18,320
+Elias just told us that you had a knife.
+
+272
+00:24:18,320 --> 00:24:19,420
+I didn't have a knife.
+
+273
+00:24:20,260 --> 00:24:21,340
+Okay.
+
+274
+00:24:22,100 --> 00:24:24,730
+If everyone is lying, then you tell me the truth.
+
+275
+00:24:25,460 --> 00:24:26,840
+He hit me.
+
+276
+00:24:27,770 --> 00:24:29,080
+Then I hit him.
+
+277
+00:24:30,280 --> 00:24:31,900
+You hit him with a bicycle pump?
+
+278
+00:24:33,740 --> 00:24:34,920
+I had to.
+
+279
+00:24:35,700 --> 00:24:38,260
+He's much bigger than me.
+
+280
+00:24:38,260 --> 00:24:40,080
+He was going to beat me up.
+
+281
+00:24:40,080 --> 00:24:40,700
+Elias,
+
+282
+00:24:42,540 --> 00:24:43,740
+this is serious.
+
+283
+00:24:44,920 --> 00:24:47,160
+He might go blind in one eye.
+
+284
+00:24:47,160 --> 00:24:49,100
+Then he should leave people alone.
+
+285
+00:25:02,560 --> 00:25:03,220
+Hi.
+
+286
+00:25:04,240 --> 00:25:06,100
+Hi, Marianne.
+
+287
+00:25:06,100 --> 00:25:07,340
+Where is Elias?
+
+288
+00:25:08,500 --> 00:25:10,350
+They're talking to the police.
+
+289
+00:25:10,350 --> 00:25:12,400
+What happened?
+
+290
+00:25:12,400 --> 00:25:15,540
+It was a vicious assault.
+
+291
+00:25:15,540 --> 00:25:17,600
+Apparently, there was a knife involved.
+
+292
+00:25:17,600 --> 00:25:19,110
+That can't be right.
+
+293
+00:25:19,110 --> 00:25:21,380
+That doesn't sound like Christian.
+
+294
+00:25:21,380 --> 00:25:22,500
+They haven't found one.
+
+295
+00:25:22,500 --> 00:25:24,460
+What has this got to do with Elias?
+
+296
+00:25:24,810 --> 00:25:26,040
+Did Elias hit Sofus?
+
+297
+00:25:26,040 --> 00:25:27,940
+We don't know.
+
+298
+00:25:28,240 --> 00:25:31,920
+The police are interviewing them,
+and then we'll find out what happened.
+
+299
+00:25:37,960 --> 00:25:40,420
+Is it true that Sofus has been blinded?
+
+300
+00:25:40,720 --> 00:25:41,560
+Who told you that?
+
+301
+00:25:41,560 --> 00:25:42,600
+The police.
+
+302
+00:25:43,540 --> 00:25:44,370
+No.
+
+303
+00:25:45,500 --> 00:25:49,010
+He will have a headache, and probably
+get a scar, but he will be all right.
+
+304
+00:25:50,540 --> 00:25:52,450
+It could have been much worse.
+
+305
+00:25:55,580 --> 00:25:57,320
+Why didn't you tell me that he hit you?
+
+306
+00:25:59,880 --> 00:26:01,970
+Then we could have talked to him and his parents.
+
+307
+00:26:02,970 --> 00:26:04,740
+A lot of kids saw it.
+
+308
+00:26:05,600 --> 00:26:06,780
+That's no answer.
+
+309
+00:26:08,660 --> 00:26:12,420
+If I hadn't fought back,
+then everyone would think I was weak.
+
+310
+00:26:13,940 --> 00:26:15,500
+Just tell me if he had a knife.
+
+311
+00:26:16,170 --> 00:26:17,960
+I promise I won't tell anyone.
+
+312
+00:26:17,960 --> 00:26:20,520
+He didn't have a knife. Stop asking.
+
+313
+00:26:24,500 --> 00:26:28,420
+If you hit him, then he'll hit you. It'll never end.
+
+314
+00:26:29,580 --> 00:26:30,930
+Don't you understand?
+
+315
+00:26:31,740 --> 00:26:33,440
+That's how wars start.
+
+316
+00:26:33,440 --> 00:26:35,640
+Not if you hit hard enough the first time.
+
+317
+00:26:35,640 --> 00:26:37,240
+You don't know a damn thing about it.
+
+318
+00:26:37,240 --> 00:26:39,020
+It's like that in every school.
+
+319
+00:26:39,850 --> 00:26:41,500
+Now no one dares touch me.
+
+320
+00:26:49,720 --> 00:26:52,020
+I'm not going to ask you about the knife again.
+
+321
+00:26:53,290 --> 00:26:54,300
+You understand?
+
+322
+00:26:56,820 --> 00:26:58,810
+But I want you to know
+
+323
+00:27:00,180 --> 00:27:01,900
+that you can tell me everything.
+
+324
+00:27:04,620 --> 00:27:05,660
+Understand?
+
+325
+00:27:52,500 --> 00:27:53,310
+Yes.
+
+326
+00:27:54,980 --> 00:27:56,270
+It's me.
+
+327
+00:27:57,180 --> 00:27:58,040
+Hi.
+
+328
+00:27:59,260 --> 00:28:00,040
+Were you sleeping?
+
+329
+00:28:00,800 --> 00:28:01,580
+No.
+
+330
+00:28:03,180 --> 00:28:05,460
+What are you doing?
+
+331
+00:28:07,220 --> 00:28:11,580
+I'm at a discotheque.
+
+332
+00:28:12,580 --> 00:28:13,860
+What do you want?
+
+333
+00:28:17,020 --> 00:28:18,240
+Just talk.
+
+334
+00:28:20,500 --> 00:28:24,260
+I'm bored without you.
+
+335
+00:28:26,420 --> 00:28:27,960
+Did you talk to Elias?
+
+336
+00:28:27,960 --> 00:28:29,240
+Of course.
+
+337
+00:28:32,420 --> 00:28:33,840
+I miss you.
+
+338
+00:28:36,820 --> 00:28:38,370
+Don't do that.
+
+339
+00:28:40,260 --> 00:28:41,790
+I told you I was sorry.
+
+340
+00:28:43,940 --> 00:28:46,560
+And I mean that from the bottom of my heart.
+
+341
+00:28:49,860 --> 00:28:52,500
+I was quite proud of us actually.
+
+342
+00:28:53,980 --> 00:28:55,040
+I was.
+
+343
+00:28:58,980 --> 00:29:04,500
+Proud that we weren't like all the other idiots
+who just give up and get divorced.
+
+344
+00:29:07,620 --> 00:29:09,730
+I was proud that we loved each other.
+
+345
+00:29:13,140 --> 00:29:15,500
+We still do.
+
+346
+00:29:22,820 --> 00:29:23,970
+But Anton...
+
+347
+00:29:29,380 --> 00:29:33,240
+I messed up big time.
+
+348
+00:29:33,240 --> 00:29:34,340
+I tried...
+
+349
+00:29:35,160 --> 00:29:39,880
+I tried to explain, how it got that far
+
+350
+00:29:39,880 --> 00:29:42,920
+and I was so stupid. I tried...
+
+351
+00:29:47,940 --> 00:29:51,610
+You only paid attention to her, every time you were home.
+
+352
+00:29:54,340 --> 00:29:56,060
+It still hurts.
+
+353
+00:29:58,100 --> 00:30:00,060
+Everything we had together.
+
+354
+00:30:02,700 --> 00:30:07,080
+And when you were here, it was all lies.
+
+355
+00:30:08,430 --> 00:30:10,120
+It was all make-believe.
+
+356
+00:30:12,060 --> 00:30:13,780
+I love you.
+
+357
+00:30:18,100 --> 00:30:21,310
+I would like to forgive you, but I can't keep up.
+
+358
+00:30:24,380 --> 00:30:26,680
+That's how it is. Good night.
+
+359
+00:30:26,680 --> 00:30:29,500
+No, wait. Don't hang up.
+
+360
+00:30:55,060 --> 00:30:58,460
+I think, we can consider this matter closed.
+
+361
+00:30:59,280 --> 00:31:00,990
+You have messed up.
+
+362
+00:31:02,270 --> 00:31:03,940
+All three of you.
+
+363
+00:31:06,020 --> 00:31:09,780
+But you have learned that no good comes from fighting.
+
+364
+00:31:09,780 --> 00:31:10,970
+That's right.
+
+365
+00:31:12,270 --> 00:31:13,780
+It could have ended much worse.
+
+366
+00:31:14,560 --> 00:31:17,300
+Now Elias and Sofus shake hands.
+
+367
+00:31:22,620 --> 00:31:23,960
+I'm sorry, Elias.
+
+368
+00:31:23,960 --> 00:31:24,890
+Good.
+
+369
+00:31:24,890 --> 00:31:27,640
+And Christian and Sofus. Please shake hands.
+
+370
+00:31:29,580 --> 00:31:30,570
+Sorry.
+
+371
+00:31:32,040 --> 00:31:35,680
+And you'll be back Monday. No hard feelings, OK?
+
+372
+00:31:36,900 --> 00:31:38,990
+Looking forward to the theme week?
+
+373
+00:31:38,990 --> 00:31:39,840
+Yes.
+
+374
+00:31:39,840 --> 00:31:41,390
+The whole school is excited.
+
+375
+00:31:41,390 --> 00:31:42,820
+We're looking forward to it.
+
+376
+00:31:42,820 --> 00:31:44,270
+What will you be doing, Sofus?
+
+377
+00:31:44,270 --> 00:31:47,080
+I'm in the weapons group.
+
+378
+00:31:47,760 --> 00:31:49,420
+We'll be making muskets.
+
+379
+00:31:49,420 --> 00:31:51,360
+Of course you will.
+
+380
+00:31:51,360 --> 00:31:53,100
+And Elias?
+
+381
+00:31:53,100 --> 00:31:54,800
+I'm in the same group as Christian.
+
+382
+00:31:54,800 --> 00:31:56,590
+We'll be making a model of The Round Tower.
+
+383
+00:31:56,590 --> 00:31:58,180
+I'm looking forward to that.
+
+384
+00:32:01,220 --> 00:32:02,740
+Want to walk with me, Christian?
+
+385
+00:32:05,780 --> 00:32:06,640
+No.
+
+386
+00:32:07,700 --> 00:32:08,660
+Come on, Elias.
+
+387
+00:32:18,180 --> 00:32:19,260
+Here it is.
+
+388
+00:32:39,060 --> 00:32:40,020
+Do you want it?
+
+389
+00:32:41,720 --> 00:32:42,660
+Thanks.
+
+390
+00:32:47,820 --> 00:32:49,100
+Cool!
+
+391
+00:33:06,860 --> 00:33:07,700
+Christian?
+
+392
+00:33:07,700 --> 00:33:08,560
+Yes?
+
+393
+00:33:10,420 --> 00:33:11,300
+I'm leaving now.
+
+394
+00:33:12,340 --> 00:33:14,030
+I'll try to make the flight at four tomorrow.
+
+395
+00:33:14,880 --> 00:33:16,200
+I'll call you.
+
+396
+00:33:18,670 --> 00:33:20,380
+You can stay for dinner, if you want?
+
+397
+00:33:20,380 --> 00:33:22,060
+Thank you, but I should be going home.
+
+398
+00:33:22,060 --> 00:33:23,410
+Then maybe on the weekend.
+
+399
+00:33:23,410 --> 00:33:25,380
+Just go, dad.
+
+400
+00:33:27,020 --> 00:33:28,720
+See you.
+
+401
+00:33:28,720 --> 00:33:29,520
+Take care, Elias.
+
+402
+00:33:29,520 --> 00:33:30,600
+You too.
+
+403
+00:33:32,340 --> 00:33:33,700
+Where's he going?
+
+404
+00:33:34,130 --> 00:33:34,780
+London.
+
+405
+00:33:36,620 --> 00:33:37,660
+Where's your mom?
+
+406
+00:33:39,740 --> 00:33:40,740
+She's dead.
+
+407
+00:33:45,300 --> 00:33:47,700
+My parents are in the middle of a divorce.
+
+408
+00:33:50,880 --> 00:33:52,060
+Why did she die?
+
+409
+00:33:52,530 --> 00:33:53,720
+She had cancer.
+
+410
+00:33:53,720 --> 00:33:57,180
+At first they thought she'd get well, but she didn't make it.
+
+411
+00:34:00,820 --> 00:34:01,980
+She was cremated.
+
+412
+00:34:02,300 --> 00:34:03,220
+Okay.
+
+413
+00:34:04,260 --> 00:34:06,110
+Funerals are disgusting.
+
+414
+00:34:07,380 --> 00:34:09,540
+The bodies rot and seep into the groundwater.
+
+415
+00:34:14,260 --> 00:34:15,930
+I want to be cremated when I'm dead.
+
+416
+00:34:15,930 --> 00:34:17,050
+What about you?
+
+417
+00:34:18,640 --> 00:34:19,410
+Perhaps.
+
+418
+00:34:20,240 --> 00:34:21,900
+I never really thought about it.
+
+419
+00:34:26,060 --> 00:34:27,630
+What are we doing here?
+
+420
+00:34:27,630 --> 00:34:28,440
+Going up.
+
+421
+00:34:31,220 --> 00:34:32,720
+You can do that?
+
+422
+00:34:32,720 --> 00:34:33,760
+Of course.
+
+423
+00:34:36,820 --> 00:34:38,260
+Come on.
+
+424
+00:35:01,150 --> 00:35:03,460
+Wow, this is crazy.
+
+425
+00:35:03,850 --> 00:35:04,650
+Yeah.
+
+426
+00:35:06,900 --> 00:35:09,260
+I used to come here when I was home on vacation.
+
+427
+00:35:11,500 --> 00:35:12,860
+Where's your house?
+
+428
+00:35:13,230 --> 00:35:14,330
+My house?
+
+429
+00:35:18,580 --> 00:35:20,620
+Out there somewhere.
+
+430
+00:35:21,010 --> 00:35:21,840
+Okay.
+
+431
+00:35:25,300 --> 00:35:26,980
+It's a long way down.
+
+432
+00:35:35,020 --> 00:35:37,020
+Yeah, like that.
+
+433
+00:35:38,580 --> 00:35:41,980
+We were on this silo down by the docks.
+
+434
+00:35:43,410 --> 00:35:44,810
+You can't do that.
+
+435
+00:35:46,780 --> 00:35:48,380
+Christian is up there every day.
+
+436
+00:35:48,380 --> 00:35:49,840
+You can see our house from up there.
+
+437
+00:35:49,840 --> 00:35:53,540
+I know it. That's why I tell you not to play there.
+
+438
+00:35:53,540 --> 00:35:55,250
+It's dangerous.
+
+439
+00:35:55,250 --> 00:35:57,220
+Promise me that you won't do it again.
+
+440
+00:35:58,260 --> 00:35:59,740
+Don't "mmm" me.
+
+441
+00:35:59,740 --> 00:36:01,930
+Promise. Where's the pump?
+
+442
+00:36:02,670 --> 00:36:03,390
+Here you go.
+
+443
+00:36:03,390 --> 00:36:04,160
+Promise?
+
+444
+00:36:04,160 --> 00:36:04,880
+Yeah.
+
+445
+00:36:05,480 --> 00:36:06,660
+Promise what?
+
+446
+00:36:06,660 --> 00:36:08,210
+That I won't go back up there.
+
+447
+00:36:11,920 --> 00:36:13,450
+Let's pump it up.
+
+448
+00:36:22,940 --> 00:36:24,990
+Put it down here, boys.
+
+449
+00:36:24,990 --> 00:36:26,200
+Can we have an ice cream?
+
+450
+00:36:26,200 --> 00:36:28,700
+Yes. Put it down gently.
+
+451
+00:36:28,700 --> 00:36:29,980
+I wanna try the swing.
+
+452
+00:36:31,100 --> 00:36:32,450
+Thanks for the help.
+
+453
+00:36:33,740 --> 00:36:36,380
+Kayaking was so much fun.
+
+454
+00:36:38,380 --> 00:36:39,490
+Don't!
+
+455
+00:36:39,490 --> 00:36:40,660
+Come on, boys.
+
+456
+00:36:42,340 --> 00:36:43,140
+Hey!
+
+457
+00:36:43,880 --> 00:36:46,200
+What are you doing? Morten!
+
+458
+00:36:46,200 --> 00:36:48,740
+Stop that. What are you doing?
+
+459
+00:36:49,170 --> 00:36:50,830
+Why are you fighting?
+
+460
+00:36:50,830 --> 00:36:51,860
+What's going on?
+
+461
+00:36:51,860 --> 00:36:53,680
+He took my swing.
+
+462
+00:36:53,680 --> 00:36:55,200
+Why?
+
+463
+00:36:55,200 --> 00:36:56,960
+He punched me for no reason.
+
+464
+00:36:56,960 --> 00:36:58,460
+Why did you hit him?
+
+465
+00:36:58,460 --> 00:36:59,400
+I didn't.
+
+466
+00:36:59,400 --> 00:37:01,420
+Why are you fighting over a swing?
+
+467
+00:37:01,420 --> 00:37:04,140
+What's going on here, man?
+
+468
+00:37:04,140 --> 00:37:07,380
+I was just using the swing,
+and he came up and started bothering me.
+
+469
+00:37:07,380 --> 00:37:08,460
+Don't steal his swing!
+
+470
+00:37:08,460 --> 00:37:10,740
+Kids will be kids...
+
+471
+00:37:10,740 --> 00:37:15,540
+I don't wanna see you touch my boy again.
+
+472
+00:37:15,540 --> 00:37:16,670
+You understand?
+
+473
+00:37:16,670 --> 00:37:18,180
+I didn't touch him.
+
+474
+00:37:18,180 --> 00:37:19,220
+Get the hell outta here.
+
+475
+00:37:20,260 --> 00:37:21,820
+Fuck off!
+
+476
+00:37:22,880 --> 00:37:27,000
+What the hell is wrong with you? Look at me.
+
+477
+00:37:27,000 --> 00:37:28,340
+You're always fighting.
+
+478
+00:37:29,130 --> 00:37:31,940
+Always fucking trouble with you.
+
+479
+00:37:31,940 --> 00:37:32,850
+I'm sorry, dad.
+
+480
+00:37:32,850 --> 00:37:36,540
+You did nothing wrong.
+
+481
+00:37:36,540 --> 00:37:39,380
+Doesn't it hurt? Are we going to the hospital?
+
+482
+00:37:39,380 --> 00:37:40,940
+No, we're not.
+
+483
+00:37:42,480 --> 00:37:44,770
+I'm very sorry.
+
+484
+00:37:45,420 --> 00:37:46,760
+Shouldn't you call the police?
+
+485
+00:37:46,760 --> 00:37:50,620
+Yeah, dad. Call the police.
+
+486
+00:37:53,380 --> 00:37:54,140
+No, I won't do that.
+
+487
+00:37:54,650 --> 00:37:55,680
+He hit you.
+
+488
+00:37:55,680 --> 00:38:00,200
+Let's go home. You can't eat your ice cream in the car.
+
+489
+00:38:00,200 --> 00:38:01,140
+End of discussion.
+
+490
+00:39:05,020 --> 00:39:07,340
+We shouldn't be up here.
+
+491
+00:39:07,860 --> 00:39:09,020
+Why not?
+
+492
+00:39:11,060 --> 00:39:12,320
+What are you doing?
+
+493
+00:39:12,320 --> 00:39:13,610
+Just hanging out.
+
+494
+00:39:17,620 --> 00:39:19,240
+I gotta get home.
+
+495
+00:39:21,500 --> 00:39:22,490
+There he is.
+
+496
+00:39:23,020 --> 00:39:23,700
+Who?
+
+497
+00:39:24,270 --> 00:39:26,180
+The idiot who hit your dad.
+
+498
+00:39:33,790 --> 00:39:34,620
+Come on.
+
+499
+00:39:49,560 --> 00:39:50,710
+There he is.
+
+500
+00:39:51,180 --> 00:39:52,920
+We'll look up his address online.
+
+501
+00:39:52,920 --> 00:39:55,000
+Hey! What the hell are you doing?
+
+502
+00:39:55,000 --> 00:39:56,220
+Run dammit!
+
+503
+00:40:07,820 --> 00:40:08,720
+Hey, dad.
+
+504
+00:40:09,610 --> 00:40:10,680
+Hey.
+
+505
+00:40:12,180 --> 00:40:13,450
+Come, sweetheart.
+
+506
+00:40:19,940 --> 00:40:20,860
+You okay?
+
+507
+00:40:20,860 --> 00:40:21,800
+Sure.
+
+508
+00:40:24,980 --> 00:40:26,410
+What are you doing here?
+
+509
+00:40:26,410 --> 00:40:28,260
+I just wanted to give you this.
+
+510
+00:40:29,940 --> 00:40:32,090
+I know where the guy who punched you works.
+
+511
+00:40:35,620 --> 00:40:36,900
+How did you find out?
+
+512
+00:40:36,900 --> 00:40:38,600
+I just did. He works there.
+
+513
+00:40:38,600 --> 00:40:41,180
+How did you find out?
+
+514
+00:40:41,940 --> 00:40:44,940
+Christian and I saw him. It was on his car.
+
+515
+00:40:46,580 --> 00:40:48,510
+Have you been up on that silo again?
+
+516
+00:40:48,510 --> 00:40:49,880
+No, no.
+
+517
+00:40:49,880 --> 00:40:52,410
+Christian might have been. He's up there every day.
+
+518
+00:40:53,240 --> 00:40:54,060
+But you haven't?
+
+519
+00:40:54,060 --> 00:40:55,360
+I haven't.
+
+520
+00:40:56,400 --> 00:40:57,300
+Are you sure?
+
+521
+00:40:57,300 --> 00:40:58,120
+Yeah.
+
+522
+00:40:58,800 --> 00:41:00,750
+Aren't you going to do something about it?
+
+523
+00:41:03,980 --> 00:41:06,060
+Like what?
+
+524
+00:41:06,060 --> 00:41:07,800
+Go and beat him up.
+
+525
+00:41:09,700 --> 00:41:10,740
+Are you serious?
+
+526
+00:41:12,660 --> 00:41:13,380
+Yes.
+
+527
+00:41:14,420 --> 00:41:15,300
+Are you afraid?
+
+528
+00:41:17,520 --> 00:41:19,550
+That's not the point.
+
+529
+00:41:21,620 --> 00:41:25,580
+You don't go around beating people up.
+Nobody benefits from that.
+
+530
+00:41:26,360 --> 00:41:29,040
+What kind of world would we live in then?
+
+531
+00:41:29,040 --> 00:41:30,810
+He's an idiot.
+
+532
+00:41:30,810 --> 00:41:33,620
+If I beat him up, I'll be just as big an idiot.
+
+533
+00:41:33,620 --> 00:41:38,340
+I'll go to jail, and you'll have no dad. He wins.
+
+534
+00:41:38,340 --> 00:41:41,460
+Maybe mom would like it if you weren't such a wimp.
+
+535
+00:41:47,660 --> 00:41:50,940
+I promised mom I'd be home, so I'd better get going.
+
+536
+00:41:50,940 --> 00:41:52,680
+Who's the wimp now?
+
+537
+00:41:54,540 --> 00:41:55,570
+You are.
+
+538
+00:41:57,720 --> 00:41:58,500
+Bye!
+
+539
+00:41:58,500 --> 00:41:59,660
+Say hi to your mom.
+
+540
+00:43:09,260 --> 00:43:10,270
+Hello?
+
+541
+00:43:16,180 --> 00:43:17,380
+Hello?
+
+542
+00:43:21,580 --> 00:43:22,530
+Hi.
+
+543
+00:43:23,300 --> 00:43:24,080
+Hi.
+
+544
+00:43:24,650 --> 00:43:26,480
+I'm looking for a Lars.
+
+545
+00:43:26,480 --> 00:43:27,180
+Say what?
+
+546
+00:43:27,720 --> 00:43:29,620
+Does a Lars work here?
+
+547
+00:43:30,400 --> 00:43:31,290
+Lars?
+
+548
+00:43:31,820 --> 00:43:32,740
+Lars?
+
+549
+00:43:34,140 --> 00:43:35,300
+Lars!
+
+550
+00:43:35,850 --> 00:43:37,020
+Sweden calling.
+
+551
+00:43:40,940 --> 00:43:41,820
+Hi.
+
+552
+00:43:43,060 --> 00:43:44,000
+Hi.
+
+553
+00:43:46,140 --> 00:43:47,250
+Remember me?
+
+554
+00:43:52,300 --> 00:43:53,440
+I'm Anton.
+
+555
+00:43:54,000 --> 00:43:55,840
+We met on the playground.
+
+556
+00:43:55,840 --> 00:43:58,040
+You slapped me.
+
+557
+00:43:58,900 --> 00:44:00,050
+Remember?
+
+558
+00:44:00,690 --> 00:44:02,420
+Yeah, I remember.
+
+559
+00:44:07,540 --> 00:44:08,620
+What do you want?
+
+560
+00:44:09,660 --> 00:44:11,500
+Why did you do it?
+
+561
+00:44:13,500 --> 00:44:15,060
+Don't touch my kids.
+
+562
+00:44:15,060 --> 00:44:17,470
+I broke up a fight over a swing.
+
+563
+00:44:17,470 --> 00:44:20,600
+Good for you. Know what you should do?
+
+564
+00:44:20,600 --> 00:44:24,050
+Stay away from me and my son.
+
+565
+00:44:24,980 --> 00:44:26,480
+And nothing will happen. Okay?
+
+566
+00:44:27,420 --> 00:44:28,380
+You understand?
+
+567
+00:44:29,700 --> 00:44:33,480
+Do you want me to tell you why you did it?
+
+568
+00:44:33,480 --> 00:44:34,820
+No, shut the hell up.
+
+569
+00:44:34,820 --> 00:44:37,860
+And get your ass back to Sweden.
+
+570
+00:44:37,860 --> 00:44:40,190
+Nobody understands you here anyway.
+
+571
+00:44:40,190 --> 00:44:43,140
+Did you hit me because you could?
+
+572
+00:44:43,680 --> 00:44:44,980
+That's right.
+
+573
+00:44:44,980 --> 00:44:47,310
+Maybe you should shut up now, Lars.
+
+574
+00:44:49,540 --> 00:44:51,390
+Do you want me to hit you again?
+
+575
+00:44:51,390 --> 00:44:56,580
+You're an idiot who likes to feel he's in charge.
+
+576
+00:44:58,180 --> 00:44:58,860
+You're not.
+
+577
+00:44:58,860 --> 00:45:00,190
+Stop it, Lars.
+
+578
+00:45:01,330 --> 00:45:02,780
+It's all right, boys.
+
+579
+00:45:02,780 --> 00:45:04,760
+What do you want?
+
+580
+00:45:04,760 --> 00:45:05,390
+What do I want?
+
+581
+00:45:05,390 --> 00:45:06,620
+Yeah, what do you want?
+
+582
+00:45:06,620 --> 00:45:10,940
+I want to show the children that I'm not afraid of you.
+
+583
+00:45:10,940 --> 00:45:12,580
+You can't hurt me.
+
+584
+00:45:12,580 --> 00:45:14,330
+You're not afraid of me?
+
+585
+00:45:15,000 --> 00:45:17,100
+And I can't hurt you?
+
+586
+00:45:18,020 --> 00:45:19,360
+That's exactly what I can do.
+
+587
+00:45:19,760 --> 00:45:22,200
+I think you should go now.
+
+588
+00:45:22,200 --> 00:45:24,180
+Take your kids, and go home.
+
+589
+00:45:27,540 --> 00:45:30,340
+You frightened the children
+
+590
+00:45:30,340 --> 00:45:31,580
+when you hit me.
+
+591
+00:45:31,580 --> 00:45:32,440
+Good.
+
+592
+00:45:32,440 --> 00:45:35,860
+They were very upset and found out where you work.
+
+593
+00:45:35,860 --> 00:45:36,840
+That's why we're here.
+
+594
+00:45:36,840 --> 00:45:40,340
+That's very clever of them, finding out where I work.
+
+595
+00:45:42,420 --> 00:45:43,380
+Good job.
+
+596
+00:45:43,380 --> 00:45:47,400
+You're such a big idiot that you can't even apologize
+when I'm here with the kids
+
+597
+00:45:47,400 --> 00:45:49,140
+but continue to fight.
+
+598
+00:45:50,990 --> 00:45:52,580
+Huh? Want some more?
+
+599
+00:45:52,580 --> 00:45:53,740
+Let's go home.
+
+600
+00:45:53,740 --> 00:45:54,900
+Want some more?
+
+601
+00:45:56,360 --> 00:45:58,890
+Get the hell back to Sweden, you fag.
+
+602
+00:46:00,420 --> 00:46:03,530
+It didn't hurt. I'm okay.
+
+603
+00:46:04,380 --> 00:46:06,860
+Let's go. Thank you for seeing us.
+
+604
+00:46:11,820 --> 00:46:13,000
+It didn't hurt.
+
+605
+00:46:14,860 --> 00:46:16,210
+Nothing to be afraid of.
+
+606
+00:46:16,210 --> 00:46:19,000
+That's all he knows how to do. He lost.
+
+607
+00:46:19,480 --> 00:46:21,180
+He's a moron.
+
+608
+00:46:21,180 --> 00:46:22,720
+You understand?
+
+609
+00:46:22,720 --> 00:46:24,030
+Understand what?
+
+610
+00:46:27,380 --> 00:46:31,180
+That he's a moron, and not worth our time.
+
+611
+00:46:32,380 --> 00:46:33,780
+He's a big moron.
+
+612
+00:46:33,780 --> 00:46:35,560
+Exactly.
+
+613
+00:46:35,560 --> 00:46:37,470
+I don't think he feels he lost.
+
+614
+00:46:40,030 --> 00:46:41,360
+Maybe not, but he did.
+
+615
+00:46:41,920 --> 00:46:42,700
+I'm not sure.
+
+616
+00:46:45,260 --> 00:46:46,930
+Let's go. We're done here.
+
+617
+00:46:46,930 --> 00:46:49,480
+Giant wanker moron.
+
+618
+00:46:49,480 --> 00:46:50,440
+Get in the car.
+
+619
+00:46:50,440 --> 00:46:53,230
+He was such an asshole.
+
+620
+00:46:54,000 --> 00:46:55,440
+Giant wanker moron.
+
+621
+00:46:55,440 --> 00:46:56,830
+That's enough.
+
+622
+00:46:56,830 --> 00:46:58,910
+Giant wanker moron!
+
+623
+00:46:58,910 --> 00:47:01,580
+Put your seatbelt on. All right, stop.
+
+624
+00:47:07,500 --> 00:47:09,340
+Should we let Morten try?
+
+625
+00:47:09,340 --> 00:47:09,980
+Yes!
+
+626
+00:47:10,410 --> 00:47:12,030
+Wait a second.
+
+627
+00:47:12,730 --> 00:47:13,530
+There.
+
+628
+00:47:25,020 --> 00:47:26,320
+Come on, Morten.
+
+629
+00:47:38,980 --> 00:47:39,870
+Perfect!
+
+630
+00:47:42,300 --> 00:47:45,100
+No, let go at the same time.
+
+631
+00:47:47,740 --> 00:47:48,460
+Look at that.
+
+632
+00:48:07,540 --> 00:48:08,820
+Has the fever gone down?
+
+633
+00:48:10,370 --> 00:48:11,540
+Yeah, it's gone down.
+
+634
+00:48:13,420 --> 00:48:14,860
+That's perfect.
+
+635
+00:48:23,380 --> 00:48:24,100
+There he is.
+
+636
+00:48:27,580 --> 00:48:32,020
+Everybody's afraid of him,
+but no one does anything about it.
+
+637
+00:48:43,580 --> 00:48:45,340
+I'll try to find something we can use as a fence.
+
+638
+00:49:16,620 --> 00:49:17,820
+Come here for a second.
+
+639
+00:49:32,460 --> 00:49:33,980
+Must be something my granddad bought.
+
+640
+00:49:37,340 --> 00:49:38,760
+We shouldn't keep it here.
+
+641
+00:49:40,480 --> 00:49:41,800
+It could blow up the whole house.
+
+642
+00:49:42,540 --> 00:49:44,050
+They're just fireworks.
+
+643
+00:49:44,740 --> 00:49:46,740
+You know how much black powder's in this?
+
+644
+00:49:47,620 --> 00:49:48,580
+Several pounds.
+
+645
+00:49:50,820 --> 00:49:52,420
+You could make a huge bomb.
+
+646
+00:49:53,020 --> 00:49:54,220
+Really?
+
+647
+00:49:54,220 --> 00:49:54,900
+Yeah.
+
+648
+00:49:55,500 --> 00:49:57,180
+I'll show you online.
+
+649
+00:50:06,480 --> 00:50:08,180
+He just kept hitting your dad.
+
+650
+00:50:09,820 --> 00:50:11,360
+Your dad might not be afraid,
+
+651
+00:50:12,030 --> 00:50:13,890
+but he just kept hitting him.
+
+652
+00:50:15,380 --> 00:50:18,370
+If we get back at him, he might learn his lesson.
+
+653
+00:50:35,580 --> 00:50:37,010
+How loud will this be?
+
+654
+00:50:37,010 --> 00:50:38,080
+Very.
+
+655
+00:50:38,720 --> 00:50:40,570
+Won't anyone hear?
+
+656
+00:50:40,570 --> 00:50:41,580
+Not out here.
+
+657
+00:50:47,330 --> 00:50:48,260
+Hold the bomb.
+
+658
+00:50:55,460 --> 00:50:56,660
+You want to light it?
+
+659
+00:50:58,220 --> 00:50:59,300
+You'll have to run.
+
+660
+00:51:00,680 --> 00:51:01,890
+You do it.
+
+661
+00:51:01,890 --> 00:51:02,840
+Are you sure?
+
+662
+00:51:08,900 --> 00:51:10,850
+Run fast, OK?
+
+663
+00:51:10,850 --> 00:51:11,660
+Yeah.
+
+664
+00:51:20,060 --> 00:51:22,280
+Fuck, that was sick!
+
+665
+00:51:25,900 --> 00:51:29,100
+Imagine if we use one of the big ones!
+
+666
+00:51:29,900 --> 00:51:33,560
+His car will be blown to pieces.
+
+667
+00:51:33,560 --> 00:51:34,700
+Whose car?
+
+668
+00:51:35,250 --> 00:51:37,380
+That asshole, Lars'.
+
+669
+00:51:37,380 --> 00:51:39,140
+You want to blow up his car?
+
+670
+00:51:39,700 --> 00:51:40,720
+Sure.
+
+671
+00:51:42,660 --> 00:51:44,130
+Someone will find out.
+
+672
+00:51:44,130 --> 00:51:45,660
+A car is really expensive.
+
+673
+00:51:46,480 --> 00:51:47,900
+Your dad will be pleased.
+
+674
+00:51:48,610 --> 00:51:50,060
+I'm not so sure.
+
+675
+00:51:50,580 --> 00:51:52,620
+Doesn't matter. No one will find out.
+
+676
+00:51:53,160 --> 00:51:54,340
+Are you in or out?
+
+677
+00:51:57,020 --> 00:51:58,020
+I'm not sure...
+
+678
+00:52:01,340 --> 00:52:05,060
+If you're not in, I would like my knife back right now.
+
+679
+00:52:52,820 --> 00:52:53,660
+Easy, easy.
+
+680
+00:52:53,660 --> 00:52:55,780
+Stretcher! Stretcher!
+
+681
+00:53:00,540 --> 00:53:02,260
+Lift.
+
+682
+00:53:03,300 --> 00:53:05,540
+Keep on moving. There's a pulse.
+
+683
+00:53:06,430 --> 00:53:09,100
+Move on! Up, up, up.
+
+684
+00:53:10,210 --> 00:53:12,900
+Prep the patient. Put down IV.
+
+685
+00:53:16,780 --> 00:53:17,740
+Antibiotics.
+
+686
+00:53:19,660 --> 00:53:22,180
+Thank you. Patient asleep yet?
+
+687
+00:53:22,180 --> 00:53:22,740
+Yes.
+
+688
+00:53:22,740 --> 00:53:23,710
+Let me take a look.
+
+689
+00:53:27,060 --> 00:53:28,860
+Swab. Thank you.
+
+690
+00:53:32,500 --> 00:53:34,140
+Swab. Hold that, please.
+
+691
+00:53:46,700 --> 00:53:48,210
+Tell him she's alive.
+
+692
+00:53:50,340 --> 00:53:53,400
+We've done all we can. Now we must wait and see.
+
+693
+00:53:57,780 --> 00:53:59,080
+Thank you, doctor.
+
+694
+00:53:59,080 --> 00:54:00,290
+Ask him what happened.
+
+695
+00:54:07,700 --> 00:54:12,910
+People came in cars. His wife could not run fast.
+
+696
+00:54:12,910 --> 00:54:16,810
+The Big Man cut open two other girls, who died.
+
+697
+00:54:21,340 --> 00:54:22,520
+We'll know tomorrow.
+
+698
+00:56:37,900 --> 00:56:39,140
+What have you got there?
+
+699
+00:56:39,140 --> 00:56:40,200
+Nothing special.
+
+700
+00:56:42,060 --> 00:56:43,450
+If it's nothing special, then I can see it.
+
+701
+00:56:43,450 --> 00:56:44,320
+No!
+
+702
+00:56:46,020 --> 00:56:48,090
+Mom, you can't do that!
+
+703
+00:56:52,220 --> 00:56:53,520
+Elias, this is a knife.
+
+704
+00:56:55,470 --> 00:56:58,360
+Have you been lying to me and to the police?
+
+705
+00:56:58,360 --> 00:57:00,060
+Have you gone mad!?
+
+706
+00:57:01,280 --> 00:57:01,940
+No.
+
+707
+00:57:01,940 --> 00:57:03,580
+What the hell is going on?
+
+708
+00:57:04,720 --> 00:57:05,620
+Nothing.
+
+709
+00:57:06,540 --> 00:57:07,480
+Nothing?
+
+710
+00:57:58,100 --> 00:57:59,170
+Christian...
+
+711
+00:58:01,180 --> 00:58:02,080
+Christian.
+
+712
+00:58:04,460 --> 00:58:05,860
+What the hell were you thinking?
+
+713
+00:58:06,570 --> 00:58:07,840
+Stabbing someone?
+
+714
+00:58:08,700 --> 00:58:10,680
+You want to ruin your life?
+
+715
+00:58:10,680 --> 00:58:12,100
+Look at me.
+
+716
+00:58:13,130 --> 00:58:14,380
+Look at me, Christian.
+
+717
+00:58:15,340 --> 00:58:16,400
+Look at me!
+
+718
+00:58:21,180 --> 00:58:22,180
+Christian...
+
+719
+00:58:23,060 --> 00:58:25,760
+I love you. But this isn't easy for me either.
+
+720
+00:58:25,760 --> 00:58:27,540
+We have to talk to each other.
+
+721
+00:58:28,750 --> 00:58:29,940
+Did you fuck her?
+
+722
+00:58:33,540 --> 00:58:34,900
+Did you fuck Elias' mom?
+
+723
+00:58:38,960 --> 00:58:40,110
+Why would you say that?
+
+724
+00:58:40,720 --> 00:58:43,160
+You want to. I can tell.
+
+725
+00:58:43,160 --> 00:58:46,820
+You achieve nothing by acting like this.
+
+726
+00:58:47,860 --> 00:58:48,970
+You said we should talk.
+
+727
+00:58:48,970 --> 00:58:51,530
+Stop it, right now!
+
+728
+00:58:52,080 --> 00:58:54,210
+Stop thinking and saying crap like that.
+
+729
+00:58:54,210 --> 00:58:55,310
+It's not crap!
+
+730
+00:58:55,310 --> 00:58:56,850
+It's crap!
+
+731
+00:58:57,850 --> 00:58:58,940
+Is that why you're upset with me?
+
+732
+00:58:59,380 --> 00:59:02,400
+You're such a liar!
+
+733
+00:59:02,400 --> 00:59:04,920
+Mom knew you were lying. Everyone knows you're lying.
+
+734
+00:59:10,100 --> 00:59:11,250
+You know what, Christian?
+
+735
+00:59:13,070 --> 00:59:14,810
+If mom could see you know,
+
+736
+00:59:14,810 --> 00:59:18,730
+she would be very unhappy to see what you've become.
+
+737
+00:59:18,730 --> 00:59:23,440
+Why do you say such mean things? What did I do to you?
+
+738
+00:59:24,100 --> 00:59:25,680
+I don't care who you're banging.
+
+739
+00:59:25,680 --> 00:59:29,080
+You don't tell me what's right and wrong.
+
+740
+00:59:29,080 --> 00:59:33,920
+This is wrong. And illegal.
+Never bring a knife to school again.
+
+741
+00:59:33,920 --> 00:59:36,060
+Do I make myself clear? Never!
+
+742
+00:59:38,420 --> 00:59:39,820
+You wanted her to die.
+
+743
+00:59:41,520 --> 00:59:42,340
+No, I didn't.
+
+744
+00:59:42,340 --> 00:59:43,580
+Yes, you did!
+
+745
+00:59:45,300 --> 00:59:50,100
+You can't just say it was the best thing for her.
+
+746
+00:59:50,100 --> 00:59:52,040
+She didn't want to die, and you gave up.
+
+747
+00:59:52,580 --> 00:59:54,440
+I can't stand people who give up.
+
+748
+00:59:54,440 --> 00:59:55,050
+Okay?
+
+749
+00:59:55,050 --> 00:59:56,010
+Christian...
+
+750
+01:00:17,580 --> 01:00:18,570
+Hi, Sofus.
+
+751
+01:00:18,570 --> 01:00:20,930
+See you later. Have a nice day.
+
+752
+01:00:31,460 --> 01:00:32,550
+I didn't tell.
+
+753
+01:00:32,970 --> 01:00:34,860
+My mom found the knife and freaked out.
+
+754
+01:00:37,440 --> 01:00:38,260
+Don't you believe me?
+
+755
+01:00:38,260 --> 01:00:40,740
+Just leave me alone.
+
+756
+01:00:40,740 --> 01:00:41,980
+Don't text me anymore.
+
+757
+01:01:15,980 --> 01:01:18,530
+It hurts all the way into his hand.
+
+758
+01:01:18,530 --> 01:01:22,880
+I can imagine that. I'm gonna give
+him some pills, and it will get better.
+
+759
+01:01:40,580 --> 01:01:42,980
+Easy. Easy. Stay calm.
+
+760
+01:02:35,880 --> 01:02:37,160
+Are you doctor?
+
+761
+01:02:38,820 --> 01:02:39,800
+Yes, I am.
+
+762
+01:02:42,580 --> 01:02:44,030
+Can you fix my leg?
+
+763
+01:03:00,540 --> 01:03:01,900
+I want to keep it.
+
+764
+01:03:04,420 --> 01:03:05,860
+I don't want you to cut if off.
+
+765
+01:03:06,660 --> 01:03:07,780
+I can try.
+
+766
+01:03:10,620 --> 01:03:13,420
+You can't have any weapons in the camp.
+
+767
+01:03:18,820 --> 01:03:20,200
+I decide that!
+
+768
+01:03:21,190 --> 01:03:21,860
+No.
+
+769
+01:03:23,500 --> 01:03:24,620
+I decide.
+
+770
+01:03:27,140 --> 01:03:30,460
+Weapons and cars gotta be far away from the camp.
+
+771
+01:03:48,260 --> 01:03:52,050
+It's Big Man. He's the one that cuts the pregnant women.
+
+772
+01:03:53,580 --> 01:03:54,770
+He's a monster.
+
+773
+01:04:06,860 --> 01:04:08,410
+Cars gotta go away.
+
+774
+01:04:08,410 --> 01:04:11,210
+Cars and weapons gotta go far away from the camp.
+
+775
+01:04:12,110 --> 01:04:14,610
+Otherwise I can't treat you, and you might lose your leg.
+
+776
+01:04:43,380 --> 01:04:44,450
+Nurse...
+
+777
+01:04:48,740 --> 01:04:49,630
+Nurse?
+
+778
+01:05:20,780 --> 01:05:23,580
+Don't help Big Man. He's evil.
+
+779
+01:05:25,360 --> 01:05:26,980
+Why do you want to help Big Man?
+
+780
+01:05:28,350 --> 01:05:29,420
+Because I have to.
+
+781
+01:05:32,860 --> 01:05:34,580
+He killed all my babies.
+
+782
+01:05:35,560 --> 01:05:36,380
+I'm so sorry.
+
+783
+01:05:37,300 --> 01:05:38,430
+He's evil.
+
+784
+01:05:38,430 --> 01:05:39,900
+I have to go.
+
+785
+01:06:11,090 --> 01:06:12,640
+You are a strange man.
+
+786
+01:06:31,980 --> 01:06:36,290
+I think it's malaria. I'm treating her for malaria.
+
+787
+01:06:40,840 --> 01:06:43,210
+She will be well in two, three days.
+
+788
+01:06:58,860 --> 01:07:01,580
+I thought we agreed upon only two here at a time.
+
+789
+01:07:02,620 --> 01:07:06,300
+Take it easy, doctor. See what they've brought me.
+
+790
+01:07:07,900 --> 01:07:09,260
+They leave now.
+
+791
+01:07:18,820 --> 01:07:20,170
+Still bad.
+
+792
+01:07:20,940 --> 01:07:22,750
+Why is it taking so long?
+
+793
+01:07:23,550 --> 01:07:24,900
+It's a bad infection.
+
+794
+01:07:26,050 --> 01:07:27,700
+It takes time. Okay?
+
+795
+01:07:27,700 --> 01:07:29,740
+I have to regain my strength.
+
+796
+01:07:31,700 --> 01:07:32,740
+You see Omar over there?
+
+797
+01:07:33,630 --> 01:07:35,140
+He wants to take my position.
+
+798
+01:07:43,380 --> 01:07:44,940
+Are you my friend?
+
+799
+01:07:46,030 --> 01:07:47,150
+No, I'm not.
+
+800
+01:07:47,980 --> 01:07:49,660
+But I'm doing my best to help you.
+
+801
+01:07:51,300 --> 01:07:53,150
+Everybody has killed here.
+
+802
+01:07:54,540 --> 01:07:57,520
+Men, women, children.
+
+803
+01:08:00,210 --> 01:08:03,410
+As long as I don't kill you, we could be friends.
+
+804
+01:08:07,620 --> 01:08:09,620
+I can be a very powerful friend.
+
+805
+01:08:12,210 --> 01:08:13,400
+Answer me!
+
+806
+01:09:02,860 --> 01:09:03,530
+Bag.
+
+807
+01:09:10,120 --> 01:09:11,080
+Bag.
+
+808
+01:09:11,080 --> 01:09:12,010
+Anton.
+
+809
+01:09:13,660 --> 01:09:14,350
+Anton!
+
+810
+01:09:15,400 --> 01:09:16,330
+She's gone.
+
+811
+01:09:16,960 --> 01:09:17,840
+Bag.
+
+812
+01:09:17,840 --> 01:09:18,920
+She's gone.
+
+813
+01:09:21,960 --> 01:09:22,900
+Anton.
+
+814
+01:09:23,900 --> 01:09:24,660
+Bag.
+
+815
+01:09:26,060 --> 01:09:26,890
+Check her pulse.
+
+816
+01:09:26,890 --> 01:09:30,280
+Please, Anton, stop.
+
+817
+01:09:30,280 --> 01:09:31,660
+She can make it.
+
+818
+01:09:31,660 --> 01:09:34,060
+Look at me. She's gone.
+
+819
+01:09:34,900 --> 01:09:35,720
+She's gone.
+
+820
+01:09:47,870 --> 01:09:48,980
+Help me please.
+
+821
+01:10:22,180 --> 01:10:23,340
+Little pussy, big knife.
+
+822
+01:10:25,860 --> 01:10:27,160
+What did you say?
+
+823
+01:10:27,710 --> 01:10:29,500
+Little pussy, big knife.
+
+824
+01:10:31,300 --> 01:10:32,260
+Are you done with her?
+
+825
+01:10:33,080 --> 01:10:34,860
+Maybe Omar can have her.
+
+826
+01:10:34,860 --> 01:10:36,660
+Omar likes things that don't move.
+
+827
+01:10:42,540 --> 01:10:45,140
+Now you go. Out.
+
+828
+01:10:46,540 --> 01:10:50,420
+Out, out! You leave! Leave! Leave right now!
+
+829
+01:10:50,420 --> 01:10:53,380
+If you can stand up, you can go! Go! Go!
+
+830
+01:10:54,060 --> 01:10:57,980
+You're not sick anymore. You leave! You go!
+
+831
+01:11:00,140 --> 01:11:01,300
+You go!
+
+832
+01:11:01,300 --> 01:11:03,860
+You're not sick! You leave the camp!
+
+833
+01:11:04,570 --> 01:11:07,390
+Doctor, I'm unarmed. I've got enemies all over.
+
+834
+01:11:08,340 --> 01:11:12,940
+Not my responsibility. You go now. You're not sick anymore.
+
+835
+01:13:19,980 --> 01:13:20,910
+Elias.
+
+836
+01:13:21,500 --> 01:13:22,760
+Hi, sweetheart.
+
+837
+01:13:22,760 --> 01:13:23,700
+Hi, dad.
+
+838
+01:13:24,420 --> 01:13:27,490
+Good to see you, my boy.
+
+839
+01:13:28,610 --> 01:13:32,810
+Did we talk about calling each other today?
+
+840
+01:13:33,380 --> 01:13:35,390
+I just wanted to talk to you.
+
+841
+01:13:37,180 --> 01:13:43,260
+I've had such a busy day. I couldn't remember if we
+
+842
+01:13:43,260 --> 01:13:45,000
+planned to talk today.
+
+843
+01:13:46,820 --> 01:13:47,970
+You know Christian?
+
+844
+01:13:49,900 --> 01:13:56,100
+His granddad died a long time ago
+and left some fireworks in the barn.
+
+845
+01:13:56,690 --> 01:13:58,770
+Nobody found them.
+
+846
+01:14:01,780 --> 01:14:05,960
+Dad, can you hear me?
+I have to tell you something important.
+
+847
+01:14:05,960 --> 01:14:08,970
+Christian made a bomb, and he's going to blow up a car.
+
+848
+01:14:12,900 --> 01:14:14,610
+Hello?
+
+849
+01:14:17,580 --> 01:14:18,560
+Dad?
+
+850
+01:14:21,860 --> 01:14:23,010
+I'm here.
+
+851
+01:14:27,660 --> 01:14:32,890
+Could we... I have had a very stressful day.
+
+852
+01:14:32,890 --> 01:14:37,460
+Could we talk again tomorrow, same time?
+
+853
+01:14:39,180 --> 01:14:40,270
+Are you okay?
+
+854
+01:14:41,210 --> 01:14:43,500
+You seem weirder than usual.
+
+855
+01:14:44,350 --> 01:14:46,620
+I'm okay.
+
+856
+01:14:48,970 --> 01:14:51,800
+Can we talk tomorrow?
+
+857
+01:14:51,800 --> 01:14:53,140
+I have to go.
+
+858
+01:14:55,220 --> 01:14:56,670
+Okay, dad.
+
+859
+01:14:58,580 --> 01:15:01,220
+I love you. Kisses.
+
+860
+01:15:39,540 --> 01:15:40,660
+Come on.
+
+861
+01:15:42,420 --> 01:15:43,530
+I'm in.
+
+862
+01:15:45,570 --> 01:15:47,140
+I want to make that bomb.
+
+863
+01:15:48,700 --> 01:15:50,500
+Let's blow up the asshole's car.
+
+864
+01:15:52,900 --> 01:15:55,520
+I agree. He deserves it.
+
+865
+01:15:57,260 --> 01:15:58,820
+Come on, we've got classes.
+
+866
+01:16:05,140 --> 01:16:07,490
+What about the other cars?
+
+867
+01:16:07,490 --> 01:16:09,850
+The ones next to it will be hit too.
+
+868
+01:16:09,850 --> 01:16:11,460
+A lot of windows.
+
+869
+01:16:12,440 --> 01:16:14,320
+What if there are people?
+
+870
+01:16:14,320 --> 01:16:15,330
+There won't be any.
+
+871
+01:16:16,220 --> 01:16:18,210
+How do you know?
+
+872
+01:16:18,210 --> 01:16:20,220
+We'll do it early in the morning.
+
+873
+01:16:21,380 --> 01:16:24,740
+We'll do it Sunday, when everybody's
+asleep, and no one will get hurt.
+
+874
+01:16:25,370 --> 01:16:27,730
+I have a soccer match Sunday.
+
+875
+01:16:28,670 --> 01:16:30,440
+Not at seven in the morning.
+
+876
+01:16:34,820 --> 01:16:36,190
+Don't be such a pussy.
+
+877
+01:16:36,190 --> 01:16:37,040
+I'm not.
+
+878
+01:16:37,660 --> 01:16:39,090
+You can't back out now.
+
+879
+01:16:39,090 --> 01:16:39,840
+Let's do it.
+
+880
+01:16:40,880 --> 01:16:41,970
+Sure.
+
+881
+01:16:48,980 --> 01:16:50,100
+Hold the fuse.
+
+882
+01:18:18,340 --> 01:18:20,110
+Finished playing?
+
+883
+01:18:20,110 --> 01:18:21,980
+If I died, would you stay here?
+
+884
+01:18:24,430 --> 01:18:26,700
+I don't wanna argue with you. Don't give me that look.
+
+885
+01:18:27,400 --> 01:18:28,540
+You're not going to die.
+
+886
+01:18:29,380 --> 01:18:30,590
+I could.
+
+887
+01:18:30,590 --> 01:18:32,220
+No, you couldn't.
+
+888
+01:18:34,220 --> 01:18:37,410
+Would you move back to London or live here with grandma?
+
+889
+01:18:37,410 --> 01:18:40,900
+I would be so devastated
+that I wouldn't want to live anywhere.
+
+890
+01:18:40,900 --> 01:18:42,350
+It would be good.
+
+891
+01:18:42,350 --> 01:18:44,340
+You would have to live somewhere, even if I wasn't here.
+
+892
+01:18:45,850 --> 01:18:48,400
+Why won't you answer my questions?
+
+893
+01:18:48,400 --> 01:18:50,280
+What do you want me to say?
+
+894
+01:18:54,380 --> 01:18:57,580
+Like you would be homeless, if I died.
+
+895
+01:18:57,980 --> 01:18:59,760
+Why do you keep lying to me?
+
+896
+01:18:59,760 --> 01:19:05,580
+This is crazy. I have never lied to you.
+
+897
+01:19:05,580 --> 01:19:07,310
+Look at me. I haven't lied to you.
+
+898
+01:19:07,310 --> 01:19:09,220
+You told me that mom would be OK!
+
+899
+01:19:10,380 --> 01:19:12,450
+You told me she wasn't in pain.
+
+900
+01:19:12,450 --> 01:19:15,040
+I'm just as upset about it as you.
+
+901
+01:19:15,040 --> 01:19:16,850
+I don't think you are.
+
+902
+01:19:16,850 --> 01:19:18,330
+You wanted her to die.
+
+903
+01:19:19,710 --> 01:19:21,980
+I know it. Admit it already!
+
+904
+01:19:21,980 --> 01:19:23,180
+You wanted her to die!
+
+905
+01:19:32,300 --> 01:19:33,950
+I did want her to die.
+
+906
+01:19:35,140 --> 01:19:36,080
+In the end.
+
+907
+01:19:39,660 --> 01:19:41,200
+Because she wanted to.
+
+908
+01:19:45,820 --> 01:19:48,420
+I couldn't take it anymore.
+And she couldn't take it anymore.
+
+909
+01:19:50,380 --> 01:19:54,060
+She was screaming in pain,
+and her brain was eaten away by the cancer.
+
+910
+01:19:54,680 --> 01:19:57,850
+She asked me to help her so many times. To do it.
+
+911
+01:19:57,850 --> 01:20:00,140
+I couldn't do it, because I knew how sad it would make you.
+
+912
+01:20:01,580 --> 01:20:05,020
+And if that is giving up, then I gave up.
+
+913
+01:20:06,220 --> 01:20:07,700
+I gave up.
+
+914
+01:20:08,040 --> 01:20:12,220
+But that doesn't mean that I wanted her to die.
+
+915
+01:20:19,290 --> 01:20:19,980
+Christian.
+
+916
+01:21:31,900 --> 01:21:34,180
+Are you sure about this?
+
+917
+01:21:34,960 --> 01:21:35,810
+Yep.
+
+918
+01:21:38,340 --> 01:21:39,600
+You made it bigger.
+
+919
+01:21:40,900 --> 01:21:41,780
+Come on.
+
+920
+01:21:56,260 --> 01:21:57,180
+Okay.
+
+921
+01:21:58,320 --> 01:22:02,620
+We've got about a minute before it blows.
+We'll walk calmly back to our bikes.
+
+922
+01:22:20,620 --> 01:22:21,980
+Don't look back.
+
+923
+01:22:36,860 --> 01:22:37,850
+No!
+
+924
+01:22:37,850 --> 01:22:38,560
+What is it?
+
+925
+01:22:42,340 --> 01:22:42,980
+Elias!
+
+926
+01:22:42,980 --> 01:22:43,520
+Stop!
+
+927
+01:22:45,100 --> 01:22:47,380
+Go back! Back! There's a bomb!
+
+928
+01:22:55,060 --> 01:22:56,190
+No!
+
+929
+01:23:00,380 --> 01:23:00,840
+No!
+
+930
+01:23:00,840 --> 01:23:01,850
+Elias!
+
+931
+01:23:04,460 --> 01:23:07,220
+Call an ambulance!
+
+932
+01:23:09,420 --> 01:23:12,060
+Elias? Elias!
+
+933
+01:23:33,100 --> 01:23:34,530
+What have you got?
+
+934
+01:23:34,530 --> 01:23:37,200
+Elias, age 12.
+
+935
+01:23:37,200 --> 01:23:39,170
+He blew up a car.
+
+936
+01:23:39,170 --> 01:23:40,610
+How is he doing?
+
+937
+01:23:41,400 --> 01:23:45,020
+Breathing steadily, but unstable pulse.
+
+938
+01:23:45,020 --> 01:23:47,660
+Okay. Someone take care of the mom please?
+
+939
+01:23:50,020 --> 01:23:53,260
+He's got a large open wound in his abdomen.
+
+940
+01:23:58,460 --> 01:24:00,400
+Any other injuries?
+
+941
+01:24:00,400 --> 01:24:01,420
+Stay here.
+
+942
+01:24:09,100 --> 01:24:12,780
+We'll pack the abdomen with tissues
+and examine him thoroughly.
+
+943
+01:24:34,350 --> 01:24:37,100
+Listen to me. What you did is very bad.
+
+944
+01:24:38,000 --> 01:24:41,130
+But if others are involved, that's another matter.
+
+945
+01:24:42,380 --> 01:24:46,100
+I have to make sure there isn't.
+
+946
+01:24:47,940 --> 01:24:49,420
+I did it all on my own.
+
+947
+01:24:49,420 --> 01:24:50,540
+With Elias?
+
+948
+01:24:51,660 --> 01:24:52,670
+It was my idea.
+
+949
+01:24:53,520 --> 01:24:55,420
+He just tagged along.
+
+950
+01:24:57,700 --> 01:24:58,580
+I called the shots.
+
+951
+01:24:59,760 --> 01:25:02,780
+So you haven't talked to anyone online?
+
+952
+01:25:03,420 --> 01:25:04,700
+Gotten ideas from someone?
+
+953
+01:25:04,700 --> 01:25:05,630
+No.
+
+954
+01:25:06,350 --> 01:25:08,620
+Only the websites I told you about.
+
+955
+01:25:12,140 --> 01:25:16,500
+One of my colleagues is going to
+ask you all these questions again.
+
+956
+01:25:58,010 --> 01:25:59,610
+How about your other son?
+
+957
+01:26:00,610 --> 01:26:02,120
+How's he doing?
+
+958
+01:26:02,120 --> 01:26:04,050
+He's at my mother's.
+
+959
+01:26:04,050 --> 01:26:05,180
+He doesn't know.
+
+960
+01:26:11,220 --> 01:26:12,960
+I would like you to stay here.
+
+961
+01:26:15,040 --> 01:26:16,250
+Just...
+
+962
+01:26:18,380 --> 01:26:19,420
+Just stay here.
+
+963
+01:26:20,000 --> 01:26:21,100
+Sure.
+
+964
+01:26:42,340 --> 01:26:45,340
+Christian is out here. He would like to see Elias.
+
+965
+01:26:46,160 --> 01:26:47,550
+Can I send him in?
+
+966
+01:27:11,500 --> 01:27:12,540
+How is he?
+
+967
+01:27:14,540 --> 01:27:16,110
+Why aren't you with the police?
+
+968
+01:27:17,180 --> 01:27:17,860
+I was.
+
+969
+01:27:18,760 --> 01:27:19,820
+My dad picked me up.
+
+970
+01:27:20,880 --> 01:27:22,270
+Where's your dad?
+
+971
+01:27:23,450 --> 01:27:25,220
+I would like to see Elias on my own.
+
+972
+01:27:27,820 --> 01:27:29,090
+You shouldn't be here.
+
+973
+01:27:30,000 --> 01:27:31,240
+You hear me?
+
+974
+01:27:32,260 --> 01:27:34,540
+You killed him, you psycho!
+
+975
+01:27:35,250 --> 01:27:36,690
+You killed him.
+
+976
+01:27:38,280 --> 01:27:39,200
+I did?
+
+977
+01:27:39,780 --> 01:27:41,870
+Just stay away, okay?
+
+978
+01:27:42,920 --> 01:27:44,600
+Just stay away.
+
+979
+01:27:44,600 --> 01:27:47,070
+You killed him because you're such a
+
+980
+01:27:47,070 --> 01:27:51,870
+spoiled, little brat who thinks
+he can control other people's lives.
+
+981
+01:27:53,580 --> 01:27:54,700
+Just get out!
+
+982
+01:28:07,420 --> 01:28:10,080
+That's enough. Stop!
+
+983
+01:28:10,080 --> 01:28:11,940
+Come with me.
+
+984
+01:29:01,920 --> 01:29:05,290
+Marianne, we have the results of the CT scanning.
+
+985
+01:29:05,940 --> 01:29:09,340
+No hemorrhaging in the brain.
+Minimal free fluid in the pelvis.
+
+986
+01:29:09,340 --> 01:29:11,420
+Most likely from the operation.
+
+987
+01:29:11,840 --> 01:29:13,620
+And no sign of other injuries.
+
+988
+01:29:15,420 --> 01:29:16,320
+Thank you.
+
+989
+01:29:49,860 --> 01:29:52,540
+That's all from me. Thank you for the help.
+
+990
+01:29:53,290 --> 01:29:54,900
+What will happen to them now?
+
+991
+01:29:54,900 --> 01:29:56,800
+I couldn't say.
+
+992
+01:29:57,360 --> 01:29:58,780
+Could they take him away?
+
+993
+01:29:58,780 --> 01:30:00,370
+No.
+
+994
+01:30:00,370 --> 01:30:04,520
+There are mitigating circumstances.
+
+995
+01:30:05,150 --> 01:30:08,380
+It will be a case of malicious property damage.
+Social services will take over.
+
+996
+01:30:10,560 --> 01:30:12,770
+Remember that your son saved those people.
+
+997
+01:30:16,300 --> 01:30:17,090
+Hope he gets well soon.
+
+998
+01:30:17,090 --> 01:30:18,140
+Thanks.
+
+999
+01:31:15,380 --> 01:31:16,220
+Elias?
+
+1000
+01:31:18,240 --> 01:31:19,310
+Elias?
+
+1001
+01:31:21,580 --> 01:31:22,320
+Good.
+
+1002
+01:31:24,180 --> 01:31:26,340
+I'll just remove this.
+
+1003
+01:31:29,980 --> 01:31:31,250
+Look who's here.
+
+1004
+01:31:37,180 --> 01:31:38,020
+Hi.
+
+1005
+01:31:46,340 --> 01:31:47,410
+I'm sorry.
+
+1006
+01:31:47,410 --> 01:31:48,220
+Honey...
+
+1007
+01:31:49,780 --> 01:31:52,040
+Don't be mad at Christian.
+
+1008
+01:31:52,040 --> 01:31:53,250
+We'll deal with that later.
+
+1009
+01:31:54,580 --> 01:31:55,530
+Later.
+
+1010
+01:31:56,810 --> 01:31:58,210
+It was my own fault.
+
+1011
+01:31:59,140 --> 01:32:00,620
+I wanted to do it.
+
+1012
+01:32:03,260 --> 01:32:05,170
+I talked Christian into it.
+
+1013
+01:32:06,400 --> 01:32:08,660
+We'll talk about that later. You just rest.
+
+1014
+01:32:17,420 --> 01:32:19,630
+How could he do such a thing?
+
+1015
+01:32:20,490 --> 01:32:21,630
+I don't know.
+
+1016
+01:32:28,860 --> 01:32:30,510
+He'll be fine.
+
+1017
+01:32:32,420 --> 01:32:34,160
+He'll be okay.
+
+1018
+01:32:35,340 --> 01:32:36,200
+Yes.
+
+1019
+01:32:42,290 --> 01:32:46,770
+I'll take you home, and then I'm going to the summerhouse.
+
+1020
+01:34:48,260 --> 01:34:49,600
+I don't know what to do.
+
+1021
+01:35:00,660 --> 01:35:02,610
+Eva said he would hate me.
+
+1022
+01:35:06,380 --> 01:35:07,610
+Do you think he hates me?
+
+1023
+01:35:10,900 --> 01:35:12,440
+She was so mean in the end.
+
+1024
+01:35:16,340 --> 01:35:17,310
+She was...
+
+1025
+01:35:19,160 --> 01:35:20,140
+She was so mean.
+
+1026
+01:35:24,260 --> 01:35:25,140
+Bitter.
+
+1027
+01:35:30,620 --> 01:35:33,310
+I don't know how to make it better.
+
+1028
+01:35:48,220 --> 01:35:49,900
+He's my little boy, you know?
+
+1029
+01:37:11,540 --> 01:37:12,700
+Yes?
+
+1030
+01:37:12,700 --> 01:37:14,040
+Is that Marianne?
+
+1031
+01:37:14,040 --> 01:37:15,070
+Yes.
+
+1032
+01:37:15,070 --> 01:37:16,360
+Hi, Marianne. Claus here.
+
+1033
+01:37:18,160 --> 01:37:22,480
+Christian's dad. Sorry to call you at this hour,
+but I can't find Christian.
+
+1034
+01:37:22,480 --> 01:37:25,880
+Is he at your place?
+
+1035
+01:37:27,300 --> 01:37:28,640
+No, he's not here.
+
+1036
+01:37:40,590 --> 01:37:41,710
+What was that about?
+
+1037
+01:37:44,740 --> 01:37:47,140
+That was Christian's dad. Christian is missing.
+
+1038
+01:38:47,820 --> 01:38:50,140
+I'm the one who called.
+
+1039
+01:38:50,140 --> 01:38:54,020
+I checked the workshop, but he wasn't there.
+
+1040
+01:39:42,700 --> 01:39:43,500
+Christian!
+
+1041
+01:39:45,220 --> 01:39:46,380
+Christian.
+
+1042
+01:39:54,260 --> 01:39:57,140
+It's Elias' dad, Christian.
+
+1043
+01:39:59,260 --> 01:40:00,730
+Step away from the edge.
+
+1044
+01:40:10,740 --> 01:40:13,860
+Get away from the edge, Christian.
+
+1045
+01:40:33,860 --> 01:40:35,790
+Elias is going to be all right.
+
+1046
+01:40:40,580 --> 01:40:42,430
+He's going to be okay.
+
+1047
+01:40:53,020 --> 01:40:55,740
+You think I would come up here
+
+1048
+01:40:55,740 --> 01:40:58,180
+if Elias wasn't going to be okay?
+
+1049
+01:41:00,460 --> 01:41:02,380
+I would be with him.
+
+1050
+01:41:03,940 --> 01:41:04,940
+Wouldn't I?
+
+1051
+01:41:08,590 --> 01:41:10,120
+He's going to be okay.
+
+1052
+01:41:13,540 --> 01:41:14,900
+You have to believe me.
+
+1053
+01:41:17,420 --> 01:41:19,250
+So I didn't kill him?
+
+1054
+01:41:22,500 --> 01:41:23,330
+No.
+
+1055
+01:41:31,580 --> 01:41:32,810
+I thought he was dead.
+
+1056
+01:41:36,420 --> 01:41:37,440
+He's alive.
+
+1057
+01:41:40,220 --> 01:41:43,860
+And he's going to be okay.
+
+1058
+01:41:45,540 --> 01:41:47,490
+I couldn't picture him.
+
+1059
+01:41:49,300 --> 01:41:51,330
+I don't know if children look younger.
+
+1060
+01:41:52,400 --> 01:41:53,760
+When they are dead?
+
+1061
+01:41:54,580 --> 01:41:56,880
+Adults look like children when they are dead.
+
+1062
+01:42:00,860 --> 01:42:02,660
+I know my mom did.
+
+1063
+01:42:02,660 --> 01:42:04,280
+She looked like a little girl.
+
+1064
+01:42:08,460 --> 01:42:10,140
+Like she never grew up.
+
+1065
+01:42:14,660 --> 01:42:16,940
+Like she was never my mom.
+
+1066
+01:42:27,140 --> 01:42:28,670
+I miss her so much.
+
+1067
+01:42:44,020 --> 01:42:47,720
+Sometimes it feels like there's
+a veil between you and death.
+
+1068
+01:42:50,380 --> 01:42:54,010
+But that veil disappears when you...
+
+1069
+01:42:54,940 --> 01:42:59,280
+...lose someone you loved
+or someone who was close to you,
+
+1070
+01:42:59,960 --> 01:43:04,140
+and you see death clearly
+
+1071
+01:43:04,880 --> 01:43:06,490
+for a second.
+
+1072
+01:43:07,360 --> 01:43:11,860
+But later the veil returns
+
+1073
+01:43:14,640 --> 01:43:16,330
+and you carry on living.
+
+1074
+01:43:17,860 --> 01:43:19,550
+Then things will be all right again.
+
+1075
+01:43:24,780 --> 01:43:25,930
+You think so?
+
+1076
+01:44:21,100 --> 01:44:22,340
+Christian?
+
+1077
+01:44:29,130 --> 01:44:31,780
+Elias' mom is downstairs and would like to talk to you.
+
+1078
+01:44:50,980 --> 01:44:51,770
+Ow!
+
+1079
+01:44:52,460 --> 01:44:54,760
+Stop it. Just stop it.
+
+1080
+01:44:54,760 --> 01:44:57,020
+It's not funny. Stop it!
+
+1081
+01:44:59,380 --> 01:45:01,140
+Ow! Stop it!
+
+1082
+01:45:02,660 --> 01:45:03,930
+Morten, stop it already.
+
+1083
+01:45:03,930 --> 01:45:04,860
+That's enough.
+
+1084
+01:45:05,960 --> 01:45:07,780
+Take it easy.
+
+1085
+01:45:17,420 --> 01:45:19,140
+Stop it.
+
+1086
+01:45:19,640 --> 01:45:21,400
+Morten is so annoying.
+
+1087
+01:45:21,400 --> 01:45:23,310
+Morten, come on. How are you?
+
+1088
+01:45:23,310 --> 01:45:26,460
+Look at this. He can't do anything.
+
+1089
+01:45:26,460 --> 01:45:27,530
+Stop it!
+
+1090
+01:45:27,960 --> 01:45:31,280
+Let's leave them alone and go to the cafeteria.
+
+1091
+01:45:31,280 --> 01:45:32,340
+I want a Coke!
+
+1092
+01:45:32,340 --> 01:45:33,660
+You can have a small one.
+
+1093
+01:45:33,660 --> 01:45:34,910
+A large one.
+
+1094
+01:45:34,910 --> 01:45:36,980
+Didn't you have one when we got here?
+
+1095
+01:45:36,980 --> 01:45:39,290
+I would like another one.
+
+1096
+01:45:50,860 --> 01:45:51,970
+Doesn't it hurt?
+
+1097
+01:45:52,900 --> 01:45:54,780
+They give me these pills.
+
+1098
+01:46:02,340 --> 01:46:05,450
+I told the police everything that happened.
+
+1099
+01:46:07,100 --> 01:46:08,450
+Me too.
+
+1100
+01:46:11,500 --> 01:46:15,260
+It's weird. I've slept for days, but I'm still tired.
+
+1101
+01:46:18,810 --> 01:46:20,020
+I just want to say I'm sorry.
+
+1102
+01:46:21,400 --> 01:46:22,500
+You don't have to.
+
+1103
+01:46:23,180 --> 01:46:24,500
+Yes, I do.
+
+1104
+01:46:26,060 --> 01:46:27,120
+I've been an idiot.
+
+1105
+01:46:28,730 --> 01:46:30,020
+That's all right.
+
+1106
+01:46:37,870 --> 01:46:39,330
+I can't wait till you're back in school.
+
+1107
+01:46:40,090 --> 01:46:41,680
+Same here.

@@ -1,0 +1,372 @@
+{1308}{1349}Looking for something?
+{1351}{1397}Yes, a grave.
+{1399}{1500}No one's had time to die here yet.|You can see there is no graveyard.
+{1502}{1556}This was a long time ago.
+{1558}{1626}Actually, not such a long time.|Nearly three years.
+{1629}{1690}I buried a friend here.|A friend.
+{1718}{1818}Huge trees stood here.|A cedar and a fir tree.
+{1821}{1890}Remember them?
+{1893}{1956}Probably chopped down|when the settlement was built.
+{2014}{2059}Could it be those?
+{3085}{3129}Dersu!
+{4123}{4221}In the islands, the hunter
+{4223}{4310}Roams all day long
+{4313}{4392}But no luck for him
+{4394}{4489}And he curses himself
+{4491}{4574}What's he going to do
+{4625}{4747}How is he to serve
+{4750}{4861}He cannot be cheerful
+{4863}{4976}So what|He'll try to aim better
+{5002}{5094}So the hunter goes
+{5097}{5167}To warmer waters
+{5170}{5252}Where the fish were frolicking
+{5254}{5339}In the beautiful weather
+{5342}{5446}There on the shore
+{5529}{5567}That year...
+{5570}{5638}my assignment was|to go to the Shkotovo area...
+{5641}{5688}in the Usuries region...
+{5690}{5775}to make a topographic survey.
+{7063}{7197}Some times mountains and forests|Look cheerful and attractive.
+{7235}{7344}At other times,|they seem sullen and wild.
+{7398}{7447}This isn't just my own feeling.
+{7484}{7577}All the men in the unit|share this feeing.
+{7636}{7736}With God's help,|we will spend the night here.
+{7738}{7817}And tomorrow,|we'll find a more cheerful place.
+{7819}{7865}Very well.|We'll halt here for the night.
+{7867}{7913}Yes, we'll stay here for the night.
+{9542}{9649}That valley reminded me...
+{9651}{9698}of Walpurgis Night...
+{9729}{9837}a place where witches|would gather for their Sabbath.
+{11162}{11209}What's that?
+{11211}{11249}A falling rock.
+{11296}{11345}Is someone coming down?
+{11542}{11579}It's a bear!
+{11776}{11873}Please to not shoot!|Me are people!
+{12616}{12658}Hello, Captain.
+{12865}{12932}Look. A man.
+{12974}{13020}You said it was a bear.
+{13828}{13877}Won't you join us?
+{13914}{13960}Thanks.
+{13989}{14046}I am very hungry.
+{14049}{14095}Nothing to eat today.
+{15078}{15121}Who are you?
+{15150}{15191}A Chinese?
+{15223}{15265}A Korean?
+{15268}{15314}No. Me is Goldi.
+{15455}{15496}A hunter?
+{15533}{15616}Me hunt all the time.
+{15618}{15663}No other job.
+{15745}{15793}Where do you live?
+{15847}{15890}Not have home.
+{15893}{16029}Build a shack and sleep,|and living like in a home.
+{16147}{16199}No luck today?
+{16233}{16329}Today shoot at stag.
+{16331}{16372}Me not hurt him much.
+{16374}{16425}Stag run away.
+{16427}{16474}Me follow after it.
+{16476}{16529}Me see people tracks.
+{16555}{16633}Me go slow.|Me think:
+{16636}{16711}''What kind of people|so far in the hills?''
+{16714}{16778}Me look close.
+{16781}{16871}See Captain, soldiers.
+{16874}{16942}So me come here quick.
+{16974}{17031}Why did you miss the stag|if you’re such a good hunter?
+{17064}{17145}You never miss?
+{17147}{17227}We're soldiers.|We're not supposed to miss.
+{17254}{17359}You great hunter, shoot all beasts...
+{17362}{17408}we don't have anything to eat.
+{17970}{18054}Hey, you!|Enough babble!
+{18166}{18207}Well, well.
+{18545}{18638}Here. Now you can babble.
+{18965}{19058}My name is Arseniev.|What's yours?
+{19061}{19098}Dersu Uzala.
+{19166}{19216}How old are you?
+{19450}{19495}I don't know well.
+{19521}{19591}Me live a long, long time.
+{19617}{19665}Do you have a family?
+{19757}{19847}They all die long ago.
+{20006}{20111}Before, I had a wife...
+{20114}{20160}son and girl.
+{20235}{20293}The smallpox finish all people.
+{20321}{20418}Now me left alone.
+{20834}{20867}Look, Dersu.
+{20926}{21041}We are surveying this area--
+{21043}{21108}the ranges, passes and rivers.
+{21143}{21196}Will you be our guide?
+{21446}{21515}Necessary me think.
+{21536}{21605}Stop it.
+{21607}{21653}Well, think it over.
+{21770}{21816}Now, let's go to sleep.
+{22245}{22295}The next day,|without saying a word...
+{22298}{22373}Dersu took his place|at the head of our squad.
+{22769}{22819}There is a road here.
+{23052}{23138}- A road!|- Come here! There's a road!
+{23141}{23185}What's there?
+{23187}{23280}This road two, three days before,|one people come.
+{23282}{23334}Then rain come.
+{23337}{23391}These people Chinese.
+{23394}{23444}Where did you get that?
+{23446}{23520}How you not understand?|Look well!
+{23522}{23624}He wear Chinese boots.|Water in his tracks.
+{23710}{23788}You the same as children.
+{23790}{23836}Eyes not see.
+{23838}{23909}You live in the forest, die soon.
+{24109}{24153}Chinese!
+{24156}{24195}Let's go!|Let's go!
+{24765}{24833}Soon we find shack.
+{24835}{24881}How do you know?
+{24913}{24951}Look!
+{24954}{25009}Strip bark.|Make roof.
+{25505}{25550}The rain-soaked ashes...
+{25704}{25750}the bed of grass...
+{25827}{25909}and a discarded piece|of Chinese fabric...
+{25911}{25982}all confirmed Dersu's words.
+{25984}{26072}Obviously, a Chinese spent the night|a couple of days ago.
+{28606}{28652}Did you see that?
+{29363}{29401}Yegor!
+{29723}{29824}Captain.|Rice, salt, matches, give some.
+{29826}{29865}What do you need it for?
+{29868}{29986}Rice, salt, matches.|Wrap in birch bark, put in shack.
+{29988}{30044}You plan to return?
+{30046}{30092}Why return?
+{30094}{30166}Other people come.
+{30168}{30230}Find dry wood.
+{30233}{30281}Find food. Not die.
+{30454}{30486}Olentiev!
+{30489}{30598}Bring matches, rice and salt.
+{30601}{30642}At your command.
+{31099}{31153}This Goldi filled me|with admiration.
+{31185}{31244}He had amazing insight...
+{31270}{31339}acquired during his long life|in the forest.
+{31387}{31467}Besides, he had a beautiful soul.
+{31535}{31609}He provided for the needs|of a person he didn't know...
+{31635}{31690}and probably wouldn't ever see.
+{32254}{32350}Dersu, let's wait|until the rain stops.
+{32353}{32398}Time to get ready.
+{32430}{32507}Listen good.|Birds are starting to sing.
+{32526}{32584}Rain soon stop.
+{32800}{32857}Sun is coming out.
+{32859}{32934}Dersu, do you know what the sun is?
+{32937}{32982}Everyone knows the sun.
+{33042}{33113}Could be that|you've never seen the sun?
+{33115}{33169}Look, there it is.
+{33854}{33909}Captain.
+{33911}{33986}Sun is the most important men.
+{33989}{34059}This men die, all die.
+{34157}{34227}And this is another important men.
+{34812}{34883}This is bad men. Shout.
+{34910}{34980}If one listens to you,|everything around are men.
+{35015}{35104}Look. All is men.|Water alive.
+{35106}{35152}Well, you said it.
+{35222}{35282}Is fire alive too?
+{35285}{35346}Yes, fire is still men.
+{35418}{35493}Fire angry,|forest burn for many days.
+{35546}{35607}Fire get angry, frightful.
+{35610}{35660}Water get angry, frightful.
+{35662}{35714}Wind get angry, frightful.
+{35717}{35808}Fire, water, wind.|Three mighty men.
+{36169}{36250}The first snow fell that day.
+{36674}{36727}- Why shoot?|-Just for fun.
+{36730}{36785}- Step back, Dersu.|- Waste bullets, bad.
+{36788}{36853}What waste? We're soldiers.|We're practicing.
+{36962}{37025}- Screw it!|- Seryoga drank too much.
+{37028}{37081}Let me try. Taras!
+{37504}{37541}What a shot!
+{37694}{37732}Go!
+{38007}{38045}What the hell?
+{38048}{38110}It's harder than|bringing down a flying bird.
+{38113}{38165}Good shooter not miss.
+{38168}{38235}Go ahead, old man.|Try it yourself.
+{38238}{38339}Why shoot and smash? Why break?|Where in forest you find bottle?
+{38342}{38399}Are you trying to|worm your way out of it?
+{38402}{38433}Just admit you won't hit it.
+{38436}{38518}Me not shoot at bottle.|Me shoot at rope.
+{38521}{38564}Bottle fall down,|you give me bottle.
+{38566}{38606}Hit the rope?|Go ahead.
+{38609}{38678}It's yours if you hit the rope,|and I will fill it with vodka.
+{38681}{38727}Go, Marchenko!
+{38798}{38835}Go!
+{39226}{39256}What a man!
+{39258}{39313}He certainly put one over|on you, Olentiev!
+{39342}{39393}Get ready to set out, men.
+{39526}{39583}Go, go!
+{39645}{39693}Once again, once again!
+{39979}{40016}You won!
+{40425}{40470}- Where is Dersu?|- God knows.
+{40473}{40538}He suddenly decided to take|his portion of vodka and went off.
+{40541}{40593}- He's sitting by the river.|- What's he doing?
+{40596}{40665}Sitting by the fire and singing.|Probably drunk.
+{40798}{40844}Let me tie it.
+{44269}{44323}May I sit with you|for a while, Dersu?
+{44833}{44870}Captain.
+{44900}{45028}Over there my wife and kids die.
+{45030}{45061}Smallpox.
+{45150}{45216}Everyone afraid of smallpox.
+{45218}{45341}Wife, kids, house,|all together burn.
+{45554}{45693}Last night bad dream had.
+{45765}{45857}Yurt will be soon fall down.
+{45888}{45968}Wife, kids in this yurt...
+{45970}{46034}all get freezing.
+{46037}{46094}No eat.
+{46097}{46201}So me come here,|give them everything.
+{47402}{47474}Yesterday, an old men walked along.
+{47477}{47523}This men didn't sleep the night.
+{47555}{47668}- How do you know?|- No sign at campfire that he sleep.
+{47702}{47740}How do you know he's old?
+{47742}{47803}Young man always walk on his toes.
+{47806}{47882}Old man always walk on his heels.
+{48115}{48222}I met that old Chinese|a few days Later.
+{49319}{49406}His name is Li Tsung-ping.
+{49409}{49466}He is 64.
+{49469}{49528}He come from Tientsin.
+{49564}{49609}How did he land here?
+{49778}{49859}Was a woman.|His brother took her.
+{49862}{49947}He went into the mountains.
+{49950}{49995}For 40 years live alone.
+{50139}{50188}Thank you.
+{51867}{51904}It's cold already.
+{52087}{52148}Maybe we should invite the old man|to come over to our fire.
+{52185}{52232}Don't, Captain.
+{52234}{52282}Don't disturb him.
+{52544}{52625}Him now think very much.
+{52725}{52794}He see house, he see garden...
+{52868}{52924}all in blossom.
+{53581}{53648}Captain! Captain!
+{53760}{53828}Li Tsung-ping come say good-bye.
+{53830}{53876}Him now go home.
+{56461}{56516}The ultimate goal|of this expedition...
+{56518}{56610}was to explore the area|around Lake Khanka.
+{56642}{56763}We had to cross big swamps|and road-less tracts.
+{56766}{56877}I sent most of the men|and horses to Chernigovka.
+{56879}{56976}Dersu, Olentiev, Krushinov and I...
+{56979}{57045}set out for the Lake in a flatboat.
+{57639}{57736}Olentiev, stay here and make camp.
+{57739}{57838}Dersu and I will go on.
+{57841}{57878}Unload.
+{58809}{58854}Captain!
+{58857}{58957}Us go back soon?|Me little scared.
+{58960}{59058}Lake Khanka is not far.|We won't stay there long.
+{59061}{59137}All right, Captain,|you see for yourself.
+{59139}{59197}What is okay is okay.
+{59706}{59839}Silence Layover|the frozen reaches of the Lake.
+{59890}{60030}Some menace to humans|was lurking in this silence.
+{60253}{60302}Captain!
+{60305}{60373}Have to go back quick.
+{60375}{60424}The wind cover our tracks.
+{60426}{60472}Yes, yes, let's go.
+{62791}{62855}Never mind, Dersu.
+{62858}{62940}Now we'll know where we came from.
+{63070}{63107}From there!
+{64582}{64673}Captain!|Us weren't here. Bad!
+{67042}{67123}Captain! Us lose road!
+{67126}{67192}Road there.|But how do we get there?
+{67194}{67240}There is water all around.
+{67590}{67665}Captain! Sun is low.
+{67668}{67737}Soon night come.|Night come, we die.
+{67739}{67808}If the camp is close by,|they'll hear us.
+{68256}{68307}We'll have to spend|the night here, Dersu.
+{68310}{68383}It's dangerous to go on.|What shall we do?
+{68474}{68546}Captain! Listen.|Listen good.
+{68578}{68690}Have to work fast.|Us not work good, us die.
+{68693}{68758}- What work?|- Cut grass.
+{70658}{70724}Captain! Work fast!
+{73285}{73337}Captain! Work fast!
+{77097}{77139}Take rope!
+{78914}{78969}Captain! Get up! Get up!
+{79250}{79357}As the wind howled,|I sank into darkness.
+{79395}{79453}I don't know how long I slept.
+{80334}{80398}Hey, bear!
+{80401}{80489}Climb out of the den!|Sun is up!
+{83326}{83399}Only then did I realize|what Dersu had done for me.
+{83425}{83482}His wits had saved me.
+{83699}{83764}Thank you, Dersu.|Thank you.
+{83766}{83812}What would I have done without you?
+{83814}{83892}Go together, work together.|No need thanks.
+{84028}{84073}That's Olentiev!
+{85093}{85149}From that point on...
+{85151}{85197}our expedition became more difficult.
+{85377}{85422}Let's go! Go!
+{85533}{85591}Severe frost.
+{85594}{85640}Exhaustion.
+{85642}{85676}Hunger.
+{85714}{85841}Man is very small|before the face of nature.
+{88170}{88269}Forward! Forward! Don't stop!
+{88272}{88317}Forward!
+{88579}{88649}Captain!|Me find smell of smoke.
+{88705}{88750}Udegheis are frying fish.
+{88882}{88927}Thank you.
+{90353}{90390}Captain.
+{90458}{90504}Where go tomorrow?
+{90561}{90656}We'll reach Chernigovka,|join our men there...
+{90659}{90729}and then take the train|to Vladivostok.
+{90793}{90879}Come with me.|It's nice and comfortable in town.
+{91009}{91070}No, thank you.
+{91073}{91113}Me cannot.
+{91140}{91197}What me work in town?
+{91200}{91248}Hunting, no.
+{91251}{91297}Sable chase, no.
+{91425}{91471}At least come to the station with me.
+{91473}{91571}I'll get food|and some money for you there.
+{91600}{91675}Me food, money not need.
+{91754}{91804}Me now search sables.
+{91833}{91906}Sables same money.
+{92668}{92713}What's the matter, Dersu?
+{92774}{92841}Me bad man.
+{93138}{93243}Me want some cartridge.
+{93304}{93373}Olentiev, give him|everything that's left.
+{93474}{93520}Thank you, Captain.
+{93829}{93929}Me tomorrow go straight ahead.
+{93969}{94036}Four suns go.
+{94038}{94097}Find Daubikhe...
+{94099}{94164}then go Ulakhen...
+{94196}{94248}then Fujin.
+{94287}{94338}Me heard...
+{94341}{94400}many, many sable there.
+{94453}{94498}Deer too.
+{95657}{95702}Me heard about it.
+{95874}{95979}People around say.|Now me understand.
+{96245}{96307}Good-bye, military men.
+{96478}{96516}Farewell.
+{96599}{96681}Good-bye, Dersu.|Maybe we'll meet again.
+{96774}{96820}Good-bye, Captain.
+{96871}{96905}Well...
+{97136}{97184}Maybe we'll meet again.
+{97241}{97274}Good-bye.
+{97729}{97817}He's a fine man.|I never met anyone like him.
+{97820}{97905}He's a rare man.|May God give him good health.
+{97982}{98081}In the islands, the hunter
+{98115}{98210}Roams all day long
+{98241}{98332}But no luck for him
+{98360}{98460}And he curses himself
+{98462}{98572}What’s he going to do
+{98575}{98681}How is he to serve
+{98683}{98787}He cannot be cheerful
+{98789}{98897}So what|He’ll try to aim better
+{98900}{98975}So the hunter goes
+{98977}{99049}To warmer waters
+{101670}{101701}That spring...
+{101704}{101797}once again I set out to travel|across the Ussuri area.
+{102874}{102922}Go! Go!
+{103433}{103471}Where are you going?
+{104054}{104096}To the left!
+{104122}{104208}Careful! Look after the horses!
+{106455}{106518}For three months, we have been|walking in the forest.
+{106521}{106601}Spring in the forest|quickly gave way to summer.
+{106604}{106684}We’ve explored a large area.
+{106686}{106808}But if we had Dersu,|we; have accomplished more.
+{106843}{106913}All this time,|I was thinking with anticipation...
+{106915}{106995}that maybe I would meet him again.
+{106997}{107043}Where are you, Dersu?
+{107473}{107577}Up the spring, go!
+{108036}{108085}Faster, guys.|Bring the water.
+{108157}{108227}Andriucha!|Throw up more branches!
+{108354}{108400}What is taking so long?
+{108426}{108472}Faster, faster! Don't smile!
+{108474}{108532}And you said you would bring a boar!
+{108842}{108938}Vladimir Pavlovich.|I met a hunter two miles from here.
+{108941}{109036}He was asking about our unit--|who we are, who's the captain.
+{109075}{109105}Did you tell him?
+{109108}{109182}How could I, sir?|I know how to keep a military secret.
+{109185}{109253}Eh, Turtygin, Turtygin.|Did he remain there?
+{109256}{109352}No, sir. He started|to collect his backpack.
+{109445}{109491}Vladimir Pavlovich!|Your rifle!

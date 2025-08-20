@@ -1,0 +1,3565 @@
+1
+00:00:18,060 --> 00:00:25,957
+<font color="white">-C'est moi qui n'en peux plus.</font>
+
+2
+00:00:25,957 --> 00:00:28,811
+<font color="white">Je t'aime.</font>
+
+3
+00:00:28,811 --> 00:00:31,020
+<font color="white">Je t'aime.</font>
+
+4
+00:00:31,020 --> 00:00:35,062
+<font color="white">Alors il faut bien...</font>
+
+5
+00:00:35,062 --> 00:00:38,271
+<font color="white">Je t'aime.</font>
+
+6
+00:00:38,271 --> 00:00:43,313
+<font color="white">Je ne te quitterai pas, Julien.</font>
+
+7
+00:00:43,313 --> 00:00:46,105
+<font color="white">Tu sais que je serai là.</font>
+
+8
+00:00:46,105 --> 00:00:47,626
+<font color="white">Avec toi.</font>
+
+9
+00:00:47,626 --> 00:00:50,106
+<font color="white">-Oh, je t'aime.</font>
+
+10
+00:00:50,106 --> 00:00:53,773
+<i><font color="white">Sans </i>ta voix, je serais perdu
+dans un pays de silence.</font>
+
+11
+00:00:53,773 --> 00:00:56,544
+<font color="white">-Ce n'est pas très courageux.</font>
+
+12
+00:00:56,544 --> 00:00:59,128
+<font color="white">-Ce n‘est pas courageux, l'amour.</font>
+
+13
+00:00:59,128 --> 00:01:04,988
+<font color="white">-Tais-toi.</font>
+
+14
+00:01:06,567 --> 00:01:14,901
+<font color="magenta">Extrait de la bande originale,
+musique mélancolique</font>
+
+15
+00:02:29,328 --> 00:02:32,620
+<font color="white">Quelle heure est-il ?</font>
+
+16
+00:02:32,620 --> 00:02:34,183
+<font color="white">-Sept heures.</font>
+
+17
+00:02:34,183 --> 00:02:38,496
+<font color="white">-Embrasse-moi.</font>
+
+18
+00:02:38,496 --> 00:02:43,205
+<font color="white">Je t'attendrai à la terrasse
+du Royal Camée, comme d'habitude.</font>
+
+19
+00:02:43,205 --> 00:02:47,372
+<font color="white">Quand tout sera fini,
+tu prendras ta grosse voiture,</font>
+
+20
+00:02:47,372 --> 00:02:52,665
+<font color="white">tu t'arrêteras en face,
+je monterai à côté de toi.</font>
+
+21
+00:02:52,665 --> 00:02:57,082
+<font color="white">Et nous serons libres.
+Libres, Julien!</font>
+
+22
+00:02:57,082 --> 00:03:03,458
+<font color="white">-Je t'attends,
+je n'attends que toi.</font>
+
+23
+00:03:03,458 --> 00:03:09,709
+<font color="white">Dans une demi-heure, Julien.</font>
+
+24
+00:03:09,709 --> 00:03:16,611
+<font color="white">-Florence <i>?</font></i>
+
+25
+00:03:44,089 --> 00:03:46,714
+<font color="white">Geneviève ? Geneviève ?</font>
+
+26
+00:03:46,714 --> 00:03:50,548
+<font color="white">-M. Tavernier ?
+-Vous restez encore un moment ?</font>
+
+27
+00:03:50,548 --> 00:03:54,090
+<font color="white">Je sais, c'est samedi soir,
+mais j'ai un travail à finir.</font>
+
+28
+00:03:54,090 --> 00:03:57,611
+<font color="red">Sonne?e
+</font><font color="white">-Société Carala, j'écoute.</font>
+
+29
+00:03:57,611 --> 00:03:59,153
+<font color="white">Ne quittez pas.</font>
+
+30
+00:03:59,153 --> 00:04:02,383
+<font color="white">Entendu, M. Tavernier.
+Je pars toujours la dernière.</font>
+
+31
+00:04:02,383 --> 00:04:05,508
+<font color="white">-Ne me dérangez
+sous aucun prétexte.</font>
+
+32
+00:04:05,508 --> 00:04:09,655
+<font color="white">-Allô, M. Carala ?
+On vous appelle de Londres.</font>
+
+33
+00:04:09,655 --> 00:04:12,384
+<font color="white">Bon...
+Bien, M. Carala.</font>
+
+34
+00:04:12,384 --> 00:04:15,239
+<font color="white">Toujours aussi aimable,
+celui-là.</font>
+
+35
+00:04:15,239 --> 00:04:17,114
+<font color="white">Allô,
+M. Porphyropoulos ?</font>
+
+36
+00:04:17,114 --> 00:04:21,136
+<font color="white">M. Carala part pour Genève,
+il ne peut vous parler.</font>
+
+37
+00:04:21,136 --> 00:04:27,647
+<font color="white">Bien, monsieur.</font>
+
+38
+00:04:30,720 --> 00:04:36,711
+<font color="red">Taille-crayon</font>
+
+39
+00:07:10,305 --> 00:07:14,973
+<font color="yellow">-Décidément, mon cher Tavernier,
+vous étes souvent en retard.</font>
+
+40
+00:07:14,973 --> 00:07:16,452
+<font color="yellow">En Indochine,</font>
+
+41
+00:07:16,452 --> 00:07:21,411
+<font color="white">ça n'avait aucune importance,
+une défaite de plus ou de moins...</font>
+
+42
+00:07:21,411 --> 00:07:25,037
+<font color="yellow">Mais là, vous travaillez
+dans une affaire sérieuse.</font>
+
+43
+00:07:25,037 --> 00:07:30,329
+<font color="yellow">Nous ne sommes pas dans le rêve.
+On m'attend à Genève.</font>
+
+44
+00:07:30,329 --> 00:07:38,664
+<font color="white">-On ne vous attendra pas.
+Voilà le document.</font>
+
+45
+00:07:38,705 --> 00:07:44,352
+<font color="white">-Ça m'amuse, ça,
+tout de même.</font>
+
+46
+00:07:44,352 --> 00:07:47,581
+<font color="white">Vous êtes admirable,
+mon cher Tavernier.</font>
+
+47
+00:07:47,581 --> 00:07:51,832
+<font color="white">Vous vous conduisez à mon égard
+comme un véritable ami.</font>
+
+48
+00:07:51,832 --> 00:07:55,916
+<font color="white">Ce document vaut cher,
+quand on a des yeux pour lire.</font>
+
+49
+00:07:55,916 --> 00:07:59,625
+<font color="white">Je savais qu'il me fallait un héros
+dans mes affaires.</font>
+
+50
+00:07:59,625 --> 00:08:01,583
+<font color="white">-Un héros en retraite.</font>
+
+51
+00:08:01,583 --> 00:08:05,396
+<font color="white">-Pour ce genre de travail,
+il me faut des anges.</font>
+
+52
+00:08:05,396 --> 00:08:07,626
+<font color="white">Un parachutiste est un ange.</font>
+
+53
+00:08:07,626 --> 00:08:09,835
+<font color="white">-Vous raisonnez vraiment...
+-Très bien.</font>
+
+54
+00:08:09,835 --> 00:08:14,460
+<font color="white">Coupes géologiques,
+état des sondages...</font>
+
+55
+00:08:14,460 --> 00:08:17,836
+<font color="white">Ils travaillent bien
+à la sécurité du territoire.</font>
+
+56
+00:08:17,836 --> 00:08:21,086
+<font color="white">Ils en savent presque autant
+que les Américains.</font>
+
+57
+00:08:21,086 --> 00:08:25,108
+<font color="white">Un projet de pipeline.</font>
+
+58
+00:08:25,108 --> 00:08:27,254
+<font color="white">Ils font une erreur.</font>
+
+59
+00:08:27,254 --> 00:08:30,588
+<font color="white">La sagesse est d'orienter
+le pipeline vers le Maroc.</font>
+
+60
+00:08:30,588 --> 00:08:33,963
+<font color="white">Plus long, mais plus tranquille.</font>
+
+61
+00:08:33,963 --> 00:08:39,693
+<font color="white">Et la suite ?</font>
+
+62
+00:08:39,693 --> 00:08:43,589
+<font color="white">Qu'est-ce que cette plaisanterie ?</font>
+
+63
+00:08:43,589 --> 00:08:50,007
+<font color="white">C'est pas une plaisanterie ?
+Alors, c'est quoi ? De l'argent ?</font>
+
+64
+00:08:50,007 --> 00:08:52,882
+<font color="white">Je n'ai pas peur de vous.</font>
+
+65
+00:08:52,882 --> 00:08:56,279
+<font color="white">On me déteste assez
+pour que j'en aie l’habitude.</font>
+
+66
+00:08:56,279 --> 00:08:58,508
+<font color="white">Et vous n'êtes pas courageux.</font>
+
+67
+00:08:58,508 --> 00:09:01,613
+<font color="white">Sauf peut-ètre àla guerre.</font>
+
+68
+00:09:01,613 --> 00:09:05,947
+<font color="white">-Vous osez vous moquer des guerres,
+mais vous en vivez.</font>
+
+69
+00:09:05,947 --> 00:09:08,447
+<font color="white">Combien vous a rapporté
+l'Indochine ?</font>
+
+70
+00:09:08,447 --> 00:09:11,468
+<font color="yellow">Et l'Algérie, maintenant ?</font>
+
+71
+00:09:11,468 --> 00:09:14,323
+<font color="yellow">Respectez les guerres,
+M. Carala.</font>
+
+72
+00:09:14,323 --> 00:09:17,344
+<font color="yellow">Ce sont vos propriétés de famille.</font>
+
+73
+00:09:17,344 --> 00:09:20,136
+<font color="white">-Qu'est-ce que c‘est
+que ce revolver ?</font>
+
+74
+00:09:20,136 --> 00:09:28,471
+<font color="yellow">Qui vous a donné mon revolver ?</font>
+
+75
+00:10:52,774 --> 00:10:57,853
+<font color="red">Déclic</font>
+
+76
+00:11:11,464 --> 00:11:17,465
+<font color="white">-Eh ben, y aura encore de quoi
+écrire des conneries !</font>
+
+77
+00:11:17,465 --> 00:11:20,466
+<font color="white">Le capitaine a dû s‘endormir.</font>
+
+78
+00:11:20,466 --> 00:11:22,508
+<font color="white">-Je ne dois pas le déranger.</font>
+
+79
+00:11:22,508 --> 00:11:25,446
+<font color="white">-On va pas rester là
+jusqu‘à minuit!</font>
+
+80
+00:11:25,446 --> 00:11:30,321
+<font color="white">-Je vais l'appeler.
+-C'est ça.</font>
+
+81
+00:11:30,321 --> 00:11:34,322
+<font color="white">Ce serait marrant
+de mettre le doigt là-dedans.</font>
+
+82
+00:11:34,322 --> 00:11:36,905
+<font color="white">-ll répond pas, M. Tavernier.</font>
+
+83
+00:11:36,905 --> 00:11:42,375
+<font color="red">Téléphone</font>
+
+84
+00:11:51,991 --> 00:11:56,387
+<font color="white">-Je le connais, le capitaine.
+-Bien, M. Tavernier. Excusez-moi.</font>
+
+85
+00:11:56,387 --> 00:12:01,987
+<font color="white">llar?ve.</font>
+
+86
+00:12:19,120 --> 00:12:20,766
+<font color="white">-Mon capitaine.</font>
+
+87
+00:12:20,766 --> 00:12:23,891
+<font color="white">-Bonsoir, Maurice.
+Nous sommes les derniers ?</font>
+
+88
+00:12:23,891 --> 00:12:26,121
+<font color="white">-Oui.</font>
+
+89
+00:12:26,121 --> 00:12:28,892
+<font color="white">Vous avez vu passer M. Carala ?</font>
+
+90
+00:12:28,892 --> 00:12:31,851
+<font color="white">-Non, mais j'étais dans les étages.</font>
+
+91
+00:12:31,851 --> 00:12:40,185
+<font color="white">-II est parti, maintenant.
+Son train est à 45.</font>
+
+92
+00:12:49,249 --> 00:12:54,875
+<font color="white">C'est drôle, hein, le patron ?
+Il part toujours sans prévenir.</font>
+
+93
+00:12:54,875 --> 00:12:58,709
+<font color="yellow">Il va chercher un taxi lui-même,
+comme un voleur.</font>
+
+94
+00:12:58,709 --> 00:13:00,355
+<font color="yellow">-ll rentre quand ?</font>
+
+95
+00:13:00,355 --> 00:13:02,084
+<font color="white">-On ne le sait jamais.</font>
+
+96
+00:13:02,084 --> 00:13:07,043
+<font color="white">L’autre fois, il est allé jusqu'à
+Naples, il pourrait recommencer.</font>
+
+97
+00:13:07,043 --> 00:13:15,378
+<font color="white">-Y a des fièvres à Naples, non ?</font>
+
+98
+00:13:18,420 --> 00:13:21,587
+<font color="white">Capitaine.
+-Je ne suis plus capitaine.</font>
+
+99
+00:13:21,587 --> 00:13:26,213
+<font color="white">Bonsoir.
+-Bonsoir.</font>
+
+100
+00:13:26,213 --> 00:13:31,297
+<font color="white">-Bonsoir.
+-Bon dimanche.</font>
+
+101
+00:13:31,297 --> 00:13:33,985
+<font color="white">-Ce que je trouve fou,</font>
+
+102
+00:13:33,985 --> 00:13:37,047
+<font color="white">c‘est de penser à ce truc inouï,</font>
+
+103
+00:13:37,047 --> 00:13:40,006
+<font color="white">je dirais même "formidable".</font>
+
+104
+00:13:40,006 --> 00:13:43,757
+<font color="white">La vérité vraie,
+les yeux dans les yeux,</font>
+
+105
+00:13:43,757 --> 00:13:45,861
+<font color="white">tu peux pas comprendre.</font>
+
+106
+00:13:45,861 --> 00:13:48,403
+<font color="white">Remarque,
+t'es plus intelligent que moi.</font>
+
+107
+00:13:48,403 --> 00:13:51,758
+<font color="white">Tu lis,
+donc t'as plein d'idées.</font>
+
+108
+00:13:51,758 --> 00:13:54,883
+<font color="white">Il est ridicule, ton blouson.</font>
+
+109
+00:13:54,883 --> 00:13:57,717
+<font color="white">Tiens... M. Tavernier.</font>
+
+110
+00:13:57,717 --> 00:13:59,988
+<font color="yellow">Il se gare toujours sur les clous.</font>
+
+111
+00:13:59,988 --> 00:14:03,780
+<font color="yellow">Les contraventions, les flics,
+il s'en fout.</font>
+
+112
+00:14:03,780 --> 00:14:05,801
+<font color="white">Bonjour, M. Tavernier.</font>
+
+113
+00:14:05,801 --> 00:14:10,344
+<font color="white">Il a le chic anglais, non ?
+D'ailleurs, il a fait l'Indochine.</font>
+
+114
+00:14:10,344 --> 00:14:14,303
+<font color="white">Après, l'Afrique du Nord...
+Et maintenant, les affaires.</font>
+
+115
+00:14:14,303 --> 00:14:17,011
+<font color="white">Depuis un mois,
+il achète des fleurs en pagaille.</font>
+
+116
+00:14:17,011 --> 00:14:20,595
+<font color="white">Regarde!
+Un bouton et hop!</font>
+
+117
+00:14:20,595 --> 00:14:23,346
+<font color="white">C'est la vie comme je la rêve.</font>
+
+118
+00:14:23,346 --> 00:14:24,888
+<font color="white">-C'est un vieux truc.</font>
+
+119
+00:14:24,888 --> 00:14:30,617
+<font color="red">Il démarre.</font>
+
+120
+00:14:31,430 --> 00:14:37,681
+<font color="white">-C'est malin.</font>
+
+121
+00:15:03,560 --> 00:15:10,722
+<font color="magenta">Maurice chantonne.</font>
+
+122
+00:15:49,733 --> 00:15:56,765
+<font color="magenta">Maurice sifflote.</font>
+
+123
+00:16:02,839 --> 00:16:08,131
+<font color="white">-Florence m‘attend.</font>
+
+124
+00:16:08,131 --> 00:16:15,294
+<font color="white">Mon moteur tourne...</font>
+
+125
+00:16:17,258 --> 00:16:21,112
+<font color="white">-Bonsoir, madame, à lundi.
+Vous fermerez ?</font>
+
+126
+00:16:21,112 --> 00:16:23,154
+<font color="yellow">-Oui. Bonsoir, Véro.</font>
+
+127
+00:16:23,154 --> 00:16:26,655
+<font color="white">-Louis !</font>
+
+128
+00:16:26,655 --> 00:16:29,613
+<font color="white">M. Tavernier
+va te passer une raclée !</font>
+
+129
+00:16:29,613 --> 00:16:32,572
+<font color="white">-Ça m’étonnerait.
+-Tu le connais pas!</font>
+
+130
+00:16:32,572 --> 00:16:35,989
+<font color="white">Il a plein de blessures...
+-Formidable !</font>
+
+131
+00:16:35,989 --> 00:16:40,261
+<font color="white">-Parfaitement.
+T'en ferais pas autant.</font>
+
+132
+00:16:40,261 --> 00:16:44,032
+<font color="white">Allons dîner,
+je meurs de faim.</font>
+
+133
+00:16:44,032 --> 00:16:50,783
+<font color="white">Tu t'arranges toujours
+pour gâcher nos soirées.</font>
+
+134
+00:16:50,783 --> 00:16:54,700
+<font color="white">-Alors, tu montes ?
+-Je t‘ordonne de descendre!</font>
+
+135
+00:16:54,700 --> 00:16:58,409
+<font color="white">Si t'as un accident,
+je te soigne pas.</font>
+
+136
+00:16:58,409 --> 00:17:01,139
+<font color="white">Louis.
+-Tu m'énerves.</font>
+
+137
+00:17:01,139 --> 00:17:09,343
+<font color="white">-Tout le monde nous regarde.</font>
+
+138
+00:17:14,453 --> 00:17:20,329
+<font color="white">-Y a bien un essuie-glace...</font>
+
+139
+00:17:20,329 --> 00:17:26,319
+<font color="white">-Attention.</font>
+
+140
+00:17:34,498 --> 00:17:39,967
+<font color="red">Elle rit.</font>
+
+141
+00:18:08,502 --> 00:18:14,232
+<font color="white">-Julien !</font>
+
+142
+00:18:35,798 --> 00:18:38,111
+<font color="white">-Oh, je me disais aussi...</font>
+
+143
+00:18:38,111 --> 00:18:41,465
+<font color="white">Mes hommages, madame.
+Toujours contente du bébé ?</font>
+
+144
+00:18:41,465 --> 00:18:46,174
+<font color="white">Car, une Dauphine, c’est un bébé.
+-Oui, très contente, merci.</font>
+
+145
+00:18:46,174 --> 00:18:49,758
+<font color="white">-C'est la voiture
+dela Parisienne...</font>
+
+146
+00:18:49,758 --> 00:18:54,467
+<font color="cyan">-Contente… Très contente.</font>
+
+147
+00:18:54,467 --> 00:18:58,926
+<font color="cyan">Cet imbécile va parler
+comme la pluie.</font>
+
+148
+00:18:58,926 --> 00:19:01,947
+<font color="cyan">Julien avec cette petite.</font>
+
+149
+00:19:01,947 --> 00:19:04,802
+<font color="cyan">Pourquoi ?</font>
+
+150
+00:19:04,802 --> 00:19:06,823
+<font color="cyan">Oui...</font>
+
+151
+00:19:06,823 --> 00:19:09,761
+<font color="cyan">J'ai reconnu la petite fleuriste.</font>
+
+152
+00:19:09,761 --> 00:19:12,199
+<font color="cyan">Ce n'est pas possible.</font>
+
+153
+00:19:12,199 --> 00:19:15,429
+<font color="cyan">Ce serait trop médiocre.</font>
+
+154
+00:19:15,429 --> 00:19:17,408
+<font color="cyan">Il a eu peur.</font>
+
+155
+00:19:17,408 --> 00:19:19,929
+<font color="cyan">Il n'a pas tiré.</font>
+
+156
+00:19:19,929 --> 00:19:22,367
+<font color="cyan">Unlâche.</font>
+
+157
+00:19:22,367 --> 00:19:26,180
+<font color="cyan">Julien est un lâche,
+il n'ose pas être heureux.</font>
+
+158
+00:19:26,180 --> 00:19:28,868
+<font color="yellow">-Mes hommages, Mme Carala.</font>
+
+159
+00:19:28,868 --> 00:19:34,337
+<font color="magenta">*Jazz</font>
+
+160
+00:19:36,390 --> 00:19:42,266
+<font color="red">Elle baisse le son.</font>
+
+161
+00:19:42,266 --> 00:19:44,808
+<font color="white">-Où va-t-on ?
+-L'autoroute.</font>
+
+162
+00:19:44,808 --> 00:19:47,808
+<font color="white">-ll doit en faire une tête !</font>
+
+163
+00:19:47,808 --> 00:19:50,517
+<font color="white">Tu crois
+qu'il va prévenir la police ?</font>
+
+164
+00:19:50,517 --> 00:19:52,705
+<font color="white">-ll fera ce qu’il voudra.</font>
+
+165
+00:19:52,705 --> 00:19:56,226
+<font color="white">-Faudra la lui ramener
+au même endroit.</font>
+
+166
+00:19:56,226 --> 00:20:04,560
+<font color="white">On est rosses avec lui,
+on lui gâche son week-end.</font>
+
+167
+00:20:07,811 --> 00:20:12,916
+<font color="white">Le pétrole de Djelfa,
+tu connais ?</font>
+
+168
+00:20:12,916 --> 00:20:16,479
+<font color="white">-Passe-moi ses gants.
+-Tiens.</font>
+
+169
+00:20:16,479 --> 00:20:19,896
+<font color="white">Regarde!
+Un appareil photo miniature.</font>
+
+170
+00:20:19,896 --> 00:20:23,772
+<font color="white">J'ai une amie
+qui est revenue d'Allemagne</font>
+
+171
+00:20:23,772 --> 00:20:31,606
+<font color="white">et qui a rapporté
+presque le méme.</font>
+
+172
+00:20:31,606 --> 00:20:35,294
+<font color="white">J'arrive pas à l‘ouvrir.</font>
+
+173
+00:20:35,294 --> 00:20:42,587
+<font color="white">-Passe-moi son imper.</font>
+
+174
+00:20:49,900 --> 00:20:53,901
+<font color="red">Elle siffle.</font>
+
+175
+00:20:53,901 --> 00:20:55,693
+<font color="white">Pas d'empreintes !</font>
+
+176
+00:20:55,693 --> 00:20:59,402
+<font color="white">C'est pas une arme d'amateur.</font>
+
+177
+00:20:59,402 --> 00:21:01,277
+<font color="white">Le revolver,</font>
+
+178
+00:21:01,277 --> 00:21:05,152
+<font color="white">l'appareil photo d'espion,
+les pétroles de Djelfa...</font>
+
+179
+00:21:05,152 --> 00:21:07,653
+<font color="white">Il est louche, ton Tavernier!</font>
+
+180
+00:21:07,653 --> 00:21:15,987
+<font color="white">-Et si c‘était un agent secret ?
+Ça m'étonnerait pas, vu son style!</font>
+
+181
+00:21:45,846 --> 00:21:48,117
+<font color="white">-Je savais bien.</font>
+
+182
+00:21:48,117 --> 00:21:51,763
+<font color="white">-On ne m'a pas appelée ?</font>
+
+183
+00:21:51,763 --> 00:22:00,098
+<font color="white">Disposez de votre soirée,
+François.</font>
+
+184
+00:22:02,119 --> 00:22:09,281
+<font color="red">Grondement de tonnerre</font>
+
+185
+00:22:15,662 --> 00:22:23,997
+<font color="magenta">Extrait de la bande originale</font>
+
+186
+00:23:11,691 --> 00:23:16,770
+<font color="red">Déclic</font>
+
+187
+00:23:51,197 --> 00:23:57,578
+<font color="red">Bruit métallique</font>
+
+188
+00:24:24,368 --> 00:24:27,348
+<font color="white">-Qu'est-ce que tu fais ?</font>
+
+189
+00:24:27,348 --> 00:24:31,827
+<font color="white">-Et toi, dans ce cas-là ?</font>
+
+190
+00:24:31,827 --> 00:24:34,161
+<font color="white">Il est tard, tu sais.</font>
+
+191
+00:24:34,161 --> 00:24:41,844
+<font color="white">Allons, rentre chez toi.</font>
+
+192
+00:24:58,477 --> 00:25:02,644
+<font color="white">Avez—vous vu M. Tavernier ?
+-À midi, je lui ai fait son plein.</font>
+
+193
+00:25:02,644 --> 00:25:09,807
+<font color="white">-Et ce soir ?
+-Non.</font>
+
+194
+00:25:19,105 --> 00:25:25,877
+<font color="red">Crissement de pneus</font>
+
+195
+00:25:35,232 --> 00:25:43,567
+<font color="magenta">Musique d’ambiance, au piano</font>
+
+196
+00:25:46,380 --> 00:25:49,526
+<font color="white">-Vous n'avez pas vu
+M. Tavernier, ce soir ?</font>
+
+197
+00:25:49,526 --> 00:25:51,526
+<font color="white">-Non, madame.</font>
+
+198
+00:25:51,526 --> 00:25:53,610
+<font color="white">-ll n'a pas téléphoné ?</font>
+
+199
+00:25:53,610 --> 00:25:59,861
+<font color="white">-Non, madame.</font>
+
+200
+00:26:03,069 --> 00:26:08,862
+<font color="red">Grondement de tonnerre</font>
+
+201
+00:26:08,862 --> 00:26:17,196
+<font color="magenta">Extrait de la bande originale</font>
+
+202
+00:27:45,167 --> 00:27:50,897
+<font color="white">-Julien !</font>
+
+203
+00:28:35,195 --> 00:28:40,534
+<font color="red">Tonnerre</font>
+
+204
+00:28:41,008 --> 00:28:49,082
+<font color="yellow">-Non, Louis, tu exagères !</font>
+
+205
+00:28:49,864 --> 00:28:53,239
+<font color="white">C'est la 3e fois
+qu'on fait l‘autoroute !</font>
+
+206
+00:28:53,239 --> 00:28:55,760
+<font color="white">J'en ai assez !</font>
+
+207
+00:28:55,760 --> 00:29:04,053
+<font color="white">-On aime rouler
+ou on n‘aime pas rouler.</font>
+
+208
+00:29:04,053 --> 00:29:09,804
+<font color="red">Coups de klaxon</font>
+
+209
+00:29:09,804 --> 00:29:10,846
+<font color="yellow">Une Mercedes!</font>
+
+210
+00:29:10,804 --> 00:29:16,925
+<font color="yellow">Une 300 SL!</font>
+
+211
+00:29:18,347 --> 00:29:20,951
+<font color="yellow">-Des étrangers.</font>
+
+212
+00:29:20,951 --> 00:29:24,285
+<font color="yellow">Des Danois.
+-Non, des Allemands.</font>
+
+213
+00:29:24,285 --> 00:29:27,286
+<font color="yellow">-Attention, Louis.</font>
+
+214
+00:29:27,286 --> 00:29:32,885
+<font color="yellow">Louis !</font>
+
+215
+00:29:45,080 --> 00:29:53,414
+<font color="yellow">-145, pied au plancher, quel veau!
+Je le félicite pas, ton Tavernier.</font>
+
+216
+00:29:59,082 --> 00:30:02,457
+<font color="yellow">-Avance, tu vas l‘avoir !</font>
+
+217
+00:30:02,457 --> 00:30:08,448
+<font color="red">Vrombissement</font>
+
+218
+00:30:26,836 --> 00:30:29,190
+<font color="white">-Pas de mal ?
+</font><font color="yellow">-J'ai l’habitude.</font>
+
+219
+00:30:29,190 --> 00:30:31,711
+<font color="white">-C'est mon ler accident
+avec cette voiture.</font>
+
+220
+00:30:31,711 --> 00:30:34,233
+<font color="white">Il faut arroser ça!
+</font><font color="red">L‘homme rit.</font>
+
+221
+00:30:34,233 --> 00:30:36,525
+<font color="white">Horst Bencker de Munich.</font>
+
+222
+00:30:36,525 --> 00:30:40,546
+<font color="white">-Mon mari, Julien Tavernier.
+-Voyage de noces !</font>
+
+223
+00:30:40,546 --> 00:30:44,401
+<font color="white">On va mettre
+le champagne au froid.</font>
+
+224
+00:30:44,401 --> 00:30:48,026
+<font color="white">-Si on couchait ici ?
+C'est un motel.</font>
+
+225
+00:30:48,026 --> 00:30:50,943
+<font color="white">Il y a des pavillons indépendants,
+des garages...</font>
+
+226
+00:30:50,943 --> 00:30:52,194
+<font color="white">-Tu oublies</font>
+
+227
+00:30:52,194 --> 00:30:56,319
+<font color="white">que j'ai fauché un scooter,
+la semaine dernière ?</font>
+
+228
+00:30:56,319 --> 00:30:58,861
+<font color="white">-On va pas te rechercher ici.</font>
+
+229
+00:30:58,861 --> 00:31:02,028
+<font color="white">Et j‘ai dit que tu t'appelais
+Julien Tavernier.</font>
+
+230
+00:31:02,028 --> 00:31:03,966
+<font color="white">-Et les Allemands ?</font>
+
+231
+00:31:03,966 --> 00:31:07,362
+<font color="white">-C'est des Allemands, voyons.</font>
+
+232
+00:31:07,362 --> 00:31:15,697
+<font color="white">-Tu t'occupes de tout.
+Je peux pas être vu.</font>
+
+233
+00:31:15,697 --> 00:31:24,031
+<font color="white">-Je nous inscris sous le nom
+de M. et Mme Tavernier.</font>
+
+234
+00:31:32,699 --> 00:31:34,804
+<font color="white">-Bonsoir.
+-Bonsoir.</font>
+
+235
+00:31:34,804 --> 00:31:37,117
+<font color="white">-Vous passez la nuit ici ?
+-Oui.</font>
+
+236
+00:31:37,117 --> 00:31:39,409
+<font color="white">-AIIO ?</font>
+
+237
+00:31:39,409 --> 00:31:43,409
+<font color="white">Non, monsieur,
+je n'ai pas revu ces personnes.</font>
+
+238
+00:31:43,409 --> 00:31:46,993
+<font color="white">L'autre jeune homme non plus.
+Si vous voulez...</font>
+
+239
+00:31:46,993 --> 00:31:50,868
+<font color="white">A votre service.</font>
+
+240
+00:31:50,868 --> 00:31:56,411
+<font color="green">Propos en allemand.</font>
+
+241
+00:31:56,411 --> 00:32:01,120
+<font color="white">-Tavernier,
+M. et Mme Julien Tavernier.</font>
+
+242
+00:32:01,120 --> 00:32:06,454
+<font color="white">-Le 11, à côté
+de M. et Mme Bencker.</font>
+
+243
+00:32:06,454 --> 00:32:11,533
+<font color="red">Moteur</font>
+
+244
+00:32:16,226 --> 00:32:19,664
+<font color="yellow">-II est sensationnel, ce moteur.</font>
+
+245
+00:32:19,664 --> 00:32:24,665
+<font color="white">Pourquoi il est penché ?
+-Pour tenir moins de place.</font>
+
+246
+00:32:24,665 --> 00:32:27,374
+<font color="white">-Et les carburateurs ?
+-II y en a pas.</font>
+
+247
+00:32:27,374 --> 00:32:33,364
+<font color="white">-llyenapas?</font>
+
+248
+00:32:46,751 --> 00:32:50,481
+<font color="white">-Mon cher M. Tavernier,
+vous étes mon invité.</font>
+
+249
+00:32:50,481 --> 00:32:52,711
+<font color="white">-Je peux pas accepter.</font>
+
+250
+00:32:52,711 --> 00:32:54,169
+<font color="white">-Si, si...</font>
+
+251
+00:32:54,169 --> 00:32:55,773
+<font color="white">D‘abord, j'aime le sport</font>
+
+252
+00:32:55,773 --> 00:32:59,774
+<font color="white">et dans votre genre,
+vous étes un bon conducteur.</font>
+
+253
+00:32:59,774 --> 00:33:02,983
+<font color="white">Et nous avons failli
+mourir ensemble.</font>
+
+254
+00:33:02,983 --> 00:33:09,494
+<font color="white">Venez, rentrez.</font>
+
+255
+00:33:11,755 --> 00:33:14,151
+<font color="white">Mon champagne préféré.</font>
+
+256
+00:33:14,151 --> 00:33:17,860
+<font color="white">On ne vous l'a pas bu
+pendant l'Occupation.</font>
+
+257
+00:33:17,860 --> 00:33:26,090
+<font color="magenta">Extrait de la bande originale</font>
+
+258
+00:33:26,090 --> 00:33:28,757
+<font color="white">-Non, il n‘aime pas.
+-Vous m'attristez.</font>
+
+259
+00:33:28,757 --> 00:33:31,779
+<font color="white">Si j‘avais su
+que vous ne supportiez pas...</font>
+
+260
+00:33:31,779 --> 00:33:37,321
+<font color="white">-Ça ne me fait pas peur, mais
+à mon âge, on pense à autre chose:</font>
+
+261
+00:33:37,321 --> 00:33:40,134
+<font color="white">4 ans d‘occupation,
+l‘Indochine, l'Algérie...</font>
+
+262
+00:33:40,134 --> 00:33:43,218
+<font color="white">-Ah, bravo, bravo.
+À l'Europe !</font>
+
+263
+00:33:43,218 --> 00:33:51,422
+<font color="white">-A l'Europe !
+-A l'Europe !</font>
+
+264
+00:33:57,115 --> 00:34:00,012
+<font color="white">-ll fallait se méfier de tout.</font>
+
+265
+00:34:00,012 --> 00:34:04,262
+<font color="white">C'était une lutte d‘homme à homme.</font>
+
+266
+00:34:04,262 --> 00:34:07,763
+<font color="white">Climat d'enfer,
+des moustiques, des tigres...</font>
+
+267
+00:34:07,763 --> 00:34:09,138
+<font color="white">-Des Allemands.</font>
+
+268
+00:34:09,138 --> 00:34:10,951
+<font color="white">-Quoi ? Des Allemands ?</font>
+
+269
+00:34:10,951 --> 00:34:16,743
+<font color="white">-Oui, en Indochine,
+M. Tavernier...</font>
+
+270
+00:34:16,743 --> 00:34:24,015
+<font color="white">Vous avez dû voir des Allemands.
+-Non, jamais.</font>
+
+271
+00:34:24,015 --> 00:34:27,078
+<font color="white">-Et la Légion étrangère ?</font>
+
+272
+00:34:27,078 --> 00:34:31,370
+<font color="white">-Ah, bien sûr.
+C‘étaient de bons soldats.</font>
+
+273
+00:34:31,370 --> 00:34:36,850
+<font color="white">-Vous me faites plaisir.
+-Si, si, c'est pas de la flatterie.</font>
+
+274
+00:34:36,850 --> 00:34:40,705
+<font color="white">J'ai eu avec moi
+des anciens de Rommel.</font>
+
+275
+00:34:40,705 --> 00:34:47,737
+<font color="green">Propos en allemand.</font>
+
+276
+00:34:49,394 --> 00:34:52,061
+<font color="white">-J'ai exactement le méme,</font>
+
+277
+00:34:52,061 --> 00:34:57,707
+<font color="white">mais je l'ai oublié à Antwerpen,
+chez des amis.</font>
+
+278
+00:34:57,707 --> 00:35:00,958
+<font color="white">-C'est facile à développer ?
+-Oui, n‘importe où.</font>
+
+279
+00:35:00,958 --> 00:35:03,937
+<font color="white">Même ici, au motel,
+ils développent.</font>
+
+280
+00:35:03,937 --> 00:35:07,375
+<font color="white">Attendez...</font>
+
+281
+00:35:07,375 --> 00:35:13,835
+<font color="white">Il reste encore
+3 photos à prendre.</font>
+
+282
+00:35:13,835 --> 00:35:15,689
+<font color="yellow">-Nous, les Allemands,</font>
+
+283
+00:35:15,689 --> 00:35:19,148
+<font color="white">n'aimons pas la guerre.
+-Qu'est-ce qu‘il vous faut!</font>
+
+284
+00:35:19,148 --> 00:35:23,815
+<font color="white">-Vous raisonnez
+comme un Français de l'époque.</font>
+
+285
+00:35:23,815 --> 00:35:27,878
+<font color="white">Nous sommes
+des voyageurs de commerce.</font>
+
+286
+00:35:27,878 --> 00:35:31,650
+<font color="white">L‘uniforme, pour voyager,
+c'est bien voyant.</font>
+
+287
+00:35:31,650 --> 00:35:34,692
+<font color="red">Véronique rit.</font>
+
+288
+00:35:34,692 --> 00:35:36,400
+<font color="white">-Louis !</font>
+
+289
+00:35:36,400 --> 00:35:38,567
+<font color="white">Je veux dire... Julien.</font>
+
+290
+00:35:38,567 --> 00:35:42,234
+<font color="white">-Oh, je m'en fous.</font>
+
+291
+00:35:42,234 --> 00:35:45,589
+<font color="white">-Voyez-vous,
+mon cher M. Tavernier...</font>
+
+292
+00:35:45,589 --> 00:35:53,924
+<font color="white">La guerre, ce n'est pas vos livres,
+c’est surtout une perte de temps.</font>
+
+293
+00:35:54,320 --> 00:35:58,112
+<font color="white">Toujours une
+que les Prussiens auront bue.</font>
+
+294
+00:35:58,112 --> 00:36:00,570
+<font color="white">Mais je suis pas prussien.</font>
+
+295
+00:36:00,570 --> 00:36:03,237
+<font color="white">Je suis originaire
+exactement...</font>
+
+296
+00:36:03,237 --> 00:36:06,988
+<font color="white">Tiens,
+les femmes sont sorties.</font>
+
+297
+00:36:06,988 --> 00:36:09,572
+<font color="white">Venez prendre l'air.</font>
+
+298
+00:36:09,572 --> 00:36:15,010
+<font color="white">La nature est une amie profondément
+consolatrice, Goethe l'a dit.</font>
+
+299
+00:36:15,010 --> 00:36:19,490
+<font color="white">-J'ai pas besoin d'être consolé.
+-Goethe ne pensait pas à vous !</font>
+
+300
+00:36:19,490 --> 00:36:27,824
+<font color="magenta">Extrait de la bande originale</font>
+
+301
+00:36:36,555 --> 00:36:38,680
+<font color="yellow">-“Prévenir…</font>
+
+302
+00:36:38,680 --> 00:36:45,842
+<font color="white">"le propriétaire..."</font>
+
+303
+00:37:15,268 --> 00:37:21,144
+<font color="red">Horst rit aux éclats.</font>
+
+304
+00:37:21,144 --> 00:37:24,249
+<font color="white">-lls sont musclés, hein ?
+-C'est rien.</font>
+
+305
+00:37:24,249 --> 00:37:28,062
+<font color="green">Il parle allemand.</font>
+
+306
+00:37:28,062 --> 00:37:30,375
+<font color="white">Ne vous inquiétez pas
+pour les femmes.</font>
+
+307
+00:37:30,375 --> 00:37:35,667
+<font color="white">-II faut que vous fassiez
+dela photo sous-marine.</font>
+
+308
+00:37:35,667 --> 00:37:39,063
+<font color="white">J‘ai un cousin délicieux,</font>
+
+309
+00:37:39,063 --> 00:37:43,897
+<font color="white">Ludwig Von Malhausen,
+vous connaissez ?</font>
+
+310
+00:37:43,897 --> 00:37:45,919
+<font color="white">-Non.
+-Mais si !</font>
+
+311
+00:37:45,919 --> 00:37:48,377
+<font color="white">Vous avez dû le voir à Capri...</font>
+
+312
+00:37:48,377 --> 00:37:51,399
+<font color="green">Horst parle allemand.</font>
+
+313
+00:37:51,399 --> 00:37:59,733
+<font color="white">-Qu'est-ce que je vous disais ?</font>
+
+314
+00:38:00,441 --> 00:38:02,754
+<font color="red">lltousse.</font>
+
+315
+00:38:02,754 --> 00:38:05,192
+<font color="white">Mon cher M. Tavernier,</font>
+
+316
+00:38:05,192 --> 00:38:09,359
+<font color="white">qui ne vous appelez pas Tavernier
+et qui n'avez jamais été soldat,</font>
+
+317
+00:38:09,359 --> 00:38:12,256
+<font color="white">ne vous rendez pas malade.</font>
+
+318
+00:38:12,256 --> 00:38:14,277
+<font color="red">Coup de tonnerre</font>
+
+319
+00:38:14,277 --> 00:38:17,423
+<font color="white">Et ne vous laissez pas
+foudroyer.</font>
+
+320
+00:38:17,423 --> 00:38:20,465
+<font color="white">C'était une bonne plaisanterie
+de votre part.</font>
+
+321
+00:38:20,465 --> 00:38:25,049
+<font color="white">Je crois
+qu’il vaut mieux rentrer.</font>
+
+322
+00:38:25,049 --> 00:38:29,383
+<font color="white">-lls vont se faire saucer.
+-C'est bien fait.</font>
+
+323
+00:38:29,383 --> 00:38:32,488
+<font color="red">Battement de la pluie</font>
+
+324
+00:38:32,488 --> 00:38:40,010
+<font color="white">-Tiens,
+je te prends ta reine.</font>
+
+325
+00:38:40,010 --> 00:38:43,052
+<font color="white">Tavernier !</font>
+
+326
+00:38:43,052 --> 00:38:48,521
+<font color="red">Elle rit.</font>
+
+327
+00:39:01,929 --> 00:39:04,388
+<font color="white">-Viens te coucher...</font>
+
+328
+00:39:04,388 --> 00:39:09,410
+<font color="white">Julien Tavernier.</font>
+
+329
+00:39:09,410 --> 00:39:16,442
+<font color="red">Battement de la pluie</font>
+
+330
+00:39:33,559 --> 00:39:36,434
+<font color="cyan">-JuHen….</font>
+
+331
+00:39:36,434 --> 00:39:39,893
+<font color="cyan">Je t'aurai cherché partout.</font>
+
+332
+00:39:39,893 --> 00:39:46,274
+<font color="red">Coup de tonnerre</font>
+
+333
+00:40:23,212 --> 00:40:28,811
+<font color="red">Grincement</font>
+
+334
+00:43:11,590 --> 00:43:19,924
+<font color="magenta">Extrait de la bande originale</font>
+
+335
+00:45:55,779 --> 00:45:58,238
+<font color="white">-Bonsoir, madame.
+</font><font color="yellow">-Bonsoh.</font>
+
+336
+00:45:58,238 --> 00:46:03,260
+<font color="white">-Auriez-vous vu Julien, ce soir ?
+-Non, je ne crois pas.</font>
+
+337
+00:46:03,260 --> 00:46:08,729
+<font color="white">-Merci.</font>
+
+338
+00:46:40,911 --> 00:46:44,245
+<font color="cyan">Je t'ai perdu dans cette nuit,
+Julien.</font>
+
+339
+00:46:44,245 --> 00:46:46,807
+<font color="cyan">Il fallait te laisser tranquille,</font>
+
+340
+00:46:46,807 --> 00:46:52,079
+<font color="cyan">ne pas t'embrasser,
+ne pas caresser ton visage.</font>
+
+341
+00:46:52,079 --> 00:46:56,955
+<font color="cyan">Si tu n‘as pas tué Simon, tant pis.
+Si tu as eu peur, tant mieux.</font>
+
+342
+00:46:56,955 --> 00:46:59,663
+<font color="cyan">Mais il faut que tu reviennes,</font>
+
+343
+00:46:59,663 --> 00:47:04,539
+<font color="cyan">pour que tu sois là, vivant,
+à côté de moi... Julien.</font>
+
+344
+00:47:04,539 --> 00:47:06,935
+<font color="cyan">Il faut...</font>
+
+345
+00:47:06,935 --> 00:47:09,290
+<font color="cyan">Il faut...</font>
+
+346
+00:47:09,290 --> 00:47:10,665
+<font color="yellow">-Dites…
+</font><font color="cyan">-II faut...</font>
+
+347
+00:47:10,665 --> 00:47:14,832
+<font color="white">-On se connaît.
+Christian Subervie.</font>
+
+348
+00:47:14,832 --> 00:47:18,520
+<font color="white">Je suis un pote de Julien.
+On s'est vus, un soir.</font>
+
+349
+00:47:18,520 --> 00:47:21,208
+<font color="white">-Je me rappelle vaguement.</font>
+
+350
+00:47:21,208 --> 00:47:23,729
+<font color="white">Vous aviez un peu bu.
+</font><font color="red">Il rit.</font>
+
+351
+00:47:23,729 --> 00:47:27,230
+<font color="white">-J'en tenais une sérieuse.
+Quel làcheur, ce Julien.</font>
+
+352
+00:47:27,230 --> 00:47:29,834
+<font color="white">On s'est connus à Alger.</font>
+
+353
+00:47:29,834 --> 00:47:32,251
+<font color="white">-Vous étiez officier ?
+-Ah non.</font>
+
+354
+00:47:32,251 --> 00:47:36,252
+<font color="white">J'étais dans les trucs
+pour le froid, les réfrigérateurs.</font>
+
+355
+00:47:36,252 --> 00:47:38,877
+<font color="white">Il doit avoir une poule
+dans sa vie,</font>
+
+356
+00:47:38,877 --> 00:47:40,607
+<font color="white">il voit plus les copains.</font>
+
+357
+00:47:40,607 --> 00:47:42,795
+<font color="white">Yvonne, donne—moi un verre.</font>
+
+358
+00:47:42,795 --> 00:47:45,712
+<font color="white">-Je peux boire un Royal ?
+-Ah non,</font>
+
+359
+00:47:45,712 --> 00:47:49,587
+<font color="white">je suis avec une amie
+de Julien.</font>
+
+360
+00:47:49,587 --> 00:47:56,750
+<font color="white">-Je l'ai vu, Julien.</font>
+
+361
+00:48:04,423 --> 00:48:07,152
+<font color="white">-Un Royal pour elle.
+-Merci.</font>
+
+362
+00:48:07,152 --> 00:48:09,632
+<font color="white">-Je dis une poule...</font>
+
+363
+00:48:09,632 --> 00:48:12,924
+<font color="white">-Je l'ai vu passer en voiture,
+il m'a pas regardée.</font>
+
+364
+00:48:12,924 --> 00:48:14,716
+<font color="white">-Cette nuit ?</font>
+
+365
+00:48:14,716 --> 00:48:17,591
+<font color="white">-Non, je sais pas,
+la semaine dernière.</font>
+
+366
+00:48:17,591 --> 00:48:20,800
+<font color="white">-JuHen,
+il s'en fout des filles.</font>
+
+367
+00:48:20,800 --> 00:48:23,759
+<font color="white">-II est gentil, Julien.
+-Mm.</font>
+
+368
+00:48:23,759 --> 00:48:30,270
+<font color="red">Tonnerre, au loin</font>
+
+369
+00:48:52,242 --> 00:48:57,451
+<font color="white">-Véro ?
+-Mm…</font>
+
+370
+00:48:57,451 --> 00:49:00,368
+<font color="white">-Réveille-toi, on s'en va.</font>
+
+371
+00:49:00,368 --> 00:49:08,702
+<font color="white">-Tout de suite ?
+-Vite, il faut profiter de l‘orage.</font>
+
+372
+00:49:30,831 --> 00:49:37,342
+<font color="white">-Je suis prête.</font>
+
+373
+00:49:52,938 --> 00:49:55,792
+<font color="white">-Non,non….
+-Qu'est-ce qu’on fait ?</font>
+
+374
+00:49:55,792 --> 00:50:01,392
+<font color="white">-Avancel</font>
+
+375
+00:50:14,295 --> 00:50:17,233
+<font color="white">-Louis ! Tu es fou ?</font>
+
+376
+00:50:17,233 --> 00:50:20,025
+<font color="white">-Non!
+-T'occupe pas, monte !</font>
+
+377
+00:50:20,025 --> 00:50:22,255
+<font color="white">Ça leur fera les pieds.</font>
+
+378
+00:50:22,255 --> 00:50:27,193
+<font color="white">Et faut brouiller les pistes.</font>
+
+379
+00:50:27,193 --> 00:50:32,923
+<font color="red">Il démarre.</font>
+
+380
+00:50:35,861 --> 00:50:41,591
+<font color="red">Grincements</font>
+
+381
+00:50:44,320 --> 00:50:47,987
+<font color="red">Rire éclatant</font>
+
+382
+00:50:47,987 --> 00:50:50,988
+<font color="white">-On est fâché
+avec la boîte de vitesses ?</font>
+
+383
+00:50:50,988 --> 00:50:54,342
+<font color="white">Vous cherchez la tre ?
+Je l'ai cachée.</font>
+
+384
+00:50:54,342 --> 00:50:56,864
+<font color="red">Il rit.</font>
+
+385
+00:50:56,864 --> 00:51:03,375
+<font color="white">Haut les mains.</font>
+
+386
+00:51:08,740 --> 00:51:15,512
+<font color="white">-N'approchez pas.</font>
+
+387
+00:51:22,180 --> 00:51:24,847
+<font color="red">Coups de feu</font>
+
+388
+00:51:24,847 --> 00:51:30,446
+<font color="white">-Horst !</font>
+
+389
+00:51:31,014 --> 00:51:38,307
+<font color="red">Les corps s'effondrent.</font>
+
+390
+00:51:41,078 --> 00:51:49,413
+<font color="white">-Viens, Louis, il faut se sauver.</font>
+
+391
+00:52:00,664 --> 00:52:06,394
+<font color="red">Il démarre.</font>
+
+392
+00:52:18,729 --> 00:52:23,938
+<font color="red">Klaxons</font>
+
+393
+00:52:44,087 --> 00:52:52,422
+<font color="white">Arrête-toi sur le pont,
+on ira chez moi à pied.</font>
+
+394
+00:52:59,110 --> 00:53:06,403
+<font color="white">Louis, l'imperméable.</font>
+
+395
+00:53:52,826 --> 00:53:54,701
+<font color="white">-Je suis flambé.</font>
+
+396
+00:53:54,701 --> 00:53:59,056
+<font color="yellow">-Écoute, Louis, tu as eu peur,
+tu diras que tu as eu peur.</font>
+
+397
+00:53:59,056 --> 00:54:01,848
+<font color="white">-J'ai pas eu peur,
+mais il s'avançait...</font>
+
+398
+00:54:01,848 --> 00:54:07,766
+<font color="white">-S'y avait pas eu ce revolver
+dans la voiture... C'est dangereux.</font>
+
+399
+00:54:07,766 --> 00:54:10,662
+<font color="white">Tu crois qu'ils sont morts ?</font>
+
+400
+00:54:10,662 --> 00:54:14,912
+<font color="white">La chirurgie fait des miracles!
+On opère même le coeur.</font>
+
+401
+00:54:14,912 --> 00:54:17,017
+<font color="yellow">-Moi, ce sera la téte.
+</font><font color="white">-Tais-toi !</font>
+
+402
+00:54:17,017 --> 00:54:22,288
+<font color="yellow">-II ne nous reste
+que quelques heures...</font>
+
+403
+00:54:22,288 --> 00:54:25,831
+<font color="white">-Qu'est-ce qu'on va devenir ?</font>
+
+404
+00:54:25,831 --> 00:54:28,206
+<font color="white">On va nous séparer.</font>
+
+405
+00:54:28,206 --> 00:54:32,373
+<font color="white">Toi, tu seras chez les hommes,
+moi, chez les femmes.</font>
+
+406
+00:54:32,373 --> 00:54:37,353
+<font color="white">Je ne veux pas, Louis!</font>
+
+407
+00:54:37,353 --> 00:54:40,916
+<font color="white">On ne sera ensemble
+qu'àla1re page des journaux.</font>
+
+408
+00:54:40,916 --> 00:54:43,937
+<font color="white">-Ceux qui la liront,
+ils comprendront.</font>
+
+409
+00:54:43,937 --> 00:54:48,688
+<font color="white">-lls comprendront quoi ?
+-Tout.</font>
+
+410
+00:54:48,688 --> 00:54:52,188
+<font color="white">-On ne te coupera pas la téte !
+-Si, j'ai l'âge.</font>
+
+411
+00:54:52,188 --> 00:54:58,023
+<font color="white">-lls ne te feront pas de mal,
+je leur interdirai !</font>
+
+412
+00:54:58,023 --> 00:55:00,419
+<font color="white">Ne nous quittons plus.</font>
+
+413
+00:55:00,419 --> 00:55:04,253
+<font color="white">-Si on avait de l‘argent,
+on irait en Amérique.</font>
+
+414
+00:55:04,253 --> 00:55:07,274
+<font color="white">-Notre photo en tre page...</font>
+
+415
+00:55:07,274 --> 00:55:09,899
+<font color="white">"Les amants tragiques".</font>
+
+416
+00:55:09,899 --> 00:55:13,275
+<font color="white">-Toi, tu t'en tireras,
+tu n'as rien fait.</font>
+
+417
+00:55:13,275 --> 00:55:15,629
+<font color="white">Moi, demain, ma vie s'arrête.</font>
+
+418
+00:55:15,629 --> 00:55:18,025
+<font color="white">-Je ne mentirai pas,
+pour être avec toi !</font>
+
+419
+00:55:18,025 --> 00:55:21,088
+<font color="white">-Tu ne sais pas ce que c'est,
+la police.</font>
+
+420
+00:55:21,088 --> 00:55:25,422
+<font color="white">-Non, Louis,
+nous serons plus forts qu’eux.</font>
+
+421
+00:55:25,422 --> 00:55:27,818
+<font color="white">Nous mourrons ensemble.</font>
+
+422
+00:55:27,818 --> 00:55:30,236
+<font color="white">-Quand ?
+-Tout de suite.</font>
+
+423
+00:55:30,236 --> 00:55:37,268
+<font color="white">J'ai ce qu‘il faut.</font>
+
+424
+00:55:42,612 --> 00:55:44,362
+<font color="white">Tu verras.</font>
+
+425
+00:55:44,362 --> 00:55:46,238
+<font color="white">On ne sent rien.</font>
+
+426
+00:55:46,238 --> 00:55:54,182
+<font color="white">On s‘endort tout de suite.</font>
+
+427
+00:55:55,947 --> 00:56:00,781
+<font color="white">Tu sais, plus tard,
+on parlera de nous.</font>
+
+428
+00:56:00,781 --> 00:56:03,032
+<font color="white">On nous citera en exemple.</font>
+
+429
+00:56:03,032 --> 00:56:08,262
+<font color="magenta">*Musique classique</font>
+
+430
+00:56:08,262 --> 00:56:16,596
+<font color="white">La musique marchera encore.
+Nous serons déjà mort.</font>
+
+431
+00:56:18,513 --> 00:56:26,848
+<font color="white">-Écoute, Véro...
+-II le faut, je le sais.</font>
+
+432
+00:56:52,310 --> 00:56:55,852
+<font color="red">Rires
+</font><font color="yellow">-Vos gueules, c’est pas marrant!</font>
+
+433
+00:56:55,852 --> 00:56:59,144
+<font color="cyan">-Une nuit entière, comme une folle,
+à chercher Julien,</font>
+
+434
+00:56:59,144 --> 00:57:02,936
+<font color="cyan">sans rien savoir,
+sans rien trouver.</font>
+
+435
+00:57:02,936 --> 00:57:05,082
+<font color="cyan">J'ai froid aux pieds.</font>
+
+436
+00:57:05,082 --> 00:57:12,354
+<font color="yellow">-Plein de fric pour elle
+et plein d'emmerdements pour toi.</font>
+
+437
+00:57:12,354 --> 00:57:20,689
+<font color="red">Une portière s'ouvre.
+</font><font color="yellow">-Allez, dépéchons.</font>
+
+438
+00:57:40,129 --> 00:57:48,073
+<font color="white">-C'est plein de flics ici.</font>
+
+439
+00:57:51,255 --> 00:57:54,443
+<font color="white">-Florence Carala.</font>
+
+440
+00:57:54,443 --> 00:57:58,361
+<font color="white">-Carala, comme Carala ?
+-Y en a pas 36.</font>
+
+441
+00:57:58,361 --> 00:58:00,486
+<font color="white">C‘est mon mari.</font>
+
+442
+00:58:00,486 --> 00:58:03,320
+<font color="white">-Quoi?
+Vous seriez Mme Simon Carala ?</font>
+
+443
+00:58:03,320 --> 00:58:06,487
+<font color="white">-Vous désapprouvez ce mariage ?
+-Laisse tomber!</font>
+
+444
+00:58:06,487 --> 00:58:09,737
+<font color="white">-Que faisiez-vous àla Madeleine,
+sans papiers ?</font>
+
+445
+00:58:09,737 --> 00:58:12,446
+<font color="white">-J'allais àla messe.
+-Aveclui?</font>
+
+446
+00:58:12,446 --> 00:58:18,567
+<font color="white">-Évidemment.</font>
+
+447
+00:58:22,489 --> 00:58:24,802
+<font color="white">-Excusez-nous, Mme Carala,</font>
+
+448
+00:58:24,802 --> 00:58:27,177
+<font color="white">je suis désolé,
+c’est une méprise...</font>
+
+449
+00:58:27,177 --> 00:58:31,303
+<font color="white">-Oh, oh, arrête ton char,
+faut pas ramper comme ça.</font>
+
+450
+00:58:31,303 --> 00:58:34,970
+<font color="white">Carala, c'est juste un marchand
+de canons et un con!</font>
+
+451
+00:58:34,970 --> 00:58:38,783
+<font color="white">-Foutez-moi la paix...
+-Je m'occupe de lui.</font>
+
+452
+00:58:38,783 --> 00:58:47,117
+<font color="white">Prévenez mon chauffeur.
+-Tout de suite, madame.</font>
+
+453
+00:59:00,578 --> 00:59:03,932
+<font color="white">-Vous avez l'habitude
+des commissariats ?</font>
+
+454
+00:59:03,932 --> 00:59:06,266
+<font color="white">-Le matin, comme ça.</font>
+
+455
+00:59:06,266 --> 00:59:09,266
+<font color="white">-Et Julien aussi ?</font>
+
+456
+00:59:09,266 --> 00:59:11,392
+<font color="white">-C'est mon pote.</font>
+
+457
+00:59:11,392 --> 00:59:14,225
+<font color="white">Qu'est-ce qu’il leur passe,
+aux flics!</font>
+
+458
+00:59:14,225 --> 00:59:17,205
+<font color="white">-II est peut-étre
+dans un commissariat.</font>
+
+459
+00:59:17,205 --> 00:59:20,601
+<font color="white">-Ça, c’est vrai,
+on devrait aller voir.</font>
+
+460
+00:59:20,601 --> 00:59:22,873
+<font color="white">-Tenez-vous tranquille.</font>
+
+461
+00:59:22,873 --> 00:59:26,185
+<font color="white">-ll doit avoir soif.
+-ll attendra.</font>
+
+462
+00:59:26,185 --> 00:59:32,827
+<font color="white">-C'est pas chic.</font>
+
+463
+00:59:39,062 --> 00:59:43,855
+<font color="white">-Commissaire Chérier, tre brigade
+criminelle, étage au-dessus.</font>
+
+464
+00:59:43,855 --> 00:59:45,980
+<font color="white">-Enchantée.</font>
+
+465
+00:59:45,980 --> 00:59:47,605
+<font color="white">-Je souhaite, madame,</font>
+
+466
+00:59:47,605 --> 00:59:51,022
+<font color="white">que votre mari n'en veuille pas
+trop àla police...</font>
+
+467
+00:59:51,022 --> 00:59:52,939
+<font color="white">-Mon mari est en Suisse.</font>
+
+468
+00:59:52,939 --> 00:59:56,940
+<font color="white">Il n'en saura rien.
+-Bien entendu, madame.</font>
+
+469
+00:59:56,940 --> 00:59:59,607
+<font color="white">Votre passage
+ne sera pas enregistré.</font>
+
+470
+00:59:59,607 --> 01:00:01,211
+<font color="white">-J'y compte bien !</font>
+
+471
+01:00:01,211 --> 01:00:04,753
+<font color="white">Mon mari déjeune souvent
+avec le ministre de l'Intérieur.</font>
+
+472
+01:00:04,753 --> 01:00:08,504
+<font color="white">-Bien entendu, madame.
+M. Carala déjeune beaucoup.</font>
+
+473
+01:00:08,504 --> 01:00:12,630
+<font color="white">Ses affaires le veulent.
+Par exemple...</font>
+
+474
+01:00:12,630 --> 01:00:16,693
+<font color="white">-Par exemple ?</font>
+
+475
+01:00:16,693 --> 01:00:19,693
+<font color="white">-N'a-t-il pas un collaborateur</font>
+
+476
+01:00:19,693 --> 01:00:24,360
+<font color="yellow">nommé Julien Tavernier ?</font>
+
+477
+01:00:24,360 --> 01:00:28,507
+<font color="white">-Je crois.</font>
+
+478
+01:00:28,507 --> 01:00:35,362
+<font color="white">-Vous voyez ?
+Peut-être le connaissez—vous.</font>
+
+479
+01:00:35,362 --> 01:00:38,216
+<font color="white">-Oui, je l'ai vu <i>2 </i>ou 3 fois.</font>
+
+480
+01:00:38,216 --> 01:00:40,175
+<font color="white">-Sauriez-vous me préciser</font>
+
+481
+01:00:40,175 --> 01:00:45,322
+<font color="white">quand vous l'avez vu
+pour la dernière fois ?</font>
+
+482
+01:00:45,322 --> 01:00:47,843
+<font color="white">-Votre question m'amuse...</font>
+
+483
+01:00:47,843 --> 01:00:50,906
+<font color="white">Je l'ai aperçu hier soir
+en voiture.</font>
+
+484
+01:00:50,906 --> 01:00:53,219
+<font color="white">C'était boulevard Haussmann.</font>
+
+485
+01:00:53,219 --> 01:00:55,990
+<font color="yellow">-ll était quelle heure ?
+</font><font color="white">-Sept heures.</font>
+
+486
+01:00:55,990 --> 01:00:59,011
+<font color="white">Non,non….
+Moins de sept heures.</font>
+
+487
+01:00:59,011 --> 01:01:01,657
+<font color="yellow">-Moins de sept heures,
+bien entendu.</font>
+
+488
+01:01:01,657 --> 01:01:03,783
+<font color="yellow">Il était seul ?</font>
+
+489
+01:01:03,783 --> 01:01:07,887
+<font color="white">-II y avait une jeune fille
+dans sa voiture.</font>
+
+490
+01:01:07,887 --> 01:01:12,471
+<font color="white">Qu’est-ce qui est toujours
+bien entendu ?</font>
+
+491
+01:01:12,471 --> 01:01:16,055
+<font color="white">-Eh bien, madame,
+vous venez de rendre,</font>
+
+492
+01:01:16,055 --> 01:01:19,076
+<font color="white">sans le vouloir,
+un grand service a la justice.</font>
+
+493
+01:01:19,076 --> 01:01:20,868
+<font color="white">Nous le recherchons.</font>
+
+494
+01:01:20,868 --> 01:01:23,744
+<font color="yellow">Accusé d’avoir tué
+ce matin à 4h.</font>
+
+495
+01:01:23,744 --> 01:01:26,577
+<font color="white">-Sacré Julien !
+-D'avoir tué qui ?</font>
+
+496
+01:01:26,577 --> 01:01:30,724
+<font color="yellow">-M. Carala sera navré d‘apprendre
+qu‘il a tué <i>2 </i>touristes allemands.</font>
+
+497
+01:01:30,724 --> 01:01:32,370
+<font color="white">-Oh, c‘est très bien.</font>
+
+498
+01:01:32,370 --> 01:01:36,579
+<font color="yellow">-On a retrouvé son imperméable,
+sa voiture, son revolver.</font>
+
+499
+01:01:36,579 --> 01:01:39,204
+<font color="yellow">Il était accompagné
+d’une jeune fille.</font>
+
+500
+01:01:39,204 --> 01:01:47,539
+<font color="yellow">Ce qui rend votre témoignage
+excessivement intéressant.</font>
+
+501
+01:01:47,664 --> 01:01:55,868
+<font color="white">-T'as une cigarette, chéri ?</font>
+
+502
+01:02:14,918 --> 01:02:23,252
+<font color="white">-Croyez encore, madame,
+qu'une telle maladresse me navre...</font>
+
+503
+01:02:23,335 --> 01:02:27,211
+<font color="white">-Monsieur n'a pas téléphoné ?
+-Non, madame.</font>
+
+504
+01:02:27,211 --> 01:02:29,357
+<font color="white">-Nous déposerons M. Subervie</font>
+
+505
+01:02:29,357 --> 01:02:34,212
+<font color="white">puis vous me ramènerez
+et sortirez ma Dauphine.</font>
+
+506
+01:02:34,212 --> 01:02:37,254
+<font color="white">Je suis affreuse.</font>
+
+507
+01:02:37,254 --> 01:02:44,026
+<font color="white">Ou je suis folle.</font>
+
+508
+01:02:52,215 --> 01:02:57,424
+<font color="red">Cloches</font>
+
+509
+01:03:22,636 --> 01:03:26,928
+<font color="white">-Vous étes
+devant la justice française.</font>
+
+510
+01:03:26,928 --> 01:03:29,595
+<font color="white">Je me suis dérangé en personne.</font>
+
+511
+01:03:29,595 --> 01:03:33,095
+<font color="white">Le matin méme ! Un dimanche!</font>
+
+512
+01:03:33,095 --> 01:03:36,929
+<font color="white">Vous devez témoigner
+en votre âme et conscience.</font>
+
+513
+01:03:36,929 --> 01:03:41,638
+<font color="white">-II y avait de l'orage, nous étions
+énervés, nous ne dormions pas.</font>
+
+514
+01:03:41,638 --> 01:03:49,973
+<font color="white">J'ai reconnu les silhouettes.</font>
+
+515
+01:04:03,329 --> 01:04:05,308
+<font color="white">C‘est difficile a dire.</font>
+
+516
+01:04:05,308 --> 01:04:07,329
+<font color="white">-Vous l'avez vu, oui ou non ?</font>
+
+517
+01:04:07,329 --> 01:04:15,664
+<font color="yellow">-C'est sûrement lui.
+</font><font color="white">-Ah ! Suivant.</font>
+
+518
+01:04:17,331 --> 01:04:23,248
+<font color="white">-L'assassin, présumé coupable,
+n‘est pas entré à la réception.</font>
+
+519
+01:04:23,248 --> 01:04:26,707
+<font color="white">Par contre, j'ai fort bien vu
+les malheureuses victimes</font>
+
+520
+01:04:26,707 --> 01:04:30,208
+<font color="white">et la jeune dévoyée
+qui l‘accompagnait.</font>
+
+521
+01:04:30,208 --> 01:04:32,354
+<font color="white">Auriez-vous une photo d'elle ?
+-Non.</font>
+
+522
+01:04:32,354 --> 01:04:37,188
+<font color="white">-Je me suis toujours bien entendu
+avec la justice.</font>
+
+523
+01:04:37,188 --> 01:04:39,646
+<font color="white">-Suivant !</font>
+
+524
+01:04:39,646 --> 01:04:41,542
+<font color="white">-M. le commissaire...</font>
+
+525
+01:04:41,542 --> 01:04:45,918
+<font color="white">-Je suis le substitut
+du procureur de la République!</font>
+
+526
+01:04:45,918 --> 01:04:47,752
+<font color="white">Vous avez des papiers ?</font>
+
+527
+01:04:47,752 --> 01:04:51,252
+<font color="white">-Je proteste
+contre cette atteinte.</font>
+
+528
+01:04:51,252 --> 01:04:53,836
+<font color="white">Ma vie privée
+est une affaire publique.</font>
+
+529
+01:04:53,836 --> 01:04:57,732
+<font color="white">Je suis Jacqueline Mauclair.
+-Ça ne change rien.</font>
+
+530
+01:04:57,732 --> 01:05:01,399
+<font color="white">-Les journalistes...
+-Oh, ces journalistes insatiables !</font>
+
+531
+01:05:01,399 --> 01:05:03,108
+<font color="white">Bon, faites entrer.</font>
+
+532
+01:05:03,108 --> 01:05:09,750
+<font color="white">S'il vous plaît.</font>
+
+533
+01:05:14,943 --> 01:05:17,964
+<font color="white">Messieurs,
+l'un de vous rappelait un jour</font>
+
+534
+01:05:17,964 --> 01:05:20,215
+<font color="white">que j‘avais préparé
+l'École normale</font>
+
+535
+01:05:20,215 --> 01:05:23,090
+<font color="white">avant d'embrasser
+la carrière judiciaire.</font>
+
+536
+01:05:23,090 --> 01:05:27,132
+<font color="white">Cette nouvelle affaire
+se sera déroulée</font>
+
+537
+01:05:27,132 --> 01:05:29,987
+<font color="white">comme une tragédie racinienne,
+en 24 heures.</font>
+
+538
+01:05:29,987 --> 01:05:32,300
+<font color="white">Le crime commis dans la nuit,</font>
+
+539
+01:05:32,300 --> 01:05:35,383
+<font color="white">l'assassin aura été identifié
+dans la matinée</font>
+
+540
+01:05:35,383 --> 01:05:40,072
+<font color="white">et sera capturé ce soir.
+-Fantastique.</font>
+
+541
+01:05:40,072 --> 01:05:44,176
+<font color="white">-ll s‘agit d'un nommé
+Julien Tavernier.</font>
+
+542
+01:05:44,176 --> 01:05:46,489
+<font color="white">Un ancien officier, parachutiste.</font>
+
+543
+01:05:46,489 --> 01:05:48,531
+<font color="white">Sa voiture, son revolver,</font>
+
+544
+01:05:48,531 --> 01:05:50,823
+<font color="white">son imperméable sont
+dans nos mains.</font>
+
+545
+01:05:50,823 --> 01:05:54,511
+<font color="white">Des témoins l‘ont reconnu,
+ainsi que la femme l'accompagnant.</font>
+
+546
+01:05:54,511 --> 01:05:59,428
+<font color="white">Les mobiles de cet acte insensé
+peuvent être d'origines diverses.</font>
+
+547
+01:05:59,428 --> 01:06:03,700
+<font color="white">Ce Tavernier buvait, c’était
+un querelleur, une forte téte.</font>
+
+548
+01:06:03,700 --> 01:06:06,409
+<font color="white">On trouve, dans son passé,
+plusieurs rixes.</font>
+
+549
+01:06:06,409 --> 01:06:10,701
+<font color="white">Mais, à mon sens,
+cette explication est fragmentaire.</font>
+
+550
+01:06:10,701 --> 01:06:15,077
+<font color="white">Le pavillon des Allemands était
+voisin de celui de Tavernier,</font>
+
+551
+01:06:15,077 --> 01:06:18,056
+<font color="white">un voisinage qui facilite
+bien des choses.</font>
+
+552
+01:06:18,056 --> 01:06:22,432
+<font color="white">La victime, Mme Bencker,
+était jeune, très jeune</font>
+
+553
+01:06:22,432 --> 01:06:24,182
+<font color="white">et trés belle.</font>
+
+554
+01:06:24,182 --> 01:06:27,203
+<font color="white">-On pourrait voir le corps ?
+-Ce serait déplacé.</font>
+
+555
+01:06:27,203 --> 01:06:31,016
+<font color="white">On saura le fin mot de l‘affaire
+quand le meurtrier aura parlé.</font>
+
+556
+01:06:31,016 --> 01:06:34,642
+<font color="white">L‘intervention de la justice
+aura été foudroyante.</font>
+
+557
+01:06:34,642 --> 01:06:38,913
+<font color="white">M'étant rendu sur place,
+j'ai constaté...</font>
+
+558
+01:06:38,913 --> 01:06:42,289
+<font color="white">Tiens, Chérier,
+vous étes déjà là ?</font>
+
+559
+01:06:42,289 --> 01:06:50,623
+<font color="white">Messieurs, ce sera tout.
+Merci.</font>
+
+560
+01:06:53,165 --> 01:06:55,728
+<font color="white">-Voilà l'assassin tout chaud!</font>
+
+561
+01:06:55,728 --> 01:07:04,063
+<font color="white">-lls nous chahutent la une
+avec leur crime.</font>
+
+562
+01:07:15,293 --> 01:07:18,210
+<font color="white">-Vous vous croyez
+tout permis !</font>
+
+563
+01:07:18,210 --> 01:07:24,461
+<font color="white">C‘est par là.</font>
+
+564
+01:07:24,753 --> 01:07:28,837
+<font color="white">Capitaine Tavernier, un assassin !
+Ah là là...</font>
+
+565
+01:07:28,837 --> 01:07:31,692
+<font color="white">Elle en a de l’imagination,
+la police!</font>
+
+566
+01:07:31,692 --> 01:07:38,026
+<font color="white">-Laisse tomber.</font>
+
+567
+01:07:38,026 --> 01:07:46,360
+<font color="white">-Attendez,
+je vais vous allumer.</font>
+
+568
+01:07:53,778 --> 01:07:59,378
+<font color="white">Tiens...</font>
+
+569
+01:08:02,342 --> 01:08:04,634
+<font color="yellow">Police ou pas police,</font>
+
+570
+01:08:04,634 --> 01:08:09,093
+<font color="yellow">M. Carala aime pas
+qu‘on se mêle de ses affaires...</font>
+
+571
+01:08:09,093 --> 01:08:17,427
+<font color="red">La voix de Maurice
+s’éloigne petit à petit.</font>
+
+572
+01:09:56,733 --> 01:10:04,286
+<font color="white">-Les flics l‘ont prise.</font>
+
+573
+01:10:05,526 --> 01:10:10,797
+<font color="white">-C'est malheureux, tout de même.</font>
+
+574
+01:10:10,797 --> 01:10:19,132
+<font color="white">Si c’est pas malheureux
+de voir ça...</font>
+
+575
+01:10:21,549 --> 01:10:29,883
+<font color="white">-Où il est passé,
+ce zèbre-là ?</font>
+
+576
+01:10:37,739 --> 01:10:43,323
+<font color="white">-C'est marrant, il ferme jamais.</font>
+
+577
+01:10:43,323 --> 01:10:48,678
+<font color="white">Oh dis donc!</font>
+
+578
+01:10:48,678 --> 01:10:51,199
+<font color="white">Dis donc...</font>
+
+579
+01:10:51,199 --> 01:10:54,220
+<font color="white">Mais alors...</font>
+
+580
+01:10:54,220 --> 01:10:58,637
+<font color="white">Oh dis donc...</font>
+
+581
+01:10:58,637 --> 01:11:03,034
+<font color="yellow">Hé, la police.
+Hé, la police!</font>
+
+582
+01:11:03,034 --> 01:11:07,118
+<font color="white">Vous serez pas venus pour rien.
+Y a un mort là-haut.</font>
+
+583
+01:11:07,118 --> 01:11:09,076
+<font color="white">Le patron.
+-Quoi, le patron ?</font>
+
+584
+01:11:09,076 --> 01:11:17,411
+<font color="white">-Ben, M. Carala.
+On dirait qu’il s'est suicidé.</font>
+
+585
+01:11:44,956 --> 01:11:50,124
+<font color="white">-Allb ?
+Mme Carala, s'il vous plaît.</font>
+
+586
+01:11:50,124 --> 01:11:53,270
+<font color="white">Elle dort ?</font>
+
+587
+01:11:53,270 --> 01:11:58,896
+<font color="white">Non, non, laissez-la dormir.</font>
+
+588
+01:11:58,896 --> 01:12:05,407
+<font color="white">Je rappellerai.</font>
+
+589
+01:12:08,001 --> 01:12:10,814
+<font color="white">Gaston ?
+-M. Tavernier.</font>
+
+590
+01:12:10,814 --> 01:12:12,752
+<font color="white">-J'ai faim.</font>
+
+591
+01:12:12,752 --> 01:12:19,899
+<font color="white">Vous me servirez un grand bol
+de café et plein de croissants.</font>
+
+592
+01:12:19,899 --> 01:12:28,233
+<font color="white">-Je préviens la police ?
+-Oui.</font>
+
+593
+01:13:02,842 --> 01:13:05,134
+<font color="white">-Bouh!</font>
+
+594
+01:13:05,134 --> 01:13:08,802
+<font color="white">-C'est le même monsieur,
+dis, papa ?</font>
+
+595
+01:13:08,802 --> 01:13:15,907
+<font color="white">Regarde. C‘est le méme monsieur ?
+-Tais-toi !</font>
+
+596
+01:13:15,907 --> 01:13:19,553
+<font color="white">-C'est le méme monsieur ?
+Hein, papa ?</font>
+
+597
+01:13:19,553 --> 01:13:22,387
+<font color="yellow">Puisque je te dis
+que c’est le méme.</font>
+
+598
+01:13:22,387 --> 01:13:29,549
+<font color="yellow">-Viens et tais-toi.</font>
+
+599
+01:13:37,889 --> 01:13:45,442
+<font color="red">Sirène de police, au loin</font>
+
+600
+01:13:46,161 --> 01:13:54,496
+<font color="white">-Ne restons pas là.
+Venez vite.</font>
+
+601
+01:14:04,393 --> 01:14:10,685
+<font color="red">Coups de sifflet</font>
+
+602
+01:14:10,685 --> 01:14:16,207
+<font color="white">-Bon, on va quand méme tâcher de
+se mettre d'accord sur une chose.</font>
+
+603
+01:14:16,207 --> 01:14:21,270
+<font color="white">Vous avez quitté l'immeuble Carala
+à 19h30, ça, c'est clair.</font>
+
+604
+01:14:21,270 --> 01:14:23,937
+<font color="white">Le portier, la standardiste</font>
+
+605
+01:14:23,937 --> 01:14:27,917
+<font color="white">ont témoigné que vous n'aviez pas
+quitté votre bureau avant.</font>
+
+606
+01:14:27,917 --> 01:14:29,751
+<font color="white">-Non.
+-Bon.</font>
+
+607
+01:14:29,751 --> 01:14:33,480
+<font color="white">Ensuite, vous avez pris
+votre voiture et vous avez roulé.</font>
+
+608
+01:14:33,480 --> 01:14:36,293
+<font color="white">-Non.
+-Un témoin vous a reconnu.</font>
+
+609
+01:14:36,293 --> 01:14:38,335
+<font color="white">-II se trompe!</font>
+
+610
+01:14:38,335 --> 01:14:40,627
+<font color="white">Ou vous mentez.</font>
+
+611
+01:14:40,627 --> 01:14:41,669
+<font color="white">-Très bien. D'accord.</font>
+
+612
+01:14:41,190 --> 01:14:45,211
+<font color="white">On continue a jouer ?</font>
+
+613
+01:14:45,211 --> 01:14:47,732
+<font color="white">On continue.</font>
+
+614
+01:14:47,732 --> 01:14:52,295
+<font color="white">Vous reconnaissez ce revolver
+et cet imperméable ?</font>
+
+615
+01:14:52,295 --> 01:14:54,129
+<font color="white">-lls étaient dans ma voiture.</font>
+
+616
+01:14:54,129 --> 01:14:57,129
+<font color="white">-Naturellement.</font>
+
+617
+01:14:57,129 --> 01:15:00,755
+<font color="white">Combien de balles
+y avait—il dans le barillet ?</font>
+
+618
+01:15:00,755 --> 01:15:03,464
+<font color="white">-ll devait être plein.</font>
+
+619
+01:15:03,464 --> 01:15:07,256
+<font color="white">-Et ça aussi,
+vous l’aviez laissé traîner.</font>
+
+620
+01:15:07,256 --> 01:15:11,465
+<font color="white">Vous êtes très négligeant,
+M. Tavernier.</font>
+
+621
+01:15:11,465 --> 01:15:14,507
+<font color="white">Quel était votre rôle,</font>
+
+622
+01:15:14,507 --> 01:15:17,757
+<font color="white">dans les affaires de Carala ?</font>
+
+623
+01:15:17,757 --> 01:15:22,758
+<font color="white">-J‘allais voir des gens, enfin...
+des gens importants.</font>
+
+624
+01:15:22,758 --> 01:15:25,112
+<font color="white">Je leur parlais de M. Carala</font>
+
+625
+01:15:25,112 --> 01:15:27,842
+<font color="white">et je les voyais
+se mettre a plat ventre.</font>
+
+626
+01:15:27,842 --> 01:15:33,072
+<font color="white">-Oui, mais voyez—vous, Tavernier,
+maintenant, y a du nouveau.</font>
+
+627
+01:15:33,072 --> 01:15:35,343
+<font color="white">-Du nouveau ?</font>
+
+628
+01:15:35,343 --> 01:15:38,406
+<font color="white">-On peut pas être
+partout a la fois.</font>
+
+629
+01:15:38,406 --> 01:15:42,448
+<font color="white">Vous étiez donc satisfait
+de travailler pour M. Carala ?</font>
+
+630
+01:15:42,448 --> 01:15:45,157
+<font color="white">-Ça ne regardait que moi
+et puis...</font>
+
+631
+01:15:45,157 --> 01:15:49,033
+<font color="white">-Et puis ?
+-J'avais eu d'autres occupations.</font>
+
+632
+01:15:49,033 --> 01:15:55,117
+<font color="white">-Je sais, bien entendu.</font>
+
+633
+01:15:55,117 --> 01:15:58,159
+<font color="white">-Vous connaissiez
+le motel de Trappes ?</font>
+
+634
+01:15:58,159 --> 01:16:00,367
+<font color="white">-Non.
+-On vous y a reconnu.</font>
+
+635
+01:16:00,367 --> 01:16:04,806
+<font color="white">-Et alors ? On m'a peut-étre aussi
+reconnu à Berlin-est ou à Casa!</font>
+
+636
+01:16:04,806 --> 01:16:09,515
+<font color="white">-Où étiez-vous...
+-Je ne sais pas !</font>
+
+637
+01:16:09,515 --> 01:16:12,723
+<font color="white">Je me suis soûlé.
+-Au motel de Trappes.</font>
+
+638
+01:16:12,723 --> 01:16:15,411
+<font color="white">-A Paris. J'ai marché.</font>
+
+639
+01:16:15,411 --> 01:16:20,037
+<font color="white">-Tout ça, c’est trés joli, mais y a
+une modification au programme.</font>
+
+640
+01:16:20,037 --> 01:16:23,746
+<font color="white">Que les témoins bafouillent,
+au motel, je veux bien,</font>
+
+641
+01:16:23,746 --> 01:16:25,767
+<font color="white">mais c‘est pas tout.</font>
+
+642
+01:16:25,767 --> 01:16:28,080
+<font color="white">Je vous pose une devinette :</font>
+
+643
+01:16:28,080 --> 01:16:32,039
+<font color="white">connaissez-vous une dame,
+une personne élégante,</font>
+
+644
+01:16:32,039 --> 01:16:35,122
+<font color="white">un peu... noctambule ?</font>
+
+645
+01:16:35,122 --> 01:16:39,560
+<font color="white">-De qui voulez-vous parler ?
+De ma complice du motel ?</font>
+
+646
+01:16:39,560 --> 01:16:41,561
+<font color="white">J'aimerais bien
+qu'on me la présente.</font>
+
+647
+01:16:41,561 --> 01:16:42,748
+<font color="white">-Pas du tout.</font>
+
+648
+01:16:42,748 --> 01:16:49,708
+<font color="white">Il s‘agissait,
+dans mon esprit, de Mme Carala.</font>
+
+649
+01:16:49,708 --> 01:16:52,562
+<font color="white">-Je la connais à peine.</font>
+
+650
+01:16:52,562 --> 01:16:55,729
+<font color="white">-Mais c‘est parfait,
+ça, oui !</font>
+
+651
+01:16:55,729 --> 01:17:00,293
+<font color="white">Car Mme Carala a témoigné
+vous avoir vu passer en voiture</font>
+
+652
+01:17:00,293 --> 01:17:02,460
+<font color="white">aux côtés d’une jeune fille.</font>
+
+653
+01:17:02,460 --> 01:17:05,898
+<font color="white">Or, vous, vous connaissez pas
+beaucoup Mme Carala</font>
+
+654
+01:17:05,898 --> 01:17:09,190
+<font color="white">et elle ne vous connaît pas
+beaucoup non plus.</font>
+
+655
+01:17:09,190 --> 01:17:14,795
+<font color="white">Elle vous reconnaît, voilà tout,
+et tous les témoignages concordent.</font>
+
+656
+01:17:14,795 --> 01:17:17,337
+<font color="white">-Mais puisque c'est pas vrai.</font>
+
+657
+01:17:17,337 --> 01:17:19,733
+<font color="white">Puisque c‘est pas possible.</font>
+
+658
+01:17:19,733 --> 01:17:21,941
+<font color="white">Puisque j'étais ailleurs!</font>
+
+659
+01:17:21,941 --> 01:17:24,567
+<font color="white">-Vous êtes sûr?</font>
+
+660
+01:17:24,567 --> 01:17:26,942
+<font color="white">-Laissez-moi dormir.</font>
+
+661
+01:17:26,942 --> 01:17:30,255
+<font color="white">-On aimerait bien
+vous laisser dormir, Tavernier.</font>
+
+662
+01:17:30,255 --> 01:17:36,569
+<font color="white">Allez, 6e édition, vas-y, vieux.</font>
+
+663
+01:17:36,569 --> 01:17:40,673
+<font color="white">-Où étiez-vous dans la nuit
+de samedi à dimanche ?</font>
+
+664
+01:17:40,673 --> 01:17:47,315
+<font color="white">-Je ne sais pas.</font>
+
+665
+01:17:50,091 --> 01:17:58,426
+<font color="white">-Alors ? Vous voulez pas
+vous décider à parler ?</font>
+
+666
+01:18:08,052 --> 01:18:13,657
+<font color="white">-Si je vous disais
+où j'ai passé la nuit...</font>
+
+667
+01:18:13,657 --> 01:18:16,324
+<font color="white">-On peut tout prendre
+comme alibi :</font>
+
+668
+01:18:16,324 --> 01:18:19,179
+<font color="white">les femmes, les petites filles,</font>
+
+669
+01:18:19,179 --> 01:18:23,971
+<font color="white">les amis, les maris trompés,
+mais pas les ascenseurs.</font>
+
+670
+01:18:23,971 --> 01:18:28,388
+<font color="white">Franchement, c‘est idiot.</font>
+
+671
+01:18:28,388 --> 01:18:30,639
+<font color="white">-Vous trouvez ça idiot ?</font>
+
+672
+01:18:30,639 --> 01:18:34,327
+<font color="white">-Je trouve ça bête à pleurer.</font>
+
+673
+01:18:34,327 --> 01:18:37,098
+<font color="white">Vous étes mal parti, Tavernier.</font>
+
+674
+01:18:37,098 --> 01:18:39,265
+<font color="white">Les témoignages concordent.</font>
+
+675
+01:18:39,265 --> 01:18:42,390
+<font color="white">Votre histoire d’ascenseur
+va faire rire le jury.</font>
+
+676
+01:18:42,390 --> 01:18:45,933
+<font color="white">Vous étes mal parti.</font>
+
+677
+01:18:45,933 --> 01:18:48,975
+<font color="white">A propos,
+mauvaise nouvelle.</font>
+
+678
+01:18:48,975 --> 01:18:53,079
+<font color="white">M. Carala a été retrouvé mort,
+affalé sur son bureau.</font>
+
+679
+01:18:53,079 --> 01:18:56,184
+<font color="white">C’est un suicide.
+Qu'en dites-vous ?</font>
+
+680
+01:18:56,184 --> 01:18:58,601
+<font color="white">-Laissez-moi dormir.</font>
+
+681
+01:18:58,601 --> 01:19:05,914
+<font color="white">-Je serais curieux de savoir
+ce qu'en pense Mme Carala.</font>
+
+682
+01:19:05,914 --> 01:19:09,165
+<font color="white">Nous nous écartons du sujet.</font>
+
+683
+01:19:09,165 --> 01:19:11,665
+<font color="white">-Tavernier !</font>
+
+684
+01:19:11,665 --> 01:19:15,249
+<font color="white">ou avez-vous passé la nuit
+de samedi à dimanche ?</font>
+
+685
+01:19:15,249 --> 01:19:19,854
+<font color="white">-Ce suicide me bouleverse,
+me stupéfie littéralement.</font>
+
+686
+01:19:19,854 --> 01:19:24,688
+<font color="white">Notre président, votre mari,
+était un homme si dynamique.</font>
+
+687
+01:19:24,688 --> 01:19:28,188
+<font color="white">-Merci de vous occuper
+de ces détails matériels.</font>
+
+688
+01:19:28,188 --> 01:19:31,751
+<font color="white">-C'est normal.</font>
+
+689
+01:19:31,751 --> 01:19:36,356
+<font color="white">Quant à la société, je saurai
+défendre vos intérêts, croyez—le.</font>
+
+690
+01:19:36,356 --> 01:19:40,815
+<font color="white">C'est un peu frais pour y penser,
+mais il le faudra.</font>
+
+691
+01:19:40,815 --> 01:19:46,024
+<font color="white">Quand je songe à cette horrible
+tuerie de Trappes, la méme nuit.</font>
+
+692
+01:19:46,024 --> 01:19:48,483
+<font color="white">Il était bizarre, ce Tavernier.</font>
+
+693
+01:19:48,483 --> 01:19:51,504
+<font color="white">Espérons
+qu'on le retrouvera vite.</font>
+
+694
+01:19:51,504 --> 01:19:54,901
+<font color="white">C'est ennuyeux pour le tourisme.
+-Vous permettez ?</font>
+
+695
+01:19:54,901 --> 01:20:03,235
+<font color="white">-Je vous accompagne.
+-lnutile, vous avez à faire.</font>
+
+696
+01:20:11,736 --> 01:20:19,159
+<font color="cyan">Je te sauverai, Julien.</font>
+
+697
+01:20:21,029 --> 01:20:24,592
+<font color="white">-Madame,
+vous désirez un azalée ?</font>
+
+698
+01:20:24,592 --> 01:20:27,676
+<font color="white">-Votre vendeuse n'est pas là ?
+-Véronique !</font>
+
+699
+01:20:27,676 --> 01:20:30,718
+<font color="white">Le dimanche,
+elle est avec son amoureux.</font>
+
+700
+01:20:30,718 --> 01:20:33,677
+<font color="white">Regardez….
+-Elle s’appelle Véronique.</font>
+
+701
+01:20:33,677 --> 01:20:38,969
+<font color="white">Où habite-t-elle ?
+-Une chambre de bonne dans le 15e.</font>
+
+702
+01:20:38,969 --> 01:20:42,678
+<font color="white">Elle a fait une bêtise ?
+-Où exactement ?</font>
+
+703
+01:20:42,678 --> 01:20:46,616
+<font color="white">-Boulevard de Grenelle,
+je crois, 55.</font>
+
+704
+01:20:46,616 --> 01:20:51,325
+<font color="white">Je vous conseille celui—ci,
+si vous aimez ce ton de rose.</font>
+
+705
+01:20:51,325 --> 01:20:58,097
+<font color="white">Il est ravissant.</font>
+
+706
+01:21:16,683 --> 01:21:21,329
+<font color="magenta">Quelqu'un joue du piano.</font>
+
+707
+01:21:21,329 --> 01:21:25,163
+<font color="yellow">-Mets ton manteau, Claudine.</font>
+
+708
+01:21:25,163 --> 01:21:28,518
+<font color="white">-AHons,dépéchons,
+on va être encore en retard.</font>
+
+709
+01:21:28,518 --> 01:21:31,810
+<font color="white">-Tu es toute décoiffée,
+Françoise.</font>
+
+710
+01:21:31,810 --> 01:21:39,707
+<font color="white">-On est toujours en retard.
+Allons, vite.</font>
+
+711
+01:21:39,707 --> 01:21:48,042
+<font color="red">*Commentaires
+d'un match à la radio</font>
+
+712
+01:21:48,979 --> 01:21:50,959
+<font color="white">Mademoiselle Véronique ?</font>
+
+713
+01:21:50,959 --> 01:21:53,897
+<font color="yellow">-Qui cherchez-vous ?</font>
+
+714
+01:21:53,897 --> 01:21:57,043
+<font color="white">-Véronique, s'il vous plait.</font>
+
+715
+01:21:57,043 --> 01:21:59,293
+<font color="yellow">-À droite, droite, et au fond!</font>
+
+716
+01:21:59,293 --> 01:22:04,763
+<font color="white">-Merci.</font>
+
+717
+01:22:29,422 --> 01:22:34,501
+<font color="white">-Mm…</font>
+
+718
+01:22:39,590 --> 01:22:43,799
+<font color="white">Mm...</font>
+
+719
+01:22:43,799 --> 01:22:49,660
+<font color="red">Chasse d‘eau</font>
+
+720
+01:22:58,176 --> 01:23:01,323
+<font color="white">-Qui étes-vous ?
+Que voulez-vous ?</font>
+
+721
+01:23:01,323 --> 01:23:06,553
+<font color="white">-Vous en avez trop pris.
+Ça sauve la vie, la maladresse.</font>
+
+722
+01:23:06,553 --> 01:23:08,407
+<font color="white">Vous étes des enfants.</font>
+
+723
+01:23:08,407 --> 01:23:11,928
+<font color="white">Vous ne savez pas
+ce que c'est, le gardénal.</font>
+
+724
+01:23:11,928 --> 01:23:14,345
+<font color="white">-Laissez-nous.</font>
+
+725
+01:23:14,345 --> 01:23:17,179
+<font color="white">-Vous avez d‘abord volé la voiture</font>
+
+726
+01:23:17,179 --> 01:23:20,805
+<font color="white">et vous avez tué les Allemands,
+elle, on l'a vue.</font>
+
+727
+01:23:20,805 --> 01:23:22,680
+<font color="white">C‘est écrit partout.</font>
+
+728
+01:23:22,680 --> 01:23:26,097
+<font color="white">-Ça vous regarde ?
+-J'ai besoin de vous vivants</font>
+
+729
+01:23:26,097 --> 01:23:34,432
+<font color="white">pour prouver
+que tout ça est faux à crever!</font>
+
+730
+01:23:39,016 --> 01:23:44,120
+<font color="white">Vous n‘allez pas faire les idiots.</font>
+
+731
+01:23:44,120 --> 01:23:50,632
+<font color="red">Elle ferme à clé.</font>
+
+732
+01:24:01,560 --> 01:24:03,832
+<font color="white">-Ben,lesjournaux….</font>
+
+733
+01:24:03,832 --> 01:24:06,103
+<font color="white">-Qu'est-ce qu'ils disent ?</font>
+
+734
+01:24:06,103 --> 01:24:09,061
+<font color="white">-lls racontent
+n‘importe quoi.</font>
+
+735
+01:24:09,061 --> 01:24:13,020
+<font color="white">C'est pas ma photo ?</font>
+
+736
+01:24:13,020 --> 01:24:19,625
+<font color="white">-Non. C‘est M. Tavernier.</font>
+
+737
+01:24:19,625 --> 01:24:25,022
+<font color="white">-Mais alors... c'est pas moi.</font>
+
+738
+01:24:25,022 --> 01:24:27,647
+<font color="white">C'est lui.</font>
+
+739
+01:24:27,647 --> 01:24:31,898
+<font color="white">C‘est Tavernier.</font>
+
+740
+01:24:31,898 --> 01:24:35,148
+<font color="white">C‘est Tavernier.</font>
+
+741
+01:24:35,148 --> 01:24:41,441
+<font color="white">Elle nous racontait des histoires,
+cette vieille bonne femme.</font>
+
+742
+01:24:41,441 --> 01:24:45,483
+<font color="white">Mais oui, Véro, on est sauvés.</font>
+
+743
+01:24:45,483 --> 01:24:52,276
+<font color="white">C‘est exprès qu‘on n'est pas morts.</font>
+
+744
+01:24:52,276 --> 01:24:55,318
+<font color="white">Mais toi...</font>
+
+745
+01:24:55,318 --> 01:24:58,568
+<font color="white">Tu dois te cacher, on t'a vue.</font>
+
+746
+01:24:58,568 --> 01:25:00,902
+<font color="white">-Les photos, Louis.</font>
+
+747
+01:25:00,902 --> 01:25:03,965
+<font color="yellow">-C'est sa photo sur les journaux,
+c‘est lui.</font>
+
+748
+01:25:03,965 --> 01:25:07,028
+<font color="white">-Les photos des Allemands.</font>
+
+749
+01:25:07,028 --> 01:25:11,070
+<font color="white">-Quelles photos ?
+-Celles qu'on a prises au motel.</font>
+
+750
+01:25:11,070 --> 01:25:17,071
+<font color="white">Tiens, j'ai encore le ticket.</font>
+
+751
+01:25:17,071 --> 01:25:20,509
+<font color="white">-Merde !</font>
+
+752
+01:25:20,509 --> 01:25:25,551
+<font color="white">Merde!</font>
+
+753
+01:25:25,551 --> 01:25:30,448
+<font color="white">J'y vais.</font>
+
+754
+01:25:30,448 --> 01:25:34,865
+<font color="white">C'est la seule preuve, Véro.
+La seule!</font>
+
+755
+01:25:34,865 --> 01:25:43,200
+<font color="yellow">-La 2e clé, dans le tiroir... Là.</font>
+
+756
+01:25:53,972 --> 01:25:57,577
+<font color="white">-C'est un locataire dela maison.</font>
+
+757
+01:25:57,577 --> 01:26:03,661
+<font color="white">55, boulevard de Grenelle,
+chambre de bonne numéro 23.</font>
+
+758
+01:26:03,661 --> 01:26:08,162
+<font color="white">Il est drogué,
+il a pris du gardénal.</font>
+
+759
+01:26:08,162 --> 01:26:12,454
+<font color="white">C’est lui, l'assassin du motel,
+il m'a tout avoué.</font>
+
+760
+01:26:12,454 --> 01:26:14,913
+<font color="white">Mais je sais ce que je dis!</font>
+
+761
+01:26:14,913 --> 01:26:19,913
+<font color="white">Qu'importe qui je suis!</font>
+
+762
+01:26:19,913 --> 01:26:28,248
+<font color="white">Tant pis pour vous,
+tant pis si vous étes aussi bête !</font>
+
+763
+01:27:46,905 --> 01:27:55,239
+<font color="white">-C'est vous, le photographe ?</font>
+
+764
+01:28:03,470 --> 01:28:10,762
+<font color="white">-Te voilà, toi, hum ?</font>
+
+765
+01:28:13,825 --> 01:28:22,160
+<font color="white">Vous aussi ?
+Eh ben, entrez donc.</font>
+
+766
+01:28:32,390 --> 01:28:39,032
+<font color="white">Y a autre chose.</font>
+
+767
+01:28:43,767 --> 01:28:52,101
+<font color="magenta">Extrait de la bande originale</font>
+
+768
+01:28:52,560 --> 01:28:58,227
+<font color="yellow">Dans un appareil,
+il y a toujours plusieurs clichés.</font>
+
+769
+01:28:58,227 --> 01:29:01,644
+<font color="white">Tavernier n'a pas tué
+les Allemands.</font>
+
+770
+01:29:01,644 --> 01:29:05,728
+<font color="white">Mais je l’accuse d’avoir tué
+votre mari, Simon Carala.</font>
+
+771
+01:29:05,728 --> 01:29:11,167
+<font color="white">Je vous accuse, vous,
+d'être sa complice et plus encore.</font>
+
+772
+01:29:11,167 --> 01:29:19,501
+<font color="white">Vous voyez, faut jamais laisser
+les photos traîner.</font>
+
+773
+01:29:44,609 --> 01:29:47,359
+<font color="white">D’ailleurs,
+vous devez me remercier.</font>
+
+774
+01:29:47,359 --> 01:29:50,485
+<font color="white">Pour les Allemands,
+Tavernier n‘avait aucun alibi.</font>
+
+775
+01:29:50,485 --> 01:29:52,839
+<font color="white">C'était la condamnation à mort.</font>
+
+776
+01:29:52,839 --> 01:29:57,902
+<font color="white">Pour l'assassinat de votre mari,
+ce sera, mettons, 10 ans.</font>
+
+777
+01:29:57,902 --> 01:29:59,944
+<font color="white">-10 ans...</font>
+
+778
+01:29:59,944 --> 01:30:05,049
+<font color="yellow">-Dans ce cas-là, on n'en fait
+que 5, mais vous, Mme Carala...</font>
+
+779
+01:30:05,049 --> 01:30:10,029
+<font color="yellow">Oh, pour vous, madame, je crois que
+le jury ne sera pas trés indulgent.</font>
+
+780
+01:30:10,029 --> 01:30:12,884
+<font color="yellow">Et je crois qu'” aura raison.
+</font><font color="white">-10 ans,</font>
+
+781
+01:30:12,884 --> 01:30:17,718
+<font color="white">20 ans, plus d'âge, plus de jours,</font>
+
+782
+01:30:17,718 --> 01:30:21,531
+<font color="white">je vais dormir,</font>
+
+783
+01:30:21,531 --> 01:30:26,240
+<font color="white">je me réveillerai seule...</font>
+
+784
+01:30:26,240 --> 01:30:30,094
+<font color="white">10 ans, 20 ans,</font>
+
+785
+01:30:30,094 --> 01:30:33,887
+<font color="white">pas indulgente,
+je n'étais pas indulgente,</font>
+
+786
+01:30:33,887 --> 01:30:38,637
+<font color="white">mais je sais que je t'aimais,
+je ne pensais pas qu'à moi.</font>
+
+787
+01:30:38,637 --> 01:30:43,325
+<font color="white">Je vais étre vieille à présent.</font>
+
+788
+01:30:43,325 --> 01:30:46,659
+<font color="white">Mais là, nous sommes ensemble.</font>
+
+789
+01:30:46,659 --> 01:30:49,660
+<font color="yellow">La, quelque part, réunis.</font>
+
+790
+01:30:49,660 --> 01:30:50,701
+<font color="yellow">Tu vois bien
+qu'on ne peut pas nous séparer.</font>
+
