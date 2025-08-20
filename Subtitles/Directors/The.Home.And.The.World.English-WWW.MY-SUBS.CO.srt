@@ -1,0 +1,6919 @@
+1
+00:00:06,000 --> 00:00:12,074
+Watch Online Movies and Series for FREE
+www.osdb.link/lm
+
+2
+00:00:30,430 --> 00:00:31,727
+ACKNOWLEDGEMENTS
+Maharaja of Burdwan, Mr. Amiya Haldar
+
+3
+00:00:31,831 --> 00:00:33,890
+Lady Ranu Mukherjee, Mr. Rabindranath Halder
+Mrs. Krishna Kejriwal, Dr. Mihir Mitra
+
+4
+00:00:34,000 --> 00:00:36,059
+Mr. Nawal Kishore Kejriwal, Mr. Kamal Ghosh
+Mr. Amiya Mukherjee, Mr. Asit Choudhury
+
+5
+00:00:36,169 --> 00:00:37,898
+Mrs. Manjul Banerjee, Mr. Parimal Ray
+Mr. Sourish Roy, Mr. Nilmani Roy
+
+6
+00:00:38,004 --> 00:00:38,971
+Mr. Suvo Thakur
+Mr. Prashanta Roy
+
+7
+00:00:39,406 --> 00:00:41,067
+Dr. Adi Gajdar, Mr. Dipankar Sarkar
+Mrs. Roshon Gajdar, Mr. Gaur Kishore Ghosh
+
+8
+00:00:41,174 --> 00:00:42,573
+Mrs. Chitra Pal Chawdhury
+Mr. Dijendranath Basu, Mrs. Gopa Ghoshal
+
+9
+00:00:42,675 --> 00:00:44,472
+Mrs. Parimalhasini Ghosh, Mrs. Phyllis Bose,
+Bourne and Shepherd, Mr. Kamu Mukherjee
+
+10
+00:00:44,577 --> 00:00:45,737
+Zoom Sixteen, Mr. Joy Mitra
+Mr. Ajit Ghosh, Mr. Udit Roy
+
+11
+00:00:45,845 --> 00:00:47,369
+The lmambara of Metiabruz, Mr. Sudipto
+Chattapadhaya, lndian Tobacco Co.
+
+12
+00:00:47,781 --> 00:00:49,578
+Calcutta Police Training School
+Subdivisional Officer, Diamond Harbor
+
+13
+00:00:49,682 --> 00:00:51,206
+District Magistrate, 28 Parganas
+Chakdighi Panchayat Samiti
+
+14
+00:00:51,317 --> 00:00:52,716
+District Magistrate, Bankura
+Jamalpur Panchayat Samiti
+
+15
+00:00:52,819 --> 00:00:54,150
+District Magistrate, Burdwan
+Somsar Panchayat Samiti
+
+16
+00:00:54,254 --> 00:00:55,778
+Residents of Somsar, Goho,
+Chakdighi and Jamalpur villages
+
+17
+00:00:56,589 --> 00:01:02,027
+The National Film Development
+Corporation of lndia presents
+
+18
+00:01:08,334 --> 00:01:12,600
+THE HOME AND THE WORLD
+
+19
+00:01:12,872 --> 00:01:16,831
+A film by Satyajit Ray
+
+20
+00:01:16,943 --> 00:01:22,347
+from the novel by Rabindranath Tagore
+
+21
+00:01:28,521 --> 00:01:34,118
+with Soumitra Chatterjee,
+Victor Banerjee, Swatilekha Chatterjee
+
+22
+00:01:35,428 --> 00:01:37,589
+Gopa Aich, Manoj Mitra,
+Jennifer Kapoor
+
+23
+00:01:37,697 --> 00:01:39,665
+Bimala Chatterjee,
+lndrapramit Roy
+
+24
+00:01:51,377 --> 00:01:55,336
+Cinematography by Soumendu Roy
+
+25
+00:01:56,716 --> 00:02:00,311
+Art Direction by Ashoke Bose
+
+26
+00:02:01,387 --> 00:02:04,914
+Film Editing by Dulal Dutta
+
+27
+00:02:11,397 --> 00:02:14,924
+Makeup by Ananta Das
+
+28
+00:02:59,445 --> 00:03:05,748
+Screenplay, Music and Direction
+by Satyajit Ray
+
+29
+00:03:11,024 --> 00:03:14,391
+<i>I have passed through fire.</i>
+
+30
+00:03:15,295 --> 00:03:19,527
+<i>What was impure in me</i>
+
+31
+00:03:20,533 --> 00:03:24,094
+<i>has been burned to ashes.</i>
+
+32
+00:03:25,138 --> 00:03:30,041
+<i>What remains, I dedicate to him,</i>
+
+33
+00:03:30,910 --> 00:03:36,871
+<i>to the man who accepted aII my faiIings</i>
+<i>in the depths of his stricken heart.</i>
+
+34
+00:03:37,784 --> 00:03:41,686
+<i>Now I know there is no one eIse Iike him.</i>
+
+35
+00:03:44,023 --> 00:03:49,290
+<i>It was 1 0 years ago when I first met him.</i>
+
+36
+00:03:49,929 --> 00:03:56,061
+<i>He was the son of a nobIe famiIy,</i>
+<i>and I was his bride.</i>
+
+37
+00:04:00,440 --> 00:04:06,208
+<i>I heard that my husband</i>
+<i>was of a gentIe disposition.</i>
+
+38
+00:04:06,946 --> 00:04:10,109
+<i>I considered myseIf fortunate.</i>
+<i>Not every bride is so Iucky.</i>
+
+39
+00:04:11,317 --> 00:04:15,276
+<i>When I joined the famiIy, my sister-in-Iaw</i>
+<i>was aIready a widow, wearing white.</i>
+
+40
+00:04:16,322 --> 00:04:18,415
+<i>Though it was never mentioned,</i>
+
+41
+00:04:18,524 --> 00:04:23,257
+<i>I couId see that she had never enjoyed</i>
+<i>the pIeasures of a happy maritaI Iife.</i>
+
+42
+00:04:39,078 --> 00:04:42,878
+<i>Our rooms were in the inner</i>
+<i>apartments of the paIace.</i>
+
+43
+00:04:43,383 --> 00:04:48,184
+<i>A passage with stained-gIass windows</i>
+<i>Ied to the outer apartments.</i>
+
+44
+00:04:48,688 --> 00:04:52,283
+<i>The door of this passage</i>
+<i>aIways remained cIosed to us.</i>
+
+45
+00:04:52,759 --> 00:04:55,159
+<i>I didn't mind the confinement,</i>
+
+46
+00:04:55,428 --> 00:04:59,489
+<i>because I was raised</i>
+<i>to foIIow traditionaI vaIues.</i>
+
+47
+00:04:59,599 --> 00:05:03,057
+<i>But my husband had modern views.</i>
+
+48
+00:05:03,703 --> 00:05:08,333
+<i>He was the first in his famiIy</i>
+<i>to receive a Western education.</i>
+
+49
+00:05:08,608 --> 00:05:14,342
+<i>He appointed Miss GiIby</i>
+<i>to make a</i> memsahib <i>out of me.</i>
+
+50
+00:07:53,873 --> 00:07:56,273
+Why did you have to come here?
+
+51
+00:08:01,881 --> 00:08:08,013
+<i>Soon even the cIothes I wore</i>
+<i>began to refIect Miss GiIby's infIuence.</i>
+
+52
+00:08:23,669 --> 00:08:27,127
+English clothes, English songs.
+
+53
+00:08:27,240 --> 00:08:28,832
+Soon we won't even seem related.
+
+54
+00:08:28,941 --> 00:08:31,341
+-- You still haven't told me how l look.
+-- Very nice.
+
+55
+00:08:32,778 --> 00:08:34,769
+Pretty as a picture.
+
+56
+00:08:36,582 --> 00:08:39,016
+You're a lucky one.
+
+57
+00:08:39,118 --> 00:08:41,951
+You should grab
+your good fortune with both hands.
+
+58
+00:08:44,423 --> 00:08:48,291
+Few brides have known
+happiness in this family.
+
+59
+00:08:51,130 --> 00:08:54,588
+Some barely knew their husbands' faces,
+let alone the face of happiness.
+
+60
+00:08:56,202 --> 00:08:59,365
+l used to wait up for him all night,
+
+61
+00:08:59,472 --> 00:09:01,440
+hoping he'd come to me.
+
+62
+00:09:03,809 --> 00:09:09,247
+For two whole days before he died,
+l stayed by his bedside.
+
+63
+00:09:10,216 --> 00:09:15,916
+He was almost unconscious,
+dazed with fever.
+
+64
+00:09:16,455 --> 00:09:18,685
+He was burning hot.
+
+65
+00:09:19,091 --> 00:09:23,323
+Suddenly, he opened his eyes and said,
+
+66
+00:09:24,897 --> 00:09:26,990
+''Who are you?''
+
+67
+00:09:29,302 --> 00:09:34,797
+He didn't even recognize his own wife.
+
+68
+00:09:38,477 --> 00:09:42,641
+l wonder if you realize
+how lucky you are.
+
+69
+00:09:43,082 --> 00:09:45,016
+Why wouldn't l?
+
+70
+00:09:45,585 --> 00:09:48,281
+Don't l know my own --
+
+71
+00:09:48,788 --> 00:09:52,656
+Look who's here.
+We were just talking about you.
+
+72
+00:09:52,758 --> 00:09:54,282
+Really?
+
+73
+00:09:56,829 --> 00:09:59,263
+l thought only little girls
+played with dolls.
+
+74
+00:09:59,365 --> 00:10:01,856
+Now l see even grown men do.
+
+75
+00:10:01,968 --> 00:10:04,903
+-- What do you mean?
+-- She's dolling herself up for you.
+
+76
+00:10:05,004 --> 00:10:08,167
+Can't you see?
+-- l see.
+
+77
+00:10:08,274 --> 00:10:10,834
+She's going to make
+your dreams come true.
+
+78
+00:10:11,110 --> 00:10:15,547
+Well, men must have
+their little fantasies.
+
+79
+00:10:16,048 --> 00:10:18,073
+lsn't that true, sister--in--law?
+
+80
+00:10:19,819 --> 00:10:21,548
+Enjoy them.
+
+81
+00:10:25,458 --> 00:10:27,790
+l'll look on from the wings.
+
+82
+00:10:27,893 --> 00:10:30,555
+From the wings? Why?
+
+83
+00:10:30,663 --> 00:10:32,426
+What's the harm in staying here?
+
+84
+00:10:33,165 --> 00:10:35,326
+lt's better that way.
+
+85
+00:10:36,068 --> 00:10:39,094
+ln my day, we used attar.
+
+86
+00:10:41,574 --> 00:10:45,772
+These foreign perfumes
+make me feel sick.
+
+87
+00:10:47,346 --> 00:10:48,938
+l'll be going now.
+
+88
+00:11:06,165 --> 00:11:07,860
+Are these clothes all new?
+
+89
+00:11:07,967 --> 00:11:09,764
+The tailor brought them today.
+
+90
+00:11:09,869 --> 00:11:11,894
+They're all my own design.
+
+91
+00:11:13,572 --> 00:11:15,164
+l can see that.
+
+92
+00:11:16,342 --> 00:11:19,004
+You dress up so beautifully for me.
+
+93
+00:11:20,246 --> 00:11:23,079
+ls it right that l should be
+the only man to admire you?
+
+94
+00:11:23,182 --> 00:11:26,345
+You think l would dress up
+for any other man?
+
+95
+00:11:27,386 --> 00:11:29,251
+Why any other man?
+
+96
+00:11:29,622 --> 00:11:33,149
+l'm just thinking of the ones
+l've sung your praises to.
+
+97
+00:11:33,259 --> 00:11:35,784
+You think they're dying
+to catch a glimpse of me?
+
+98
+00:11:38,130 --> 00:11:40,997
+-- You know something?
+-- What?
+
+99
+00:11:41,333 --> 00:11:46,999
+ln the past, confining women
+to the house wasn't a Hindu custom.
+
+100
+00:11:47,106 --> 00:11:50,667
+Sita, Sabitri, Draupadi...
+
+101
+00:11:51,343 --> 00:11:53,208
+None of them were confined.
+
+102
+00:11:53,312 --> 00:11:56,440
+So what?
+Your Bimala is happy here.
+
+103
+00:12:00,052 --> 00:12:03,886
+Did you know that women used
+to choose their own husbands?
+
+104
+00:12:04,590 --> 00:12:06,353
+Have you heard of that?
+
+105
+00:12:09,595 --> 00:12:10,584
+Why are you laughing?
+
+106
+00:12:11,030 --> 00:12:15,296
+lf l'd had a choice,
+l might not have chosen you.
+
+107
+00:12:15,401 --> 00:12:16,629
+l know.
+
+108
+00:12:17,169 --> 00:12:19,296
+But you didn't have a choice.
+
+109
+00:12:19,405 --> 00:12:20,997
+How sad.
+
+110
+00:12:21,107 --> 00:12:24,042
+l'm envious...
+
+111
+00:12:24,610 --> 00:12:26,441
+of Draupadi...
+
+112
+00:12:27,046 --> 00:12:28,445
+and her five husbands.
+
+113
+00:12:31,350 --> 00:12:35,446
+All your life, you've only
+set eyes on one man.
+
+114
+00:12:36,055 --> 00:12:39,456
+How can you know
+what kind of man he is
+
+115
+00:12:39,558 --> 00:12:41,924
+if you can't compare him with others?
+
+116
+00:12:43,529 --> 00:12:45,929
+You aren't trying to bring back
+the classical age, are you?
+
+117
+00:12:46,031 --> 00:12:47,089
+What for?
+
+118
+00:12:48,634 --> 00:12:51,398
+Still, l see no logic in confining women.
+
+119
+00:12:52,638 --> 00:12:55,664
+l think the Muslims introduced the custom.
+
+120
+00:12:57,143 --> 00:12:59,771
+Hindus never cared about it.
+
+121
+00:13:00,513 --> 00:13:03,641
+Do you think people will reject
+this custom just because you say so?
+
+122
+00:13:05,251 --> 00:13:08,015
+lt's not the people
+l'm thinking of, Bimala.
+
+123
+00:13:09,221 --> 00:13:12,213
+You know l'm not like other people.
+
+124
+00:13:13,492 --> 00:13:17,622
+l don't think tradition
+should be followed blindly.
+
+125
+00:13:32,144 --> 00:13:35,375
+l would be really proud
+
+126
+00:13:35,781 --> 00:13:38,079
+if l could persuade you
+to meet my friends.
+
+127
+00:13:40,452 --> 00:13:42,511
+You mean him?
+
+128
+00:13:47,927 --> 00:13:50,555
+Sandip is a genius.
+
+129
+00:13:52,398 --> 00:13:55,856
+l have no intention of meeting someone
+who's constantly asking you for money
+
+130
+00:13:55,968 --> 00:13:58,528
+on one pretext or another.
+
+131
+00:14:00,139 --> 00:14:02,403
+Sandip is working
+for the good of our nation.
+
+132
+00:14:03,075 --> 00:14:05,373
+He's gifted, but has no money.
+
+133
+00:14:06,846 --> 00:14:10,441
+lf my money contributes to his good deeds,
+that's to my advantage.
+
+134
+00:14:10,549 --> 00:14:13,484
+For the good of our nation?
+What does he do?
+
+135
+00:14:13,586 --> 00:14:14,780
+The Swadeshi movement.
+
+136
+00:14:15,421 --> 00:14:18,288
+Do you know about it?
+-- Of course.
+
+137
+00:14:18,390 --> 00:14:21,325
+They often talk about it these days.
+
+138
+00:14:22,828 --> 00:14:25,058
+Boycott foreign goods.
+
+139
+00:14:25,164 --> 00:14:27,291
+Buy only lndian goods.
+
+140
+00:14:27,399 --> 00:14:30,266
+Don't buy foreign salt or sugar.
+Buy our own.
+
+141
+00:14:31,770 --> 00:14:33,738
+You know so much.
+
+142
+00:14:35,174 --> 00:14:36,801
+l read the newspaper.
+
+143
+00:14:37,643 --> 00:14:41,443
+-- Do you know why?
+-- l do.
+
+144
+00:14:41,547 --> 00:14:42,707
+Tell me.
+
+145
+00:14:43,282 --> 00:14:45,910
+Come. Sit down here and tell me.
+
+146
+00:14:53,792 --> 00:14:55,555
+Yes, master.
+
+147
+00:14:56,595 --> 00:14:58,460
+Tell me what's behind
+the Swadeshi movement.
+
+148
+00:14:59,698 --> 00:15:02,326
+The governor--general
+has split Bengal in two.
+
+149
+00:15:02,434 --> 00:15:05,232
+Hindus and Muslims
+used to live together in peace,
+
+150
+00:15:05,337 --> 00:15:08,306
+but he's driven a wedge between them.
+
+151
+00:15:12,811 --> 00:15:16,542
+You seem to forget
+that your wife is educated.
+
+152
+00:15:16,882 --> 00:15:19,749
+l speak English.
+Why wouldn't l know all this?
+
+153
+00:15:24,523 --> 00:15:29,586
+Sandip is a leader
+of the Swadeshi movement.
+
+154
+00:15:33,699 --> 00:15:37,191
+lsn't their mantra, ''Hail Motherland''?
+
+155
+00:15:38,170 --> 00:15:39,296
+Yes.
+
+156
+00:15:45,911 --> 00:15:49,870
+This mantra has set
+the whole nation on fire.
+
+157
+00:15:50,582 --> 00:15:52,709
+Except for one person.
+
+158
+00:15:52,818 --> 00:15:55,378
+lt hasn't set him on fire.
+
+159
+00:16:01,860 --> 00:16:04,886
+lt takes a lot to set me on fire, Bimala.
+
+160
+00:16:06,432 --> 00:16:07,956
+Although...
+
+161
+00:16:09,601 --> 00:16:12,661
+l certainly don't approve
+of Lord Curzon's decision.
+
+162
+00:16:13,872 --> 00:16:17,035
+Turning Hindus and Muslims
+against each other...
+
+163
+00:16:17,609 --> 00:16:20,077
+l think it's criminal.
+
+164
+00:16:20,179 --> 00:16:22,704
+Don't the Swadeshi burn foreign clothes?
+
+165
+00:16:22,815 --> 00:16:25,443
+Yes, they do.
+
+166
+00:16:25,951 --> 00:16:28,044
+lf they got hold of your sari,
+they'd burn it.
+
+167
+00:16:28,153 --> 00:16:30,246
+-- Really?
+-- Yes.
+
+168
+00:16:30,856 --> 00:16:33,154
+Do you know where
+this thread comes from?
+
+169
+00:16:33,258 --> 00:16:34,520
+Where?
+
+170
+00:16:35,861 --> 00:16:38,295
+-- Really?
+-- Yes.
+
+171
+00:16:38,397 --> 00:16:41,525
+Most of the articles
+on your dressing table are imported.
+
+172
+00:16:42,868 --> 00:16:44,563
+This brush is an import,
+
+173
+00:16:44,670 --> 00:16:47,969
+the mirror, the comb.
+
+174
+00:16:49,074 --> 00:16:51,440
+Your hairpins are imported.
+
+175
+00:16:52,378 --> 00:16:55,609
+These perfumes are French.
+
+176
+00:16:56,548 --> 00:17:00,382
+Even these bottles
+are imported cut glass.
+
+177
+00:17:01,420 --> 00:17:03,217
+The table's foreign too.
+
+178
+00:17:06,325 --> 00:17:10,523
+Most of the furniture in here
+comes from Lazarus.
+
+179
+00:17:11,630 --> 00:17:13,564
+lt's a foreign company.
+
+180
+00:17:17,002 --> 00:17:18,469
+Really?
+
+181
+00:17:18,837 --> 00:17:20,896
+We never even gave it a thought.
+
+182
+00:17:21,740 --> 00:17:23,799
+What do you think we should do?
+
+183
+00:17:25,377 --> 00:17:27,504
+Why not ask Sandip?
+
+184
+00:17:28,080 --> 00:17:29,274
+He's coming here.
+
+185
+00:17:30,049 --> 00:17:31,676
+-- Really?
+-- Yes.
+
+186
+00:17:31,784 --> 00:17:33,979
+-- When?
+-- Shortly.
+
+187
+00:17:34,686 --> 00:17:36,313
+He'll be my guest.
+
+188
+00:17:36,422 --> 00:17:38,413
+He's holding a meeting
+in our courtyard.
+
+189
+00:17:43,362 --> 00:17:47,059
+l think you'll enjoy meeting him.
+
+190
+00:17:48,901 --> 00:17:50,368
+Why?
+
+191
+00:17:51,870 --> 00:17:55,567
+Something about him appeals to women.
+
+192
+00:17:59,378 --> 00:18:02,006
+He's had quite a few affairs.
+
+193
+00:18:02,848 --> 00:18:05,942
+And not all the women
+believed in Swadeshi.
+
+194
+00:18:06,485 --> 00:18:08,248
+But he's not married, is he?
+
+195
+00:18:10,589 --> 00:18:13,023
+He says he has no time for it.
+
+196
+00:18:13,759 --> 00:18:17,627
+Married life doesn't suit him.
+
+197
+00:18:18,497 --> 00:18:20,863
+He has a restless nature,
+
+198
+00:18:21,633 --> 00:18:22,759
+unlike me.
+
+199
+00:18:24,269 --> 00:18:26,134
+Why would l enjoy
+meeting your opposite?
+
+200
+00:18:28,307 --> 00:18:30,468
+You may not enjoy it...
+
+201
+00:18:31,443 --> 00:18:33,001
+but you may find it instructive.
+
+202
+00:18:34,480 --> 00:18:36,107
+l'm happy in my confinement.
+
+203
+00:18:36,215 --> 00:18:39,116
+l have no wish to be like Sita or Sabitri.
+
+204
+00:18:40,752 --> 00:18:44,882
+<i>I was unprepared for what</i>
+<i>foIIowed in the next few days.</i>
+
+205
+00:19:28,500 --> 00:19:32,163
+<i>I was shocked by Miss GiIby's story.</i>
+
+206
+00:19:32,437 --> 00:19:36,339
+<i>It was a Sunday,</i>
+<i>so she had gone to church.</i>
+
+207
+00:19:36,441 --> 00:19:37,738
+<i>On her way back,</i>
+
+208
+00:19:37,843 --> 00:19:43,110
+<i>a IocaI schooIboy hit her</i>
+<i>on the head with a stone.</i>
+
+209
+00:19:43,215 --> 00:19:45,706
+<i>It seemed to be</i>
+<i>the infIuence of the Swadeshi.</i>
+
+210
+00:19:45,817 --> 00:19:49,753
+<i>The peopIe began to feeI</i>
+<i>so much hatred towards the British</i>
+
+211
+00:19:49,855 --> 00:19:54,883
+<i>that Iife became dangerous even</i>
+<i>for innocent peopIe Iike Miss GiIby.</i>
+
+212
+00:19:55,260 --> 00:19:59,458
+<i>I was toId I couId no Ionger</i>
+<i>become a</i> memsahib.
+
+213
+00:20:04,736 --> 00:20:06,795
+<i>Miss GiIby Ieft.</i>
+
+214
+00:20:07,673 --> 00:20:13,043
+<i>A few days Iater,</i>
+<i>the Swadeshi arrived.</i>
+
+215
+00:20:13,679 --> 00:20:15,613
+Hail Motherland!
+
+216
+00:20:15,714 --> 00:20:17,705
+Hail Motherland!
+
+217
+00:20:18,483 --> 00:20:20,007
+Over there.
+
+218
+00:20:20,118 --> 00:20:22,586
+Do you see him?
+-- Where?
+
+219
+00:20:22,688 --> 00:20:24,280
+Those boys are carrying him
+on their shoulders.
+
+220
+00:20:24,923 --> 00:20:27,255
+Hail Motherland!
+
+221
+00:20:54,052 --> 00:20:55,417
+Friends...
+
+222
+00:20:56,288 --> 00:21:02,352
+you all know why
+we're assembled here tonight.
+
+223
+00:21:03,395 --> 00:21:05,556
+For the past few days,
+
+224
+00:21:05,864 --> 00:21:10,324
+Bengal has been facing
+a serious crisis.
+
+225
+00:21:10,736 --> 00:21:15,935
+Lord Curzon, the governor of lndia,
+with one strike of his diplomatic sword,
+
+226
+00:21:16,241 --> 00:21:19,369
+has severed our golden Bengal in two.
+
+227
+00:21:19,978 --> 00:21:22,242
+ln East and West Bengal,
+
+228
+00:21:22,347 --> 00:21:24,611
+our two religious groups
+
+229
+00:21:24,716 --> 00:21:33,021
+have been united by a spirit
+of solidarity, friendship and fraternity,
+
+230
+00:21:33,125 --> 00:21:40,554
+and this solidarity has become a source
+of grave concern for our rulers.
+
+231
+00:21:40,966 --> 00:21:45,266
+The partition has cut
+at the very roots of this solidarity.
+
+232
+00:21:45,637 --> 00:21:50,472
+Now we all understand
+what the policy of our rulers is:
+
+233
+00:21:50,575 --> 00:21:52,566
+''Divide and rule.''
+
+234
+00:21:52,678 --> 00:21:56,307
+They wish to create a rift between
+our two religious communities
+
+235
+00:21:56,415 --> 00:22:00,078
+and thereby strengthen
+their own position.
+
+236
+00:22:00,185 --> 00:22:02,483
+The power of our English rulers
+
+237
+00:22:02,587 --> 00:22:04,578
+is matched only by their arrogance.
+
+238
+00:22:04,690 --> 00:22:11,391
+The political leaders of Bengal
+have risen as one against the partition,
+
+239
+00:22:11,496 --> 00:22:14,056
+but our rulers have paid no heed to them.
+
+240
+00:22:14,566 --> 00:22:17,933
+We lacked the means to prevent
+our rulers from fulfilling their plans,
+
+241
+00:22:18,036 --> 00:22:23,702
+but they failed to realize that
+we can fight politics with politics.
+
+242
+00:22:23,809 --> 00:22:29,111
+The strategy we have adopted
+will not only confound our rulers,
+
+243
+00:22:29,214 --> 00:22:31,512
+but it will also ultimately
+benefit our nation
+
+244
+00:22:31,616 --> 00:22:35,643
+and bring prosperity
+and independence to our people.
+
+245
+00:22:35,754 --> 00:22:38,450
+This is how Swadeshi works.
+
+246
+00:22:39,224 --> 00:22:41,852
+l call upon all of you,
+
+247
+00:22:41,960 --> 00:22:43,951
+men and women,
+
+248
+00:22:44,062 --> 00:22:45,893
+rich and poor,
+
+249
+00:22:45,997 --> 00:22:48,090
+rulers and subjects,
+
+250
+00:22:48,200 --> 00:22:52,864
+to take a solemn vow
+
+251
+00:22:52,971 --> 00:22:57,032
+to reject and boycott all foreign goods
+from this moment on
+
+252
+00:22:57,142 --> 00:23:01,044
+and accept only lndian goods.
+
+253
+00:23:01,847 --> 00:23:06,978
+Until now our rulers
+have blocked all our attempts
+
+254
+00:23:07,085 --> 00:23:09,076
+to develop our own resources.
+
+255
+00:23:09,187 --> 00:23:11,052
+We have been forced
+to buy their foreign cloth,
+
+256
+00:23:11,156 --> 00:23:15,388
+their foreign salt
+and their foreign sugar.
+
+257
+00:23:15,494 --> 00:23:17,860
+Have you ever considered
+
+258
+00:23:17,963 --> 00:23:21,262
+how many everyday items
+are being made here?
+
+259
+00:23:21,967 --> 00:23:26,165
+l don't know if you've seen
+the big foreign stores in Calcutta.
+
+260
+00:23:26,271 --> 00:23:27,397
+l have.
+
+261
+00:23:27,506 --> 00:23:32,876
+They enjoy staggering prosperity
+and a profusion of goods.
+
+262
+00:23:32,978 --> 00:23:35,208
+Don't we have the right to ask
+
+263
+00:23:35,313 --> 00:23:39,716
+why our wealth should fill
+the coffers of our foreign rulers?
+
+264
+00:23:39,818 --> 00:23:42,150
+Who gave them the right
+to exploit us like this?
+
+265
+00:23:42,587 --> 00:23:45,249
+ls this not at the root
+of our nation's poverty?
+
+266
+00:23:45,357 --> 00:23:48,758
+ls it not our duty to put
+an end to this extortion?
+
+267
+00:23:48,860 --> 00:23:52,762
+Has not the time come
+to abolish this shame?
+
+268
+00:23:52,864 --> 00:23:56,197
+lf we remain indifferent to these crimes,
+if we do nothing,
+
+269
+00:23:56,301 --> 00:24:00,203
+if these foreigners continue
+to steal away all our nation's wealth,
+
+270
+00:24:00,305 --> 00:24:03,331
+what kind of future
+can we expect for our country?
+
+271
+00:24:03,442 --> 00:24:05,410
+So l say to you, my brothers,
+
+272
+00:24:05,510 --> 00:24:09,640
+the time has come to rise up against
+the arrogance of the English government.
+
+273
+00:24:09,748 --> 00:24:11,613
+We must not hesitate any longer.
+
+274
+00:24:11,716 --> 00:24:15,618
+Let us all take the Swadeshi oath.
+
+275
+00:24:15,720 --> 00:24:20,089
+And the great cry from the heart
+that will launch us on this task,
+
+276
+00:24:20,192 --> 00:24:24,629
+the sacred mantra that
+will rock the throne of our rulers,
+
+277
+00:24:24,729 --> 00:24:27,960
+let us all chant that mantra,
+
+278
+00:24:28,066 --> 00:24:30,557
+and, braving all peril,
+
+279
+00:24:30,669 --> 00:24:35,072
+dedicate ourselves
+to the service of the Motherland.
+
+280
+00:24:35,173 --> 00:24:38,540
+Hail Motherland!
+-- Hail Motherland!
+
+281
+00:25:05,303 --> 00:25:09,433
+Still singing English songs after
+that impassioned nationalistic speech?
+
+282
+00:25:10,876 --> 00:25:12,104
+What should l sing, then?
+
+283
+00:25:14,546 --> 00:25:19,279
+Kirtan, Shyama Sangeet,
+Nidhu Babu's tappa.
+
+284
+00:25:26,258 --> 00:25:31,855
+<i>GentIy she waIks,</i>
+<i>the beauteous one</i>
+
+285
+00:25:31,963 --> 00:25:37,424
+<i>GentIy she waIks,</i>
+<i>the beauteous one</i>
+
+286
+00:25:37,536 --> 00:25:43,133
+<i>Radiant as the moon,</i>
+<i>the beauteous one</i>
+
+287
+00:25:47,712 --> 00:25:49,805
+l must say, he is a good speaker.
+
+288
+00:25:49,915 --> 00:25:51,849
+He knows how to turn a phrase.
+
+289
+00:25:51,950 --> 00:25:54,510
+He was good at debate in college.
+
+290
+00:25:55,253 --> 00:26:01,590
+<i>Her smiIe sends rippIes of deIight</i>
+
+291
+00:26:02,060 --> 00:26:05,086
+All those boys wearing saffron
+were a pretty sight.
+
+292
+00:26:10,502 --> 00:26:15,269
+<i>That make the Iove god swoon</i>
+
+293
+00:26:19,844 --> 00:26:21,573
+How long is he staying?
+
+294
+00:26:22,614 --> 00:26:24,946
+He's going to Rangpur tomorrow.
+
+295
+00:26:27,218 --> 00:26:29,311
+He has some business there.
+
+296
+00:26:31,122 --> 00:26:33,056
+Do you want to meet him?
+
+297
+00:26:34,459 --> 00:26:37,553
+l have nothing to say.
+What's the point?
+
+298
+00:26:38,630 --> 00:26:41,064
+You don't have to say anything.
+
+299
+00:26:41,166 --> 00:26:43,191
+He'll do all the talking.
+
+300
+00:27:15,000 --> 00:27:17,400
+What if he asks me about Swadeshi?
+
+301
+00:27:18,003 --> 00:27:19,630
+Then answer him.
+
+302
+00:27:21,339 --> 00:27:24,433
+He certainly made sense.
+
+303
+00:27:26,144 --> 00:27:28,112
+Tell him so.
+
+304
+00:27:29,047 --> 00:27:32,574
+l'm sure he'll be shocked
+if l wear one of my fancy dresses.
+
+305
+00:27:35,954 --> 00:27:38,149
+What do you think l should wear?
+
+306
+00:27:53,471 --> 00:27:55,530
+<i>On November 1 5, 1 907,</i>
+
+307
+00:27:55,607 --> 00:27:58,804
+<i>the young mistress of the Choudhury house</i>
+<i>defied aII convention</i>
+
+308
+00:27:58,910 --> 00:28:01,572
+<i>and stepped into the passage</i>
+<i>Ieading to the outer apartments.</i>
+
+309
+00:29:05,310 --> 00:29:06,277
+Greetings.
+
+310
+00:29:12,450 --> 00:29:16,978
+Your speech has inspired my wife
+to take up the Swadeshi cause.
+
+311
+00:29:18,423 --> 00:29:21,915
+-- You must be joking, Nikhil.
+-- No, it's true.
+
+312
+00:29:23,428 --> 00:29:24,895
+Come.
+
+313
+00:29:25,597 --> 00:29:27,121
+Have a seat.
+
+314
+00:29:28,867 --> 00:29:30,494
+Have a seat, Sandip.
+
+315
+00:29:33,304 --> 00:29:35,568
+What's the matter with you?
+Have a seat.
+
+316
+00:29:44,516 --> 00:29:50,182
+At first, l couldn't believe my eyes.
+
+317
+00:29:51,556 --> 00:29:53,547
+Now, l can't believe my ears.
+
+318
+00:29:54,592 --> 00:29:56,617
+My husband is exaggerating a bit.
+
+319
+00:29:57,595 --> 00:30:01,759
+Even if only a fraction of what he said
+is true, l'll be more than happy.
+
+320
+00:30:02,767 --> 00:30:05,361
+No matter what l may
+accomplish as a politician,
+
+321
+00:30:05,470 --> 00:30:08,803
+you have already achieved
+a social revolution.
+
+322
+00:30:09,841 --> 00:30:11,604
+l know how important that is.
+
+323
+00:30:11,976 --> 00:30:13,307
+l also realize that,
+
+324
+00:30:13,411 --> 00:30:15,971
+although Nikhil's your husband,
+
+325
+00:30:16,481 --> 00:30:18,949
+you're not his mere shadow.
+
+326
+00:30:19,050 --> 00:30:20,881
+You have a mind of your own.
+
+327
+00:30:22,387 --> 00:30:26,483
+Nikhil doesn't take my words
+to heart, but you did.
+
+328
+00:30:26,591 --> 00:30:29,685
+lf you keep on like that,
+she'll be walking on air.
+
+329
+00:30:29,794 --> 00:30:32,422
+lt's no use telling me that.
+
+330
+00:30:32,797 --> 00:30:37,257
+As a politician, l'm utterly shameless
+about seeking support for my cause.
+
+331
+00:30:38,570 --> 00:30:41,903
+l have never succeeded
+in persuading a woman,
+
+332
+00:30:42,473 --> 00:30:45,169
+but should that ever happen,
+l'd be delighted.
+
+333
+00:30:45,877 --> 00:30:49,244
+lt would be an honor
+to have a woman in our ranks.
+
+334
+00:30:50,982 --> 00:30:56,113
+Women have a rare quality
+
+335
+00:30:56,788 --> 00:30:58,756
+which we call intuition.
+
+336
+00:30:59,757 --> 00:31:02,123
+l admire it greatly.
+
+337
+00:31:02,694 --> 00:31:06,221
+Man's ability to reason
+pales beside it.
+
+338
+00:31:07,498 --> 00:31:09,227
+What do you say, Nikhil?
+
+339
+00:31:11,369 --> 00:31:14,998
+Why don't you tell him
+what you thought of his speech?
+
+340
+00:31:15,106 --> 00:31:16,471
+Oh, yes.
+
+341
+00:31:17,508 --> 00:31:19,999
+That's what l was going to ask you.
+
+342
+00:31:21,045 --> 00:31:22,512
+Tell me...
+
+343
+00:31:24,716 --> 00:31:28,083
+did it sound like total drivel to you?
+
+344
+00:31:28,920 --> 00:31:30,945
+Come on. Don't hesitate.
+
+345
+00:31:31,756 --> 00:31:33,690
+l haven't had much time to think about it.
+
+346
+00:31:33,791 --> 00:31:36,259
+That's precisely why l'm asking you.
+
+347
+00:31:36,361 --> 00:31:39,421
+Why do you have to think?
+Thinking is his task.
+
+348
+00:31:39,530 --> 00:31:43,125
+Just tell me what comes from your heart.
+Forget about rationality.
+
+349
+00:31:44,969 --> 00:31:47,904
+l didn't understand much, but...
+
+350
+00:31:49,040 --> 00:31:53,977
+l feel that if the English
+have done wrong by splitting up Bengal,
+
+351
+00:31:54,078 --> 00:31:56,603
+we should not let it pass.
+
+352
+00:31:57,282 --> 00:32:01,878
+lf Swadeshi can shake them up
+a bit, then we should do it.
+
+353
+00:32:05,089 --> 00:32:09,492
+Of course, if only a few people take up
+the cause, it won't have any impact.
+
+354
+00:32:09,761 --> 00:32:14,630
+But if the whole country joins in,
+then we may succeed.
+
+355
+00:32:15,233 --> 00:32:16,996
+Exactly!
+
+356
+00:32:17,669 --> 00:32:19,466
+Exactly.
+
+357
+00:32:19,871 --> 00:32:21,998
+That's exactly what we're trying to do.
+
+358
+00:32:22,106 --> 00:32:25,940
+We want to awaken the nation
+with our mantra, ''Hail Motherland!''
+
+359
+00:32:26,377 --> 00:32:30,143
+Don't you think there's magic
+in those two words?
+
+360
+00:32:30,248 --> 00:32:32,307
+Have you ever said them?
+
+361
+00:32:35,520 --> 00:32:37,147
+You should.
+
+362
+00:32:37,722 --> 00:32:40,282
+You don't need to shout it.
+Just whisper it.
+
+363
+00:32:40,391 --> 00:32:45,658
+As a matter of fact,
+when you all shouted that mantra,
+
+364
+00:32:46,030 --> 00:32:47,224
+l felt a --
+
+365
+00:32:47,966 --> 00:32:49,524
+A thrill?
+
+366
+00:32:51,269 --> 00:32:52,896
+A shiver down my spine.
+
+367
+00:32:53,004 --> 00:32:54,733
+That's how it should be.
+
+368
+00:32:55,540 --> 00:32:59,772
+Did you know that your husband
+doesn't believe in our mantra?
+
+369
+00:33:00,044 --> 00:33:04,378
+lsn't that right, Nikhil?
+-- l don't believe in propaganda.
+
+370
+00:33:05,016 --> 00:33:07,985
+Propaganda?
+What do you mean by that?
+
+371
+00:33:08,753 --> 00:33:14,350
+lf you're recruiting people who have never
+cared about their country's problems before,
+
+372
+00:33:14,459 --> 00:33:16,017
+how can you do it
+without using propaganda?
+
+373
+00:33:16,527 --> 00:33:19,325
+But the cause must come first, Nikhil.
+
+374
+00:33:19,430 --> 00:33:21,193
+That's all that matters.
+
+375
+00:33:21,299 --> 00:33:23,665
+Commitment to the cause
+will come through inspiration,
+
+376
+00:33:23,768 --> 00:33:26,328
+and the inspiration
+will come from our mantra.
+
+377
+00:33:26,437 --> 00:33:29,372
+Don't you remember the significance of
+<i>''La MarseiIIaise"</i> in the French Revolution?
+
+378
+00:33:29,474 --> 00:33:36,346
+What we need most today
+is to rouse the people to action.
+
+379
+00:33:36,614 --> 00:33:39,447
+Our poets are writing Swadeshi songs.
+
+380
+00:33:39,550 --> 00:33:41,609
+Their sole purpose is to inspire the people.
+
+381
+00:33:41,719 --> 00:33:43,550
+Have you ever heard any?
+
+382
+00:33:44,255 --> 00:33:49,192
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+383
+00:33:49,293 --> 00:33:51,727
+<i>Are you that strong?</i>
+
+384
+00:33:51,829 --> 00:33:56,664
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+385
+00:33:56,768 --> 00:33:58,429
+<i>Are you that strong?</i>
+
+386
+00:33:58,536 --> 00:34:01,835
+<i>Just because you</i>
+<i>hoId the power over us</i>
+
+387
+00:34:01,939 --> 00:34:04,430
+<i>You take so much pride</i>
+
+388
+00:34:04,542 --> 00:34:07,010
+<i>Why do you take so much pride?</i>
+
+389
+00:34:07,111 --> 00:34:11,980
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+390
+00:34:12,083 --> 00:34:13,710
+<i>Are you that strong?</i>
+
+391
+00:34:13,818 --> 00:34:17,254
+<i>Just because you</i>
+<i>hoId the power over us</i>
+
+392
+00:34:17,355 --> 00:34:19,721
+<i>You take so much pride</i>
+
+393
+00:34:19,824 --> 00:34:22,258
+<i>Why do you take so much pride?</i>
+
+394
+00:34:22,360 --> 00:34:25,090
+<i>Do you think you are strong enough</i>
+
+395
+00:34:25,196 --> 00:34:27,630
+<i>To keep us back forever?</i>
+
+396
+00:34:27,732 --> 00:34:30,098
+<i>To hoId us down forever?</i>
+
+397
+00:34:30,201 --> 00:34:32,499
+<i>To keep us back forever?</i>
+
+398
+00:34:32,603 --> 00:34:35,094
+<i>To hoId us down forever?</i>
+
+399
+00:34:35,206 --> 00:34:37,470
+<i>You don't have that much strength</i>
+
+400
+00:34:37,575 --> 00:34:39,600
+<i>You don't have that much strength</i>
+
+401
+00:34:39,710 --> 00:34:42,201
+<i>Your strength wiII not withstand us</i>
+
+402
+00:34:42,313 --> 00:34:47,046
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+403
+00:34:47,151 --> 00:34:49,346
+<i>Are you that strong?</i>
+
+404
+00:34:50,121 --> 00:34:52,521
+<i>You may try to govern us</i>
+
+405
+00:34:52,623 --> 00:34:54,648
+<i>But even the weak can summon strength</i>
+
+406
+00:34:55,126 --> 00:34:57,560
+<i>You may try to govern us</i>
+
+407
+00:34:57,662 --> 00:34:59,994
+<i>But even the weak can summon strength</i>
+
+408
+00:35:00,098 --> 00:35:02,464
+<i>You may pride</i>
+<i>yourseIf on your might</i>
+
+409
+00:35:02,567 --> 00:35:04,535
+<i>You may pride</i>
+<i>yourseIf on your might</i>
+
+410
+00:35:04,635 --> 00:35:07,468
+<i>But God is stiII mightier</i>
+
+411
+00:35:07,572 --> 00:35:12,407
+<i>Rob us of our strength</i>
+<i>and you dig your own grave</i>
+
+412
+00:35:12,510 --> 00:35:17,470
+<i>Rob us of our strength</i>
+<i>and you dig your own grave</i>
+
+413
+00:35:17,582 --> 00:35:19,982
+<i>Your boat wiII sureIy sink</i>
+
+414
+00:35:20,084 --> 00:35:22,211
+<i>Your boat wiII sureIy sink</i>
+
+415
+00:35:22,320 --> 00:35:24,686
+<i>Under the weight of your own guiIt</i>
+
+416
+00:35:24,789 --> 00:35:29,783
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+417
+00:35:29,894 --> 00:35:31,384
+<i>Are you that strong?</i>
+
+418
+00:35:31,496 --> 00:35:34,795
+<i>Just because you</i>
+<i>hoId the power over us</i>
+
+419
+00:35:34,899 --> 00:35:37,367
+<i>You take so much pride</i>
+
+420
+00:35:37,468 --> 00:35:39,868
+<i>Why do you take so much pride?</i>
+
+421
+00:35:39,971 --> 00:35:44,908
+<i>Do you think you are strong enough</i>
+<i>to break destiny's bonds?</i>
+
+422
+00:35:45,009 --> 00:35:47,910
+<i>Are you that strong?</i>
+
+423
+00:35:49,514 --> 00:35:52,415
+l admit it's a beautiful song.
+
+424
+00:35:53,417 --> 00:35:55,681
+Oh, my. What's all this?
+
+425
+00:35:55,786 --> 00:35:58,778
+Swadeshi tea. Darjeeling.
+
+426
+00:35:58,890 --> 00:36:01,916
+But there's a lot more here than just tea.
+
+427
+00:36:02,026 --> 00:36:06,019
+You should have
+some sweets too, not just tea.
+
+428
+00:36:06,130 --> 00:36:09,793
+They're not only Swadeshi,
+Bimala made them herself.
+
+429
+00:36:09,901 --> 00:36:11,664
+-- Really?
+-- Yes.
+
+430
+00:36:11,769 --> 00:36:14,033
+Then l have to try one.
+
+431
+00:36:14,906 --> 00:36:18,307
+l haven't gotten over
+my weakness for sweets yet.
+
+432
+00:36:18,409 --> 00:36:20,934
+Nor your weakness
+for foreign cigarettes, l see.
+
+433
+00:36:21,045 --> 00:36:22,376
+Out of the question.
+
+434
+00:36:22,480 --> 00:36:26,075
+Are you familiar
+with the Swadeshi brands?
+
+435
+00:36:26,617 --> 00:36:27,982
+Unthinkable!
+
+436
+00:36:28,085 --> 00:36:30,747
+-- Can't you give it up?
+-- Smoking?
+
+437
+00:36:32,089 --> 00:36:34,250
+Don't you have the willpower?
+
+438
+00:36:39,764 --> 00:36:43,200
+Okay. Join our party,
+and l'll stop smoking.
+
+439
+00:36:44,202 --> 00:36:45,794
+Any sugar?
+
+440
+00:36:45,903 --> 00:36:48,428
+One teaspoon if it's foreign,
+two if it's lndian.
+
+441
+00:36:57,215 --> 00:36:58,910
+So tell me...
+
+442
+00:36:59,750 --> 00:37:01,809
+what are your plans?
+
+443
+00:37:02,587 --> 00:37:04,054
+They're not settled yet.
+
+444
+00:37:05,089 --> 00:37:09,025
+Your neighbor, the land owner
+Harish Kundu, has sent for me.
+
+445
+00:37:10,761 --> 00:37:14,128
+They're having a bonfire
+of foreign clothes at his place.
+
+446
+00:37:14,532 --> 00:37:18,798
+He wants me to help run the event,
+so l must go there at once.
+
+447
+00:37:21,839 --> 00:37:23,033
+Madam Bimala,
+
+448
+00:37:23,140 --> 00:37:27,474
+did you know that the only stumbling
+block left is your husband?
+
+449
+00:37:27,578 --> 00:37:29,910
+He refuses to help the cause.
+
+450
+00:37:31,115 --> 00:37:34,915
+You'll find many landed gentry
+around here who support Swadeshi.
+
+451
+00:37:36,320 --> 00:37:39,312
+What's the harm
+in leaving my estate out of it?
+
+452
+00:37:39,423 --> 00:37:42,187
+You see?
+Did you see that?
+
+453
+00:37:42,293 --> 00:37:44,693
+Not even a shred of patriotism in him.
+
+454
+00:37:49,166 --> 00:37:51,134
+Ah, well.
+
+455
+00:37:52,003 --> 00:37:53,197
+So...
+
+456
+00:37:55,273 --> 00:37:57,173
+will you join our cause?
+
+457
+00:37:58,075 --> 00:37:59,337
+Don't worry.
+
+458
+00:37:59,443 --> 00:38:01,809
+You don't have to sign
+a pledge or anything.
+
+459
+00:38:02,713 --> 00:38:05,307
+You'll stay exactly as you are.
+
+460
+00:38:05,416 --> 00:38:07,509
+l'll come to you if need be.
+
+461
+00:38:10,855 --> 00:38:12,345
+Well?
+
+462
+00:38:12,456 --> 00:38:14,151
+Yes or no?
+
+463
+00:38:15,026 --> 00:38:16,015
+All right.
+
+464
+00:38:17,528 --> 00:38:19,325
+l should be going now.
+
+465
+00:38:20,064 --> 00:38:22,828
+-- Do you have to?
+-- Yes, l have work to do.
+
+466
+00:38:22,933 --> 00:38:25,800
+My boys are waiting downstairs.
+
+467
+00:38:26,704 --> 00:38:32,040
+Madam Bimala, this is truly
+a memorable day for me.
+
+468
+00:38:32,543 --> 00:38:34,408
+l only have one request.
+
+469
+00:38:34,512 --> 00:38:36,742
+Always trust your intuition.
+
+470
+00:38:36,847 --> 00:38:39,407
+Don't let this gentleman influence you.
+
+471
+00:38:39,884 --> 00:38:42,614
+Rest assured, Sandip.
+
+472
+00:38:43,354 --> 00:38:47,085
+From now on,
+my wife is a free agent.
+
+473
+00:38:47,191 --> 00:38:48,749
+Wonderful!
+
+474
+00:38:49,160 --> 00:38:51,651
+Good. l'll be going then.
+
+475
+00:38:51,962 --> 00:38:54,396
+l'll see you out.
+
+476
+00:39:41,011 --> 00:39:42,876
+<i>HaiI MotherIand!</i>
+
+477
+00:39:57,228 --> 00:39:59,389
+Hail Motherland.
+
+478
+00:40:06,270 --> 00:40:10,172
+-- You haven't told me yet.
+-- What?
+
+479
+00:40:10,908 --> 00:40:13,672
+What you thought of my friend.
+
+480
+00:40:13,778 --> 00:40:16,975
+But l only met him once.
+
+481
+00:40:17,982 --> 00:40:24,148
+l think the less one knows Sandip,
+the better one likes him.
+
+482
+00:40:24,255 --> 00:40:27,190
+You seem to have so little in common.
+
+483
+00:40:27,625 --> 00:40:30,924
+l wonder how you managed
+to become friends.
+
+484
+00:40:33,531 --> 00:40:35,863
+That's not unusual, Bimala.
+
+485
+00:40:37,435 --> 00:40:41,633
+Friendships aren't
+worked out mathematically.
+
+486
+00:40:43,507 --> 00:40:46,965
+We've been friends since college.
+
+487
+00:40:48,379 --> 00:40:50,779
+lt's not like we have nothing in common.
+
+488
+00:40:52,249 --> 00:40:59,485
+We both decided to reject
+the irrational conventions of our society.
+
+489
+00:41:00,157 --> 00:41:04,753
+He's always been more radical than l.
+
+490
+00:41:07,097 --> 00:41:10,191
+When his parents arranged a bride for him,
+
+491
+00:41:10,301 --> 00:41:13,327
+he was so annoyed
+he severed all ties with them.
+
+492
+00:41:20,411 --> 00:41:25,178
+Shortly after we got married,
+he asked me to introduce him to you.
+
+493
+00:41:27,384 --> 00:41:30,547
+He would remind me from time to time.
+
+494
+00:41:32,790 --> 00:41:34,724
+Finally, he said,
+
+495
+00:41:35,059 --> 00:41:39,223
+''l don't believe a word
+you've said about your wife.''
+
+496
+00:41:45,135 --> 00:41:48,400
+And do you know what he said today?
+-- What?
+
+497
+00:41:54,812 --> 00:41:57,747
+-- l'm not telling you.
+-- Why not?
+
+498
+00:42:00,217 --> 00:42:03,050
+What can he say about you
+after such a brief meeting?
+
+499
+00:42:03,888 --> 00:42:06,948
+l could say a lot more.
+
+500
+00:42:07,791 --> 00:42:10,259
+But you never do.
+
+501
+00:42:11,729 --> 00:42:14,129
+Do l have to?
+
+502
+00:42:14,865 --> 00:42:17,766
+Don't you have your intuition?
+
+503
+00:42:58,442 --> 00:43:01,275
+-- <i>Madam.</i>
+-- What is it?
+
+504
+00:43:01,378 --> 00:43:03,812
+<i>A Ietter from Mr. Mukherjee.</i>
+
+505
+00:43:13,090 --> 00:43:17,857
+l hope the rule wasn't intended
+to be broken for one day alone.
+
+506
+00:43:17,962 --> 00:43:21,261
+Can l see you for a moment?
+
+507
+00:43:22,199 --> 00:43:25,191
+-- Tell him l'm coming.
+-- As you wish.
+
+508
+00:43:29,340 --> 00:43:33,970
+''When Krishna's flute beckons so,
+how can l not go?''
+
+509
+00:44:25,229 --> 00:44:26,924
+Hail Motherland.
+
+510
+00:44:28,832 --> 00:44:30,163
+My husband's not here.
+
+511
+00:44:30,968 --> 00:44:34,062
+l didn't ask for him.
+l asked for you.
+
+512
+00:44:35,072 --> 00:44:36,869
+Won't you sit down?
+
+513
+00:44:43,013 --> 00:44:44,640
+You've eluded me for years.
+
+514
+00:44:44,748 --> 00:44:47,876
+You mustn't keep your distance now.
+
+515
+00:44:48,719 --> 00:44:51,882
+Come and sit here,
+right beside me.
+
+516
+00:45:17,448 --> 00:45:19,109
+What's the matter?
+
+517
+00:45:21,485 --> 00:45:23,578
+l can't believe it.
+
+518
+00:45:24,555 --> 00:45:29,754
+Ever since you married, Nikhil promised
+he would introduce me to you.
+
+519
+00:45:29,860 --> 00:45:32,328
+l never believed him.
+
+520
+00:45:32,429 --> 00:45:35,364
+Even now, l find it hard to believe.
+
+521
+00:45:36,567 --> 00:45:39,730
+Until now, l've only heard about
+your many accomplishments.
+
+522
+00:45:39,837 --> 00:45:41,930
+You learned English from a <i>memsahib.</i>
+
+523
+00:45:42,039 --> 00:45:46,999
+You love reading books, knitting, cooking.
+
+524
+00:45:47,111 --> 00:45:51,741
+l even know what you like to cook,
+to eat, your favorite flowers.
+
+525
+00:45:51,849 --> 00:45:53,942
+l know everything.
+
+526
+00:45:55,519 --> 00:45:58,147
+l also know something else.
+
+527
+00:45:59,256 --> 00:46:04,091
+You resent the fact
+that Nikhil lends me money.
+
+528
+00:46:05,763 --> 00:46:08,197
+So you really aren't a stranger to me.
+
+529
+00:46:08,699 --> 00:46:11,930
+But l never imagined...
+
+530
+00:46:13,103 --> 00:46:17,563
+l'd one day find myself
+sitting by your side.
+
+531
+00:46:18,509 --> 00:46:21,910
+-- Did you go to Rangpur?
+-- Yes, l did.
+
+532
+00:46:22,012 --> 00:46:24,845
+-- How was the trip?
+-- Great.
+
+533
+00:46:25,282 --> 00:46:28,683
+That's why the first thing l wanted
+to see this morning was you.
+
+534
+00:46:30,087 --> 00:46:32,248
+Don't you have to leave again?
+
+535
+00:46:32,356 --> 00:46:34,722
+-- Where to?
+-- To Rangpur.
+
+536
+00:46:34,825 --> 00:46:37,623
+lsn't that your base?
+
+537
+00:46:38,328 --> 00:46:42,321
+That was the idea, but not anymore.
+
+538
+00:46:42,866 --> 00:46:44,458
+lt's not?
+
+539
+00:46:46,970 --> 00:46:48,904
+Let me be frank with you.
+
+540
+00:46:49,439 --> 00:46:51,634
+l want to be near you when l work.
+
+541
+00:46:56,213 --> 00:46:59,512
+Just like a bee working for the queen.
+
+542
+00:46:59,616 --> 00:47:01,174
+You'll be the queen bee.
+
+543
+00:47:04,321 --> 00:47:06,186
+Do you have any objection?
+
+544
+00:47:07,524 --> 00:47:11,392
+But won't you find it inconvenient
+working from here?
+
+545
+00:47:17,501 --> 00:47:19,128
+That's true.
+
+546
+00:47:21,972 --> 00:47:27,672
+l don't think Nikhil will approve of this.
+
+547
+00:47:31,748 --> 00:47:33,443
+But the thing is...
+
+548
+00:47:36,587 --> 00:47:38,817
+l am essentially...
+
+549
+00:47:42,226 --> 00:47:44,057
+a stubborn man.
+
+550
+00:47:45,896 --> 00:47:49,332
+l just can't accept Nikhil's attitude.
+
+551
+00:47:52,102 --> 00:47:58,234
+l want to promote
+the Swadeshi cause right here...
+
+552
+00:47:59,443 --> 00:48:01,468
+and l need your help.
+
+553
+00:48:03,213 --> 00:48:06,114
+But l really know nothing about your work.
+
+554
+00:48:06,216 --> 00:48:09,947
+l know that you
+give speeches. ls that all?
+
+555
+00:48:12,356 --> 00:48:15,154
+That's one of the most important things.
+
+556
+00:48:16,093 --> 00:48:18,459
+Persuasion can work wonders.
+
+557
+00:48:20,230 --> 00:48:21,754
+Wait.
+
+558
+00:48:23,066 --> 00:48:25,591
+lf you really want to know about our work,
+
+559
+00:48:26,336 --> 00:48:27,803
+then read this.
+
+560
+00:48:27,905 --> 00:48:29,167
+OUR STRUGGLE
+
+561
+00:48:29,273 --> 00:48:31,867
+lt contains everything you need to know.
+
+562
+00:48:36,680 --> 00:48:38,511
+l will definitely read it.
+
+563
+00:48:40,450 --> 00:48:42,884
+May l tell you something now?
+
+564
+00:48:44,087 --> 00:48:47,215
+One of the biggest markets
+in this area is here, in Sukhsayar.
+
+565
+00:48:47,324 --> 00:48:50,487
+Did you know that?
+-- So l've heard.
+
+566
+00:48:51,061 --> 00:48:56,863
+lt's the only market in the area
+where foreign goods are still being sold.
+
+567
+00:48:57,134 --> 00:49:00,968
+Elsewhere, the landowners
+have prohibited their sale,
+
+568
+00:49:01,071 --> 00:49:02,663
+but Nikhil hasn't.
+
+569
+00:49:03,774 --> 00:49:06,368
+l'm going to do my best to change that,
+
+570
+00:49:06,743 --> 00:49:11,476
+but, with your help,
+my task will be much easier.
+
+571
+00:49:11,581 --> 00:49:15,108
+l'm afraid you're overestimating
+my capabilities.
+
+572
+00:49:15,218 --> 00:49:17,083
+Not at all.
+
+573
+00:49:17,888 --> 00:49:22,188
+Nikhil may be my friend,
+but he's your husband.
+
+574
+00:49:22,292 --> 00:49:25,261
+You have much more influence
+over him than l do.
+
+575
+00:49:25,362 --> 00:49:29,128
+My husband isn't easily swayed.
+
+576
+00:49:29,433 --> 00:49:31,025
+l know...
+
+577
+00:49:31,768 --> 00:49:34,601
+but l think he'll listen to you.
+
+578
+00:49:39,309 --> 00:49:41,971
+l know how much you mean to Nikhil.
+
+579
+00:49:43,347 --> 00:49:45,815
+Will you try just once to persuade him?
+
+580
+00:49:48,418 --> 00:49:51,683
+Nikhil's tenants wouldn't dare
+to go against his will.
+
+581
+00:49:51,788 --> 00:49:55,019
+He only has to tell them not to bring
+any more foreign goods to the market.
+
+582
+00:49:56,193 --> 00:49:57,990
+And if l fail to persuade him?
+
+583
+00:49:58,795 --> 00:50:01,491
+l'll be happy if you just try.
+
+584
+00:50:02,766 --> 00:50:04,859
+lf you fail, l'll find another way.
+
+585
+00:50:05,769 --> 00:50:07,760
+Not without the queen bee's
+knowledge, of course.
+
+586
+00:50:09,306 --> 00:50:11,900
+Can l depend on you?
+
+587
+00:50:12,976 --> 00:50:14,534
+l'll try my best.
+
+588
+00:50:22,386 --> 00:50:24,047
+The more l see you,
+
+589
+00:50:24,755 --> 00:50:26,780
+the more l admire you.
+
+590
+00:50:38,802 --> 00:50:40,201
+l think l'll --
+
+591
+00:50:40,737 --> 00:50:43,035
+Okay, you may go now.
+
+592
+00:50:47,244 --> 00:50:49,041
+Oh, and one more thing.
+
+593
+00:50:51,014 --> 00:50:52,242
+This item of yours.
+
+594
+00:50:59,923 --> 00:51:05,259
+This is the only foreign item
+l will keep with me.
+
+595
+00:51:10,033 --> 00:51:12,467
+Did you see Sandip today?
+
+596
+00:51:13,703 --> 00:51:15,000
+<i>Yes.</i>
+
+597
+00:51:17,707 --> 00:51:19,504
+How is he doing?
+
+598
+00:51:20,977 --> 00:51:22,911
+He's worried.
+
+599
+00:51:23,013 --> 00:51:24,503
+Why?
+
+600
+00:51:26,183 --> 00:51:28,481
+You won't let him promote
+the Swadeshi cause here.
+
+601
+00:51:28,919 --> 00:51:32,320
+Nonsense.
+You heard me yourself.
+
+602
+00:51:32,689 --> 00:51:36,785
+He's free to fight for his cause
+as long as he leaves my estate alone.
+
+603
+00:51:38,295 --> 00:51:40,661
+He says he's staying here.
+
+604
+00:51:41,965 --> 00:51:43,523
+Staying here?
+
+605
+00:51:44,501 --> 00:51:45,991
+That's what he says.
+
+606
+00:51:46,803 --> 00:51:48,964
+He's going to stay and work here.
+
+607
+00:51:51,374 --> 00:51:53,399
+That wouldn't be right.
+
+608
+00:51:54,644 --> 00:51:56,612
+But all of Bengal has taken up
+the Swadeshi cause.
+
+609
+00:51:56,713 --> 00:51:57,805
+Why don't you?
+
+610
+00:51:58,849 --> 00:52:04,219
+That would mean banning
+all foreign goods from the market.
+
+611
+00:52:05,155 --> 00:52:07,953
+Harish Kundu can do that, but not me.
+
+612
+00:52:08,792 --> 00:52:11,022
+Surely the market belongs to you.
+Why can't you?
+
+613
+00:52:12,028 --> 00:52:14,019
+lt's not my market, Bimala.
+
+614
+00:52:14,531 --> 00:52:17,796
+The market belongs to the traders
+who sell their goods there.
+
+615
+00:52:17,901 --> 00:52:19,562
+They're poor.
+
+616
+00:52:21,171 --> 00:52:26,040
+Foreign goods are cheaper
+and of better quality than lndian goods.
+
+617
+00:52:28,111 --> 00:52:32,138
+The poor villagers can afford them.
+How can l force them not to buy them?
+
+618
+00:52:35,118 --> 00:52:39,282
+Swadeshi is for those who can afford it,
+
+619
+00:52:39,389 --> 00:52:41,220
+not for the poor.
+
+620
+00:52:46,196 --> 00:52:47,925
+What are you thinking?
+
+621
+00:52:48,798 --> 00:52:50,698
+Can we follow Swadeshi...
+
+622
+00:52:53,203 --> 00:52:54,932
+without making the poor suffer?
+
+623
+00:52:55,038 --> 00:52:56,733
+ls it possible?
+
+624
+00:52:57,407 --> 00:53:00,843
+lf it were possible,
+l'd definitely support Swadeshi.
+
+625
+00:53:01,978 --> 00:53:04,412
+You believe the very idea
+of Swadeshi is wrong.
+
+626
+00:53:05,815 --> 00:53:08,477
+Even if l do,
+who would listen to me?
+
+627
+00:53:08,585 --> 00:53:11,019
+The entire country supports Swadeshi.
+
+628
+00:53:11,821 --> 00:53:14,312
+You yourself believe Sandip is right.
+
+629
+00:53:14,424 --> 00:53:16,654
+Many others must feel the same way.
+
+630
+00:53:18,562 --> 00:53:25,400
+But l believe that coercing the poor
+can only harm our country.
+
+631
+00:53:31,274 --> 00:53:33,674
+l can see you're not convinced.
+
+632
+00:53:34,778 --> 00:53:37,406
+l was looking at it differently.
+
+633
+00:53:37,514 --> 00:53:41,109
+l was thinking that
+something has to be done.
+
+634
+00:53:41,218 --> 00:53:43,243
+Even if it means
+hardship for the poor now,
+
+635
+00:53:43,353 --> 00:53:45,548
+it will help them in the long run.
+
+636
+00:53:45,956 --> 00:53:48,925
+The Swadeshi care about this country.
+
+637
+00:53:50,493 --> 00:53:56,796
+l believe what they care about
+is an abstract idea of this country,
+
+638
+00:53:56,900 --> 00:53:59,494
+this country as the Mother Goddess.
+
+639
+00:54:00,303 --> 00:54:02,100
+The nation is our mother.
+
+640
+00:54:02,205 --> 00:54:07,438
+Worship our mother,
+work for our mother, pray to our mother.
+
+641
+00:54:08,211 --> 00:54:11,044
+Everything you do is for our mother.
+
+642
+00:54:11,715 --> 00:54:14,149
+Heal our mother's pain.
+
+643
+00:54:14,884 --> 00:54:16,545
+l can understand that.
+
+644
+00:54:17,387 --> 00:54:20,185
+And l can understand why
+that idea appeals to women.
+
+645
+00:54:20,824 --> 00:54:23,657
+l know how you feel, Bimala,
+
+646
+00:54:23,760 --> 00:54:26,126
+but l don't feel the same way.
+
+647
+00:54:50,186 --> 00:54:52,347
+Those things you said tonight...
+
+648
+00:54:52,689 --> 00:54:54,850
+Were those your own thoughts?
+
+649
+00:54:54,958 --> 00:54:57,119
+Why are you asking me this?
+
+650
+00:54:59,296 --> 00:55:02,322
+l felt as if you were speaking for Sandip.
+
+651
+00:55:02,432 --> 00:55:05,333
+Sandip is your friend, not mine.
+
+652
+00:55:06,936 --> 00:55:12,135
+l thought you two had teamed up
+''in right earnest'' to fight for a higher cause.
+
+653
+00:55:13,043 --> 00:55:16,410
+He's working on the public front,
+and you on the domestic.
+
+654
+00:55:16,513 --> 00:55:18,071
+What an idea!
+
+655
+00:55:26,323 --> 00:55:28,484
+Will you have daily meetings?
+
+656
+00:55:29,025 --> 00:55:33,894
+You insisted that l meet your friend,
+so you can spare me the insinuations.
+
+657
+00:55:47,344 --> 00:55:49,972
+l just asked a simple question.
+
+658
+00:55:50,747 --> 00:55:53,307
+l wasn't insinuating anything.
+-- Very well.
+
+659
+00:55:53,416 --> 00:55:56,442
+lf it upsets you so much,
+l won't go outside anymore.
+
+660
+00:55:57,354 --> 00:55:59,288
+You're mistaken, Bimala.
+
+661
+00:55:59,389 --> 00:56:01,653
+l'm not upset at all.
+
+662
+00:56:02,158 --> 00:56:05,321
+After all, l know you both so well.
+
+663
+00:56:05,428 --> 00:56:09,888
+Why shouldn't you go outside?
+-- Because l don't want to.
+
+664
+00:56:11,000 --> 00:56:12,592
+You're being unreasonable.
+
+665
+00:56:12,702 --> 00:56:16,263
+l've been out twice already.
+l don't have to go out every day.
+
+666
+00:56:19,008 --> 00:56:20,737
+Very well.
+
+667
+00:56:30,754 --> 00:56:36,021
+l won't restrict you
+from going where you please.
+
+668
+00:56:37,293 --> 00:56:42,094
+As l told you,
+you are completely free.
+
+669
+00:56:43,233 --> 00:56:47,670
+But l must tell you one thing.
+
+670
+00:56:49,539 --> 00:56:53,566
+lf you tell me you want to give up
+wearing foreign clothes,
+
+671
+00:56:54,177 --> 00:56:59,171
+or do without your foreign
+perfumes, shoes and soap,
+
+672
+00:56:59,482 --> 00:57:01,712
+l won't mind at all.
+
+673
+00:57:02,018 --> 00:57:04,418
+But clamping down on poor traders
+
+674
+00:57:06,089 --> 00:57:09,217
+by banning foreign goods in the market
+
+675
+00:57:10,160 --> 00:57:13,220
+means going against
+my own beliefs and principles.
+
+676
+00:57:13,797 --> 00:57:16,095
+l could never do that, Bimala.
+
+677
+00:57:22,539 --> 00:57:26,475
+Swadeshi is something l can't take lightly.
+
+678
+00:57:32,749 --> 00:57:37,243
+<i>The weak say, ''Whatever fate</i>
+<i>has given to me is mine. "</i>
+
+679
+00:57:37,353 --> 00:57:41,687
+<i>And the impotent agree with them.</i>
+
+680
+00:57:41,791 --> 00:57:44,555
+<i>''OnIy what I can snatch away</i>
+<i>by force is mine. "</i>
+
+681
+00:57:44,661 --> 00:57:47,186
+<i>That is what experience has taught us.</i>
+
+682
+00:57:47,297 --> 00:57:50,460
+<i>My country is not mine</i>
+<i>simpIy because I was born here.</i>
+
+683
+00:57:50,567 --> 00:57:54,435
+<i>It becomes mine</i>
+<i>onIy when I am abIe to win it by force.</i>
+
+684
+00:57:54,537 --> 00:57:56,869
+<i>OnIy then can the nation be mine.</i>
+
+685
+00:58:02,312 --> 00:58:09,377
+This funeral pyre celebrates the cremation
+of foreign trade in your village.
+
+686
+00:58:10,186 --> 00:58:12,450
+These ashes are sacred.
+
+687
+00:58:12,822 --> 00:58:14,551
+Hail Motherland!
+
+688
+00:58:30,039 --> 00:58:35,341
+AN URGENT MATTER
+REGARDlNG OUR CAUSE
+
+689
+00:58:46,589 --> 00:58:50,491
+-- Please give this to Mrs. Choudhury.
+-- Very well.
+
+690
+00:59:32,268 --> 00:59:34,327
+Madam isn't feeling well, sir.
+
+691
+00:59:39,342 --> 00:59:41,173
+l see.
+
+692
+00:59:52,221 --> 00:59:55,349
+-- You know the headmaster, don't you?
+-- Yes, of course.
+
+693
+00:59:55,458 --> 00:59:58,689
+Good morning.
+l hope you are doing well.
+
+694
+00:59:59,896 --> 01:00:02,660
+Not as long as you're around.
+
+695
+01:00:06,302 --> 01:00:07,599
+How come?
+
+696
+01:00:08,004 --> 01:00:11,440
+His students have all disappeared
+since you arrived.
+
+697
+01:00:12,976 --> 01:00:18,505
+But you must admit that working
+for one's country helps build character.
+
+698
+01:00:21,217 --> 01:00:25,620
+One of my students was influenced
+by the Swadeshi movement.
+
+699
+01:00:25,722 --> 01:00:29,624
+He threw a stone at Mrs. Choudhury's
+governess, Miss Gilby.
+
+700
+01:00:30,226 --> 01:00:32,990
+Would you consider that
+an example of character building?
+
+701
+01:00:33,529 --> 01:00:36,794
+But that happened before l came.
+
+702
+01:00:37,333 --> 01:00:39,631
+You can't blame me for that.
+
+703
+01:00:39,736 --> 01:00:43,103
+After all, you must admit
+that a few such incidents
+
+704
+01:00:43,206 --> 01:00:47,609
+are inevitable in times
+of great social upheaval.
+
+705
+01:00:48,177 --> 01:00:50,805
+You even roped in my best student.
+
+706
+01:00:50,913 --> 01:00:53,006
+Who? Amulya?
+
+707
+01:00:54,784 --> 01:00:57,048
+He'd have won a scholarship
+if he'd taken his exam.
+
+708
+01:00:57,153 --> 01:00:59,883
+You stole that opportunity from him.
+
+709
+01:01:00,423 --> 01:01:03,586
+Amulya? l didn't rope him in.
+He joined of his own accord.
+
+710
+01:01:04,093 --> 01:01:08,757
+What about the other rowdy dissolutes
+who have joined your team?
+
+711
+01:01:08,865 --> 01:01:11,959
+They're the worst troublemakers in the village.
+
+712
+01:01:12,068 --> 01:01:14,593
+They're not troublemakers anymore, sir.
+
+713
+01:01:14,704 --> 01:01:17,605
+They're fighting for the cause.
+They're working hard.
+
+714
+01:01:18,074 --> 01:01:21,942
+With two exceptions,
+everyone here is working for the cause.
+
+715
+01:01:22,045 --> 01:01:23,706
+One of them is you.
+
+716
+01:01:24,580 --> 01:01:28,516
+The other one is your former
+student Nikhilesh Choudhury.
+
+717
+01:01:28,618 --> 01:01:31,849
+l regret that
+l couldn't persuade him to join.
+
+718
+01:01:31,954 --> 01:01:34,718
+Like you, he turns a deaf ear
+to the Swadeshi cause.
+
+719
+01:01:34,824 --> 01:01:37,759
+No, he isn't against Swadeshi ideals.
+
+720
+01:01:37,860 --> 01:01:41,990
+He's against your
+destructive brand of Swadeshi.
+
+721
+01:01:42,598 --> 01:01:44,862
+He practiced Swadeshi long before you,
+
+722
+01:01:44,967 --> 01:01:47,936
+and he never relied
+on any battle cries or mantras.
+
+723
+01:01:48,037 --> 01:01:50,801
+-- l know that.
+-- You know nothing!
+
+724
+01:01:50,907 --> 01:01:53,000
+Do you know about his Swadeshi bank?
+
+725
+01:01:53,109 --> 01:01:56,567
+Or his Swadeshi sugar factory,
+his soap factory?
+
+726
+01:01:56,679 --> 01:02:01,912
+Do you know he set up his own looms
+for weaving Swadeshi cloth?
+
+727
+01:02:02,318 --> 01:02:07,221
+Where were you
+and your ''Hail Motherland'' then?
+
+728
+01:02:07,757 --> 01:02:11,284
+Do you know how much
+he spent for Swadeshi?
+
+729
+01:02:11,394 --> 01:02:13,419
+-- Please, headmaster --
+-- You stay out of this!
+
+730
+01:02:13,529 --> 01:02:17,932
+These things must be said.
+-- But that's what l keep telling him.
+
+731
+01:02:18,034 --> 01:02:21,663
+lf both of us have the same goals,
+then why doesn't he join us?
+
+732
+01:02:21,771 --> 01:02:25,673
+You don't have the same goals.
+There are many differences.
+
+733
+01:02:25,775 --> 01:02:30,144
+Your goal is power and leadership.
+
+734
+01:02:30,246 --> 01:02:32,407
+You don't care about the people!
+
+735
+01:02:32,515 --> 01:02:35,313
+Nikhil never thought about himself.
+
+736
+01:02:35,418 --> 01:02:40,151
+People are applauding you
+and singing your praises.
+
+737
+01:02:41,023 --> 01:02:43,355
+Nikhil was ridiculed.
+
+738
+01:02:43,459 --> 01:02:48,089
+He had no head for business,
+so his brand of Swadeshi didn't last.
+
+739
+01:02:48,197 --> 01:02:50,529
+But his way was the right way.
+
+740
+01:02:50,967 --> 01:02:52,559
+Yours is wrong.
+
+741
+01:02:52,668 --> 01:02:54,295
+lt's more than wrong.
+
+742
+01:02:54,403 --> 01:02:56,462
+lt's dangerous.
+
+743
+01:02:59,075 --> 01:03:00,770
+Give those to me.
+
+744
+01:03:01,944 --> 01:03:04,777
+l'll drop by this evening.
+
+745
+01:03:08,985 --> 01:03:10,885
+My goodness.
+
+746
+01:03:14,023 --> 01:03:17,424
+Please, Nikhil, l implore you.
+
+747
+01:03:17,527 --> 01:03:20,325
+Keep that headmaster away from me.
+
+748
+01:03:20,429 --> 01:03:24,388
+l came here to give speeches,
+not listen to them.
+
+749
+01:03:26,068 --> 01:03:28,059
+Are you planning to stay here and work?
+
+750
+01:03:35,311 --> 01:03:39,805
+l'm going to speak
+at your market this afternoon.
+
+751
+01:03:41,317 --> 01:03:43,615
+That's where our greatest
+challenge lies, Nikhil.
+
+752
+01:03:45,087 --> 01:03:50,150
+Not where the landowner
+is already in favor of Swadeshi,
+
+753
+01:03:51,828 --> 01:03:53,625
+but where he isn't.
+
+754
+01:03:53,729 --> 01:03:55,754
+But remember, Sandip,
+
+755
+01:03:56,365 --> 01:03:59,163
+most of my tenants are poor Muslims.
+
+756
+01:04:00,803 --> 01:04:05,831
+l don't want them harassed.
+
+757
+01:04:07,343 --> 01:04:12,007
+lf l see that happening,
+l will be forced to intervene.
+
+758
+01:04:13,382 --> 01:04:16,476
+lf they prove to be obstacles
+to our revolution,
+
+759
+01:04:16,752 --> 01:04:19,152
+l'll have to take the necessary measures.
+
+760
+01:04:19,622 --> 01:04:21,522
+Many Muslims have accepted Swadeshi.
+
+761
+01:04:22,758 --> 01:04:24,623
+They were forced to do so.
+
+762
+01:04:26,028 --> 01:04:27,996
+lt will happen here too.
+
+763
+01:04:31,467 --> 01:04:33,367
+l've said what l had to say.
+
+764
+01:04:34,203 --> 01:04:38,469
+What you do now is up to you.
+
+765
+01:04:44,680 --> 01:04:46,910
+As you all know,
+
+766
+01:04:47,016 --> 01:04:49,348
+our English rulers
+
+767
+01:04:49,452 --> 01:04:53,388
+have divided Bengal in two.
+
+768
+01:04:53,823 --> 01:05:01,355
+This amounts to erecting a wall
+between Hindus and Muslims.
+
+769
+01:05:01,697 --> 01:05:07,192
+They have not given us
+the right to break this wall,
+
+770
+01:05:07,303 --> 01:05:11,706
+but, to foil the government,
+we have chosen a different path.
+
+771
+01:05:11,807 --> 01:05:14,435
+One important way to fight the partition
+
+772
+01:05:14,543 --> 01:05:19,776
+is to stop selling foreign goods
+in our markets.
+
+773
+01:05:20,483 --> 01:05:26,183
+Salt, sugar, cloth and soap
+are all everyday items
+
+774
+01:05:26,289 --> 01:05:29,588
+which are only available
+as foreign products at your market.
+
+775
+01:05:30,293 --> 01:05:32,727
+By selling their foreign goods here,
+
+776
+01:05:32,828 --> 01:05:37,959
+the British are making
+a lot of money in our country,
+
+777
+01:05:38,067 --> 01:05:42,902
+while we keep growing poorer.
+
+778
+01:05:43,005 --> 01:05:45,599
+This is wrong.
+This must stop.
+
+779
+01:05:45,708 --> 01:05:49,166
+We've tolerated this up to now,
+but no more.
+
+780
+01:05:49,779 --> 01:05:55,877
+l know that lndian substitutes
+for foreign goods are not always available,
+
+781
+01:05:55,985 --> 01:06:00,718
+so you've had to trade with foreign goods
+because that's all you had.
+
+782
+01:06:00,823 --> 01:06:04,190
+But if we can all make sacrifices
+
+783
+01:06:04,293 --> 01:06:08,195
+and produce our own goods,
+
+784
+01:06:08,297 --> 01:06:12,028
+then we will overcome these difficulties.
+
+785
+01:06:12,301 --> 01:06:15,634
+Brothers, we are depending on you.
+
+786
+01:06:16,238 --> 01:06:18,172
+lf you come forward and join us,
+
+787
+01:06:18,274 --> 01:06:21,141
+together we will stop
+the partitioning of Bengal
+
+788
+01:06:21,243 --> 01:06:23,711
+and regain our pride.
+
+789
+01:06:24,246 --> 01:06:28,706
+And now, do you see
+this circle here before me?
+
+790
+01:06:28,818 --> 01:06:34,085
+Throw all your foreign goods
+into the circle of flags.
+
+791
+01:06:34,957 --> 01:06:38,017
+lndian substitutes will be made.
+
+792
+01:06:38,861 --> 01:06:41,921
+Many manufacturers
+have come forward to help us.
+
+793
+01:06:42,365 --> 01:06:45,528
+Have no fear of losing your livelihood.
+
+794
+01:06:46,168 --> 01:06:49,831
+Today's loss will not be lost forever.
+
+795
+01:06:49,939 --> 01:06:54,706
+Now l ask you to throw all
+of your foreign goods into the circle.
+
+796
+01:06:55,077 --> 01:07:00,071
+The land that gave birth to you,
+the land that you love...
+
+797
+01:07:00,182 --> 01:07:02,673
+Now is the time to help her.
+
+798
+01:07:03,152 --> 01:07:06,849
+Foreign cloth, foreign thread,
+
+799
+01:07:06,956 --> 01:07:10,187
+foreign sugar, foreign salt,
+
+800
+01:07:10,760 --> 01:07:12,557
+foreign scissors and knives,
+
+801
+01:07:12,661 --> 01:07:16,153
+foreign matches,
+and everything else foreign...
+
+802
+01:07:16,265 --> 01:07:18,790
+Throw them in that circle.
+
+803
+01:07:18,901 --> 01:07:22,530
+We beseech you.
+Don't just sit there.
+
+804
+01:07:22,638 --> 01:07:24,970
+Help the Swadeshi cause.
+
+805
+01:07:25,074 --> 01:07:29,033
+We want to hear it from the maharaja!
+Let him come here.
+
+806
+01:07:29,545 --> 01:07:30,910
+We won't listen to you!
+
+807
+01:07:32,815 --> 01:07:35,340
+Your maharaja is my friend.
+
+808
+01:07:35,451 --> 01:07:37,851
+l'm his guest.
+
+809
+01:07:37,953 --> 01:07:41,218
+lsn't that proof enough
+that l have his support?
+
+810
+01:07:41,323 --> 01:07:44,315
+We're traders.
+lf we have nothing to sell, we'll starve!
+
+811
+01:07:44,427 --> 01:07:47,521
+We've tried selling lndian goods.
+
+812
+01:07:47,630 --> 01:07:48,927
+Nobody buys them.
+
+813
+01:07:49,031 --> 01:07:51,829
+You're a gentleman.
+You have money.
+
+814
+01:07:51,934 --> 01:07:55,665
+lt's easy for you to say,
+''Don't sell foreign goods.''
+
+815
+01:07:55,771 --> 01:07:58,604
+We're poor!
+How will we survive?
+
+816
+01:08:04,880 --> 01:08:07,849
+<i>It's cIear that persuasion</i>
+<i>won't work on NikhiI's estate.</i>
+
+817
+01:08:07,950 --> 01:08:10,544
+<i>We'II have to use other means.</i>
+
+818
+01:08:11,020 --> 01:08:15,684
+<i>Any compromise on foreign goods</i>
+<i>wouId crippIe our movement.</i>
+
+819
+01:08:17,760 --> 01:08:20,820
+<i>HaiI MotherIand!</i>
+
+820
+01:08:59,735 --> 01:09:01,202
+This is Mr. Kulada.
+
+821
+01:09:01,303 --> 01:09:02,998
+Greetings.
+
+822
+01:09:03,105 --> 01:09:04,197
+Please follow me.
+
+823
+01:09:09,879 --> 01:09:12,814
+Were those stolen from the villagers?
+
+824
+01:09:19,655 --> 01:09:21,122
+Have a seat.
+
+825
+01:09:21,924 --> 01:09:26,486
+You may enjoy your bonfire, but the villagers
+will file a complaint against you.
+
+826
+01:09:28,764 --> 01:09:32,200
+We'll set fire to their crops if they do.
+
+827
+01:09:33,469 --> 01:09:35,061
+Can't we try picketing?
+
+828
+01:09:37,006 --> 01:09:38,598
+We can make them understand.
+
+829
+01:09:39,108 --> 01:09:41,099
+lt's worked in other places.
+
+830
+01:09:41,644 --> 01:09:43,805
+l know what works and what doesn't.
+
+831
+01:09:43,913 --> 01:09:46,108
+Picketing won't work in Sukhsayar.
+
+832
+01:09:48,050 --> 01:09:49,881
+Please sit, Mr. Kulada.
+
+833
+01:09:56,759 --> 01:09:58,920
+A foreign brand, l see.
+
+834
+01:09:59,028 --> 01:10:01,895
+Yes, it's the only exception
+l make to Swadeshi.
+
+835
+01:10:01,997 --> 01:10:04,659
+-- May l have one?
+-- Be my guest.
+
+836
+01:10:07,870 --> 01:10:09,565
+These people can't be persuaded, Amulya.
+
+837
+01:10:10,005 --> 01:10:11,836
+They've been pampered too much.
+
+838
+01:10:11,941 --> 01:10:19,313
+Listen, l've been the manager of this estate
+since the maharaja's father was alive.
+
+839
+01:10:21,016 --> 01:10:23,507
+The father was a tough one.
+
+840
+01:10:23,619 --> 01:10:25,849
+The trouble is the son.
+
+841
+01:10:25,955 --> 01:10:27,980
+lf only he'd been firm with them,
+
+842
+01:10:28,090 --> 01:10:31,821
+he could have brought
+these villagers to their knees.
+
+843
+01:10:31,927 --> 01:10:34,760
+lt would have been smooth sailing for you.
+
+844
+01:10:37,266 --> 01:10:40,326
+Anyway, tell me how you can help us.
+
+845
+01:10:41,704 --> 01:10:45,663
+lf you can't stop the influx
+of foreign goods,
+
+846
+01:10:46,475 --> 01:10:49,911
+you can't stop the trade of foreign goods.
+
+847
+01:10:51,013 --> 01:10:55,040
+Those boats bring the goods in.
+
+848
+01:10:56,085 --> 01:11:00,351
+-- You'll have to deal with the boatmen first.
+-- Can you do that for me?
+
+849
+01:11:01,557 --> 01:11:07,291
+The problem is that the boatmen's
+leader is very stubborn.
+
+850
+01:11:08,964 --> 01:11:10,955
+Who is he?
+What's his name?
+
+851
+01:11:11,066 --> 01:11:14,763
+Mirjan.
+He's a hard nut to crack.
+
+852
+01:11:16,238 --> 01:11:19,935
+-- Can he be persuaded?
+-- Where there's a will, there's a way.
+
+853
+01:11:20,843 --> 01:11:26,543
+A boat which sails
+is also a boat which sinks.
+
+854
+01:11:30,085 --> 01:11:34,112
+But it's going to take
+more than words to do this job.
+
+855
+01:11:34,957 --> 01:11:37,653
+lt will take...
+-- Money?
+
+856
+01:11:38,260 --> 01:11:40,694
+We have to stop tongues from wagging,
+
+857
+01:11:40,796 --> 01:11:44,357
+pay compensation,
+bribe the police.
+
+858
+01:11:44,466 --> 01:11:46,229
+That all takes money.
+
+859
+01:11:49,538 --> 01:11:52,029
+lt's not like we don't have any money,
+
+860
+01:11:52,141 --> 01:11:55,599
+and more can be raised if necessary.
+
+861
+01:11:55,711 --> 01:11:58,805
+Then you can rely on me.
+
+862
+01:11:59,615 --> 01:12:03,642
+l'll do the dirty work,
+
+863
+01:12:03,752 --> 01:12:07,279
+but if something goes wrong,
+
+864
+01:12:07,389 --> 01:12:09,186
+you're on your own.
+
+865
+01:12:11,994 --> 01:12:14,519
+You don't need to worry about that.
+
+866
+01:12:14,630 --> 01:12:17,360
+Even so, if l get into any sort of trouble,
+
+867
+01:12:17,466 --> 01:12:20,162
+l have no intention of taking all the blame.
+
+868
+01:12:28,277 --> 01:12:30,939
+l'm keeping this letter you wrote me.
+
+869
+01:12:34,149 --> 01:12:36,208
+<i>I didn't go.</i>
+
+870
+01:12:36,318 --> 01:12:38,252
+<i>He asked for me.</i>
+
+871
+01:12:38,354 --> 01:12:43,519
+<i>I gave an excuse and stayed inside,</i>
+<i>but what good did it do?</i>
+
+872
+01:12:43,625 --> 01:12:47,584
+<i>I was thinking of him aII day yesterday.</i>
+
+873
+01:12:47,696 --> 01:12:50,426
+<i>Why shouId this happen to a woman</i>
+
+874
+01:12:50,532 --> 01:12:57,028
+<i>who has never thought about any man</i>
+<i>other than her own husband?</i>
+
+875
+01:12:57,473 --> 01:13:00,271
+Madam, how do you want
+the fish prepared?
+
+876
+01:13:00,376 --> 01:13:02,241
+You never told me.
+
+877
+01:13:03,212 --> 01:13:05,407
+Make a curry with ground mustard seed.
+
+878
+01:13:14,289 --> 01:13:15,415
+<i>Madam?</i>
+
+879
+01:13:17,393 --> 01:13:18,985
+Yes, Nanku?
+
+880
+01:13:19,094 --> 01:13:21,289
+<i>There's a Ietter for you.</i>
+
+881
+01:13:26,301 --> 01:13:29,293
+OUR STRUGGLE
+
+882
+01:13:30,539 --> 01:13:32,473
+Are you feeling any better?
+
+883
+01:13:34,410 --> 01:13:35,274
+Yes.
+
+884
+01:13:36,044 --> 01:13:39,571
+This boy from our group
+was very eager to meet you.
+
+885
+01:13:43,252 --> 01:13:46,187
+You met me once before when l was little.
+
+886
+01:13:46,288 --> 01:13:47,983
+l came with my mother.
+
+887
+01:13:48,090 --> 01:13:50,615
+-- What's your mother's name?
+-- Soudamini Devi.
+
+888
+01:13:52,428 --> 01:13:56,364
+-- Are you Nibaron Ghosal's son?
+-- Yes. My name is Amulya.
+
+889
+01:13:58,233 --> 01:14:01,100
+-- How old are you?
+-- Seventeen.
+
+890
+01:14:01,203 --> 01:14:03,671
+l was about to take
+my final exam, but l didn't.
+
+891
+01:14:04,273 --> 01:14:06,366
+Because of Swadeshi?
+
+892
+01:14:06,475 --> 01:14:08,375
+Amulya is very hardworking.
+
+893
+01:14:09,344 --> 01:14:11,312
+He remembers the entire <i>Bhagavadgita.</i>
+
+894
+01:14:12,147 --> 01:14:13,944
+Really?
+
+895
+01:14:14,850 --> 01:14:16,317
+Here it is.
+
+896
+01:14:16,418 --> 01:14:19,319
+-- Do you always carry it with you?
+-- Always.
+
+897
+01:14:19,421 --> 01:14:22,948
+The <i>Bhagavadgita</i> gives one courage
+to overcome one's fears.
+
+898
+01:14:23,058 --> 01:14:25,185
+Even to die for one's country.
+
+899
+01:14:27,863 --> 01:14:30,331
+Aren't you afraid to die?
+
+900
+01:14:30,432 --> 01:14:33,299
+''For the soul, there is neither birth
+nor death at any time.
+
+901
+01:14:33,402 --> 01:14:36,667
+He has not come into being, does not come
+into being, and will not come into being.
+
+902
+01:14:36,772 --> 01:14:39,866
+He is unborn, eternal,
+ever--existing and primeval.
+
+903
+01:14:39,975 --> 01:14:43,001
+He is not slain when the body is slain.''
+
+904
+01:14:43,111 --> 01:14:45,443
+Even when a man dies,
+his soul lives on.
+
+905
+01:14:45,547 --> 01:14:48,015
+Okay, Amulya.
+You may go now.
+
+906
+01:14:50,085 --> 01:14:52,519
+Mr. Sandip said you believe in Swadeshi.
+
+907
+01:14:52,621 --> 01:14:54,987
+l wanted to pay my respects.
+
+908
+01:14:55,090 --> 01:14:56,387
+l'll take my leave, sister.
+
+909
+01:14:57,359 --> 01:14:59,850
+l'll come again.
+-- Please do.
+
+910
+01:14:59,962 --> 01:15:01,259
+Hail Motherland.
+
+911
+01:15:02,631 --> 01:15:04,861
+-- Hail Motherland.
+-- Good--bye.
+
+912
+01:15:16,311 --> 01:15:18,006
+What are you thinking?
+
+913
+01:15:18,881 --> 01:15:22,681
+ls there any danger to your life
+in the work you do?
+
+914
+01:15:25,621 --> 01:15:27,111
+Well...
+
+915
+01:15:28,924 --> 01:15:33,190
+Since we're fighting against
+the powerful British government,
+
+916
+01:15:35,130 --> 01:15:36,688
+of course there is.
+
+917
+01:15:43,505 --> 01:15:46,531
+But my boys are brave.
+
+918
+01:15:48,176 --> 01:15:49,939
+My courage doesn't begin to match theirs.
+
+919
+01:15:50,045 --> 01:15:52,639
+That's a strange confession from a leader.
+
+920
+01:15:55,918 --> 01:15:58,284
+Sometimes the truth comes out.
+
+921
+01:16:03,325 --> 01:16:05,259
+Now will you tell me the truth?
+
+922
+01:16:06,828 --> 01:16:08,090
+What truth?
+
+923
+01:16:09,431 --> 01:16:11,695
+After so many years,
+
+924
+01:16:11,800 --> 01:16:14,530
+why did you suddenly decide
+to come out of your confinement?
+
+925
+01:16:15,237 --> 01:16:17,467
+Don't you know why?
+
+926
+01:16:17,873 --> 01:16:19,738
+How would l know?
+
+927
+01:16:19,841 --> 01:16:21,809
+You should know.
+
+928
+01:16:22,978 --> 01:16:26,880
+You should, but you're a man.
+
+929
+01:16:26,982 --> 01:16:28,973
+You don't have a woman's intuition.
+
+930
+01:16:30,919 --> 01:16:32,147
+Will you tell me?
+
+931
+01:16:49,137 --> 01:16:50,331
+Why?
+
+932
+01:16:59,548 --> 01:17:03,006
+l'd never been face--to--face
+with a leader before.
+
+933
+01:17:05,153 --> 01:17:09,055
+l fear the leader may have let you down.
+
+934
+01:17:17,132 --> 01:17:19,794
+Not so far.
+
+935
+01:17:43,692 --> 01:17:45,250
+You play the piano too?
+
+936
+01:17:46,828 --> 01:17:48,819
+l was taking lessons.
+
+937
+01:17:49,164 --> 01:17:50,529
+Piano...
+
+938
+01:17:51,566 --> 01:17:53,158
+singing.
+
+939
+01:17:54,069 --> 01:17:55,832
+English songs?
+
+940
+01:18:28,170 --> 01:18:29,967
+You didn't come yesterday.
+
+941
+01:18:30,572 --> 01:18:35,509
+l had a feeling you weren't really ill.
+
+942
+01:18:36,278 --> 01:18:39,008
+l racked my brain all day trying to guess...
+
+943
+01:18:40,048 --> 01:18:46,647
+what l had done or said to annoy you.
+
+944
+01:18:49,124 --> 01:18:52,616
+You still haven't told me
+why you called.
+
+945
+01:18:53,261 --> 01:18:55,525
+l just wanted to see you.
+
+946
+01:18:57,099 --> 01:18:58,828
+ls that the only reason?
+
+947
+01:19:01,903 --> 01:19:03,996
+l didn't see you yesterday,
+
+948
+01:19:04,573 --> 01:19:06,700
+and it turned out
+to be a dismal day for me.
+
+949
+01:19:07,242 --> 01:19:09,574
+My pride as a leader...
+
+950
+01:19:10,545 --> 01:19:12,137
+was badly shaken.
+
+951
+01:19:13,115 --> 01:19:15,208
+The people won't listen to you?
+
+952
+01:19:15,684 --> 01:19:19,017
+Sometimes words are not enough.
+
+953
+01:19:19,121 --> 01:19:23,114
+-- What do you do then?
+-- l try other ways.
+
+954
+01:19:23,792 --> 01:19:25,259
+May l know what ways?
+
+955
+01:19:26,828 --> 01:19:29,319
+Because my husband's
+not going to help you.
+
+956
+01:19:33,735 --> 01:19:34,929
+Nikhil said so?
+
+957
+01:19:43,712 --> 01:19:45,976
+Do you know what l feel
+like doing sometimes?
+
+958
+01:19:46,815 --> 01:19:48,715
+To hell with Swadeshi.
+
+959
+01:19:49,284 --> 01:19:52,117
+l'll spend my life
+chatting with the queen bee.
+
+960
+01:19:54,022 --> 01:19:55,580
+With me?
+
+961
+01:19:56,057 --> 01:19:57,024
+Chatting?
+
+962
+01:19:58,260 --> 01:20:00,023
+Would that bother you?
+
+963
+01:20:03,465 --> 01:20:04,932
+Why are you laughing?
+
+964
+01:20:05,500 --> 01:20:08,196
+That's so absurd.
+
+965
+01:20:08,303 --> 01:20:12,364
+You're not the type to spend
+even an hour chatting.
+
+966
+01:20:15,510 --> 01:20:16,977
+You're right.
+
+967
+01:20:18,613 --> 01:20:20,012
+The truth is...
+
+968
+01:20:21,283 --> 01:20:22,978
+l need Swadeshi...
+
+969
+01:20:24,553 --> 01:20:26,453
+just as much as l need you.
+
+970
+01:20:29,157 --> 01:20:32,217
+l don't want you to stop
+fighting for the country.
+
+971
+01:20:33,395 --> 01:20:37,695
+My husband and l don't see
+eye to eye on that matter.
+
+972
+01:20:38,166 --> 01:20:42,728
+He has many virtues,
+and l admire him for that.
+
+973
+01:20:43,405 --> 01:20:49,537
+But, for a man, he is much too placid.
+
+974
+01:20:49,644 --> 01:20:53,080
+A person can't afford to be so placid
+at a time like this.
+
+975
+01:20:56,618 --> 01:20:59,314
+l agree with you entirely.
+
+976
+01:21:00,989 --> 01:21:05,119
+My husband says
+you don't care about the poor,
+
+977
+01:21:05,227 --> 01:21:08,594
+so you can't really do
+any good for our country.
+
+978
+01:21:11,399 --> 01:21:15,165
+l don't believe you would hurt the poor.
+
+979
+01:21:15,670 --> 01:21:18,969
+You'll try to persuade them.
+That's all.
+
+980
+01:21:25,447 --> 01:21:27,381
+But the problem is...
+
+981
+01:21:29,818 --> 01:21:32,252
+persuasion doesn't always work.
+
+982
+01:21:34,289 --> 01:21:37,781
+You need something more.
+-- What do you need?
+
+983
+01:21:41,396 --> 01:21:44,559
+-- Let's not talk about that.
+-- l want to know.
+
+984
+01:21:45,934 --> 01:21:48,459
+l don't want to talk
+about mundane things with you.
+
+985
+01:21:48,570 --> 01:21:49,969
+Why?
+
+986
+01:21:52,407 --> 01:21:55,604
+l want no note of discord
+in our relationship.
+
+987
+01:21:56,578 --> 01:21:59,138
+But l'd be really happy to help.
+
+988
+01:22:00,849 --> 01:22:02,146
+This is beyond you, queen bee.
+
+989
+01:22:03,251 --> 01:22:05,446
+Haven't you seen me going beyond?
+
+990
+01:22:06,588 --> 01:22:11,048
+l know how far you can go.
+Even so, l'd rather not talk about it.
+
+991
+01:22:11,159 --> 01:22:12,888
+lt's a personal request.
+
+992
+01:22:13,995 --> 01:22:19,194
+Then there's no reason for me to stay.
+
+993
+01:22:19,968 --> 01:22:21,435
+l'm leaving.
+
+994
+01:22:21,536 --> 01:22:25,438
+Queen bee, please don't leave angry!
+
+995
+01:22:25,540 --> 01:22:30,034
+lf l can't help you with Swadeshi,
+then l'm just wasting my time here.
+
+996
+01:22:30,145 --> 01:22:32,613
+l just didn't want you to worry about me.
+
+997
+01:22:33,248 --> 01:22:35,944
+Must we only talk about politics?
+
+998
+01:22:36,051 --> 01:22:37,518
+Only about my work?
+
+999
+01:22:38,119 --> 01:22:41,577
+Promise me you'll tell me
+if you need money,
+
+1000
+01:22:41,690 --> 01:22:44,659
+and you'll take it if l give it to you.
+
+1001
+01:22:45,293 --> 01:22:46,817
+l promise, queen bee.
+
+1002
+01:22:47,462 --> 01:22:49,225
+l promise.
+
+1003
+01:22:49,497 --> 01:22:50,964
+Queen bee?
+
+1004
+01:22:51,633 --> 01:22:54,500
+l'll come again this evening.
+Please wait for me here.
+
+1005
+01:22:54,970 --> 01:22:57,461
+l hate having to send for you every time.
+
+1006
+01:22:58,006 --> 01:22:59,598
+Let go of me.
+
+1007
+01:22:59,708 --> 01:23:03,769
+Promise me you'll come to me every day.
+
+1008
+01:23:04,746 --> 01:23:07,544
+l must see you at least once a day.
+
+1009
+01:23:08,817 --> 01:23:11,149
+There's nothing wrong with that.
+
+1010
+01:23:11,453 --> 01:23:13,785
+Promise me.
+
+1011
+01:23:13,888 --> 01:23:15,583
+All right.
+
+1012
+01:23:17,392 --> 01:23:21,488
+Please let go of my hand.
+l want to go.
+
+1013
+01:23:45,286 --> 01:23:47,754
+Khemi, clean the room later.
+
+1014
+01:25:03,364 --> 01:25:08,996
+<i>GentIy she waIks,</i>
+<i>the beauteous one</i>
+
+1015
+01:25:15,577 --> 01:25:17,636
+Back so soon?
+
+1016
+01:25:21,883 --> 01:25:23,646
+What are you staring at?
+
+1017
+01:25:25,854 --> 01:25:27,947
+What is there to stare at but you?
+
+1018
+01:25:29,057 --> 01:25:31,252
+l've never seen anything like it.
+
+1019
+01:25:32,527 --> 01:25:34,461
+Such tender concern for our guest.
+
+1020
+01:25:34,896 --> 01:25:37,262
+He'll never want to leave.
+
+1021
+01:25:39,000 --> 01:25:43,494
+ln my day, we had to look
+after our husbands too.
+
+1022
+01:25:45,940 --> 01:25:50,001
+lf only my brother--in--law
+were a guest in his own house,
+
+1023
+01:25:50,712 --> 01:25:52,543
+he'd be warmly welcomed.
+
+1024
+01:25:52,647 --> 01:25:55,616
+l don't want any advice from you.
+
+1025
+01:26:01,055 --> 01:26:04,218
+l was just a small girl
+when l came here as a bride.
+
+1026
+01:26:04,993 --> 01:26:09,555
+Your husband was
+my playmate in those days.
+
+1027
+01:26:11,466 --> 01:26:13,161
+Where were you then?
+
+1028
+01:26:13,268 --> 01:26:16,396
+There's no need to repeat
+what l already know.
+
+1029
+01:26:21,409 --> 01:26:23,877
+He was the only one
+who understood my pain.
+
+1030
+01:26:23,978 --> 01:26:25,536
+He used to say,
+
+1031
+01:26:26,247 --> 01:26:28,909
+''We're still living in the Dark Ages.
+
+1032
+01:26:29,584 --> 01:26:31,677
+That's why you're suffering like this.
+
+1033
+01:26:33,354 --> 01:26:37,381
+For you, having a husband
+is just as painful as losing one.''
+
+1034
+01:26:37,892 --> 01:26:42,955
+''My wife will be a free woman,'' he'd say.
+
+1035
+01:26:46,167 --> 01:26:49,136
+Well, now l see that free woman
+before my very eyes.
+
+1036
+01:26:53,408 --> 01:26:55,569
+But don't forget,
+
+1037
+01:26:56,578 --> 01:26:58,603
+there's a God above us, dear sister.
+
+1038
+01:26:59,147 --> 01:27:02,605
+He can see you too.
+
+1039
+01:27:15,930 --> 01:27:18,364
+<i>I beIieved I had the strength to bear</i>
+
+1040
+01:27:19,033 --> 01:27:24,130
+<i>whatever misfortune</i>
+<i>fate had in store for me.</i>
+
+1041
+01:27:24,606 --> 01:27:30,135
+<i>I wouId caII up visions of suffering</i>
+<i>and steeI myseIf against them.</i>
+
+1042
+01:27:30,912 --> 01:27:32,880
+<i>Visions of poverty,</i>
+
+1043
+01:27:32,981 --> 01:27:36,815
+<i>dishonor or death.</i>
+
+1044
+01:27:37,518 --> 01:27:41,045
+<i>I even imagined BimaIa's death.</i>
+
+1045
+01:27:42,223 --> 01:27:45,681
+<i>But there was one thing</i>
+<i>I couId never imagine happening.</i>
+
+1046
+01:27:46,861 --> 01:27:50,820
+<i>Now I keep asking myseIf</i>
+<i>again and again.</i>
+
+1047
+01:27:51,799 --> 01:27:53,960
+<i>Do I have the strength to bear this?</i>
+
+1048
+01:27:55,236 --> 01:27:59,502
+-- Hail Motherland!
+-- Hail Motherland!
+
+1049
+01:28:19,594 --> 01:28:24,122
+-- What do you want?
+-- We have some questions.
+
+1050
+01:28:24,232 --> 01:28:25,392
+What are they?
+
+1051
+01:28:25,500 --> 01:28:28,731
+Why don't you ban
+foreign goods in our market?
+
+1052
+01:28:28,836 --> 01:28:31,999
+-- l have my reasons.
+-- ls it because you would lose money?
+
+1053
+01:28:34,375 --> 01:28:38,607
+l wouldn't, but the poor would.
+
+1054
+01:28:38,980 --> 01:28:40,709
+But our nation will profit.
+
+1055
+01:28:40,815 --> 01:28:44,808
+We buy domestic salt, sugar and clothing.
+
+1056
+01:28:44,919 --> 01:28:46,614
+How can you say that?
+
+1057
+01:28:47,422 --> 01:28:50,050
+How can you compare
+yourselves with the poor?
+
+1058
+01:28:50,525 --> 01:28:52,459
+You have money.
+
+1059
+01:28:52,560 --> 01:28:55,552
+You can afford
+to spend more on lndian goods.
+
+1060
+01:28:57,098 --> 01:28:59,566
+The poor aren't standing in your way.
+
+1061
+01:29:00,234 --> 01:29:01,599
+Why are you standing in theirs?
+
+1062
+01:29:02,003 --> 01:29:04,972
+You want to oppose an entire nation
+that's taken the Swadeshi oath?
+
+1063
+01:29:05,073 --> 01:29:05,869
+Never.
+
+1064
+01:29:06,908 --> 01:29:08,808
+That's beyond my power.
+
+1065
+01:29:09,510 --> 01:29:12,741
+But how can you say
+the entire nation has taken your oath?
+
+1066
+01:29:13,548 --> 01:29:15,311
+Look at the evidence.
+
+1067
+01:29:15,416 --> 01:29:17,816
+Aren't the traders part of this nation?
+
+1068
+01:29:17,919 --> 01:29:21,184
+So you won't ban foreign goods?
+
+1069
+01:29:22,790 --> 01:29:24,189
+No,
+
+1070
+01:29:24,692 --> 01:29:27,525
+because those goods don't belong to me.
+
+1071
+01:29:27,628 --> 01:29:29,323
+Hail Motherland!
+
+1072
+01:29:51,219 --> 01:29:52,618
+What are you looking for?
+
+1073
+01:29:53,988 --> 01:29:55,717
+<i>PassifIora.</i>
+
+1074
+01:29:57,091 --> 01:29:59,025
+Didn't you have a vial?
+
+1075
+01:30:00,762 --> 01:30:02,696
+Are you having trouble sleeping?
+
+1076
+01:30:04,465 --> 01:30:07,901
+One sleeps less as one grows older,
+
+1077
+01:30:08,836 --> 01:30:11,100
+but these last three nights --
+
+1078
+01:30:11,205 --> 01:30:13,366
+Here it is.
+
+1079
+01:30:13,474 --> 01:30:14,702
+l found it.
+
+1080
+01:30:14,809 --> 01:30:16,538
+Please, keep the vial.
+
+1081
+01:30:27,121 --> 01:30:29,555
+l don't like this, Nikhil.
+
+1082
+01:30:30,925 --> 01:30:37,524
+l have grave misgivings
+about the way things are shaping up.
+
+1083
+01:30:38,332 --> 01:30:42,234
+Sandip is your friend and your guest.
+
+1084
+01:30:42,904 --> 01:30:45,304
+Everybody knows that.
+
+1085
+01:30:45,673 --> 01:30:50,042
+Soon they'll believe whatever he does
+is done with your sanction.
+
+1086
+01:30:50,878 --> 01:30:56,180
+Don't you realize how terrible
+the consequences could be for you?
+
+1087
+01:30:58,286 --> 01:31:00,880
+l'm already feeling those consequences, sir.
+
+1088
+01:31:01,989 --> 01:31:03,957
+They think l'm a British lackey,
+
+1089
+01:31:04,792 --> 01:31:09,320
+that l don't force Swadeshi on my tenants
+for fear they would stop paying rent.
+
+1090
+01:31:09,430 --> 01:31:13,423
+That's the propaganda.
+-- Don't let it worry you.
+
+1091
+01:31:13,935 --> 01:31:18,963
+Nothing can touch you as long as
+you have a clear conscience.
+
+1092
+01:31:20,041 --> 01:31:23,772
+But the situation is deteriorating.
+
+1093
+01:31:25,246 --> 01:31:30,878
+Muslim preachers from Dhaka are
+going around stirring up the peasants.
+
+1094
+01:31:31,419 --> 01:31:33,046
+Have you heard about it?
+
+1095
+01:31:34,188 --> 01:31:36,088
+l've read about it in the papers.
+
+1096
+01:31:36,190 --> 01:31:39,023
+What's to stop them from coming here?
+
+1097
+01:31:39,961 --> 01:31:42,794
+-- Nothing.
+-- And then?
+
+1098
+01:31:44,699 --> 01:31:46,564
+But if anything does happen,
+
+1099
+01:31:47,468 --> 01:31:51,802
+can we place all the blame
+on the preachers?
+
+1100
+01:31:52,640 --> 01:31:54,767
+We are also responsible.
+
+1101
+01:31:55,543 --> 01:31:57,636
+How can we just ignore that?
+
+1102
+01:31:59,213 --> 01:32:02,376
+Think about how we ourselves
+have treated the poor Muslims.
+
+1103
+01:32:03,518 --> 01:32:07,716
+Have we even respected
+their rights as human beings?
+
+1104
+01:32:07,822 --> 01:32:11,417
+That's true, but what
+can be done about it now?
+
+1105
+01:32:15,029 --> 01:32:16,257
+l'll go there.
+
+1106
+01:32:18,132 --> 01:32:20,362
+l want to see for myself.
+
+1107
+01:32:21,536 --> 01:32:24,232
+Rumors can be misleading.
+
+1108
+01:32:24,338 --> 01:32:28,001
+Nikhil, can't you inform the magistrate?
+
+1109
+01:32:28,676 --> 01:32:31,270
+l don't think he'd mind a riot.
+
+1110
+01:32:32,079 --> 01:32:34,377
+lt's an easy way for him
+to see the Swadeshi punished.
+
+1111
+01:32:34,482 --> 01:32:36,950
+There is one thing you can do.
+
+1112
+01:32:38,953 --> 01:32:41,979
+You can at least eradicate
+the source of the trouble.
+
+1113
+01:32:42,857 --> 01:32:45,291
+Why let Sandip stay?
+
+1114
+01:32:52,733 --> 01:32:55,600
+l thought he'd leave of his own accord.
+
+1115
+01:32:58,573 --> 01:32:59,972
+But now --
+
+1116
+01:33:00,675 --> 01:33:03,007
+Leave? Why would he?
+
+1117
+01:33:04,145 --> 01:33:07,342
+With all the comfort
+and protection he enjoys here?
+
+1118
+01:33:07,782 --> 01:33:13,345
+Besides, you've done him a special favor
+by introducing him to your wife.
+
+1119
+01:33:13,454 --> 01:33:16,014
+He's taking full advantage of that!
+
+1120
+01:33:16,524 --> 01:33:20,051
+l had no idea he had changed so much.
+
+1121
+01:33:20,161 --> 01:33:25,793
+All this adulation has gone to his head.
+
+1122
+01:33:27,768 --> 01:33:33,138
+l think it comes from
+a deep sense of frustration.
+
+1123
+01:33:34,575 --> 01:33:37,271
+Despite all his gifts,
+
+1124
+01:33:38,145 --> 01:33:40,511
+he hasn't really accomplished anything.
+
+1125
+01:33:42,283 --> 01:33:46,777
+Sometimes, l feel pity for him.
+
+1126
+01:33:46,887 --> 01:33:49,685
+This is no time for pity, Nikhil.
+
+1127
+01:33:50,391 --> 01:33:54,953
+You can't bring yourself to be firm
+with him because he's close to you.
+
+1128
+01:33:55,062 --> 01:33:57,030
+You're hesitating.
+
+1129
+01:33:57,398 --> 01:34:01,960
+But l fail to see why you're
+vacillating at a time like this.
+
+1130
+01:34:02,970 --> 01:34:04,733
+You would if l told you.
+
+1131
+01:34:06,607 --> 01:34:08,472
+But l can't.
+
+1132
+01:36:57,778 --> 01:36:59,302
+Remember this?
+
+1133
+01:37:07,621 --> 01:37:10,215
+lt's from my soap factory.
+
+1134
+01:37:15,062 --> 01:37:18,554
+You saved it?
+-- Not just the soap.
+
+1135
+01:37:20,868 --> 01:37:24,599
+Towels, pens, matches.
+l kept everything.
+
+1136
+01:37:29,143 --> 01:37:30,667
+Have you ever used it?
+
+1137
+01:37:34,114 --> 01:37:38,676
+lt's no good for anything,
+not even for washing clothes.
+
+1138
+01:37:44,792 --> 01:37:47,386
+What foolish notions l had back then.
+
+1139
+01:37:47,494 --> 01:37:49,189
+You still do.
+
+1140
+01:37:50,431 --> 01:37:54,458
+You freed her from her moorings.
+Now look where she's drifted.
+
+1141
+01:37:57,504 --> 01:38:01,099
+-- That was no foolish notion.
+-- You still think so?
+
+1142
+01:38:07,281 --> 01:38:09,977
+lf she likes what she's doing,
+
+1143
+01:38:11,085 --> 01:38:13,178
+then that's the kind of person she is.
+
+1144
+01:38:14,388 --> 01:38:16,652
+l could prevent her from going out,
+
+1145
+01:38:17,424 --> 01:38:19,688
+but that wouldn't change who she is.
+
+1146
+01:38:21,195 --> 01:38:22,958
+She's not a child.
+
+1147
+01:38:23,497 --> 01:38:24,987
+lsn't the husband the master?
+
+1148
+01:38:27,701 --> 01:38:30,397
+Bending her to my will wouldn't be difficult,
+
+1149
+01:38:30,671 --> 01:38:31,968
+but it wouldn't help.
+
+1150
+01:38:33,641 --> 01:38:35,666
+At least get rid of him.
+
+1151
+01:38:36,810 --> 01:38:39,643
+He's not much of a friend, is he?
+
+1152
+01:38:41,081 --> 01:38:46,041
+lt would certainly be better for my estate
+
+1153
+01:38:46,987 --> 01:38:49,217
+if he were to leave.
+
+1154
+01:38:50,457 --> 01:38:54,257
+But l'm a selfish person.
+
+1155
+01:38:57,331 --> 01:39:00,789
+l can't stop thinking about myself.
+l just can't help it.
+
+1156
+01:39:02,436 --> 01:39:05,496
+lf he leaves, you'll soon find her
+back by your side.
+
+1157
+01:39:06,974 --> 01:39:08,464
+l know.
+
+1158
+01:39:09,777 --> 01:39:14,976
+But l would find her regretting it,
+
+1159
+01:39:16,317 --> 01:39:20,913
+because it wouldn't be her decision.
+
+1160
+01:39:22,056 --> 01:39:24,081
+That would be unbearable,
+
+1161
+01:39:25,326 --> 01:39:27,317
+both for her...
+
+1162
+01:39:28,262 --> 01:39:30,753
+and for me.
+
+1163
+01:39:35,135 --> 01:39:37,160
+l can't do it.
+
+1164
+01:39:37,304 --> 01:39:39,602
+Hail Motherland!
+
+1165
+01:40:28,288 --> 01:40:30,256
+<i>HaiI MotherIand.</i>
+
+1166
+01:40:30,357 --> 01:40:32,052
+What happened?
+
+1167
+01:40:32,159 --> 01:40:36,425
+Why are you so late?
+-- lt was a lot of work.
+
+1168
+01:40:37,197 --> 01:40:39,392
+There's a play in Chandrapur tonight.
+
+1169
+01:40:39,500 --> 01:40:42,230
+l had to wait for the boatmen to go there.
+
+1170
+01:40:42,336 --> 01:40:46,067
+This kind of work can't be done
+if there are people around.
+
+1171
+01:40:46,173 --> 01:40:48,164
+Mirjan's boat?
+
+1172
+01:40:51,478 --> 01:40:55,642
+But when he comes back
+and finds his boat missing,
+
+1173
+01:40:55,749 --> 01:40:57,683
+it won't take him long
+to put two and two together,
+
+1174
+01:40:57,785 --> 01:41:01,687
+and then he'll come groveling to you.
+
+1175
+01:41:01,955 --> 01:41:06,016
+You'll have to give him some compensation.
+
+1176
+01:41:06,960 --> 01:41:11,329
+Keep around 5,000 rupees handy.
+
+1177
+01:41:14,768 --> 01:41:17,794
+-- Let me see.
+-- A word of advice.
+
+1178
+01:41:19,106 --> 01:41:23,805
+Can l be frank with you?
+
+1179
+01:41:23,911 --> 01:41:25,845
+Out with it. lt's late.
+
+1180
+01:41:26,647 --> 01:41:32,176
+l think you should finish things up
+quickly here and leave.
+
+1181
+01:41:35,722 --> 01:41:39,089
+-- Why?
+-- Things aren't looking good.
+
+1182
+01:41:39,626 --> 01:41:41,594
+There could be a riot.
+
+1183
+01:41:42,062 --> 01:41:43,723
+You may be a leader,
+
+1184
+01:41:43,831 --> 01:41:48,700
+but you're not exactly
+a popular one, you know.
+
+1185
+01:41:49,136 --> 01:41:53,300
+They're certainly not going
+to put you on a pedestal.
+
+1186
+01:41:57,277 --> 01:42:00,075
+l'll decide what to do.
+
+1187
+01:42:00,447 --> 01:42:03,041
+You don't need to worry about it.
+
+1188
+01:42:07,387 --> 01:42:11,255
+<i>Onward, sons of India</i>
+
+1189
+01:42:11,358 --> 01:42:15,124
+<i>The MotherIand caIIs</i>
+
+1190
+01:42:15,229 --> 01:42:19,097
+<i>Onward, sons of India</i>
+
+1191
+01:42:19,199 --> 01:42:22,828
+<i>The MotherIand caIIs</i>
+
+1192
+01:42:22,936 --> 01:42:26,736
+<i>The strong, the brave, the proud</i>
+
+1193
+01:42:26,840 --> 01:42:30,674
+<i>To serve the nation's cause</i>
+
+1194
+01:42:30,777 --> 01:42:34,474
+<i>Onward, sons of India</i>
+
+1195
+01:42:34,581 --> 01:42:38,779
+<i>The MotherIand caIIs</i>
+
+1196
+01:42:40,387 --> 01:42:42,821
+You should give up Swadeshi
+and take up singing.
+
+1197
+01:42:43,457 --> 01:42:48,690
+l once considered becoming an actor.
+
+1198
+01:42:49,062 --> 01:42:52,691
+lt's wonderful to be able to hold
+a large audience in your grip.
+
+1199
+01:42:53,834 --> 01:42:57,565
+l was thinking that when l heard
+you speak the other evening.
+
+1200
+01:42:58,872 --> 01:43:00,567
+Of course...
+
+1201
+01:43:01,008 --> 01:43:05,843
+it's nothing like winning
+the heart of a woman.
+
+1202
+01:43:07,614 --> 01:43:11,209
+l gather you've won
+the hearts of many women,
+
+1203
+01:43:11,785 --> 01:43:13,446
+both Swadeshi...
+
+1204
+01:43:14,354 --> 01:43:15,753
+and foreign.
+
+1205
+01:43:15,856 --> 01:43:17,619
+Good God!
+
+1206
+01:43:17,891 --> 01:43:19,984
+Has Nikhil told you all this?
+
+1207
+01:43:20,961 --> 01:43:23,191
+You know so much about me.
+
+1208
+01:43:23,297 --> 01:43:25,265
+Why shouldn't l know something about you?
+
+1209
+01:43:25,933 --> 01:43:28,026
+You know what they were?
+
+1210
+01:43:28,135 --> 01:43:31,696
+Youthful indiscretions.
+lt's ancient history.
+
+1211
+01:43:32,439 --> 01:43:35,203
+l wonder what happened to those women.
+
+1212
+01:43:35,742 --> 01:43:37,471
+You shouldn't, queen bee.
+
+1213
+01:43:37,578 --> 01:43:41,207
+l'm no longer the same person.
+You know that.
+
+1214
+01:43:41,982 --> 01:43:44,780
+Still, it's helpful in understanding
+a person's character.
+
+1215
+01:43:45,586 --> 01:43:48,146
+lt's not difficult to understand men.
+
+1216
+01:43:48,255 --> 01:43:50,189
+lt's women who are unfathomable.
+
+1217
+01:43:50,657 --> 01:43:53,751
+One despairs of knowing their minds.
+
+1218
+01:43:53,860 --> 01:43:57,057
+You know that song, don't you?
+-- What song?
+
+1219
+01:43:57,931 --> 01:44:03,870
+<i>Who can ever fathom a woman's ways?</i>
+
+1220
+01:44:03,971 --> 01:44:07,407
+<i>Who can ever fathom a woman's ways?</i>
+
+1221
+01:44:07,507 --> 01:44:10,738
+<i>Her siIence means more</i>
+<i>than what she says</i>
+
+1222
+01:44:10,844 --> 01:44:13,176
+<i>She Iooks at you,</i>
+<i>then drops her eyes</i>
+
+1223
+01:44:13,280 --> 01:44:15,646
+<i>Her siIence means more</i>
+<i>than what she says</i>
+
+1224
+01:44:15,749 --> 01:44:18,115
+<i>She Iooks at you,</i>
+<i>then drops her eyes</i>
+
+1225
+01:44:18,218 --> 01:44:20,686
+<i>She Iaughs one moment</i>
+<i>The next she cries</i>
+
+1226
+01:44:21,688 --> 01:44:24,054
+<i>She Iaughs one moment</i>
+<i>The next she cries</i>
+
+1227
+01:44:24,157 --> 01:44:27,615
+<i>She Iingers cIose,</i>
+<i>then Ieaves you in a daze</i>
+
+1228
+01:44:27,728 --> 01:44:33,724
+<i>Who can ever fathom a woman's ways?</i>
+
+1229
+01:44:33,834 --> 01:44:37,292
+<i>Who can ever fathom a woman's ways?</i>
+
+1230
+01:44:37,904 --> 01:44:41,101
+ls that why you never married?
+
+1231
+01:44:42,175 --> 01:44:47,374
+How can l marry if l can't find a woman
+after my own heart, queen bee?
+
+1232
+01:44:47,481 --> 01:44:50,746
+l waited a long time for you last night.
+
+1233
+01:44:51,018 --> 01:44:52,815
+You never came.
+
+1234
+01:44:55,255 --> 01:44:57,246
+Forgive me, my queen bee.
+
+1235
+01:44:57,991 --> 01:45:00,983
+l was very busy.
+l got back late.
+
+1236
+01:45:01,094 --> 01:45:05,861
+-- Busy with what?
+-- The Swadeshi cause, of course.
+
+1237
+01:45:05,966 --> 01:45:09,060
+-- Giving speeches?
+-- No.
+
+1238
+01:45:09,169 --> 01:45:10,796
+What, then?
+
+1239
+01:45:11,772 --> 01:45:14,297
+Winding things up.
+
+1240
+01:45:15,409 --> 01:45:18,242
+l can't stay here forever, you know.
+
+1241
+01:45:19,579 --> 01:45:22,047
+We have to be constantly
+on the move, campaigning.
+
+1242
+01:45:25,185 --> 01:45:27,380
+You're leaving?
+
+1243
+01:45:29,256 --> 01:45:31,019
+l have to go sooner or later.
+
+1244
+01:45:34,328 --> 01:45:36,796
+What if your queen bee doesn't let you?
+
+1245
+01:45:40,567 --> 01:45:43,161
+No one would be happier than me.
+
+1246
+01:45:43,603 --> 01:45:46,299
+But l'm not planning on leaving just yet.
+
+1247
+01:45:46,406 --> 01:45:48,271
+There are still problems to be resolved.
+
+1248
+01:45:49,910 --> 01:45:52,378
+-- Will you tell me?
+-- What?
+
+1249
+01:45:53,513 --> 01:45:55,071
+How much money do you need?
+
+1250
+01:46:02,956 --> 01:46:04,514
+What is it?
+
+1251
+01:46:05,759 --> 01:46:07,192
+How much?
+
+1252
+01:46:08,028 --> 01:46:09,893
+About five thousand.
+
+1253
+01:46:09,996 --> 01:46:12,464
+We spent more
+than we were planning to.
+
+1254
+01:46:12,566 --> 01:46:16,730
+lf l get you the money,
+you'll have to take it without question.
+
+1255
+01:46:18,171 --> 01:46:21,902
+lf you say so, but you mustn't
+part with your jewelry.
+
+1256
+01:46:23,043 --> 01:46:25,409
+When l said money,
+l meant money.
+
+1257
+01:46:28,582 --> 01:46:30,072
+What if l can't repay you?
+
+1258
+01:46:31,017 --> 01:46:33,144
+l don't expect you to.
+
+1259
+01:46:33,587 --> 01:46:36,385
+Can't l at least do this much for Swadeshi?
+
+1260
+01:46:38,425 --> 01:46:41,553
+-- l'm worried, queen bee.
+-- Why?
+
+1261
+01:46:43,230 --> 01:46:45,994
+l seem to have become a burden to you.
+
+1262
+01:46:46,099 --> 01:46:50,399
+But there's no other way. l can explain.
+-- You don't have to.
+
+1263
+01:46:50,837 --> 01:46:55,797
+Just tell me one thing.
+-- What?
+
+1264
+01:46:57,144 --> 01:47:01,308
+-- lf l give you the money, will you stay?
+-- Do you think l want to leave you?
+
+1265
+01:47:03,617 --> 01:47:06,279
+Then why did you say
+you were going to leave?
+
+1266
+01:47:06,553 --> 01:47:10,284
+After all the torment l've been through.
+
+1267
+01:47:10,390 --> 01:47:13,188
+l did it all for you,
+
+1268
+01:47:13,293 --> 01:47:15,557
+and you --
+
+1269
+01:47:16,830 --> 01:47:18,229
+Queen bee.
+
+1270
+01:48:08,315 --> 01:48:09,839
+<i>Brothers!</i>
+
+1271
+01:48:10,650 --> 01:48:15,280
+<i>The Hindus ask you to join hands</i>
+<i>with them for the Swadeshi cause.</i>
+
+1272
+01:48:15,655 --> 01:48:18,055
+<i>They wheedIe you.</i>
+
+1273
+01:48:18,325 --> 01:48:20,452
+<i>They coax you.</i>
+
+1274
+01:48:20,560 --> 01:48:22,425
+<i>They even threaten you.</i>
+
+1275
+01:48:22,529 --> 01:48:25,589
+<i>They want you to join them at aII costs,</i>
+<i>but don't Iisten to them, brothers.</i>
+
+1276
+01:48:25,699 --> 01:48:28,691
+<i>Remember they don't want our betterment.</i>
+
+1277
+01:48:29,369 --> 01:48:33,897
+<i>The Hindus don't care about your weII-being.</i>
+
+1278
+01:48:34,407 --> 01:48:40,004
+<i>Whatever they say is not</i>
+<i>for the benefit of our community.</i>
+
+1279
+01:48:40,113 --> 01:48:44,072
+<i>The Hindus have never</i>
+<i>cared about our weII-being.</i>
+
+1280
+01:48:44,184 --> 01:48:47,881
+<i>The Hindus want to keep us MusIims</i>
+<i>under their heeIs forever.</i>
+
+1281
+01:48:47,988 --> 01:48:51,389
+<i>That is their onIy objective.</i>
+
+1282
+01:48:52,692 --> 01:48:55,855
+<i>But remember one thing.</i>
+
+1283
+01:48:55,962 --> 01:49:01,093
+<i>By the grace of AIIah,</i>
+<i>MusIims are the majority in BengaI.</i>
+
+1284
+01:49:01,201 --> 01:49:03,328
+<i>You are the farmers.</i>
+
+1285
+01:49:03,436 --> 01:49:07,463
+<i>The weaIth of this country</i>
+<i>comes from its Iand.</i>
+
+1286
+01:49:07,574 --> 01:49:09,565
+<i>Enough is enough.</i>
+
+1287
+01:49:10,143 --> 01:49:14,807
+<i>No part of this weaIth</i>
+<i>is produced by the Hindus.</i>
+
+1288
+01:49:14,915 --> 01:49:18,783
+<i>It's your hard work that made them weaIthy.</i>
+
+1289
+01:49:19,419 --> 01:49:24,516
+<i>They have no right</i>
+<i>to the fruits of your Iabors.</i>
+
+1290
+01:49:24,624 --> 01:49:26,785
+This is your hard--earned money.
+
+1291
+01:49:26,893 --> 01:49:30,294
+The Hindus have no right to it.
+
+1292
+01:49:31,097 --> 01:49:33,588
+Listen to me, brother Muslims.
+
+1293
+01:49:34,334 --> 01:49:36,928
+Don't listen to the Hindus.
+
+1294
+01:49:37,304 --> 01:49:40,034
+Don't get mixed up in their politics.
+
+1295
+01:49:40,140 --> 01:49:41,937
+Swadeshi is not for you.
+
+1296
+01:49:44,077 --> 01:49:48,605
+You are the leaders
+of the Hindu community in Sukhsayar.
+
+1297
+01:49:49,516 --> 01:49:53,885
+l've called you here to tell you one thing.
+
+1298
+01:49:54,988 --> 01:49:59,015
+You are men of wisdom
+and good judgment.
+
+1299
+01:49:59,659 --> 01:50:02,560
+l think you will appreciate
+what l am going to say to you.
+
+1300
+01:50:03,163 --> 01:50:04,494
+l have faith in you.
+
+1301
+01:50:05,632 --> 01:50:07,862
+l just wanted to say...
+
+1302
+01:50:09,102 --> 01:50:12,333
+that we can stay true
+to our own religious beliefs,
+
+1303
+01:50:13,039 --> 01:50:15,735
+but we shouldn't interfere
+with the beliefs of others.
+
+1304
+01:50:17,110 --> 01:50:19,510
+Even as a follower of <i>Vaishnavism,</i>
+
+1305
+01:50:20,113 --> 01:50:23,605
+l can't prevent a follower of <i>Shaktism</i>
+from spilling the blood of animals.
+
+1306
+01:50:24,417 --> 01:50:28,945
+And so, similarly...
+
+1307
+01:50:29,389 --> 01:50:32,517
+we should let the Muslims
+follow their own religious convictions.
+
+1308
+01:50:32,626 --> 01:50:36,153
+Maharaja, the Muslims in this village
+never used to slaughter cows,
+
+1309
+01:50:36,262 --> 01:50:40,562
+but l've heard they do now.
+
+1310
+01:50:40,667 --> 01:50:41,361
+Yes.
+
+1311
+01:50:42,836 --> 01:50:44,861
+l've heard that too.
+
+1312
+01:50:46,272 --> 01:50:50,902
+But l strongly believe that
+they've been manipulated into doing so.
+
+1313
+01:50:51,344 --> 01:50:53,403
+They've been convinced to do it,
+
+1314
+01:50:53,980 --> 01:50:56,972
+in order to stir up trouble
+between our two religions.
+
+1315
+01:50:59,219 --> 01:51:01,619
+Please don't add fuel to the fire.
+
+1316
+01:51:01,721 --> 01:51:04,747
+They won't stop unless
+you put them back in their place.
+
+1317
+01:51:04,858 --> 01:51:06,758
+The good old days are gone.
+
+1318
+01:51:08,094 --> 01:51:09,527
+Listen.
+
+1319
+01:51:10,897 --> 01:51:13,365
+Muslims are a part of lndia.
+
+1320
+01:51:14,300 --> 01:51:17,701
+This is a historical fact.
+
+1321
+01:51:19,205 --> 01:51:21,730
+You must accept this fact.
+
+1322
+01:51:23,610 --> 01:51:28,445
+We can't imagine an lndia without Muslims.
+
+1323
+01:51:29,916 --> 01:51:31,816
+lf we try to put them in their place,
+
+1324
+01:51:32,318 --> 01:51:35,116
+it won't stop them from slaughtering cows.
+
+1325
+01:51:35,789 --> 01:51:38,485
+lt may even lead to them slaughtering men.
+
+1326
+01:51:41,461 --> 01:51:47,525
+That's never been truer than now,
+in the present state of unrest and turmoil.
+
+1327
+01:51:48,935 --> 01:51:55,602
+You now have a grave responsibility.
+
+1328
+01:51:59,713 --> 01:52:04,377
+l beg you, l beseech you,
+
+1329
+01:52:05,852 --> 01:52:08,685
+do not encourage hatred.
+
+1330
+01:52:10,190 --> 01:52:15,822
+lf you do so now,
+you are courting disaster.
+
+1331
+01:52:30,844 --> 01:52:32,835
+Hail Motherland.
+
+1332
+01:53:10,650 --> 01:53:12,140
+Nikhil.
+
+1333
+01:53:12,252 --> 01:53:15,585
+Did you hear a shot?
+-- Yes, l did.
+
+1334
+01:53:16,656 --> 01:53:18,123
+-- What now?
+-- l know.
+
+1335
+01:53:20,160 --> 01:53:22,355
+l know what must be done.
+
+1336
+01:53:22,629 --> 01:53:24,221
+But first of all,
+
+1337
+01:53:24,330 --> 01:53:28,232
+take my carriage, go home
+and come back with all your belongings.
+
+1338
+01:53:28,535 --> 01:53:31,504
+The roads aren't safe anymore.
+l don't want anything to happen to you.
+
+1339
+01:53:32,539 --> 01:53:34,564
+That sounds fine, but --
+
+1340
+01:53:36,176 --> 01:53:38,804
+l'll tell Sandip right away.
+
+1341
+01:54:09,142 --> 01:54:10,905
+Time's running out, queen bee.
+
+1342
+01:54:11,010 --> 01:54:13,035
+l need the money now.
+
+1343
+01:54:21,287 --> 01:54:22,914
+What's that?
+
+1344
+01:54:23,022 --> 01:54:24,649
+Can't you guess?
+
+1345
+01:54:25,925 --> 01:54:27,415
+Money?
+
+1346
+01:54:27,927 --> 01:54:31,454
+So little? There can't be
+more than 500 in those bags.
+
+1347
+01:54:32,098 --> 01:54:35,465
+You must have forgotten.
+l asked for 5,000 rupees.
+
+1348
+01:54:41,274 --> 01:54:42,866
+What's this?
+
+1349
+01:54:44,177 --> 01:54:45,371
+Gold coins?
+
+1350
+01:54:54,654 --> 01:54:55,985
+Gold.
+
+1351
+01:54:58,424 --> 01:55:00,654
+Gold.
+
+1352
+01:55:04,063 --> 01:55:06,327
+You should have told me.
+
+1353
+01:55:07,233 --> 01:55:09,360
+How else would l know?
+
+1354
+01:55:11,871 --> 01:55:13,862
+Please don't be angry, my queen bee.
+
+1355
+01:55:20,780 --> 01:55:24,045
+-- l need to talk to you.
+-- About what?
+
+1356
+01:55:24,884 --> 01:55:27,512
+l don't want you to stay here any longer.
+
+1357
+01:55:27,620 --> 01:55:29,713
+Things have taken a serious turn.
+
+1358
+01:55:29,822 --> 01:55:32,450
+Your presence may make matters worse.
+
+1359
+01:55:33,559 --> 01:55:35,925
+l want you to leave Sukhsayar
+by tomorrow morning.
+
+1360
+01:55:38,064 --> 01:55:40,760
+Am l supposed to take orders from you?
+
+1361
+01:55:40,867 --> 01:55:42,334
+lt's not that.
+
+1362
+01:55:43,736 --> 01:55:46,603
+lf you leave for Calcutta,
+it will be good for you,
+
+1363
+01:55:47,507 --> 01:55:48,974
+and for Sukhsayar as well.
+
+1364
+01:55:50,209 --> 01:55:53,667
+-- l have no work to do in Calcutta.
+-- All the more reason to go.
+
+1365
+01:55:54,714 --> 01:55:57,274
+You've done too much work here.
+
+1366
+01:55:59,085 --> 01:56:01,883
+Don't think l haven't been
+informed of your activities.
+
+1367
+01:56:02,722 --> 01:56:05,657
+From setting fire to the peasants' barns
+to sinking Mirjan's boat,
+
+1368
+01:56:06,626 --> 01:56:09,220
+l've been informed of everything.
+
+1369
+01:56:10,496 --> 01:56:13,329
+You speak of unity
+between Hindus and Muslims,
+
+1370
+01:56:14,067 --> 01:56:17,002
+but, in fact, you oppress Muslims.
+
+1371
+01:56:18,504 --> 01:56:20,734
+l won't tolerate it anymore.
+
+1372
+01:56:23,076 --> 01:56:25,567
+l may not believe in Swadeshi,
+
+1373
+01:56:26,579 --> 01:56:29,241
+but l truly admire
+some Swadeshi leaders.
+
+1374
+01:56:30,350 --> 01:56:35,652
+But l don't admire those
+whose actions belie their words.
+
+1375
+01:56:36,889 --> 01:56:39,483
+You're not saving the country.
+You're ruining it.
+
+1376
+01:56:40,727 --> 01:56:43,696
+l won't allow this to go on in my estate.
+
+1377
+01:56:43,796 --> 01:56:47,425
+There's only one person here
+l'm prepared to obey.
+
+1378
+01:56:49,702 --> 01:56:51,533
+Queen bee...
+
+1379
+01:56:52,038 --> 01:56:55,303
+Do you want me to stay or not?
+
+1380
+01:57:04,150 --> 01:57:05,674
+Queen bee.
+
+1381
+01:57:06,719 --> 01:57:09,017
+l'm waiting for your answer.
+
+1382
+01:57:10,656 --> 01:57:13,489
+Do you want me to leave?
+
+1383
+01:57:16,129 --> 01:57:18,097
+Please tell me, queen bee.
+
+1384
+01:57:19,632 --> 01:57:21,566
+l've said what l came to say.
+
+1385
+01:57:24,170 --> 01:57:26,536
+l hope l won't have to repeat it.
+
+1386
+01:57:31,144 --> 01:57:32,975
+Queen bee.
+
+1387
+01:57:35,248 --> 01:57:37,375
+What's the matter with you?
+
+1388
+01:57:41,120 --> 01:57:44,021
+You suddenly --
+-- ls Amulya in your room?
+
+1389
+01:57:44,123 --> 01:57:45,988
+-- Amulya?
+-- Yes.
+
+1390
+01:57:46,092 --> 01:57:47,116
+Why?
+
+1391
+01:57:47,226 --> 01:57:50,127
+Send him to me. lt's urgent.
+
+1392
+01:57:50,830 --> 01:57:53,458
+Can't you tell me why?
+
+1393
+01:57:53,766 --> 01:57:55,825
+No, l'll tell Amulya.
+
+1394
+01:57:55,935 --> 01:57:57,903
+Please send him to me.
+
+1395
+01:57:58,004 --> 01:58:00,063
+lt's my request.
+
+1396
+01:58:01,274 --> 01:58:03,003
+Very well.
+
+1397
+01:59:39,639 --> 01:59:41,038
+Amulya?
+
+1398
+01:59:43,476 --> 01:59:46,673
+Can you do me a favor?
+-- Of course. What is it?
+
+1399
+01:59:46,779 --> 01:59:48,076
+Go to Calcutta.
+
+1400
+01:59:48,181 --> 01:59:50,979
+You can take the morning train
+and return in the evening.
+
+1401
+01:59:51,083 --> 01:59:53,210
+The money for the journey is in this box.
+
+1402
+01:59:53,319 --> 01:59:56,379
+-- What's this box?
+-- lt's my jewelry box.
+
+1403
+01:59:56,489 --> 02:00:00,152
+l need 5,000 rupees. Sell some
+of my jewelry and bring me the money.
+
+1404
+02:00:00,259 --> 02:00:02,352
+l don't need any jewelry.
+l can get you the money.
+
+1405
+02:00:02,461 --> 02:00:03,792
+How?
+
+1406
+02:00:03,896 --> 02:00:06,831
+This is not a small amount
+we're talking about.
+
+1407
+02:00:06,933 --> 02:00:08,298
+l'll get it.
+
+1408
+02:00:08,401 --> 02:00:10,528
+No, do as l tell you.
+
+1409
+02:00:11,137 --> 02:00:14,106
+But why did you give
+Mr. Sandip 5,000 rupees?
+
+1410
+02:00:14,207 --> 02:00:16,072
+He said he needed that much.
+
+1411
+02:00:16,175 --> 02:00:19,872
+No, according to our calculations,
+we only needed 3,500.
+
+1412
+02:00:19,979 --> 02:00:22,379
+lf you give him more,
+he spends it on himself.
+
+1413
+02:00:23,149 --> 02:00:26,949
+He's quite a spender.
+He always travels first--class.
+
+1414
+02:00:28,054 --> 02:00:30,113
+-- Sandip?
+-- Yes, sister.
+
+1415
+02:00:30,223 --> 02:00:34,091
+He says hardship saps a leader's strength.
+
+1416
+02:00:34,927 --> 02:00:38,192
+Well, l can't take back
+what l've already given.
+
+1417
+02:00:38,297 --> 02:00:41,130
+He might need it in the future.
+You get me the 5,000.
+
+1418
+02:00:41,734 --> 02:00:45,101
+Put the box away.
+l'll get you the money tonight.
+
+1419
+02:00:45,204 --> 02:00:47,138
+-- How?
+-- From the treasury.
+
+1420
+02:00:48,140 --> 02:00:51,439
+Are you insane?
+What about the guards?
+
+1421
+02:00:51,544 --> 02:00:53,569
+We carry weapons, sister.
+
+1422
+02:01:01,520 --> 02:01:03,681
+Good heavens!
+
+1423
+02:01:04,390 --> 02:01:06,449
+Why are you upset, sister?
+
+1424
+02:01:06,559 --> 02:01:08,652
+We need funding
+to carry out our work for the nation.
+
+1425
+02:01:09,996 --> 02:01:11,964
+Doesn't it bother you that you're stealing?
+
+1426
+02:01:12,064 --> 02:01:13,964
+Why?
+Whose money is it?
+
+1427
+02:01:14,066 --> 02:01:16,933
+Mine today,
+the moneylender's tomorrow.
+
+1428
+02:01:17,036 --> 02:01:20,665
+Why not use it for the cause?
+-- No, Amulya.
+
+1429
+02:01:20,773 --> 02:01:25,073
+lf you go robbing treasuries,
+l'll die of fear.
+
+1430
+02:01:25,177 --> 02:01:27,441
+Listen, you may not need
+to sell all the jewelry.
+
+1431
+02:01:27,546 --> 02:01:31,573
+Sell as much as you need to
+and bring back the rest.
+
+1432
+02:01:32,585 --> 02:01:35,486
+Take the box and carry it safely.
+
+1433
+02:01:35,588 --> 02:01:38,489
+And be careful, for heaven's sake.
+
+1434
+02:01:39,425 --> 02:01:40,892
+Very well, sister.
+
+1435
+02:01:44,797 --> 02:01:47,163
+l'll take my leave.
+-- Okay.
+
+1436
+02:02:11,190 --> 02:02:12,953
+<i>Queen bee.</i>
+
+1437
+02:02:22,635 --> 02:02:24,364
+Are you leaving?
+
+1438
+02:02:24,470 --> 02:02:26,734
+ls there any reason for me to stay?
+
+1439
+02:02:26,839 --> 02:02:28,830
+Why do you say that?
+
+1440
+02:02:28,941 --> 02:02:31,569
+Can't you hear the note of discord?
+
+1441
+02:02:32,611 --> 02:02:35,944
+lf l've done anything wrong,
+please forgive me.
+
+1442
+02:02:36,048 --> 02:02:38,016
+Don't leave like this.
+
+1443
+02:02:38,551 --> 02:02:43,250
+My husband said, ''The less one
+knows you, the better one likes you''.
+
+1444
+02:02:43,923 --> 02:02:46,687
+Perhaps l know you too well.
+
+1445
+02:02:46,792 --> 02:02:48,692
+Don't say that, queen bee.
+
+1446
+02:02:49,128 --> 02:02:51,858
+Has knowing me meant nothing to you?
+
+1447
+02:02:52,131 --> 02:02:54,031
+Has it all been in vain?
+
+1448
+02:02:54,133 --> 02:02:57,330
+l believed you would
+succeed in your endeavor.
+
+1449
+02:02:57,436 --> 02:02:59,336
+l wanted you to.
+
+1450
+02:02:59,438 --> 02:03:01,702
+But not anymore?
+
+1451
+02:03:27,767 --> 02:03:30,361
+<i>AIIah is great!</i>
+
+1452
+02:04:24,457 --> 02:04:26,425
+Kasim?
+
+1453
+02:04:33,365 --> 02:04:34,832
+Hands up.
+
+1454
+02:04:37,703 --> 02:04:39,227
+Hands up.
+
+1455
+02:04:41,540 --> 02:04:42,734
+Go inside.
+
+1456
+02:04:42,842 --> 02:04:44,002
+Go inside!
+
+1457
+02:04:50,549 --> 02:04:51,743
+Move.
+
+1458
+02:04:54,220 --> 02:04:55,653
+Turn around.
+
+1459
+02:04:56,555 --> 02:04:58,147
+Turn!
+
+1460
+02:05:02,127 --> 02:05:04,061
+Now open the safe.
+
+1461
+02:05:04,730 --> 02:05:06,197
+Open it!
+
+1462
+02:05:11,237 --> 02:05:14,365
+Take out 3,500 rupees.
+
+1463
+02:05:15,140 --> 02:05:18,473
+What's going on?
+What's all the commotion?
+
+1464
+02:05:18,744 --> 02:05:20,837
+ls there a problem?
+
+1465
+02:05:22,147 --> 02:05:23,876
+l don't know.
+
+1466
+02:05:24,550 --> 02:05:26,142
+l hope it's not a riot.
+
+1467
+02:05:26,252 --> 02:05:28,243
+What are you saying?
+
+1468
+02:05:28,587 --> 02:05:31,750
+What will happen to us
+if there's a riot here?
+
+1469
+02:05:33,292 --> 02:05:35,487
+We're going to Calcutta tomorrow.
+
+1470
+02:05:36,328 --> 02:05:37,955
+lt's no longer safe here.
+
+1471
+02:05:38,063 --> 02:05:40,861
+Who is ''we''?
+Am l not coming with you?
+
+1472
+02:05:43,636 --> 02:05:45,536
+Did l say that?
+
+1473
+02:05:47,640 --> 02:05:49,505
+l'm so relieved.
+
+1474
+02:05:49,608 --> 02:05:51,735
+A treasury was looted nearby.
+
+1475
+02:05:51,844 --> 02:05:54,711
+What's to stop them from looting this place?
+
+1476
+02:05:54,813 --> 02:05:58,476
+lf they kill me, they'll burn my body
+by that shriveled banyan tree.
+
+1477
+02:05:58,584 --> 02:06:00,142
+That would be awful.
+
+1478
+02:06:02,087 --> 02:06:03,884
+Go and get ready.
+
+1479
+02:06:03,989 --> 02:06:05,820
+Pack your things.
+
+1480
+02:06:07,560 --> 02:06:09,824
+You're serious about leaving, aren't you?
+
+1481
+02:06:10,429 --> 02:06:12,454
+l'm always serious.
+
+1482
+02:06:13,499 --> 02:06:15,467
+Don't you know me by now?
+
+1483
+02:06:39,758 --> 02:06:41,453
+Bimala?
+
+1484
+02:06:44,263 --> 02:06:46,231
+l have to tell you something.
+
+1485
+02:06:46,332 --> 02:06:47,924
+What is it?
+
+1486
+02:06:48,200 --> 02:06:52,660
+There were 5,000 rupees
+in gold coins in two bags in the safe.
+
+1487
+02:06:52,938 --> 02:06:54,872
+l gave them to Sandip.
+
+1488
+02:06:55,474 --> 02:06:57,408
+He needed the money.
+
+1489
+02:06:58,210 --> 02:07:02,112
+Now you know how hard
+it is to refuse him.
+
+1490
+02:07:02,214 --> 02:07:03,613
+l'll pay the money back.
+
+1491
+02:07:04,116 --> 02:07:05,981
+l gave Amulya my jewelry box.
+
+1492
+02:07:06,085 --> 02:07:08,144
+He'll sell my jewels and bring the money.
+
+1493
+02:07:13,859 --> 02:07:19,058
+l felt bad speaking to Sandip
+like that in front of you.
+
+1494
+02:07:21,500 --> 02:07:23,593
+But l had to, Bimala.
+
+1495
+02:07:24,603 --> 02:07:25,968
+Things have taken a bad turn.
+
+1496
+02:07:30,976 --> 02:07:33,911
+lt's no longer safe for him to work here.
+
+1497
+02:07:34,847 --> 02:07:37,372
+But what about you?
+
+1498
+02:07:41,086 --> 02:07:43,850
+Your safety is what concerns me.
+
+1499
+02:07:44,256 --> 02:07:47,851
+No one else matters to me anymore.
+
+1500
+02:07:48,661 --> 02:07:51,858
+Tomorrow, we're going to Calcutta.
+
+1501
+02:07:52,431 --> 02:07:54,160
+All three of us.
+
+1502
+02:07:55,200 --> 02:07:57,725
+And if something happens before then?
+
+1503
+02:08:00,673 --> 02:08:02,231
+You won't leave the house, will you?
+
+1504
+02:08:05,344 --> 02:08:08,871
+lf something happens,
+l'll have to go and intervene, Bimala.
+
+1505
+02:08:13,686 --> 02:08:15,244
+l knew it.
+
+1506
+02:08:17,623 --> 02:08:20,854
+l knew l'd be punished.
+
+1507
+02:08:21,960 --> 02:08:24,394
+l'll be punished.
+
+1508
+02:08:27,566 --> 02:08:29,431
+Punished? Why, Bimala?
+
+1509
+02:08:30,302 --> 02:08:32,862
+You haven't done anything wrong.
+
+1510
+02:08:34,406 --> 02:08:39,275
+l don't even have the right
+to ask you for forgiveness.
+
+1511
+02:08:41,513 --> 02:08:45,040
+But you've come back to me,
+haven't you?
+
+1512
+02:08:46,285 --> 02:08:48,583
+Haven't you, Bimala?
+
+1513
+02:08:56,829 --> 02:09:01,528
+lt seems like ages since l last
+looked at you and spoke to you.
+
+1514
+02:09:03,502 --> 02:09:05,595
+What came over me?
+
+1515
+02:09:06,338 --> 02:09:08,863
+Why did this happen?
+
+1516
+02:09:10,709 --> 02:09:12,506
+You've done nothing wrong, Bimala.
+
+1517
+02:09:13,545 --> 02:09:16,878
+For ten years, you never saw
+another man besides me.
+
+1518
+02:09:18,784 --> 02:09:20,775
+Don't forget that.
+
+1519
+02:09:52,851 --> 02:09:55,046
+There's 3,500 rupees here.
+
+1520
+02:09:55,954 --> 02:09:59,185
+Please return the jewelry box
+and the gold coins.
+
+1521
+02:10:00,459 --> 02:10:03,792
+Where did you get that money?
+Where have you been?
+
+1522
+02:10:04,696 --> 02:10:06,687
+To the treasury.
+
+1523
+02:10:07,800 --> 02:10:09,028
+l hope nobody saw you.
+
+1524
+02:10:17,276 --> 02:10:19,141
+l had my face covered.
+
+1525
+02:10:19,478 --> 02:10:22,413
+Did you see any trouble in the village?
+-- There's a riot.
+
+1526
+02:10:24,516 --> 02:10:27,713
+The Muslims have broken
+into the temple of Visalakshi.
+
+1527
+02:10:38,197 --> 02:10:39,960
+Are you leaving?
+
+1528
+02:10:41,567 --> 02:10:43,194
+Yes. To Rangpur.
+
+1529
+02:10:48,540 --> 02:10:49,734
+Will you come with me?
+
+1530
+02:11:03,422 --> 02:11:04,821
+l must go now.
+
+1531
+02:11:13,098 --> 02:11:14,725
+Hail Motherland.
+
+1532
+02:11:31,283 --> 02:11:32,841
+What are you thinking?
+
+1533
+02:11:34,086 --> 02:11:35,747
+Nothing.
+
+1534
+02:11:37,422 --> 02:11:39,890
+l don't want to think.
+
+1535
+02:11:41,093 --> 02:11:43,186
+l want to forget.
+
+1536
+02:11:44,763 --> 02:11:47,926
+Everything that's happened
+in the last few days.
+
+1537
+02:11:48,400 --> 02:11:51,301
+Forget? But why?
+
+1538
+02:11:51,403 --> 02:11:52,165
+Nikhil!
+
+1539
+02:11:55,707 --> 02:11:57,698
+Come in, Sandip.
+
+1540
+02:12:00,879 --> 02:12:03,109
+This is the age of breaking rules.
+
+1541
+02:12:03,849 --> 02:12:06,044
+Your wife came out of her confinement,
+
+1542
+02:12:06,151 --> 02:12:08,051
+and now l've invaded
+the privacy of your bedroom.
+
+1543
+02:12:08,153 --> 02:12:10,087
+l hope you'll forgive me.
+
+1544
+02:12:12,557 --> 02:12:16,653
+These are your property,
+which l duly return.
+
+1545
+02:12:17,429 --> 02:12:20,296
+One jewelry box
+and two bags of gold coins.
+
+1546
+02:12:21,300 --> 02:12:22,767
+The jewelry box?
+
+1547
+02:12:23,535 --> 02:12:27,301
+Your devotee didn't take it with him,
+but he brought me the money.
+
+1548
+02:12:30,709 --> 02:12:35,646
+Since you have your valuables, l hope
+you won't mind me keeping the money.
+
+1549
+02:12:35,747 --> 02:12:38,045
+-- Are you leaving?
+-- Yes, Nikhil.
+
+1550
+02:12:39,017 --> 02:12:41,645
+The train to Rangpur leaves in an hour.
+
+1551
+02:12:43,855 --> 02:12:47,154
+Do you hear that?
+The riots have started.
+
+1552
+02:12:47,259 --> 02:12:48,988
+Amulya saw them.
+
+1553
+02:12:49,294 --> 02:12:53,890
+And now l must make
+my proverbial escape.
+
+1554
+02:12:54,199 --> 02:12:55,530
+l must live.
+
+1555
+02:12:56,301 --> 02:12:58,531
+l have a lot of work left to do.
+
+1556
+02:12:58,804 --> 02:13:01,329
+Don't make the same mistake again.
+
+1557
+02:13:01,440 --> 02:13:03,704
+Can't you see the results of your actions?
+
+1558
+02:13:04,676 --> 02:13:06,871
+l follow the <i>Bhagavadgita,</i> Nikhil.
+
+1559
+02:13:07,145 --> 02:13:11,081
+l am concerned only
+with the action, not the result.
+
+1560
+02:13:11,183 --> 02:13:15,483
+And l consider Ravana to be
+the hero of Ramayana, not Rama.
+
+1561
+02:13:15,587 --> 02:13:18,522
+So l can't accept advice
+from the followers of Rama.
+
+1562
+02:13:19,658 --> 02:13:21,558
+The easy road isn't for me, Nikhil.
+
+1563
+02:13:23,228 --> 02:13:24,923
+l'll take my leave.
+
+1564
+02:13:30,302 --> 02:13:32,395
+This will stay with me.
+
+1565
+02:13:37,709 --> 02:13:39,700
+l'm keeping this as a memento.
+
+1566
+02:13:40,712 --> 02:13:43,044
+Who knows if we'll ever meet again?
+
+1567
+02:13:45,817 --> 02:13:47,114
+Good--bye, Nikhil.
+
+1568
+02:13:51,823 --> 02:13:53,381
+Queen bee.
+
+1569
+02:13:59,464 --> 02:14:01,762
+Hail Motherland.
+
+1570
+02:14:37,436 --> 02:14:39,336
+Courage, Bimala.
+
+1571
+02:14:40,839 --> 02:14:44,400
+l must go out to them now.
+-- No! l won't let you!
+
+1572
+02:14:44,509 --> 02:14:45,874
+l must.
+
+1573
+02:14:48,513 --> 02:14:50,276
+Please don't stop me.
+
+1574
+02:14:51,716 --> 02:14:53,274
+My dear.
+
+1575
+02:15:24,616 --> 02:15:27,517
+-- You let him go?
+-- We tried to stop him.
+
+1576
+02:15:27,619 --> 02:15:29,314
+He wouldn't listen to us!
+
+1577
+02:15:30,655 --> 02:15:32,452
+You witch!
+
+1578
+02:15:33,158 --> 02:15:37,094
+You sent him to his death!
+
+1579
+02:15:37,729 --> 02:15:41,961
+Have you no pity
+in your heart of stone?
+
+1580
+02:15:42,305 --> 02:16:42,924
+Watch Online Movies and Series for FREE
+www.osdb.link/lm

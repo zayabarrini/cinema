@@ -927,3 +927,278 @@ Diários de Motocicleta (2004)
 Linha de Passe (2008)
 Na Estrada (On the Road, 2012)
 Dark Water (2005, versão americana)
+
+## Imdb 
+
+Breathless (1960) 
+Contempt (1963) 
+Pierrot le fou (1965) 
+Alphaville (1965) 
+Deux ou trois choses que je ne sais pas d'elle (Short 2022) 
+The Chinese (1967) 
+Weekend (1967) 
+Vivre sa vie (1962) 
+Woman Is the Future of Man (2004) 
+Nobody Knows (2004) 
+Still Walking (2008) 
+Like Father, Like Son (2013) 
+Our Little Sister (2015) 
+The Third Murder (2017) 
+Shoplifters (2018) 
+Broker (2022) 
+The Return (2003) 
+The Banishment (2007) 
+Elena (2011) 
+Leviathan (2014) 
+Loveless (2017) 
+Sputnik (2020) 
+Captain Volkonogov Escaped (2021) 
+Wadjda (2012) 
+Un chien andalou (Short 1929) 
+L'Age d'Or (1930) 
+The Young and the Damned (1950) 
+Viridiana (1961) 
+The Exterminating Angel (1962) 
+Diary of a Chambermaid (1964) 
+Belle de Jour (1967) 
+Tristana (1970) 
+The Discreet Charm of the Bourgeoisie (1972) 
+The Phantom of Liberty (1974) 
+That Obscure Object of Desire (1977) 
+Women on the Verge of a Nervous Breakdown (1988) 
+High Heels (1991) 
+The Flower of My Secret (1995) 
+All About My Mother (1999) 
+Talk to Her (2002) 
+Volver (2006) 
+The Skin I Live In (2011) 
+Pain and Glory (2019) 
+Days of Being Wild (1990) 
+Chungking Express (1994) 
+Ashes of Time (1994) 
+Happy Together (1997) 
+In the Mood for Love (2000) 
+2046 (2004) 
+My Blueberry Nights (2007) 
+The Grandmaster (2013) 
+Psycho (1960) 
+Vertigo (1958) 
+Rear Window (1954) 
+North by Northwest (1959) 
+The Birds (1963) 
+Notorious (1946) 
+Shadow of a Doubt (1943) 
+Strangers on a Train (1951) 
+Rope (1948) 
+Dial M for Murder (1954) 
+Rebecca (1940) 
+Spellbound (1945) 
+Suspicion (1941) 
+La Strada (1954) 
+Nights of Cabiria (1957) 
+La Dolce Vita (1960) 
+8½ (1963) 
+Juliet of the Spirits (1965) 
+Amarcord (1973) 
+Casanova (1976) 
+The Ship Sails On (1983) 
+All About My Mother (1999) 
+Ginger & Fred (1986) 
+Young Törless (1966) 
+The Lost Honor of Katharina Blum (1975) 
+Coup de Grâce (1976) 
+The Tin Drum (1979) 
+A Gathering of Old Men (TV Movie 1987) 
+Voyager (1991) 
+The Ogre (1996) 
+The Legend of Rita (2000) 
+Diplomacy (2014) 
+Smiles of a Summer Night (1955) 
+The Seventh Seal (1957) 
+Wild Strawberries (1957) 
+Through a Glass Darkly (1961) 
+Winter Light (1963) 
+The Silence (1963) 
+Persona (1966) 
+Hour of the Wolf (1968) 
+Shame (1968) 
+Cries & Whispers (1972) 
+Scenes from a Marriage (1974) 
+Autumn Sonata (1978) 
+Fanny and Alexander (1982) 
+Saraband (TV Movie 2003) 
+Joint Security Area (2000) 
+Decision to Leave (2022) 
+The Handmaiden (2016) 
+Stoker (2013) 
+Thirst (2009) 
+Oldboy (2003) 
+Lady Vengeance (2005) 
+Sympathy for Mr. Vengeance (2002) 
+Pather Panchali (1955) 
+The Stranger (1991) 
+The Branches of the Tree (1990) 
+An Enemy of the People (1989) 
+The Home and the World (1984) 
+The Kingdom of Diamonds (1980) 
+The Elephant God (1979) 
+The Middleman (1975) 
+The Golden Fortress (1974) 
+The Adversary (1970) 
+Days and Nights in the Forest (1970) 
+The Adventures of Goopy and Bagha (1969) 
+The Hero (1966) 
+The Lonely Wife (1964) 
+The Big City (1963) 
+The World of Apu (1959) 
+The Unvanquished (1956) 
+Central Station (1998) 
+Foreign Land (1995) 
+Behind the Sun (2001) 
+The Motorcycle Diaries (2004) 
+Linha de Passe (2008) 
+On the Road (2012) 
+Dark Water (2005) 
+A Grande Arte (1991) 
+I'm Still Here (2024) 
+Paris, Je T'aime (2006) 
+To Each His Own Cinema (2007) 
+Beautiful City (2004) 
+A Hero (2021) 
+Everybody Knows (2018) 
+The Salesman (2016) 
+The Past (2013) 
+A Separation (2011) 
+About Elly (2009) 
+Fireworks Wednesday (2006) 
+
+https://www.imdb.com/title/tt0071487/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_El%2520fantasma%2520de%2520la%2520libertad%2520(1974) | The Phantom of Liberty (1974) - IMDb
+https://www.imdb.com/title/tt0075824/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Ese%2520oscuro%2520objeto%2520del%2520deseo%2520(1977)%252 | That Obscure Object of Desire (1977) - IMDb
+https://www.imdb.com/title/tt0095675/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Mujeres%2520al%2520borde%2520de%2520un%2520ataque%2520de%252 | Women on the Verge of a Nervous Breakdown (1988) - IMDb
+https://www.imdb.com/title/tt0103030/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Tacones%2520lejanos%2520(1991) | High Heels (1991) - IMDb
+https://www.imdb.com/title/tt0113083/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520flor%2520de%2520mi%2520secreto%2520(1995) | The Flower of My Secret (1995) - IMDb
+https://www.imdb.com/title/tt0185125/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Todo%2520sobre%2520mi%2520madre%2520(1999) | All About My Mother (1999) - IMDb
+https://www.imdb.com/title/tt0287467/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Hable%2520con%2520ella%2520(2002)%2520 | Talk to Her (2002) - IMDb
+https://www.imdb.com/title/tt0441909/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Volver%2520(2006)%2520 | Volver (2006) - IMDb
+https://www.imdb.com/title/tt1189073/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_La%2520piel%2520que%2520habito%2520(2011)%2520 | The Skin I Live In (2011) - IMDb
+https://www.imdb.com/title/tt8291806/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Dolor%2520y%2520gloria%2520(2019)%2520 | Pain and Glory (2019) - IMDb
+https://www.imdb.com/title/tt0101258/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Days%2520of%2520Being%2520Wild%2520(1990)%2520 | Days of Being Wild (1990) - IMDb
+https://www.imdb.com/title/tt0109424/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Chungking%2520Express%2520(1994) | Chungking Express (1994) - IMDb
+https://www.imdb.com/title/tt0109688/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Ashes%2520of%2520Time%2520(1994) | Ashes of Time (1994) - IMDb
+https://www.imdb.com/title/tt0118845/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Happy%2520Together%2520(1997)%2520 | Happy Together (1997) - IMDb
+https://www.imdb.com/title/tt0118694/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_In%2520the%2520Mood%2520for%2520Love%2520(2000)%2520 | In the Mood for Love (2000) - IMDb
+https://www.imdb.com/title/tt0212712/?ref_=nm_knf_t_2 | 2046 (2004) - IMDb
+https://www.imdb.com/title/tt0765120/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_My%2520Blueberry%2520Nights%2520(2007) | My Blueberry Nights (2007) - IMDb
+https://www.imdb.com/title/tt1462900/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Grandmaster%2520(2013) | The Grandmaster (2013) - IMDb
+https://www.imdb.com/title/tt0054215/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Psycho%2520(1960)%2520 | Psycho (1960) - IMDb
+https://www.imdb.com/title/tt0052357/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Vertigo%2520(1958) | Vertigo (1958) - IMDb
+https://www.imdb.com/title/tt0047396/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Rear%2520Window%2520(1954) | Rear Window (1954) - IMDb
+https://www.imdb.com/title/tt0053125/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_North%2520by%2520Northwest%2520(1959)%2520 | North by Northwest (1959) - IMDb
+https://www.imdb.com/title/tt0056869/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Birds%2520(1963) | The Birds (1963) - IMDb
+https://www.imdb.com/title/tt0038787/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Notorious%2520(1946) | Notorious (1946) - IMDb
+https://www.imdb.com/title/tt0036342/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Shadow%2520of%2520a%2520Doubt%2520(1943) | Shadow of a Doubt (1943) - IMDb
+https://www.imdb.com/title/tt0044079/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Strangers%2520on%2520a%2520Train%2520(1951)%2520 | Strangers on a Train (1951) - IMDb
+https://www.imdb.com/title/tt0040746/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Rope%2520(1948)%2520 | Rope (1948) - IMDb
+https://www.imdb.com/title/tt0046912/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Dial%2520M%2520for%2520Murder%2520(1954) | Dial M for Murder (1954) - IMDb
+https://www.imdb.com/title/tt0032976/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Rebecca%2520(1940) | Rebecca (1940) - IMDb
+https://www.imdb.com/title/tt0038109/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Spellbound%2520(1945)%2520 | Spellbound (1945) - IMDb
+https://www.imdb.com/title/tt0034248/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Suspicion%2520(1941) | Suspicion (1941) - IMDb
+https://www.imdb.com/title/tt0047528/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_La%2520Strada%2520(1954) | La Strada (1954) - IMDb
+https://www.imdb.com/title/tt0050783/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Le%2520notti%2520di%2520Cabiria%2520(1957) | Nights of Cabiria (1957) - IMDb
+https://www.imdb.com/title/tt0053779/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_La%2520dolce%2520vita%2520(1960) | La Dolce Vita (1960) - IMDb
+https://www.imdb.com/title/tt0056801/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_8%25C2%25BD%2520(1963) | 8½ (1963) - IMDb
+https://www.imdb.com/title/tt0059229/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Giulietta%2520degli%2520spiriti%2520(1965) | Juliet of the Spirits (1965) - IMDb
+https://www.imdb.com/title/tt0071129/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Amarcord%2520(1973) | Amarcord (1973) - IMDb
+https://www.imdb.com/title/tt0074291/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Casanova%2520di%2520Fellini%2520(1976) | Casanova (1976) - IMDb
+https://www.imdb.com/title/tt0087188/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_E%2520la%2520nave%2520va%2520(1983) | The Ship Sails On (1983) - IMDb
+https://www.imdb.com/title/tt0185125/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Todo%2520sobre%2520mi%2520madre%2520(1999) | All About My Mother (1999) - IMDb
+https://www.imdb.com/title/tt0091113/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Ginger%2520e%2520Fred%2520(1986) | Ginger & Fred (1986) - IMDb
+https://www.imdb.com/title/tt0060574/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Der%2520junge%2520T%25C3%25B6rless%2520(1966) | Young Törless (1966) - IMDb
+https://www.imdb.com/title/tt0073858/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Die%2520verlorene%2520Ehre%2520der%2520Katharina%2520Blu | The Lost Honor of Katharina Blum (1975) - IMDb
+https://www.imdb.com/title/tt0074515/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Der%2520Fangschu%25C3%259F%2520(1976) | Coup de Grâce (1976) - IMDb
+https://www.imdb.com/title/tt0078875/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Die%2520Blechtrommel%2520(1979) | The Tin Drum (1979) - IMDb
+https://www.imdb.com/title/tt0093076/?ref_=nv_sr_srsg_1_tt_2_nm_0_in_0_q_Ein%2520Aufstand%2520alter%2520M%25C3%25A4nner%2520(1987%252 | A Gathering of Old Men (TV Movie 1987) - IMDb
+https://www.imdb.com/title/tt0102050/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_Homo%2520Faber%2520(1991) | Voyager (1991) - IMDb
+https://www.imdb.com/title/tt0118043/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Der%2520Unhold%2520(1996) | The Ogre (1996) - IMDb
+https://www.imdb.com/title/tt0234805/?ref_=nv_sr_srsg_0_tt_4_nm_0_in_0_q_Die%2520Stille%2520nach%2520dem%2520Schuss%2520(2000) | The Legend of Rita (2000) - IMDb
+https://www.imdb.com/title/tt3129564/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_Diplomatie%2520(2014) | Diplomacy (2014) - IMDb
+https://www.imdb.com/title/tt0048641/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Smiles%2520of%2520a%2520Summer%2520Night%2520(1955) | Smiles of a Summer Night (1955) - IMDb
+https://www.imdb.com/title/tt0050976/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Seventh%2520Seal%2520(1957) | The Seventh Seal (1957) - IMDb
+https://www.imdb.com/title/tt0050986/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Wild%2520Strawberries%2520(1957) | Wild Strawberries (1957) - IMDb
+https://www.imdb.com/title/tt0055499/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Through%2520a%2520Glass%2520Darkly%2520(1961) | Through a Glass Darkly (1961) - IMDb
+https://www.imdb.com/title/tt0057358/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Winter%2520Light%2520(1963) | Winter Light (1963) - IMDb
+https://www.imdb.com/title/tt0057611/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Silence%2520(1963) | The Silence (1963) - IMDb
+https://www.imdb.com/title/tt0060827/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_Persona%2520(1966) | Persona (1966) - IMDb
+https://www.imdb.com/title/tt0063759/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Hour%2520of%2520the%2520Wolf%2520(1968) | Hour of the Wolf (1968) - IMDb
+https://www.imdb.com/title/tt0063611/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Shame%2520(1968) | Shame (1968) - IMDb
+https://www.imdb.com/title/tt0069467/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_Cries%2520and%2520Whispers%2520(1972) | Cries & Whispers (1972) - IMDb
+https://www.imdb.com/title/tt6725014/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Scenes%2520from%2520a%2520Marriage%2520(1974) | Scenes from a Marriage (1974) - IMDb
+https://www.imdb.com/title/tt0077711/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Autumn%2520Sonata%2520(1978) | Autumn Sonata (1978) - IMDb
+https://www.imdb.com/title/tt0083922/?ref_=nv_sr_srsg_0_tt_6_nm_1_in_0_q_Fanny%2520and%2520Alexander%2520(1982) | Fanny and Alexander (1982) - IMDb
+https://www.imdb.com/title/tt0299478/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Saraband%2520(2003) | Saraband (TV Movie 2003) - IMDb
+https://www.imdb.com/title/tt0260991/?ref_=nm_flmg_job_3_type_1_cdt_t_17 | Joint Security Area (2000) - IMDb
+https://www.imdb.com/title/tt12477480/?ref_=nm_flmg_job_3_type_1_cdt_t_1 | Decision to Leave (2022) - IMDb
+https://www.imdb.com/title/tt4016934/?ref_=nm_flmg_job_3_type_1_cdt_t_3 | The Handmaiden (2016) - IMDb
+https://www.imdb.com/title/tt1682180/?ref_=nm_flmg_job_3_type_1_cdt_t_7 | Stoker (2013) - IMDb
+https://www.imdb.com/title/tt0762073/?ref_=nm_flmg_job_3_type_1_cdt_t_11 | Thirst (2009) - IMDb
+https://www.imdb.com/title/tt0364569/?ref_=nm_flmg_job_3_type_1_cdt_t_15 | Oldboy (2003) - IMDb
+https://www.imdb.com/title/tt0451094/?ref_=nm_flmg_job_3_type_1_cdt_t_13 | Lady Vengeance (2005) - IMDb
+https://www.imdb.com/title/tt0310775/?ref_=nm_flmg_job_3_type_1_cdt_t_16 | Sympathy for Mr. Vengeance (2002) - IMDb
+https://www.imdb.com/title/tt0048473/?ref_=nm_flmg_job_1_type_1_cdt_t_29 | Pather Panchali (1955) - IMDb
+https://www.imdb.com/title/tt0101279/?ref_=nm_flmg_job_1_type_1_cdt_t_1 | The Stranger (1991) - IMDb
+https://www.imdb.com/title/tt0100587/?ref_=nm_flmg_job_1_type_1_cdt_t_2 | The Branches of the Tree (1990) - IMDb
+https://www.imdb.com/title/tt0097409/?ref_=nm_flmg_job_1_type_1_cdt_t_3 | An Enemy of the People (1989) - IMDb
+https://www.imdb.com/title/tt0087328/?ref_=nm_flmg_job_1_type_1_cdt_t_4 | The Home and the World (1984) - IMDb
+https://www.imdb.com/title/tt0080856/?ref_=nm_flmg_job_1_type_1_cdt_t_5 | The Kingdom of Diamonds (1980) - IMDb
+https://www.imdb.com/title/tt0077775/?ref_=nm_flmg_job_1_type_1_cdt_t_6 | The Elephant God (1979) - IMDb
+https://www.imdb.com/title/tt0074710/?ref_=nm_flmg_job_1_type_1_cdt_t_8 | The Middleman (1975) - IMDb
+https://www.imdb.com/title/tt0072190/?ref_=nm_flmg_job_1_type_1_cdt_t_9 | The Golden Fortress (1974) - IMDb
+https://www.imdb.com/title/tt0066237/?ref_=nm_flmg_job_1_type_1_cdt_t_12 | The Adversary (1970) - IMDb
+https://www.imdb.com/title/tt0065417/?ref_=nm_flmg_job_1_type_1_cdt_c_13 | Days and Nights in the Forest (1970) - IMDb
+https://www.imdb.com/title/tt0063023/?ref_=nm_flmg_job_1_type_1_cdt_t_14 | The Adventures of Goopy and Bagha (1969) - IMDb
+https://www.imdb.com/title/tt0060742/?ref_=nm_flmg_job_1_type_1_cdt_t_16 | The Hero (1966) - IMDb
+https://www.imdb.com/title/tt0057935/?ref_=nm_flmg_job_1_type_1_cdt_t_19 | The Lonely Wife (1964) - IMDb
+https://www.imdb.com/title/tt0057277/?ref_=nm_flmg_job_1_type_1_cdt_t_20 | The Big City (1963) - IMDb
+https://www.imdb.com/title/tt0052572/?ref_=nm_flmg_job_1_type_1_cdt_t_25 | The World of Apu (1959) - IMDb
+https://www.imdb.com/title/tt0048956/?ref_=nm_flmg_job_1_type_1_cdt_t_28 | The Unvanquished (1956) - IMDb
+https://www.imdb.com/title/tt0140888/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Central%2520do%2520Brasil%2520(1998) | Central Station (1998) - IMDb
+https://www.imdb.com/title/tt0114651/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Terra%2520Estrangeira%2520(1996) | Foreign Land (1995) - IMDb
+https://www.imdb.com/title/tt0291003/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Abril%2520Despeda%25C3%25A7ado%2520(2001) | Behind the Sun (2001) - IMDb
+https://www.imdb.com/title/tt0318462/?ref_=nv_sr_srsg_0_tt_2_nm_0_in_0_q_Di%25C3%25A1rios%2520de%2520Motocicleta%2520(2004) | The Motorcycle Diaries (2004) - IMDb
+https://www.imdb.com/title/tt0803029/?ref_=nv_sr_srsg_0_tt_3_nm_1_in_0_q_Linha%2520de%2520Passe%2520(2008) | Linha de Passe (2008) - IMDb
+https://www.imdb.com/title/tt0337692/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Na%2520Estrada%2520(On%2520the%2520Road%252C%25202012) | On the Road (2012) - IMDb
+https://www.imdb.com/title/tt0382628/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Dark%2520Water%2520(2005 | Dark Water (2005) - IMDb
+https://www.imdb.com/title/tt0101834/?ref_=nm_flmg_job_1_type_1_cdt_c_14 | A Grande Arte (1991) - IMDb
+https://www.imdb.com/title/tt14961016/?ref_=nm_knf_t_2 | I'm Still Here (2024) - IMDb
+https://www.imdb.com/title/tt0401711/?ref_=nm_flmg_job_1_type_1_cdt_t_7 | Paris, Je T'aime (2006) - IMDb
+https://www.imdb.com/title/tt0973844/?ref_=nm_flmg_job_1_type_1_cdt_c_6 | To Each His Own Cinema (2007) - IMDb
+https://www.imdb.com/title/tt0424434/?ref_=nm_flmg_job_1_type_1_cdt_t_8 | Beautiful City (2004) - IMDb
+https://www.imdb.com/title/tt11777738/?ref_=nm_flmg_job_1_type_1_cdt_t_1 | A Hero (2021) - IMDb
+https://www.imdb.com/title/tt4964788/?ref_=nm_flmg_job_1_type_1_cdt_t_2 | Everybody Knows (2018) - IMDb
+https://www.imdb.com/title/tt5186714/?ref_=nm_flmg_job_1_type_1_cdt_t_3 | The Salesman (2016) - IMDb
+https://www.imdb.com/title/tt2404461/?ref_=nm_flmg_job_1_type_1_cdt_t_4 | The Past (2013) - IMDb
+https://www.imdb.com/title/tt1832382/?ref_=nm_flmg_job_1_type_1_cdt_t_5 | A Separation (2011) - IMDb
+https://www.imdb.com/title/tt1360860/?ref_=nm_flmg_job_1_type_1_cdt_t_6 | About Elly (2009) - IMDb
+https://www.imdb.com/title/tt0845439/?ref_=nm_flmg_job_1_type_1_cdt_t_7 | Fireworks Wednesday (2006) - IMDb
+
+
+### Missing
+Deux ou trois choses que je ne sais pas d'elle 
+The Chinese 
+Weekend 
+L'Age d'Or 
+Ginger & Fred 
+A Gathering of Old Men 
+The Ogre (1996) 
+The Kingdom of Diamonds (1980) 
+The Middleman (1975) 
+The Golden Fortress (1974) 
+Days and Nights in the Forest (1970) 
+The Adventures of Goopy and Bagha (1969) 
+The Hero (1966) 
+The Lonely Wife (1964) 
+The Big City (1963) 
+The Unvanquished (1956) 
+Foreign Land (1995) 
+A Grande Arte (1991) 
+To Each His Own Cinema (2007) 

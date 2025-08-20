@@ -1,0 +1,3175 @@
+﻿1
+00:00:06,050 --> 00:00:11,050
+
+
+2
+00:00:14,050 --> 00:00:19,050
+
+
+3
+00:00:39,206 --> 00:00:40,832
+I’ll be going, sir.
+
+4
+00:00:42,876 --> 00:00:46,838
+I wish you’d stayed to complete your degree.
+
+5
+00:00:46,964 --> 00:00:49,716
+I know, but I don’t have the money.
+
+6
+00:00:49,841 --> 00:00:52,719
+Just don’t give up your writing.
+
+7
+00:00:52,844 --> 00:00:55,097
+Your stories for the college magazine
+
+8
+00:00:55,222 --> 00:00:57,391
+about village life were very -
+
+9
+00:00:58,642 --> 00:01:00,269
+Don’t laugh!
+
+10
+00:01:00,394 --> 00:01:02,563
+It can become a vocation.
+
+11
+00:01:02,729 --> 00:01:05,899
+Of course, not everybody becomes a Sarat Chandra.
+
+12
+00:01:06,233 --> 00:01:09,569
+- Our demands –
+- Must be met!
+
+13
+00:01:11,989 --> 00:01:13,865
+Good-bye, sir.
+
+14
+00:01:13,991 --> 00:01:17,744
+Long live the revolution!
+
+15
+00:01:23,250 --> 00:01:29,840
+SATYAJIT RAY PRODUCTIONS
+Presents
+
+16
+00:01:30,757 --> 00:01:36,930
+APUR SANSAR (THE WORLD OF APU)
+
+17
+00:01:38,307 --> 00:01:43,186
+Original Story by BIBHUTIBHUSAN BANERJEE
+
+18
+00:01:44,521 --> 00:01:46,356
+Starring
+
+19
+00:01:46,481 --> 00:01:49,735
+SOUMITRA CHATTERJEE SHARMILA TAGORE
+
+20
+00:01:49,860 --> 00:01:52,446
+ALOK CHAKRAVARTI SWAPAN MUKHERJEE
+
+21
+00:01:53,447 --> 00:01:56,366
+DHIRESH MAJUMDAR
+
+22
+00:01:56,491 --> 00:01:59,161
+SEFALIKA DEVI
+
+23
+00:01:59,286 --> 00:02:01,705
+DHIREN GHOSH
+
+24
+00:02:02,789 --> 00:02:07,294
+Cinematography by SUBRATA MITRA
+
+25
+00:02:08,170 --> 00:02:12,341
+Art Direction by BANSI CHANDRAGUPTA
+
+26
+00:02:13,633 --> 00:02:18,013
+Sound by DURGADAS MITRA
+
+27
+00:02:18,722 --> 00:02:23,393
+Edited by DULAL DUTTA
+
+28
+00:02:24,227 --> 00:02:28,648
+Production Manager ANIL CHOUDHURY
+
+29
+00:02:56,051 --> 00:02:59,513
+Processing by INDIA FILM LABORATORIES
+
+30
+00:02:59,763 --> 00:03:02,849
+Sound Recorded on RCA and STANCIL-HOFFMAN Systems
+
+31
+00:03:12,234 --> 00:03:16,488
+Coproduced by AMIYANATH MUKHERJEE
+
+32
+00:03:17,239 --> 00:03:21,868
+Distributed by CHHAYABANI PRIVATE LTD.
+
+33
+00:03:22,828 --> 00:03:30,085
+Music by RAVI SHANKAR
+
+34
+00:03:30,919 --> 00:03:35,382
+Produced, Written, and Directed by
+SATYAJIT RAY
+
+35
+00:05:58,275 --> 00:05:59,818
+Who’s there?
+
+36
+00:06:02,863 --> 00:06:04,531
+Good morning.
+
+37
+00:06:05,448 --> 00:06:08,118
+Good morning. Sit down.
+
+38
+00:06:10,495 --> 00:06:13,498
+Is there any point in sitting down?
+
+39
+00:06:13,707 --> 00:06:15,709
+At least it will rest your legs
+
+40
+00:06:15,875 --> 00:06:18,211
+after all those stairs.
+
+41
+00:06:19,379 --> 00:06:23,466
+I didn’t climb the stairs so I could rest my legs.
+
+42
+00:06:23,800 --> 00:06:27,262
+We both know very well
+
+43
+00:06:27,554 --> 00:06:29,306
+why I’m here.
+
+44
+00:06:29,723 --> 00:06:32,934
+I’m going to ask you a simple and direct question,
+
+45
+00:06:33,059 --> 00:06:36,855
+and I’d like a simple and direct answer.
+
+46
+00:06:36,980 --> 00:06:38,690
+Go ahead.
+
+47
+00:06:38,815 --> 00:06:41,067
+You know today’s date?
+
+48
+00:06:41,234 --> 00:06:42,903
+The tenth.
+
+49
+00:06:43,069 --> 00:06:45,488
+How many months’ rent do you owe?
+
+50
+00:06:45,614 --> 00:06:47,449
+Three.
+
+51
+00:06:47,616 --> 00:06:49,743
+So 21 rupees.
+
+52
+00:06:49,909 --> 00:06:54,039
+Will you pay now while I rest my legs, or must I return later?
+
+53
+00:06:54,414 --> 00:06:58,168
+That’s three questions, not one.
+
+54
+00:06:58,585 --> 00:07:00,503
+That’s not fair.
+
+55
+00:07:02,589 --> 00:07:05,634
+A lot of things aren’t fair, young man.
+
+56
+00:07:05,884 --> 00:07:09,888
+You seem to think I should house you for nothing.
+
+57
+00:07:10,013 --> 00:07:12,182
+Is that fair?
+
+58
+00:07:13,099 --> 00:07:17,854
+Is it fair to use up my electricity in the daytime?
+
+59
+00:07:18,229 --> 00:07:21,274
+You’re an educated man.
+
+60
+00:07:21,650 --> 00:07:25,278
+You have pictures of great men on the wall.
+
+61
+00:07:25,528 --> 00:07:29,115
+But when it comes to the rent, you hem and haw?
+
+62
+00:07:29,449 --> 00:07:32,786
+That’s a sign of greatness too,
+you know.
+
+63
+00:07:34,871 --> 00:07:39,626
+I can’t win a battle of words with you, Apu-babu.
+
+64
+00:07:40,043 --> 00:07:44,506
+I could string together a few choice words too,
+
+65
+00:07:44,756 --> 00:07:48,551
+but they wouldn’t be fit for your young ears.
+
+66
+00:07:48,843 --> 00:07:53,139
+In any case,
+I’ll be back this evening.
+
+67
+00:07:53,264 --> 00:07:55,767
+Have the money ready
+
+68
+00:07:56,142 --> 00:07:58,812
+or I look for a new lodger.
+
+69
+00:07:58,978 --> 00:08:01,272
+- Simple and direct.
+- Simple and direct.
+
+70
+00:09:29,068 --> 00:09:30,653
+Excuse me.
+
+71
+00:09:31,070 --> 00:09:32,405
+Step inside.
+
+72
+00:09:34,908 --> 00:09:37,035
+We’re both “Mr. Ray.”
+
+73
+00:09:37,160 --> 00:09:39,412
+Hence the confusion.
+
+74
+00:09:44,918 --> 00:09:47,796
+“We are pleased to accept
+
+75
+00:09:47,921 --> 00:09:51,007
+your short story ‘A Man of the Soil’
+
+76
+00:09:51,132 --> 00:09:54,677
+for publication in the next issue of Sahityik. ”
+
+77
+00:09:59,057 --> 00:10:01,476
+Not bad news, I hope.
+
+78
+00:10:02,227 --> 00:10:03,770
+Well, good-bye.
+
+79
+00:10:03,895 --> 00:10:07,524
+Tell me, why don’t you ever get mail?
+
+80
+00:10:07,982 --> 00:10:11,110
+Does no one write to you? Not even a girlfriend?
+
+81
+00:10:11,277 --> 00:10:14,322
+It would be nice to open a love letter by mistake.
+
+82
+00:10:14,781 --> 00:10:17,283
+Really? Just as well.
+
+83
+00:10:17,450 --> 00:10:20,120
+Put it off as long as you can.
+
+84
+00:10:20,286 --> 00:10:23,706
+Don’t get embroiled in “matrimonetary” complications.
+
+85
+00:10:23,915 --> 00:10:26,626
+I speak from experience.
+- Good-bye.
+
+86
+00:10:43,518 --> 00:10:46,312
+HARIMATI ELEMENTARY SCHOOL
+
+87
+00:11:10,420 --> 00:11:13,631
+- One, two, three.
+- What do you want?
+
+88
+00:11:13,840 --> 00:11:17,427
+You advertised in the paper for a teacher.
+
+89
+00:11:18,511 --> 00:11:19,846
+Qualifications?
+
+90
+00:11:20,889 --> 00:11:25,101
+- Intermediate degree.
+- We want a matriculation degree.
+
+91
+00:11:26,769 --> 00:11:29,314
+But that comes before intermediate!
+
+92
+00:11:29,439 --> 00:11:31,024
+What did the ad say?
+
+93
+00:11:31,566 --> 00:11:34,110
+Well, it did specify matriculation.
+
+94
+00:11:34,527 --> 00:11:37,197
+Then why harp
+on intermediate?
+
+95
+00:11:37,405 --> 00:11:39,407
+What’s the point?
+
+96
+00:11:39,532 --> 00:11:43,494
+Would you work for ten rupees a month? Interm-idiot!
+
+97
+00:11:46,789 --> 00:11:49,083
+Twelve. Your turn.
+
+98
+00:11:49,500 --> 00:11:54,214
+Four, six, eight, ten, twelve.
+
+99
+00:12:02,555 --> 00:12:04,265
+What do you want?
+
+100
+00:12:05,058 --> 00:12:09,062
+I understand you’re hiring for your pharmaceutical plant.
+
+101
+00:12:09,187 --> 00:12:11,856
+I have a... matriculation degree.
+
+102
+00:12:11,981 --> 00:12:13,566
+Have a seat.
+
+103
+00:12:21,324 --> 00:12:23,451
+Any experience in labeling?
+
+104
+00:12:26,704 --> 00:12:28,247
+I can learn.
+
+105
+00:12:42,095 --> 00:12:43,763
+Can’t I?
+
+106
+00:12:43,888 --> 00:12:46,975
+All right.
+Go through that door
+
+107
+00:12:47,100 --> 00:12:48,935
+and head straight back.
+
+108
+00:12:49,102 --> 00:12:52,855
+Labeling is on the right. Go have a look first.
+
+109
+00:12:53,106 --> 00:12:55,608
+- Go have a look?
+- Go on.
+
+110
+00:17:30,049 --> 00:17:31,467
+What’s this?
+
+111
+00:17:31,592 --> 00:17:33,094
+Pulu?
+
+112
+00:17:35,888 --> 00:17:37,890
+- You’re a fine friend.
+- Why?
+
+113
+00:17:38,057 --> 00:17:40,142
+Left student housing without a word!
+
+114
+00:17:40,268 --> 00:17:42,895
+I’ve been looking for you since 4:00.
+
+115
+00:17:43,062 --> 00:17:45,273
+- How was I to know you’d -
+- Quiet!
+
+116
+00:17:45,398 --> 00:17:47,942
+No one knew where you’d gone.
+
+117
+00:17:48,109 --> 00:17:50,861
+I went to Anil’s. He’d gone to a game.
+
+118
+00:17:50,987 --> 00:17:53,990
+I finally got your address from your private students.
+
+119
+00:17:54,115 --> 00:17:56,826
+Took another half hour to find this place!
+
+120
+00:17:56,993 --> 00:17:59,412
+You laugh?
+You should be ashamed!
+
+121
+00:17:59,537 --> 00:18:03,416
+- You’ve gotten fat.
+- I was fat three hours ago.
+
+122
+00:18:03,582 --> 00:18:06,043
+- How about some tea?
+- Where?
+
+123
+00:18:06,168 --> 00:18:07,920
+- A restaurant.
+- Is it far?
+
+124
+00:18:08,087 --> 00:18:09,922
+Around the corner.
+
+125
+00:18:10,047 --> 00:18:11,340
+All right.
+
+126
+00:18:12,049 --> 00:18:15,386
+But we have tickets to see A Widow’s Fast.
+
+127
+00:18:15,511 --> 00:18:17,263
+Give me a minute.
+
+128
+00:18:19,599 --> 00:18:23,519
+Why have you been hiding out up here?
+
+129
+00:18:23,769 --> 00:18:26,981
+You making counterfeit money? -1 wish I could.
+
+130
+00:18:27,440 --> 00:18:30,610
+An oil cooker!
+Doing your own cooking?
+
+131
+00:18:30,776 --> 00:18:33,112
+Yeah.
+I’ll cook for you sometime.
+
+132
+00:18:33,237 --> 00:18:35,239
+Rice and boiled potatoes.
+
+133
+00:18:49,211 --> 00:18:51,589
+What about that railway job?1
+
+134
+00:18:52,381 --> 00:18:54,967
+I was sure you’d gotten it.
+
+135
+00:18:57,636 --> 00:19:01,807
+There was a strike on.
+They were hiring strike-breakers.
+
+136
+00:19:03,893 --> 00:19:05,770
+I didn’t know.
+
+137
+00:19:06,395 --> 00:19:09,482
+- So you’ve been unemployed?
+- I do some tutoring.
+
+138
+00:19:09,982 --> 00:19:13,277
+Turning dullards into prodigies.
+- What’s it pay?
+
+139
+00:19:13,527 --> 00:19:15,363
+Fifteen rupees a month.
+
+140
+00:19:21,535 --> 00:19:25,456
+- Didn’t you learn to type?
+- Yeah, in case of emergency.
+
+141
+00:19:25,581 --> 00:19:28,668
+Good. I’ll get you a job when we get back.
+
+142
+00:19:28,834 --> 00:19:31,962
+I know of a firm.
+- Get back? From where?
+
+143
+00:19:33,506 --> 00:19:37,468
+My cousin’s getting married on Monday.
+
+144
+00:19:38,010 --> 00:19:39,679
+You have to come.
+
+145
+00:19:39,804 --> 00:19:41,639
+- Where?
+- Just for a few days.
+
+146
+00:19:42,056 --> 00:19:44,475
+- But where?
+- Khulna.
+
+147
+00:19:44,642 --> 00:19:47,144
+Khulna? Are you crazy?
+
+148
+00:19:48,020 --> 00:19:50,523
+You’ll love it there.
+
+149
+00:19:50,689 --> 00:19:52,400
+A rustic village.
+
+150
+00:19:52,525 --> 00:19:55,194
+Boats floating down the river.
+
+151
+00:19:55,361 --> 00:19:58,531
+Endless fields of grass and rice.
+
+152
+00:19:58,823 --> 00:20:01,826
+Paths winding through bamboo groves
+
+153
+00:20:01,951 --> 00:20:05,246
+and mango orchards. What do you say?
+
+154
+00:20:05,996 --> 00:20:08,916
+And trees full of birds:
+
+155
+00:20:09,041 --> 00:20:12,128
+magpies, bulbuls, nightingales.
+
+156
+00:20:12,253 --> 00:20:15,214
+And at nightfall, crickets and fireflies,
+
+157
+00:20:15,381 --> 00:20:17,508
+jackals, and kerosene lamps.
+
+158
+00:20:17,633 --> 00:20:19,135
+No electricity!
+
+159
+00:20:19,260 --> 00:20:22,179
+Tempting?
+Have I hit a weak spot?
+
+160
+00:20:24,140 --> 00:20:27,351
+So you’ll come, right?
+
+161
+00:20:29,228 --> 00:20:32,440
+“Take me back into thy lap, O Mother Earth.
+
+162
+00:20:32,982 --> 00:20:37,737
+Take back thy child and swathe him in thine ample sari.
+
+163
+00:20:38,487 --> 00:20:43,826
+Let me be one with thy soil and spread myself
+
+164
+00:20:44,243 --> 00:20:49,415
+far and wide, like the joys of spring.
+
+165
+00:20:50,249 --> 00:20:52,668
+Let me burst open the heart’s narrow cage,
+
+166
+00:20:52,793 --> 00:20:55,713
+break down the stone walls of self
+
+167
+00:20:55,921 --> 00:20:59,133
+and the dark and cheerless prison of the mind,
+
+168
+00:20:59,300 --> 00:21:02,261
+surging, billowing, trembling,
+
+169
+00:21:02,428 --> 00:21:06,098
+rushing forth, radiating, shivering
+
+170
+00:21:06,682 --> 00:21:08,350
+Police!
+
+171
+00:21:08,476 --> 00:21:10,102
+Who’s there?
+
+172
+00:21:10,227 --> 00:21:13,481
+It is I, Mainak, son of the Himalayas,
+
+173
+00:21:13,606 --> 00:21:17,902
+hiding my wings in the sea.
+
+174
+00:21:18,235 --> 00:21:20,154
+What’s come over you?
+
+175
+00:21:20,279 --> 00:21:24,408
+You sound like Nimchand in the play we saw - only sober!
+
+176
+00:21:24,784 --> 00:21:26,785
+- Know what?
+- What?
+
+177
+00:21:27,661 --> 00:21:30,122
+- I’m not taking that job.
+- What job?
+
+178
+00:21:30,247 --> 00:21:32,958
+- The one you mentioned.
+- You taking to the stage?
+
+179
+00:21:33,125 --> 00:21:35,169
+- Don’t be silly.
+- Then why?
+
+180
+00:21:35,294 --> 00:21:38,047
+Why should I be a clerk?
+
+181
+00:21:38,172 --> 00:21:40,007
+There’s no reason.
+
+182
+00:21:40,132 --> 00:21:45,054
+I’m a free man -no ties, no responsibilities,
+
+183
+00:21:45,179 --> 00:21:48,265
+no one to worry about. Why be a clerk?
+
+184
+00:21:48,390 --> 00:21:51,268
+You can’t keep pawning books to pay the rent!
+
+185
+00:21:51,393 --> 00:21:54,271
+- Things will improve.
+- With no income?
+
+186
+00:21:54,688 --> 00:21:57,691
+Those with genuine talent -
+
+187
+00:21:57,817 --> 00:22:00,653
+Don’t need to earn a living?
+
+188
+00:22:09,161 --> 00:22:11,163
+Apurba Kumar Ray.
+
+189
+00:22:11,288 --> 00:22:14,291
+Laugh if you like. Just wait and see.
+
+190
+00:22:14,625 --> 00:22:18,087
+Are you writing anything? Any new poems?
+
+191
+00:22:18,212 --> 00:22:20,214
+You’re such a philistine.
+
+192
+00:22:20,339 --> 00:22:21,715
+A philistine?
+
+193
+00:22:21,841 --> 00:22:24,176
+Engineering is all you know.
+
+194
+00:22:24,301 --> 00:22:26,887
+You’ll go abroad and get your degree,
+
+195
+00:22:27,054 --> 00:22:31,308
+then settle down here with a nice fat salary. Bah!
+
+196
+00:22:31,517 --> 00:22:33,894
+- So I’m a philistine?
+- That’s right.
+
+197
+00:22:34,103 --> 00:22:36,939
+Who made you read A Widow’s Fast?
+
+198
+00:22:38,524 --> 00:22:41,360
+You were a country bumpkin...
+- Was it you?
+
+199
+00:22:41,527 --> 00:22:45,656
+who’d break out in a sweat crossing the street in the big city!
+
+200
+00:22:45,864 --> 00:22:49,869
+You remember who read your first short story
+
+201
+00:22:50,035 --> 00:22:52,371
+and what he said about it?
+
+202
+00:22:54,331 --> 00:22:57,626
+Sorry’s too easy!
+- Don’t get so worked up.
+
+203
+00:22:57,835 --> 00:23:02,298
+I’m just excited tonight, that’s all.
+
+204
+00:23:03,173 --> 00:23:06,927
+I’ve had my first good meal in months, thanks to you.
+
+205
+00:23:08,429 --> 00:23:11,473
+So are you writing anything?
+
+206
+00:23:12,182 --> 00:23:13,893
+What are you writing?
+
+207
+00:23:14,059 --> 00:23:17,855
+A wonderful novel.
+
+208
+00:23:18,105 --> 00:23:21,025
+And you’ve kept it mum all this time?
+
+209
+00:23:22,026 --> 00:23:25,404
+- You know a good publisher?
+- All in good time.
+
+210
+00:23:25,613 --> 00:23:27,197
+Listen to this:
+
+211
+00:23:27,698 --> 00:23:29,533
+a young boy.
+
+212
+00:23:30,117 --> 00:23:31,744
+A young boy.
+
+213
+00:23:31,911 --> 00:23:33,412
+All right.
+
+214
+00:23:33,537 --> 00:23:35,706
+A village boy.
+
+215
+00:23:35,831 --> 00:23:37,333
+Poor...
+
+216
+00:23:37,917 --> 00:23:40,169
+but sensitive.
+
+217
+00:23:41,503 --> 00:23:43,714
+His father’s a priest.
+
+218
+00:23:43,839 --> 00:23:45,758
+The father dies.
+
+219
+00:23:45,925 --> 00:23:47,927
+The boy comes to the city.
+
+220
+00:23:48,093 --> 00:23:52,139
+He doesn’t want to be a priest. He’ll study. He’s ambitious.
+
+221
+00:23:54,058 --> 00:23:55,809
+He studies.
+
+222
+00:23:56,935 --> 00:24:00,940
+Through his education and struggles,
+
+223
+00:24:01,315 --> 00:24:03,442
+we watch as he sheds
+
+224
+00:24:03,609 --> 00:24:06,236
+his old superstitions and fixed views.
+
+225
+00:24:06,362 --> 00:24:09,448
+He questions everything and takes nothing on trust.
+
+226
+00:24:09,573 --> 00:24:13,327
+Yet he has imagination and sensitivity.
+
+227
+00:24:13,911 --> 00:24:18,248
+Little things move him and bring him joy.
+
+228
+00:24:18,457 --> 00:24:22,044
+Perhaps he has greatness in him,
+
+229
+00:24:22,169 --> 00:24:24,296
+the ability to create, but -
+
+230
+00:24:24,463 --> 00:24:26,548
+- He doesn’t make it.
+- That’s right.
+
+231
+00:24:26,674 --> 00:24:29,551
+But it doesn’t end there. It’s not a tragedy.
+
+232
+00:24:29,677 --> 00:24:33,722
+He does nothing great. He remains poor, in want.
+
+233
+00:24:33,889 --> 00:24:37,810
+But he never turns away from life.
+
+234
+00:24:37,935 --> 00:24:40,729
+He doesn’t run away. He wants to live.
+
+235
+00:24:40,854 --> 00:24:44,858
+He says living itself brings fulfillment and joy.
+
+236
+00:24:45,567 --> 00:24:48,612
+- What’s that mean?
+- This is autobiography.
+
+237
+00:24:48,737 --> 00:24:50,864
+Partly, but a lot is fiction.
+
+238
+00:24:50,990 --> 00:24:53,075
+There are fictional characters,
+
+239
+00:24:53,200 --> 00:24:55,994
+a plot, a love interest -
+
+240
+00:24:56,370 --> 00:24:58,497
+Love?
+
+241
+00:24:59,206 --> 00:25:01,250
+What do you know about love?
+
+242
+00:25:01,375 --> 00:25:05,337
+You’ve never been within ten yards of a girl!
+
+243
+00:25:05,838 --> 00:25:08,507
+You have any experience of love?
+- What if I don’t?
+
+244
+00:25:08,632 --> 00:25:11,427
+Oh, great!
+You’ll just make it up?
+
+245
+00:25:11,552 --> 00:25:13,971
+- You have to experience everything?
+- Absolutely!
+
+246
+00:25:14,096 --> 00:25:16,348
+Is imagination worth nothing?.
+
+247
+00:25:16,515 --> 00:25:18,559
+Not with love!
+
+248
+00:25:18,684 --> 00:25:20,436
+- Who says so?
+- I do!
+
+249
+00:25:20,561 --> 00:25:23,564
+Rubbish!
+If a man has talent...
+
+250
+00:26:23,373 --> 00:26:26,752
+“How much further wilt thou lead me, O fair one?
+
+251
+00:26:26,877 --> 00:26:30,589
+Tell me which shore thy golden boat will touch.
+
+252
+00:26:30,881 --> 00:26:33,675
+Whatever I ask thee,
+O thou from distant lands,
+
+253
+00:26:34,009 --> 00:26:37,471
+thou only smilest in thine own sweet way,
+
+254
+00:26:37,596 --> 00:26:40,766
+and I can never know what is in thy mind.
+
+255
+00:26:41,391 --> 00:26:44,061
+Silently thou liftest a finger
+
+256
+00:26:44,186 --> 00:26:46,855
+and pointest to the wild, trackless sea
+
+257
+00:26:46,980 --> 00:26:50,901
+as, far to the west, the sun sinks in the sky.
+
+258
+00:26:51,276 --> 00:26:55,739
+What lies there? What do we go to seek?
+
+259
+00:26:55,948 --> 00:26:59,451
+Tell me, I pray thee,
+O stranger fair,
+
+260
+00:26:59,743 --> 00:27:03,372
+where, at the edge of evening, glows the day
+
+261
+00:27:08,544 --> 00:27:10,045
+What?
+
+262
+00:27:10,170 --> 00:27:13,048
+- Give me your hand.
+- You finished?
+
+263
+00:27:13,173 --> 00:27:15,384
+Well?
+- Your hand, idiot!
+
+264
+00:27:18,137 --> 00:27:21,098
+Wonderful! Really wonderful!
+
+265
+00:27:36,363 --> 00:27:38,448
+Look who’s here!
+
+266
+00:27:38,574 --> 00:27:42,244
+It’s Pulu - with company!
+
+267
+00:27:42,369 --> 00:27:45,289
+I hope your journey wasn’t too unpleasant.
+
+268
+00:27:45,414 --> 00:27:48,834
+After all, you’re city people. We’re just country folk.
+
+269
+00:27:49,126 --> 00:27:52,254
+My youngest son, Murari.
+
+270
+00:27:52,462 --> 00:27:55,632
+He’s in the intermediate class at Daulatpur College.
+
+271
+00:27:55,966 --> 00:27:58,844
+Take his luggage.
+
+272
+00:27:59,011 --> 00:28:01,638
+Harey, come here!
+
+273
+00:28:08,187 --> 00:28:09,980
+How are you, my child?
+
+274
+00:28:10,188 --> 00:28:12,482
+My aunt.
+
+275
+00:28:15,652 --> 00:28:18,363
+Here I had a fine match for your daughter,
+
+276
+00:28:18,488 --> 00:28:20,407
+but you looked elsewhere.
+
+277
+00:28:20,532 --> 00:28:23,035
+Where have I seen that face before?
+
+278
+00:28:23,160 --> 00:28:25,746
+Impossible.
+He’s never been here before.
+
+279
+00:28:25,871 --> 00:28:29,291
+No, I know that face very well.
+
+280
+00:28:30,042 --> 00:28:31,543
+Oh, I know!
+
+281
+00:28:31,668 --> 00:28:35,213
+I’ve seen it many times in a painting of the gods!
+
+282
+00:28:35,380 --> 00:28:37,341
+Lord Krishna incarnate,
+
+283
+00:28:37,466 --> 00:28:39,635
+complete with flute.
+
+284
+00:28:43,096 --> 00:28:44,848
+Bless you, my son.
+
+285
+00:28:44,973 --> 00:28:47,517
+A long life to you.
+
+286
+00:30:42,049 --> 00:30:43,800
+The groom!
+
+287
+00:31:12,621 --> 00:31:15,874
+Binu, my son, come out now.
+
+288
+00:31:28,220 --> 00:31:31,056
+What’s wrong? Isn’t he well?
+
+289
+00:31:31,723 --> 00:31:34,226
+He’s been under the hot sun all afternoon.
+
+290
+00:31:34,392 --> 00:31:37,229
+- I’ll get some water.
+- Please do.
+
+291
+00:31:37,396 --> 00:31:39,856
+What’s going on?
+
+292
+00:31:39,981 --> 00:31:42,567
+I think he’s probably ill
+
+293
+00:31:42,692 --> 00:31:45,112
+from the long journey
+
+294
+00:31:45,237 --> 00:31:47,405
+and fasting all day.
+
+295
+00:31:47,531 --> 00:31:49,533
+Some water and a fan -
+
+296
+00:31:49,658 --> 00:31:52,786
+Bring water and a fan!
+
+297
+00:32:02,295 --> 00:32:04,464
+Stop crowding him!
+
+298
+00:32:20,105 --> 00:32:22,107
+Who are you giving her away to?
+
+299
+00:32:22,774 --> 00:32:24,317
+What do you mean?
+
+300
+00:32:24,818 --> 00:32:27,654
+The groom is mad!
+
+301
+00:32:27,946 --> 00:32:29,531
+Who told you that?
+
+302
+00:32:29,656 --> 00:32:33,702
+He’s perfectly sane.
+It’s just the journey in this heat -
+
+303
+00:32:33,827 --> 00:32:37,622
+I won’t allow this wedding to take place!
+
+304
+00:32:37,747 --> 00:32:40,792
+Are you mad?
+The auspicious hour is passing.
+
+305
+00:32:40,959 --> 00:32:43,253
+Leave this room or I’ll kill myself!
+
+306
+00:32:43,378 --> 00:32:45,630
+You’ve lost your senses!
+
+307
+00:32:45,755 --> 00:32:48,633
+I said leave!
+
+308
+00:32:51,136 --> 00:32:53,430
+Wife...
+
+309
+00:32:53,847 --> 00:32:58,018
+if the auspicious hour passes, my daughter will never marry.
+
+310
+00:33:01,188 --> 00:33:03,356
+She won’t open.
+
+311
+00:33:03,481 --> 00:33:06,693
+What a calamity!
+
+312
+00:33:06,818 --> 00:33:10,572
+Isn’t there another auspicious hour at 10:00 p.m.?
+
+313
+00:33:10,697 --> 00:33:12,532
+I don’t know.
+
+314
+00:33:12,657 --> 00:33:14,826
+I can’t think clearly.
+
+315
+00:33:14,993 --> 00:33:16,870
+I’m ruined!
+
+316
+00:33:16,995 --> 00:33:18,830
+What a calamity!
+
+317
+00:33:33,553 --> 00:33:35,055
+What?
+
+318
+00:33:37,182 --> 00:33:39,851
+- Did I miss it?
+- It’s not happening.
+
+319
+00:33:39,976 --> 00:33:42,812
+- What?
+- There’ll be no wedding.
+
+320
+00:33:42,938 --> 00:33:45,315
+What happened?;
+
+321
+00:33:45,857 --> 00:33:47,817
+The groom is mad.
+
+322
+00:33:48,902 --> 00:33:50,487
+Listen to me.
+
+323
+00:33:54,032 --> 00:33:57,369
+Apu, everything depends on you now.
+
+324
+00:33:58,745 --> 00:34:00,455
+On me?
+
+325
+00:34:01,039 --> 00:34:03,583
+Are you joking?
+
+326
+00:34:07,295 --> 00:34:09,130
+What is all this?
+
+327
+00:34:11,299 --> 00:34:15,220
+Only you can save us. You know the custom here.
+
+328
+00:34:15,345 --> 00:34:18,098
+In the morning the girl will be unfit for marriage.
+
+329
+00:34:18,223 --> 00:34:19,766
+What can I do?
+
+330
+00:34:20,016 --> 00:34:24,562
+Where could we find a more suitable choice tonight?
+
+331
+00:34:24,771 --> 00:34:26,565
+So if you’d -
+
+332
+00:34:34,072 --> 00:34:37,284
+This is what you came to tell me?
+
+333
+00:34:37,784 --> 00:34:39,369
+Listen.
+
+334
+00:34:40,245 --> 00:34:44,165
+What is this?
+Some kind of play or novel?
+
+335
+00:34:44,708 --> 00:34:48,420
+You’d stick me in the groom’s seat just like that?
+
+336
+00:34:48,628 --> 00:34:50,630
+Are you still in the Dark Ages?
+
+337
+00:34:54,342 --> 00:34:57,178
+- Will you calm down and listen?
+- No.
+
+338
+00:34:57,304 --> 00:35:00,390
+I won’t listen to this lunacy. It’s a waste of time.
+
+339
+00:35:00,515 --> 00:35:02,684
+Everything depends on you.
+
+340
+00:35:02,851 --> 00:35:05,603
+Let’s go, Majumdar-babu.
+
+341
+00:35:51,524 --> 00:35:55,987
+If I’d known this would happen, I’d never have come.
+
+342
+00:35:56,237 --> 00:35:58,573
+Am I not getting married?
+
+343
+00:36:38,488 --> 00:36:41,199
+- What?
+- I need to talk to you.
+
+344
+00:36:51,876 --> 00:36:53,378
+What?
+
+345
+00:36:58,550 --> 00:37:01,636
+- Can you really get me that job?
+- Why?
+
+346
+00:37:05,765 --> 00:37:08,184
+I don’t have a good shirt...
+
+347
+00:37:09,853 --> 00:37:12,147
+and I haven’t even shaved.
+
+348
+00:37:16,901 --> 00:37:18,570
+Uncle!
+
+349
+00:38:00,570 --> 00:38:03,281
+The curse turned into a blessing.
+
+350
+00:38:03,406 --> 00:38:06,534
+Your daughter hasn’t worshipped Shiva in vain.
+
+351
+00:38:06,659 --> 00:38:08,745
+And what a blessing!
+
+352
+00:38:08,870 --> 00:38:11,456
+The moment I saw him,
+
+353
+00:38:11,623 --> 00:38:16,127
+I felt he was nearer to me than my own kin.
+
+354
+00:38:16,628 --> 00:38:20,715
+Pulu has brought many friends here,
+
+355
+00:38:21,132 --> 00:38:24,719
+but none has ever cast such a spell.
+
+356
+00:38:27,472 --> 00:38:31,059
+0 my friend
+
+357
+00:38:32,811 --> 00:38:38,066
+Don’t go down to the river to fill your pitcher
+
+358
+00:38:39,359 --> 00:38:46,699
+For if the handsome Krishna
+finds you
+
+359
+00:38:47,158 --> 00:38:52,080
+He won’t let you go
+
+360
+00:38:54,123 --> 00:38:57,835
+O my friend
+
+361
+00:39:05,134 --> 00:39:10,265
+Had I known, dearest friend.
+
+362
+00:39:10,557 --> 00:39:15,019
+That you’d abandon me
+
+363
+00:39:15,520 --> 00:39:19,566
+I’d have kept you
+
+364
+00:39:19,816 --> 00:39:23,361
+Tied to my sari...
+
+365
+00:39:30,868 --> 00:39:32,537
+Aparna.
+
+366
+00:39:38,209 --> 00:39:41,963
+There are a few things I have to tell you.
+
+367
+00:39:45,884 --> 00:39:48,720
+I’ve had no chance the last two days.
+
+368
+00:39:53,182 --> 00:39:56,894
+Just how much do you know about me?
+
+369
+00:40:00,106 --> 00:40:02,317
+Has Pulu said anything?
+
+370
+00:40:02,734 --> 00:40:04,360
+Yes.
+
+371
+00:40:05,403 --> 00:40:07,322
+What did he say?
+
+372
+00:40:09,699 --> 00:40:11,618
+That you have no one.
+
+373
+00:40:14,120 --> 00:40:16,080
+That’s right.
+
+374
+00:40:17,624 --> 00:40:20,251
+My father died when I was ten.
+
+375
+00:40:21,294 --> 00:40:23,922
+Mother died seven years later.
+
+376
+00:40:25,590 --> 00:40:29,135
+I had an older sister too.
+
+377
+00:40:37,101 --> 00:40:40,063
+What else did he tell you?
+
+378
+00:40:40,271 --> 00:40:42,523
+That you write well.
+
+379
+00:40:42,857 --> 00:40:45,777
+He said that, did he? Good old Pulu.
+
+380
+00:40:47,028 --> 00:40:50,365
+Tell me:
+Do you know how to read?
+
+381
+00:40:50,782 --> 00:40:53,117
+Yes. Bengali.
+
+382
+00:40:54,869 --> 00:40:58,039
+I’m writing a novel in Bengali.
+
+383
+00:40:58,247 --> 00:41:00,667
+- I know.
+- You know that too?
+
+384
+00:41:00,833 --> 00:41:03,252
+What else did he say?
+
+385
+00:41:04,253 --> 00:41:05,880
+Nothing.
+
+386
+00:41:06,923 --> 00:41:08,925
+Then he didn’t tell you much.
+
+387
+00:41:09,050 --> 00:41:11,010
+Not what really matters.
+
+388
+00:41:12,762 --> 00:41:15,640
+You don’t even know whom you’ve married.
+
+389
+00:41:17,725 --> 00:41:21,479
+Imagine, newlyweds spending their third night in her home!
+
+390
+00:41:22,647 --> 00:41:25,525
+I have no house of my own, nothing.
+
+391
+00:41:25,650 --> 00:41:28,820
+No home, no hearth, no income.
+
+392
+00:41:29,028 --> 00:41:30,822
+No future.
+
+393
+00:41:33,282 --> 00:41:36,160
+What kind of life am I offering you?
+
+394
+00:41:36,494 --> 00:41:38,788
+And the way you’ve been brought up -
+
+395
+00:41:38,913 --> 00:41:41,666
+this spacious house, servants,
+
+396
+00:41:41,833 --> 00:41:43,876
+beautiful rooms.
+
+397
+00:41:45,169 --> 00:41:47,255
+This marriage was forced on me.
+
+398
+00:41:47,505 --> 00:41:49,882
+I was very much against it.
+
+399
+00:41:50,508 --> 00:41:51,926
+But...
+
+400
+00:41:54,262 --> 00:41:57,014
+the request was made in such a way
+
+401
+00:41:57,181 --> 00:42:00,518
+that I felt I’d be doing something noble.
+
+402
+00:42:03,771 --> 00:42:06,315
+Everything got all confused.
+
+403
+00:42:08,443 --> 00:42:10,028
+Well?
+
+404
+00:42:12,196 --> 00:42:14,282
+Why don’t you say something?
+
+405
+00:42:14,407 --> 00:42:18,536
+I can’t decide anything until I know what you think.
+
+406
+00:42:20,329 --> 00:42:21,956
+Aparna...
+
+407
+00:42:22,874 --> 00:42:26,878
+will you be able to endure being poor?
+
+408
+00:42:29,714 --> 00:42:31,424
+Can you live...
+
+409
+00:42:32,592 --> 00:42:35,845
+with a poor man like me for a husband?
+
+410
+00:42:40,433 --> 00:42:41,601
+Yes.
+
+411
+00:42:51,569 --> 00:42:53,404
+You mean it?
+
+412
+00:42:55,782 --> 00:42:57,742
+Why not?
+
+413
+00:43:07,418 --> 00:43:10,254
+Then I’ll take you away with me.
+
+414
+00:43:10,421 --> 00:43:13,758
+Your father may object, but I won’t listen.
+
+415
+00:43:14,425 --> 00:43:17,929
+Sure you won’t object?
+- I don’t know.
+
+416
+00:43:21,098 --> 00:43:24,018
+- What will they think?
+- Who?
+
+417
+00:43:24,185 --> 00:43:25,937
+My neighbors.
+
+418
+00:43:26,103 --> 00:43:28,606
+I’m invited to a wedding...
+
+419
+00:43:28,773 --> 00:43:31,526
+and I come home with the bride!
+
+420
+00:44:04,600 --> 00:44:07,019
+Bring the luggage down. I’ll be back.
+
+421
+00:45:33,856 --> 00:45:35,566
+Come in.
+
+422
+00:45:40,821 --> 00:45:42,448
+My room.
+
+423
+00:45:43,574 --> 00:45:45,159
+Give me that.
+
+424
+00:45:59,173 --> 00:46:01,259
+Sit down.
+I’ll be right back.
+
+425
+00:48:33,327 --> 00:48:35,704
+You must be very sad.
+
+426
+00:48:38,624 --> 00:48:40,292
+Are you sure?
+
+427
+00:48:45,756 --> 00:48:48,259
+Come.
+Let’s go downstairs.
+
+428
+00:48:48,759 --> 00:48:51,387
+Is that so?
+
+429
+00:48:52,680 --> 00:48:55,266
+Make way. Stop crowding.
+
+430
+00:48:55,391 --> 00:48:56,976
+Let me see.
+
+431
+00:48:57,101 --> 00:48:59,270
+Oh, my!
+
+432
+00:48:59,728 --> 00:49:01,689
+Out of the way!
+
+433
+00:49:01,856 --> 00:49:04,400
+Let them come down!
+
+434
+00:50:52,007 --> 00:50:54,510
+What are you staring at? Am I new here?
+
+435
+00:51:07,481 --> 00:51:10,859
+“Just one - after a meal. You promised.”
+
+436
+00:53:04,682 --> 00:53:06,308
+Let me by.
+
+437
+00:54:02,948 --> 00:54:05,409
+Do you lament your decision?
+
+438
+00:54:05,576 --> 00:54:09,663
+Do I what? I don’t understand such difficult words.
+
+439
+00:54:10,581 --> 00:54:13,083
+You understand “regret”?
+
+440
+00:54:13,208 --> 00:54:14,543
+Yes.
+
+441
+00:54:14,668 --> 00:54:17,129
+- Do you regret it?
+- Regret what?
+
+442
+00:54:17,254 --> 00:54:19,423
+- I have to explain that too?
+- Yes.
+
+443
+00:54:21,091 --> 00:54:23,761
+You regret missing out on a rich husband?
+
+444
+00:54:24,928 --> 00:54:28,015
+You’re laughing?
+- No, I’m crying.
+
+445
+00:54:40,194 --> 00:54:43,238
+I’m sure you regret it. You just won’t tell me.
+
+446
+00:54:43,781 --> 00:54:45,449
+Of course.
+
+447
+00:54:45,699 --> 00:54:48,577
+I could have sat back and relaxed.
+
+448
+00:54:57,795 --> 00:54:59,379
+I’m going out.
+
+449
+00:54:59,505 --> 00:55:01,590
+- Where?
+- To find you a maid.
+
+450
+00:55:01,715 --> 00:55:03,383
+Wait.
+
+451
+00:55:04,218 --> 00:55:06,887
+Don’t be childish. Come back.
+
+452
+00:55:12,184 --> 00:55:13,977
+Let me by.
+
+453
+00:55:33,664 --> 00:55:36,166
+Who’ll pay the maid’s wages?
+
+454
+00:55:36,833 --> 00:55:39,127
+I’ll do more tutoring.
+
+455
+00:55:45,634 --> 00:55:48,345
+Then send me back to my parents.
+
+456
+00:55:48,595 --> 00:55:50,389
+Why?
+
+457
+00:55:52,015 --> 00:55:54,518
+You get home late as it is
+
+458
+00:55:54,685 --> 00:55:57,312
+tutoring one student after work.
+
+459
+00:55:57,437 --> 00:56:00,774
+If you take on another –
+- What else can I do?
+
+460
+00:56:03,777 --> 00:56:05,696
+Shall I tell you?
+
+461
+00:56:05,863 --> 00:56:09,157
+Give up the student you have now.
+
+462
+00:56:10,701 --> 00:56:12,536
+Then what?
+
+463
+00:56:13,495 --> 00:56:17,791
+Then my poor husband will come home early...
+
+464
+00:56:22,713 --> 00:56:25,716
+and I’ll have nothing more to lament.
+
+465
+00:58:16,660 --> 00:58:18,245
+Go on.
+
+466
+00:58:36,722 --> 00:58:39,182
+O Lord Vishnu...
+
+467
+00:59:15,802 --> 00:59:19,639
+God of fire, use your powers to shatter his meditation!
+
+468
+00:59:39,201 --> 00:59:40,744
+What’s wrong?
+
+469
+00:59:41,995 --> 00:59:43,747
+Are you mad?
+
+470
+00:59:44,039 --> 00:59:47,125
+Or sad?
+Or just in a huff?
+
+471
+00:59:47,876 --> 00:59:50,337
+- Mad.
+- Why?
+
+472
+00:59:50,670 --> 00:59:52,798
+Can’t I ride in a bus?
+
+473
+00:59:53,882 --> 00:59:57,302
+Buses are so crowded. Here we can be alone.
+
+474
+00:59:57,928 --> 00:59:59,930
+But it costs so much.
+
+475
+01:00:00,096 --> 01:00:02,390
+- Just seven annas.
+- That’s a lot.
+
+476
+01:00:04,101 --> 01:00:06,728
+You’ll be leaving for your parents’ soon.
+
+477
+01:00:07,270 --> 01:00:09,940
+My expenses will be cut in half.
+
+478
+01:00:10,273 --> 01:00:12,275
+Just for two months.
+
+479
+01:00:13,652 --> 01:00:16,154
+Is that so short?
+
+480
+01:00:17,572 --> 01:00:20,992
+What about the extra expenses when we come back?
+
+481
+01:00:26,456 --> 01:00:28,124
+Ah, yes.
+
+482
+01:00:30,502 --> 01:00:32,254
+You know...
+
+483
+01:00:34,089 --> 01:00:37,801
+I didn’t want to let you go...
+
+484
+01:00:38,760 --> 01:00:41,805
+but your mother insisted, and I thought
+
+485
+01:00:41,972 --> 01:00:44,015
+at a time like this you’d rather -
+
+486
+01:00:44,141 --> 01:00:48,353
+It’ll be a relief for you too.
+No one to bother you for two months.
+
+487
+01:00:49,729 --> 01:00:51,356
+Don’t say that.
+
+488
+01:00:51,815 --> 01:00:54,568
+But I will get some work done on my novel.
+
+489
+01:00:54,693 --> 01:00:56,862
+haven’t written a line
+
+490
+01:00:57,821 --> 01:00:59,698
+since we were married.
+
+491
+01:01:00,073 --> 01:01:01,616
+Is that my fault?
+
+492
+01:01:06,204 --> 01:01:08,206
+It’s to your credit.
+
+493
+01:01:08,665 --> 01:01:11,710
+You know how much my novel means to me.
+
+494
+01:01:11,835 --> 01:01:14,087
+You mean much more.
+- Really?
+
+495
+01:01:16,673 --> 01:01:19,968
+- I’ll dedicate it to you.
+- You’ll what?
+
+496
+01:01:22,554 --> 01:01:25,348
+I know what “wife” means.
+
+497
+01:01:29,811 --> 01:01:33,189
+No, you don’t. But I do.
+
+498
+01:01:33,648 --> 01:01:35,650
+I do too.
+
+499
+01:01:45,493 --> 01:01:46,912
+What?
+
+500
+01:01:47,120 --> 01:01:48,747
+The matches.
+
+501
+01:02:09,059 --> 01:02:10,810
+Tell me...
+
+502
+01:02:11,353 --> 01:02:14,522
+what’s that in your eyes?
+
+503
+01:02:17,734 --> 01:02:19,611
+Kohl.
+
+504
+01:02:32,916 --> 01:02:35,126
+Will you come for the puja festival?
+
+505
+01:02:35,252 --> 01:02:37,837
+I hope to.
+Wire me when you arrive.
+
+506
+01:02:37,963 --> 01:02:40,548
+Letters take too long. Go on now.
+
+507
+01:03:02,153 --> 01:03:05,657
+- Will you come?
+- Have I ever broken a promise?
+
+508
+01:03:05,782 --> 01:03:07,951
+Write me twice a week.
+
+509
+01:03:08,118 --> 01:03:10,578
+- Will you write too?
+- Not unless you do.
+
+510
+01:03:10,745 --> 01:03:14,290
+Write to my office, or Mr. Ray will open your letters.
+
+511
+01:03:14,416 --> 01:03:17,419
+Listen –
+Oh, I’m forgetting everything!
+
+512
+01:03:17,544 --> 01:03:20,964
+Pintu’s mother is making pudding for you.
+
+513
+01:03:21,131 --> 01:03:24,301
+And we owe the grocer money.
+
+514
+01:03:24,467 --> 01:03:27,971
+I left some jewelry behind. Keep it safe, will you?
+
+515
+01:03:28,138 --> 01:03:30,640
+Please take care of yourself.
+
+516
+01:04:32,660 --> 01:04:34,412
+My friend.
+
+517
+01:04:49,594 --> 01:04:53,389
+You’ll see her in a few days, so why worry?
+
+518
+01:04:53,598 --> 01:04:55,433
+I’m not worrying.
+
+519
+01:05:01,815 --> 01:05:04,692
+I wish I knew your secret.
+
+520
+01:05:05,944 --> 01:05:08,905
+How to be happy and married in these hard times
+
+521
+01:05:09,030 --> 01:05:11,282
+on a clerk’s 45 rupees a month.
+
+522
+01:05:11,407 --> 01:05:13,743
+How do you know I’m happy?
+
+523
+01:05:14,369 --> 01:05:15,954
+I know.
+
+524
+01:05:32,554 --> 01:05:35,348
+I don’t know what your wife is like,
+
+525
+01:05:35,473 --> 01:05:38,226
+but mine -
+
+526
+01:05:39,018 --> 01:05:42,814
+I mean,
+I like them a little feisty.
+
+527
+01:05:42,939 --> 01:05:45,191
+I like them to be a little quarrelsome,
+
+528
+01:05:45,442 --> 01:05:48,069
+a little saucy.
+
+529
+01:05:49,070 --> 01:05:50,947
+Know what I mean?
+
+530
+01:05:51,114 --> 01:05:54,701
+I like them a bit mischievous and smart.
+
+531
+01:05:54,826 --> 01:05:56,953
+It adds spice to a marriage.
+
+532
+01:05:58,121 --> 01:06:01,416
+My wife’s just the opposite.
+- Really?
+
+533
+01:06:01,624 --> 01:06:03,585
+Never quarrels.
+
+534
+01:06:03,710 --> 01:06:06,129
+Nothing for dinner? She won’t say a word.
+
+535
+01:06:06,296 --> 01:06:07,964
+Nothing to wear? She won’t complain.
+
+536
+01:06:08,131 --> 01:06:11,342
+Say right, she goes right. Say left, she goes left.
+
+537
+01:06:12,010 --> 01:06:15,555
+Utterly bland and insipid.
+
+538
+01:06:20,977 --> 01:06:23,771
+And to top it all off...
+
+539
+01:06:35,158 --> 01:06:37,911
+You promised to come on the eighth day of the festival.
+
+540
+01:06:38,036 --> 01:06:39,829
+I’ll be waiting.
+
+541
+01:06:39,954 --> 01:06:44,042
+If you don’t come,
+I’ll never ever speak to you again.
+
+542
+01:06:44,209 --> 01:06:46,252
+You’re a big liar.
+
+543
+01:06:46,502 --> 01:06:49,130
+You only wrote me seven letters last month.
+
+544
+01:06:49,255 --> 01:06:51,549
+It should have been eight.
+
+545
+01:06:51,841 --> 01:06:55,345
+You really don’t keep your promises.
+
+546
+01:06:55,553 --> 01:06:59,349
+I’ve been counting the days, and if you don’t come -
+
+547
+01:06:59,515 --> 01:07:02,393
+Let’s go, my friend. Come on.
+
+548
+01:07:34,008 --> 01:07:37,220
+And I feel jealous of that girl next door.
+
+549
+01:07:37,387 --> 01:07:39,222
+You know why?
+
+550
+01:07:39,389 --> 01:07:43,142
+She sees you morning and evening, and I don’t.
+
+551
+01:07:43,393 --> 01:07:45,061
+It’s quite unfair.
+
+552
+01:07:45,228 --> 01:07:47,480
+Do keep that window shut.
+
+553
+01:08:34,444 --> 01:08:37,947
+What else is there to write? That’s all for now.
+
+554
+01:08:38,072 --> 01:08:40,575
+I’ve misspelled lots of words.
+
+555
+01:08:40,825 --> 01:08:44,245
+I know you’ll laugh. Go ahead.
+
+556
+01:08:44,370 --> 01:08:46,331
+I’m no novelist -
+
+557
+01:08:46,456 --> 01:08:48,875
+just good enough for a letter.
+
+558
+01:08:49,167 --> 01:08:51,753
+Take good care of yourself.
+
+559
+01:08:52,086 --> 01:08:56,841
+I’m well, but my heart is sick. It will heal when you come.
+
+560
+01:08:57,050 --> 01:08:58,593
+If you don’t...
+
+561
+01:08:58,718 --> 01:09:01,971
+I’ll never speak to you ever ever again...
+
+562
+01:09:45,515 --> 01:09:47,683
+- How are things?
+- Fine, thanks.
+
+563
+01:09:47,850 --> 01:09:50,061
+- And the family?
+- Just fine.
+
+564
+01:10:06,577 --> 01:10:08,246
+What is it?
+
+565
+01:10:13,376 --> 01:10:14,669
+Murari?
+
+566
+01:10:20,842 --> 01:10:22,009
+What is it?
+
+567
+01:10:24,721 --> 01:10:26,431
+Aparna...
+
+568
+01:10:27,098 --> 01:10:29,350
+What’s happened to her?
+
+569
+01:10:31,978 --> 01:10:34,021
+In childbirth...
+
+570
+01:10:34,439 --> 01:10:35,940
+What?
+
+571
+01:12:09,742 --> 01:12:12,286
+She told me just the other day,
+
+572
+01:12:12,411 --> 01:12:15,540
+“Ma’am, I’m leaving him in your care.
+
+573
+01:12:15,873 --> 01:12:19,961
+He’s so absent-minded and gets lost in his writing.
+
+574
+01:12:20,169 --> 01:12:24,090
+He might forget to eat at night.”
+
+575
+01:12:25,132 --> 01:12:28,803
+Such gentle ways she had,
+
+576
+01:12:28,928 --> 01:12:31,514
+and so good-natured.
+
+577
+01:12:33,015 --> 01:12:36,561
+She suddenly appeared and just as suddenly -
+
+578
+01:12:37,186 --> 01:12:40,106
+Well, it’s a good thing the child was saved.
+
+579
+01:12:40,314 --> 01:12:44,151
+Everyone has their sorrow and suffering, my son.
+
+580
+01:12:44,360 --> 01:12:47,405
+But a man mustn’t break down like this.
+
+581
+01:12:47,655 --> 01:12:50,074
+Besides, you’re still young.
+
+582
+01:12:50,283 --> 01:12:53,619
+“While Krishna has his knot of hair and his flute,
+
+583
+01:12:53,744 --> 01:12:56,455
+there’ll be women to serve him.”
+
+584
+01:12:56,664 --> 01:12:58,791
+You could marry ten times over
+
+585
+01:12:58,916 --> 01:13:01,210
+You have nothing to worry about.
+
+586
+01:15:57,136 --> 01:15:59,346
+“Dear Pulu, you must have heard the news by now.
+
+587
+01:15:59,513 --> 01:16:03,768
+I hear you’re going abroad. I wish you success.
+
+588
+01:16:03,893 --> 01:16:07,104
+I’m going away too.
+
+589
+01:16:07,271 --> 01:16:11,567
+I don’t know where I’m going, but I do know why.
+
+590
+01:16:11,734 --> 01:16:14,695
+I want to be free.
+
+591
+01:16:14,904 --> 01:16:18,074
+I’m taking my manuscript with me.
+
+592
+01:16:18,282 --> 01:16:21,744
+I’ll send it to you if I finish it.
+
+593
+01:16:21,911 --> 01:16:25,039
+You may publish it if you see fit.
+
+594
+01:16:25,164 --> 01:16:27,333
+Yours, Apu”
+
+595
+01:22:55,762 --> 01:22:56,972
+Oh!
+
+596
+01:22:58,557 --> 01:23:01,768
+What did you drop there?;
+
+597
+01:23:01,894 --> 01:23:04,146
+All my food’s ruined!
+
+598
+01:23:11,278 --> 01:23:15,073
+I’ll show you! Stealing at your age, eh?
+
+599
+01:23:15,199 --> 01:23:17,117
+Ouch!
+
+600
+01:23:18,410 --> 01:23:21,497
+Almost bit my arm off, the little beast!
+
+601
+01:23:21,622 --> 01:23:25,709
+Want me to tell the master? Know what will happen?
+
+602
+01:23:25,834 --> 01:23:29,880
+You know what will happen?
+- You’ll tell Grandfather?
+
+603
+01:23:30,130 --> 01:23:34,051
+A good thrashing will teach you a lesson!
+
+604
+01:23:35,010 --> 01:23:37,012
+He’ll beat you up.
+
+605
+01:23:38,347 --> 01:23:41,350
+Who’ll beat me up?
+
+606
+01:23:42,267 --> 01:23:45,646
+My father.
+He lives in Calcutta.
+
+607
+01:23:45,896 --> 01:23:49,024
+Your father lives in Calcutta!
+So what?
+
+608
+01:23:49,191 --> 01:23:51,985
+Should I tremble in fear?
+
+609
+01:23:52,778 --> 01:23:54,905
+He lives in Calcutta!
+
+610
+01:23:55,030 --> 01:23:58,325
+We haven’t seen his pigtail these last five years!
+
+611
+01:23:58,450 --> 01:24:00,535
+Your father indeed!
+
+612
+01:24:00,744 --> 01:24:03,038
+Beat me up, will he?
+
+613
+01:24:05,082 --> 01:24:07,751
+Do fathers have pigtails?
+
+614
+01:24:13,131 --> 01:24:15,551
+In five years
+
+615
+01:24:15,676 --> 01:24:20,013
+he hasn’t shown up even once to see his own son.
+
+616
+01:24:20,722 --> 01:24:22,933
+Have you ever heard of such a thing?
+
+617
+01:24:23,058 --> 01:24:25,394
+Thinks he’s done his duty
+
+618
+01:24:25,561 --> 01:24:28,063
+by sending a money order now and then.
+
+619
+01:24:28,230 --> 01:24:30,315
+Do you know where he is?
+
+620
+01:24:30,899 --> 01:24:33,902
+I was dead set against the marriage.
+
+621
+01:24:34,361 --> 01:24:37,948
+It was you and your aunt
+
+622
+01:24:38,073 --> 01:24:40,784
+who took my daughter and -
+
+623
+01:24:41,118 --> 01:24:44,830
+- Do you know where Apu is?
+- What good would it do?
+
+624
+01:24:44,955 --> 01:24:46,498
+Please tell me.
+
+625
+01:24:46,623 --> 01:24:50,085
+In Nagpur or somewhere, working in a coal mine,
+
+626
+01:24:50,252 --> 01:24:52,421
+the good-for-nothing vagabond.
+
+627
+01:24:52,546 --> 01:24:55,048
+AndJhe boy’s just like him,
+
+628
+01:24:55,173 --> 01:24:58,802
+always running around and getting into mischief.
+
+629
+01:24:58,927 --> 01:25:02,431
+The other day he broke my marble tumbler.
+
+630
+01:25:02,556 --> 01:25:05,767
+When your aunt was alive she could manage him,
+
+631
+01:25:05,934 --> 01:25:09,604
+but now, with my failing health -
+
+632
+01:25:10,230 --> 01:25:12,357
+Do you have Apu’s address?
+
+633
+01:25:12,482 --> 01:25:14,526
+Whatever’s on his letter.
+
+634
+01:25:14,651 --> 01:25:16,945
+But what good is that?
+
+635
+01:25:17,112 --> 01:25:19,656
+Think you can bring him back?
+
+636
+01:25:21,116 --> 01:25:23,952
+He hasn’t even come back for his own child,
+
+637
+01:25:24,119 --> 01:25:25,996
+the heartless brute!
+
+638
+01:27:34,749 --> 01:27:36,585
+You?
+
+639
+01:27:37,377 --> 01:27:39,421
+When did you get back?
+
+640
+01:27:40,422 --> 01:27:43,425
+I went looking for you at my uncle’s place.
+
+641
+01:27:49,306 --> 01:27:51,516
+What are you doing here?
+
+642
+01:27:52,434 --> 01:27:54,102
+Working.
+
+643
+01:27:54,728 --> 01:27:56,438
+Since when?
+
+644
+01:27:57,105 --> 01:27:58,899
+About a year.
+
+645
+01:27:59,149 --> 01:28:01,359
+All the way out here?
+
+646
+01:28:01,943 --> 01:28:05,822
+- I didn’t come here for a job.
+- Then why?
+
+647
+01:28:06,490 --> 01:28:09,409
+I just ended up here as I wandered around.
+
+648
+01:28:09,534 --> 01:28:11,244
+And?
+
+649
+01:28:12,204 --> 01:28:14,164
+I had to fill my belly.
+
+650
+01:28:14,289 --> 01:28:16,249
+And have you?
+
+651
+01:28:17,000 --> 01:28:18,543
+More or less.
+
+652
+01:28:18,668 --> 01:28:21,796
+How’s everything else? How’s the writing?
+
+653
+01:28:23,048 --> 01:28:25,050
+How’s the novel coming?
+
+654
+01:28:26,384 --> 01:28:28,136
+I threw it away.
+
+655
+01:28:28,261 --> 01:28:30,347
+What? Why?
+
+656
+01:28:31,973 --> 01:28:33,892
+What’s the use?
+
+657
+01:28:37,103 --> 01:28:38,813
+Come on.
+
+658
+01:28:43,902 --> 01:28:45,987
+You planning to stay here?
+
+659
+01:28:46,404 --> 01:28:48,824
+- No.
+- Then what?
+
+660
+01:28:49,825 --> 01:28:53,286
+I’m thinking of going away. I’m not happy here.
+
+661
+01:28:53,411 --> 01:28:55,288
+Where would you go?
+
+662
+01:28:55,413 --> 01:28:57,165
+Maybe abroad.
+
+663
+01:28:57,457 --> 01:28:59,543
+I’m saving up.
+
+664
+01:29:01,628 --> 01:29:03,380
+By yourself?
+
+665
+01:29:03,505 --> 01:29:05,757
+- Who else is there?
+- Kajal.
+
+666
+01:29:05,882 --> 01:29:07,759
+- Who?
+- Kajal.
+
+667
+01:29:08,677 --> 01:29:10,387
+Your son.
+
+668
+01:29:16,935 --> 01:29:19,187
+So that’s his name, is it?
+
+669
+01:29:25,485 --> 01:29:27,237
+Listen to me.
+
+670
+01:29:37,581 --> 01:29:39,165
+What?
+
+671
+01:29:40,876 --> 01:29:42,877
+Go back home.
+
+672
+01:29:43,086 --> 01:29:44,588
+Why?
+
+673
+01:29:44,963 --> 01:29:47,632
+The boy needs someone to look after him.
+
+674
+01:29:48,550 --> 01:29:50,677
+He has no one to do that.
+
+675
+01:29:50,927 --> 01:29:54,723
+There’s such a thing as a father’s duty,
+
+676
+01:29:54,973 --> 01:29:57,392
+or did you throw that away too?
+
+677
+01:29:57,517 --> 01:30:00,520
+Who says I don’t do my duty?
+
+678
+01:30:00,645 --> 01:30:02,439
+I send money, don’t I?
+
+679
+01:30:02,564 --> 01:30:05,900
+- Is that it?
+- I can’t do any more.
+
+680
+01:30:17,370 --> 01:30:18,997
+What are you saying?
+
+681
+01:30:19,122 --> 01:30:21,750
+Have you no feelings for your own son?
+
+682
+01:30:21,917 --> 01:30:23,460
+No.
+
+683
+01:30:34,429 --> 01:30:36,723
+How can I feel anything for him?
+
+684
+01:30:37,182 --> 01:30:39,184
+I’ve never even seen him.
+
+685
+01:30:39,809 --> 01:30:43,313
+To me he’s unreal, imaginary.
+
+686
+01:30:44,356 --> 01:30:46,775
+For me he doesn’t exist.
+
+687
+01:30:50,403 --> 01:30:52,614
+You’ve lost your senses.
+
+688
+01:31:00,121 --> 01:31:02,248
+I’ve done my duty.
+
+689
+01:31:02,958 --> 01:31:05,126
+Do as you see fit.
+
+690
+01:31:05,794 --> 01:31:07,170
+Good-bye.
+
+691
+01:31:16,012 --> 01:31:18,390
+- What?
+- Wait.
+
+692
+01:31:19,474 --> 01:31:21,476
+My train leaves at 7:00.
+
+693
+01:31:22,435 --> 01:31:23,603
+Come here.
+
+694
+01:31:37,826 --> 01:31:39,411
+What?
+
+695
+01:31:39,744 --> 01:31:43,665
+Do something for the boy. Put him in a boarding school.
+
+696
+01:31:43,790 --> 01:31:46,084
+- You can do that yourself.
+- No.
+
+697
+01:31:46,209 --> 01:31:47,752
+Why not?
+
+698
+01:31:49,796 --> 01:31:51,881
+- I just can’t.
+- Why?
+
+699
+01:31:52,007 --> 01:31:54,426
+That’s what I don’t get.
+
+700
+01:31:56,678 --> 01:31:59,723
+There’s one thing I can never forget.
+
+701
+01:32:09,607 --> 01:32:11,860
+It’s because Kajal is alive...
+
+702
+01:32:12,819 --> 01:32:14,654
+that Aparna isn’t.
+
+703
+01:32:17,949 --> 01:32:22,162
+I’ve sent money three times. I’ll send more if necessary.
+
+704
+01:32:22,829 --> 01:32:24,998
+I can’t do any more.
+
+705
+01:32:28,793 --> 01:32:32,881
+I can’t take any more responsibility for him.
+
+706
+01:32:35,216 --> 01:32:37,093
+I admit it:
+
+707
+01:32:37,385 --> 01:32:40,013
+I feel no affection for him.
+
+708
+01:32:42,056 --> 01:32:45,477
+If you think he’s not being looked after properly...
+
+709
+01:32:46,561 --> 01:32:48,730
+make other arrangements...
+
+710
+01:32:48,855 --> 01:32:51,399
+and I’ll cover the cost.
+
+711
+01:32:59,783 --> 01:33:02,911
+Shall I give you money now?
+- There’s no point.
+
+712
+01:33:03,036 --> 01:33:05,038
+I start a new job Monday.
+
+713
+01:33:05,163 --> 01:33:07,749
+I can’t do anything right now.
+
+714
+01:33:08,041 --> 01:33:09,667
+I’m going.
+
+715
+01:34:16,818 --> 01:34:18,528
+Who is it?
+
+716
+01:34:25,994 --> 01:34:28,121
+Whom do you wish to see?
+
+717
+01:34:33,334 --> 01:34:35,503
+It’s me - Apu.
+
+718
+01:35:04,324 --> 01:35:06,701
+Have you come to take him away?
+
+719
+01:35:08,203 --> 01:35:12,207
+I’ve made arrangements to leave him in my home village.
+
+720
+01:35:14,626 --> 01:35:16,544
+I’m going away.
+
+721
+01:35:16,878 --> 01:35:19,547
+He’s lying down upstairs.
+
+722
+01:35:20,340 --> 01:35:22,300
+He’s had a fever,
+
+723
+01:35:22,759 --> 01:35:24,928
+but he’s better today.
+
+724
+01:38:30,029 --> 01:38:31,864
+I’m your father.
+
+725
+01:38:38,496 --> 01:38:40,623
+I’m your father.
+
+726
+01:38:46,254 --> 01:38:47,713
+Come here!
+
+727
+01:38:48,131 --> 01:38:50,675
+Come here!
+
+728
+01:39:10,319 --> 01:39:11,654
+No, don’t!
+
+729
+01:39:13,072 --> 01:39:14,907
+What are you doing?
+
+730
+01:39:17,994 --> 01:39:19,704
+You’ll kill him.
+
+731
+01:40:39,700 --> 01:40:41,702
+Will you be my friend?
+
+732
+01:40:43,162 --> 01:40:45,539
+I tell very good stories.
+
+733
+01:40:46,707 --> 01:40:48,417
+Stories about ghosts...
+
+734
+01:40:48,876 --> 01:40:50,878
+demons...
+
+735
+01:40:51,671 --> 01:40:53,714
+kings and queens...
+
+736
+01:40:53,965 --> 01:40:56,884
+princes and winged horses.
+
+737
+01:40:57,802 --> 01:40:59,720
+Want to hear them?
+
+738
+01:41:17,405 --> 01:41:20,074
+I’ll leave this jewelry with you
+
+739
+01:41:20,366 --> 01:41:23,744
+in case he has to be sent to a boarding school.
+
+740
+01:41:24,120 --> 01:41:26,330
+I’ll speak to Pulu again,
+
+741
+01:41:26,455 --> 01:41:29,875
+but you’ll have to bear with Kajal a few more days.
+
+742
+01:41:30,167 --> 01:41:31,752
+Good-bye.
+
+743
+01:41:32,628 --> 01:41:34,380
+You’re his father.
+
+744
+01:41:34,505 --> 01:41:37,258
+Can’t you force him to go with you?
+
+745
+01:41:37,383 --> 01:41:41,178
+He’s just a child. Make him go with you!
+
+746
+01:41:42,471 --> 01:41:44,932
+No, I can’t do that.
+
+747
+01:41:47,768 --> 01:41:49,812
+You can’t do anything!
+
+748
+01:41:49,937 --> 01:41:52,857
+I knew it all along.
+
+749
+01:43:06,055 --> 01:43:09,558
+What is it?
+You want to say something?
+
+750
+01:43:10,935 --> 01:43:12,728
+Where are you going?
+
+751
+01:43:14,021 --> 01:43:16,273
+You want to come along?
+
+752
+01:43:16,857 --> 01:43:18,818
+Are you going to Calcutta?
+
+753
+01:43:19,860 --> 01:43:21,946
+If I am, will you come?
+
+754
+01:43:23,072 --> 01:43:25,157
+Would you take me to my father?
+
+755
+01:43:28,327 --> 01:43:29,537
+Of course.
+
+756
+01:43:31,038 --> 01:43:32,832
+Will he be mad at me?
+
+757
+01:43:35,209 --> 01:43:36,919
+Why should he be?
+
+758
+01:43:41,215 --> 01:43:43,300
+He won’t go away and leave me?
+
+759
+01:43:45,219 --> 01:43:46,303
+Never.
+
+760
+01:43:50,850 --> 01:43:52,351
+Who are you?
+
+761
+01:43:55,729 --> 01:43:57,314
+I’m your...
+
+762
+01:43:58,441 --> 01:44:00,151
+friend.
+
+763
+01:44:01,819 --> 01:44:03,863
+Will you come with me?
+
+764
+01:44:10,077 --> 01:44:11,120
+Come on.
+
+765
+01:44:11,579 --> 01:44:13,706
+Kajal, come on!
+
+766
+01:44:17,793 --> 01:44:20,087
+Grandpa will scold me.
+
+767
+01:44:20,421 --> 01:44:21,964
+He won’t know.
+
+768
+01:44:22,089 --> 01:44:24,550
+I won’t tell him. Come on!
+
+769
+01:45:15,643 --> 01:45:18,312
+THE END
+
