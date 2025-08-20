@@ -234,7 +234,7 @@ Bimal Roy
 Satyajit Ray
 Shyam Benegal
 Sanjay Leela Bhansali
-    Ramesh Sippy
+Ramesh Sippy
 Vishal Bhardwaj
 Zoya Akhtar
 
@@ -576,3 +576,354 @@ https://www.imdb.com/name/nm0001068/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_Sofia%25
 https://www.imdb.com/name/nm0201969/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_Julie%2520Dash | Julie Dash - IMDb
 https://www.imdb.com/name/nm0619762/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Mira%2520Nair | Mira Nair - IMDb
 https://www.imdb.com/name/nm2304675/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Lulu%2520Wang%2520%2520 | Lulu Wang - IMDb
+
+
+# Best of Director
+
+## Jean-Luc Godard
+| **Film**                                  | **Année** | **Résumé / intrigue**                                                                                         | **Éléments lacaniens**                                                                                                                                                                                      |
+| ----------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *À bout de souffle*                       | 1960      | Michel, petit voleur, fuit la police à Paris ; il vit une passion pour Patricia, journaliste américaine.      | - Sujet divisé (\$) : Michel pris entre désir et loi.<br>- Fantasme et jouissance : le style de vie, le crime, l’amour impossible.<br>- Objet petit a : Patricia comme cause du désir.                      |
+| *Le Mépris*                               | 1963      | Un scénariste, Paul, perd l’amour de sa femme Camille dans le contexte d’un tournage de film avec Fritz Lang. | - Division du sujet : Paul pris entre création et amour.<br>- Symbolique : la production cinématographique et l’Autre comme instance de loi.<br>- Réel : l’écart entre désir et parole, tragédie du couple. |
+| *Pierrot le Fou*                          | 1965      | Ferdinand fuit sa vie bourgeoise avec Marianne ; road-movie ponctué de crimes et dialogues absurdes.          | - Imaginaire : fuite et identification à l’aventure.<br>- Objet a : Marianne comme moteur du désir.<br>- Réel : violence, mort et chaos qui surgissent.                                                     |
+| *Alphaville*                              | 1965      | Dans une cité futuriste contrôlée par un ordinateur, Lemmy Caution tente de sauver l’amour et l’humain.       | - Symbolique : loi du système informatique.<br>- Réel : impossibilité d’objectiver l’amour dans un monde rationalisé.<br>- Sujet barré : Lemmy confronté au système totalitaire.                            |
+| *Deux ou trois choses que je sais d’elle* | 1967      | Portrait fragmentaire d’une femme et de la société de consommation.                                           | - Objet petit a : les objets de consommation comme médiation du désir.<br>- Imaginaire et Réel : aliénation sociale et sexualité.<br>- Dislocation du discours narratif comme reflet du sujet divisé.       |
+| *La Chinoise*                             | 1967      | Groupe d’étudiants révolutionnaires tente de mettre en pratique le maoïsme à Paris.                           | - Symbolique : idéologie comme discours maître.<br>- Fantasme révolutionnaire : jouissance militante.<br>- Divisions du sujet : action vs théorie, désir vs loi.                                            |
+| *Week-end*                                | 1967      | Un couple traverse Paris en voiture pour récupérer un héritage, confronté au chaos social et à la violence.   | - Réel : effondrement de la civilisation et de la loi.<br>- Imaginaire : couple confronté à ses fantasmes destructeurs.<br>- Objet a : l’héritage comme moteur de désir et d’angoisse.                      |
+| *Vivre sa vie*                            | 1962      | Nana quitte son mari pour devenir prostituée à Paris, en quête d’indépendance et de sens.                     | - Sujet divisé : autonomie et perte de contrôle.<br>- Réel : prostitution, humiliation, confrontation au corps.<br>- Objet a : les clients et l’argent comme causes de désir et de jouissance.              |
+| *La Femme est l’avenir de l’homme*        | 2000      | Études contemporaines sur l’amour et l’échec relationnel.                                                     | - Division du sujet : incapacité à concilier désir et engagement.<br>- Imaginaire : projection du fantasme amoureux.<br>- Symbolique : normes sociales et communication entravée.                           |
+
+## Hirokazu Koreeda
+
+| 映画 (年)                         | あらすじ                                            | ラカン派的要素                                                                           |
+| ------------------------------ | ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| **誰も知らない** (2004)              | 母親に見捨てられた子どもたちが、東京のアパートで密かに生き延びようとする物語。         | **〈大文字の他者〉の不在**：大人・国家の象徴的秩序が子どもたちを見捨てる。<br>**欠如と欲望**：母の愛の欠如が子どもたちの生存欲望を突き動かす。     |
+| **歩いても 歩いても** (2008)           | 亡くなった長男の法要で集まった家族が、表面的な団らんの裏に潜む葛藤や未解決の感情をさらけ出す。 | **象徴界の重圧**：家族という制度が、個人の欲望を抑圧。<br>**ファンタズム**：理想の息子像が残された者たちの幻想として作用。               |
+| **そして父になる** (2013)             | 出生時の取り違えで、血のつながりと育ちのどちらが「親子」を決定するのかを問う。         | **父の名 (Nom-du-Père)**：象徴的な「父性」の機能が揺らぐ。<br>**イマジネールな同一性**：血縁か育成か、どちらが〈自我像〉を形成するのか。 |
+| **海街diary** (2015)             | 母親の違う四姉妹が鎌倉で一緒に暮らし始め、家族の絆を紡ぎ直す。                 | **欲望の他者性**：母の不在を抱えつつ姉妹関係を再構築。<br>**イマジネールの鏡像**：姉妹は互いに自己像を映し出し、新しい〈家族〉を形成。         |
+| **三度目の殺人** (2017)              | 弁護士が殺人事件を担当し、被告人の語りが変化するなかで「真実」と「正義」を問う。        | **真理の裂け目**：言説は常にズレを含み、真実は〈現実界〉に属する。<br>**欲望の主体**：弁護士自身が「他者の欲望」に巻き込まれていく。          |
+| **万引き家族 (Shoplifters)** (2018) | 貧困の中で絆を育む擬似家族が、警察と制度により解体される。                   | **象徴界からの排除**：法と戸籍から排除された「家族」。<br>**現実界の裂け目**：愛と生存の共同体が制度によって断ち切られる。               |
+| **ベイビー・ブローカー** (2022)          | 韓国を舞台に、赤ん坊の「ベイビー・ボックス」を巡って集う人々が疑似的な家族を形成する。     | **他者の欲望**：子どもを「捨てる」「拾う」ことで欲望の連鎖が浮き彫りに。<br>**Objet petit a**：子ども自身が欲望の原因＝欠如の象徴となる。 |
+
+## Andrey Zvyagintsev
+
+| Фильм                                           | Сюжет                                                                                                                                           | Лаканианские элементы                                                                                                                                                                   |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Возвращение (2003)**                          | Два подростка после долгого отсутствия встречают отца, который ведёт их в опасное путешествие, где сталкиваются с жесткостью, тайной и смертью. | **Имя-Отца** как отсутствующее присутствие; разрыв в символическом порядке; травма реального через смерть; поиски закона и опоры в фигуре отца, которая оказывается пустой.             |
+| **Изгнание (2007)**                             | Муж узнаёт, что жена беременна не от него. История семейного кризиса на фоне безысходности и недоверия.                                         | **Женское наслаждение (jouissance)** и непостижимость Другого; невозможность мужского субъекта выдержать инаковость женского желания; распад воображаемого семейного единства.          |
+| **Елена (2011)**                                | Женщина среднего возраста заботится о богатом муже и бедном сыне от первого брака; ради наследства она идёт на убийство.                        | Конфликт **суперэго и желания**; переход от любви к расчёту; убийство как акт разрыва с символическим законом; семейная сцена как место сделки и преступления.                          |
+| **Левиафан (2014)**                             | Житель северного города борется с коррупцией и властью, пытаясь сохранить дом, но сталкивается с разрушительной системой.                       | **Большой Другой как коррумпированное и пустое место**; закон как произвол; субъект против Левиафана — реального, символического и политического монстра; разрушение отцовского закона. |
+| **Нелюбовь (2017)**                             | Супруги на грани развода теряют сына, который исчезает, оставаясь невидимым для родителей.                                                      | **Фигура утраченного объекта (objet petit a)**; исчезновение ребёнка как исчезновение любви и символического скрепления семьи; разрыв в связке желания и заботы.                        |
+| **Спутник (2020, продюсер)**                    | Советский космонавт возвращается с инопланетным существом внутри себя.                                                                          | **Инородное в теле как Реальное**; невозможность символизировать чуждое; субъект как носитель Другого в себе; топология клeйновской бутылки (внутреннее-снаружи).                       |
+| **Капитан Волконогов бежал (2021, сопродюсер)** | Офицер НКВД, оказавшись под угрозой репрессий, бежит и ищет искупление перед лицом смерти.                                                      | **Вина и Суперэго**; бегство как невозможность избежать взгляда Другого; повторение сталинского террора как навязчивого возвращения Реального.                                          |
+
+## Luis Buñuel
+
+| Película                                       | Trama (breve)                                                                                         | Elementos Lacanianos                                                                                                                    |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Un perro andaluz (1929)**                    | Cortometraje surrealista junto a Dalí, hecho de imágenes oníricas y rupturas narrativas.              | El **Real** irrumpe en lo Imaginario y Simbólico; la lógica del **inconsciente como un lenguaje**; corte de ojo = castración simbólica. |
+| **La edad de oro (1930)**                      | Historia de amor frustrado que deviene en crítica feroz a la moral, la Iglesia y la familia burguesa. | Crítica a la función del **Nombre-del-Padre** y sus instituciones; imposibilidad del goce bajo la Ley; tensión entre deseo y represión. |
+| **Los olvidados (1950)**                       | Retrato de niños marginados en México, atrapados en violencia y miseria sin salida.                   | El sujeto como **producto del Otro social**; ausencia del Padre simbólico; pulsión de muerte en lo social; goce ligado a la exclusión.  |
+| **Viridiana (1961)**                           | Una novicia intenta practicar la caridad cristiana, pero termina en fracaso y degradación.            | Crítica a la **sublimación** religiosa; el deseo se confronta con lo imposible; el banquete blasfemo = retorno de lo reprimido.         |
+| **El ángel exterminador (1962)**               | Un grupo de burgueses queda atrapado en una mansión sin razón aparente, incapaces de salir.           | El **goce como encierro**; imposibilidad de atravesar el límite simbólico; repetición como estructura del inconsciente.                 |
+| **Diario de una camarera (1964)**              | Criada en casa burguesa francesa enfrenta la hipocresía, represión y violencia social.                | El deseo femenino frente al Otro masculino; la estructura de la **perversión** en la sociedad patriarcal.                               |
+| **Belle de jour (1967)**                       | Mujer burguesa se prostituye secretamente para realizar sus fantasías sexuales.                       | División subjetiva entre esposa y prostituta; el **objeto a** como causa del deseo; goce femenino más allá del falo.                    |
+| **Tristana (1970)**                            | Joven huérfana sometida por su tutor experimenta amputación física y emancipación ambivalente.        | La amputación = metáfora de la **castración**; ambivalencia deseo–odio hacia la figura paterna; deseo femenino emancipado.              |
+| **El discreto encanto de la burguesía (1972)** | Grupo de burgueses intenta cenar, pero siempre algo interrumpe la comida.                             | Imposibilidad del **satisfacer el goce**; deseo siempre diferido; crítica a la farsa del orden simbólico burgués.                       |
+| **El fantasma de la libertad (1974)**          | Vignetas absurdas que rompen la lógica narrativa (ej. comer en retretes, defecar en la mesa).         | Inversión del Simbólico; crítica a la arbitrariedad del lenguaje y la Ley; el **nudo borromeo deshecho**.                               |
+| **Ese oscuro objeto del deseo (1977)**         | Hombre obsesionado con una mujer que cambia de actriz (dos rostros para un mismo personaje).          | El objeto del deseo como **inaprehensible**; la mujer como semblante de lo imposible; división entre lo Imaginario y lo Real.           |
+
+## Pedro Almodóvar
+
+| Película                                            | Trama central                                                                                                                      | Elementos lacanianos                                                                                                                                                               |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mujeres al borde de un ataque de nervios (1988)** | Una actriz es abandonada por su amante y se enreda en una serie de enredos con mujeres igualmente desesperadas y hombres ausentes. | **Histeria femenina**: la mujer frente al deseo del Otro masculino. El **objeto voz** (los mensajes en el contestador). La imposibilidad de suturar el lazo amoroso.               |
+| **Tacones lejanos (1991)**                          | Una mujer regresa de México y se reencuentra con su hija, marcada por los amores y la sombra materna.                              | **Relación madre-hija** atravesada por el goce y la rivalidad. El **Nombre-del-Padre** debilitado. La **identificación fálica** en los vínculos amorosos.                          |
+| **La flor de mi secreto (1995)**                    | Una escritora de novelas románticas sufre depresión y crisis matrimonial mientras busca reinventarse.                              | **División del sujeto** entre el amor idealizado y la imposibilidad real. El **semblante de escritura** como suplencia simbólica.                                                  |
+| **Todo sobre mi madre (1999)**                      | Una madre pierde a su hijo y emprende una búsqueda en torno a la memoria, el teatro, las mujeres trans y la maternidad.            | **El duelo y la pérdida del objeto a.** El **semblante teatral** como vía de reconstrucción subjetiva. La maternidad como lugar de sustitución y falta.                            |
+| **Hable con ella (2002)**                           | La historia de dos hombres que cuidan a mujeres en coma, explorando el amor, la soledad y la comunicación imposible.               | **La voz y el silencio como objeto a.** La **forclusión de la palabra** y el acto como exceso. El **deseo en lo imposible** (amar a quien no responde).                            |
+| **Volver (2006)**                                   | Tres generaciones de mujeres enfrentan secretos familiares, abusos, fantasmas y la fuerza del lazo materno.                        | **El retorno de lo reprimido** en la figura de la madre muerta. El **fantasma familiar** como soporte del goce. La transmisión transgeneracional del trauma.                       |
+| **La piel que habito (2011)**                       | Un cirujano mantiene cautiva a una persona para transformarla en mujer tras la muerte de su hija.                                  | **El cuerpo como superficie de escritura simbólica.** Forclusión de la diferencia sexual. **Goce sádico y manipulación del objeto cuerpo.**                                        |
+| **Dolor y gloria (2019)**                           | Un director de cine en decadencia recuerda su infancia, sus amores y su relación con la creación.                                  | **El síntoma como sinthome** que sostiene al sujeto (la escritura, el cine). El **deseo del artista** como suplencia al vacío del goce. La memoria como construcción fantasmática. |
+
+## Wong Kar-Wai
+
+| Movie                           | Plot                                                                                                                                                     | Lacanian Elements                                                                                                                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Days of Being Wild (1990)**   | A young man, Yuddy, searches for his origins while drifting through fleeting romances. His existential restlessness leaves those who love him abandoned. | Desire without anchor (Yuddy’s endless wandering); **lack of the maternal signifier**; failed encounters with the Other; temporal discontinuity as symptom of absence.                             |
+| **Chungking Express (1994)**    | Two loosely connected stories of policemen and women in Hong Kong, both dealing with heartbreak and fleeting encounters.                                 | Object petit a (pineapple cans, blond wig, midnight snack stand); love as **misrecognition**; urban space as **Imaginary labyrinth**; repetition as symptom of loss.                               |
+| **Ashes of Time (1994)**        | Reimagining of wuxia tales: a swordsman-for-hire mediates stories of betrayal, desire, and memory.                                                       | Time as trauma (non-linear narrative = fractured Symbolic order); **Real of death** underlies martial encounters; desire displaced in allegorical form.                                            |
+| **Happy Together (1997)**       | A gay couple from Hong Kong struggles in Buenos Aires, torn between passion and destructive cycles.                                                      | Homosexuality as staging of **jouissance beyond the law**; cycles of break-up = **repetition compulsion**; Symbolic exile (displacement, rootlessness).                                            |
+| **In the Mood for Love (2000)** | Neighbors, betrayed by their spouses, begin a restrained relationship charged with longing, but never consummated.                                       | **Desire sustained by prohibition** (the affair never occurs); **objet petit a = missed encounter**; the **voice and silence** as Real remainder; temporality of deferred desire.                  |
+| **2046 (2004)**                 | A writer reflects on past love affairs through a sci-fi allegory about a place where nothing changes.                                                    | Fantasy-space (2046 = place of **stuck desire**); writing as **symptom**; endless return of lost love = **death drive**; temporal loop resists Symbolic closure.                                   |
+| **My Blueberry Nights (2007)**  | A woman drifts across the US after heartbreak, encountering other broken souls.                                                                          | The **gaze and object** (blueberry pie = banal object imbued with desire); **Nomadic subject** searching for a signifier of love; repetition of failure in Symbolic chains.                        |
+| **The Grandmaster (2013)**      | Story of Ip Man, martial artist, amid political upheavals and shifting allegiances.                                                                      | Collapse of **Name-of-the-Father** with regime changes; **martial discipline** as substitute for symbolic stability; missed love (Ip Man & Gong Er) = **structural impossibility of full desire**. |
+
+## Alfred Hitchcock
+
+| Movie                           | Plot Summary                                                                                                                                    | Lacanian Elements                                                                                                                                                         |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Psycho (1960)**               | Marion Crane steals money, hides in a motel run by Norman Bates, whose split psyche hides his dead mother’s personality.                        | Split subject (\$); the *Name-of-the-Father* foreclosed → psychosis; uncanny return of the maternal Thing; Real of the corpse in the basement; gaze through the peephole. |
+| **Vertigo (1958)**              | Retired detective Scottie falls in love with a woman who is part of a murder plot, becomes obsessed, and tries to recreate her after her death. | Object a as the lost feminine image; repetition compulsion; the Imaginary trap of the double; vertigo as the abyss of desire; Symbolic deception.                         |
+| **Rear Window (1954)**          | A photographer confined to a wheelchair spies on neighbors, suspects a murder, and projects desires/fears into what he sees.                    | The gaze (Lacan’s scopic drive); voyeurism; fantasy as structure; paranoia; the tension between seeing/being seen.                                                        |
+| **North by Northwest (1959)**   | An ad executive is mistaken for a spy, chased across the U.S., and entangled in espionage.                                                      | Misrecognition (méconnaissance); subject as a “signifier for another signifier”; Symbolic displacement of identity; the chase as endless metonymy of desire.              |
+| **The Birds (1963)**            | A small town is inexplicably attacked by birds; panic escalates, without clear explanation.                                                     | The Real intruding without Symbolic sense; jouissance of nature as threatening; lack of explanation as traumatic kernel; maternal overtones (mother–daughter tension).    |
+| **Notorious (1946)**            | A woman (Ingrid Bergman) spies on Nazis by marrying one of them, manipulated by the man she loves.                                              | Female as sacrificial object a; love/desire split; Symbolic demand versus Real jouissance; the poisoned milk as uncanny object.                                           |
+| **Shadow of a Doubt (1943)**    | A young woman suspects her beloved uncle of being a serial killer.                                                                              | Double/Other (Uncle Charlie as uncanny double); corruption of the paternal figure; intrusion of the Real into domestic Imaginary space.                                   |
+| **Strangers on a Train (1951)** | Two men meet, one suggests a murder exchange; one takes it seriously.                                                                           | “Double” as the Other fulfilling unconscious wish; split between ego and desire; Symbolic pact vs. psychotic acting-out.                                                  |
+| **Rope (1948)**                 | Two men murder a classmate, hide the body in a chest during a dinner party, to prove their superiority.                                         | Challenge to the paternal law; jouissance in transgression; body as hidden Real under Symbolic social rituals.                                                            |
+| **Dial M for Murder (1954)**    | A man plots to murder his wife for money, but the plan unravels.                                                                                | Failure of the paternal plan; Symbolic order reasserts itself; woman as object of exchange in the Symbolic.                                                               |
+| **Rebecca (1940)**              | A new wife is haunted by the lingering presence of her husband’s dead first wife.                                                               | The dead Rebecca as the “extimate” object a; the Other woman’s gaze shaping subjectivity; desire structured around absence.                                               |
+| **Spellbound (1945)**           | A psychiatrist uncovers her patient’s repressed trauma, revealing a past murder.                                                                | Repression and return of the repressed; dreams as access to unconscious truth; transference love.                                                                         |
+| **Suspicion (1941)**            | A woman suspects her charming husband of planning to kill her.                                                                                  | Paranoia; the feminine caught in Symbolic mistrust; uncanny poisoned milk as Real object.                                                                                 |
+
+## Federico Fellini
+
+| Film                               | Trama (breve)                                                                                                                               | Elementi Lacaniani                                                                                                                                                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **La Strada (1954)**               | Gelsomina, ingenua ragazza venduta a Zampanò, accompagna il rude artista di strada in una vita itinerante segnata da violenza e solitudine. | **Oggetto a**: Gelsomina come resto irrecuperabile, puro oggetto di godimento. **Altro**: Zampanò incapace di simbolizzare il suo legame. **Mancanza**: finale con grido disperato sul mare.                         |
+| **Le notti di Cabiria (1957)**     | La prostituta Cabiria cerca amore e redenzione, ma viene sempre ingannata e tradita, fino al finale aperto.                                 | **Speranza come fantasma**: Cabiria incarna la persistenza del desiderio. **Altro ingannevole**: figure maschili come specchi vuoti. **Soggetto barrato**: il sorriso finale segna un oltrepassamento della perdita. |
+| **La dolce vita (1960)**           | Marcello vaga per Roma in un turbine di feste, incontri mondani e crisi esistenziali, incapace di trovare un senso autentico.               | **Il Simbolico in crisi**: dissoluzione dei legami sociali. **Godimento immaginario**: mondanità, eccessi. **Reale**: il cadavere del pesce mostruoso sulla spiaggia, irrapresentabile.                              |
+| **8½ (1963)**                      | Un regista in crisi creativa e personale, Guido, fugge tra sogni, ricordi e desideri mentre tenta di fare un nuovo film.                    | **Il desiderio dell’Altro**: l’impossibilità di soddisfare la domanda. **Fantasma**: scena dell’harem. **Reale**: il vuoto creativo. **Nodo RSI**: circolarità finale con la danza.                                  |
+| **Giulietta degli spiriti (1965)** | Giulietta affronta le infedeltà del marito e si immerge in un mondo di visioni, ricordi e presenze oniriche.                                | **Inconscio femminile**: confronto con la jouissance altra. **Immaginario perturbante**: le visioni. **Separazione**: il cammino verso la propria autonomia simbolica.                                               |
+| **Amarcord (1973)**                | Ricordi d’infanzia e adolescenza a Rimini, tra famiglia, sessualità, scuola e politica.                                                     | **Ritorno del rimosso**: memoria come costruzione. **Padre castrato**: autorità ridicola. **Oggetto a**: la Gradisca come incarnazione del desiderio.                                                                |
+| **Casanova di Fellini (1976)**     | La vita del seduttore veneziano, vuota e meccanica, diventa una parabola di solitudine e artificio.                                         | **Godimento mortifero**: ripetizione vuota degli atti. **Immaginario come simulacro**: manichini, artifici. **Mancanza del Nome-del-Padre**: erotismo senza Legge.                                                   |
+| **E la nave va (1983)**            | Una nave trasporta le ceneri di una cantante lirica; passeggeri eccentrici rivelano vanità e meschinità.                                    | **Teatro del Simbolico**: la società come spettacolo. **Reale**: guerra che irrompe. **Immaginario**: artificiosità estetica che rivela il vuoto.                                                                    |
+| **Ginger e Fred (1986)**           | Due vecchi ballerini di varietà si ritrovano in uno show televisivo.                                                                        | **Nostalgia come fantasma**: la coppia come ideale perduto. **Simbolico svuotato**: televisione come macchina di godimento. **Oggetto a**: il gesto danzante che resta puro.                                         |
+
+## Volker Schlöndorff 
+
+| Film                                                                        | Handlung (Plot)                                                                                                                                                 | Lacanianische Elemente                                                                                                                                                     |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Der junge Törless (1966)**                                                | Adaption von Musils Roman: Ein junger Schüler erlebt im Internat die sadistische Demütigung eines Mitschülers, bleibt aber Zuschauer und Mitwisser.             | **Blick und Voyeurismus** (Törless als distanzierter Beobachter), **Über-Ich-Grausamkeit**, Sadismus/Masochismus als **jouissance**. Frage nach dem **Realem** der Gewalt. |
+| **Die verlorene Ehre der Katharina Blum (1975, mit Margarethe von Trotta)** | Eine Frau verbringt eine Nacht mit einem gesuchten Terroristen. Die Boulevardpresse zerstört ihr Leben durch Skandalisierung.                                   | **Das Symbolische der Sprache** als Waffe. Medien = Übermacht des **großen Anderen**. Katharina wird zum Opfer des **Diskurses des Anderen**.                              |
+| **Der Fangschuß (1976)**                                                    | Geschichte einer Liebestragödie im russischen Bürgerkrieg: Ein Offizier und seine Beziehung zu einer Frau, die zwischen Liebe und Politik zerbricht.            | **Begehren vs. Gesetz**: Liebeswunsch kollidiert mit politischem Real. Die Frau als **Objekt a**, unerreichbar, zerstört durch symbolische Ordnung.                        |
+| **Die Blechtrommel (1979)**                                                 | Oskar Matzerath weigert sich, erwachsen zu werden, und hört mit drei Jahren auf zu wachsen. Mit seiner Trommel rebelliert er gegen Familie und Nazideutschland. | **Verweigerung der Kastration** (Nicht-Erwachsenwerden). Trommel als **Objekt a**. Das Kind als Störung des **Symbolischen** (Gesetz, Ordnung, Erwachsenwerden).           |
+| **Ein Aufstand alter Männer (1987, US)**                                    | Afroamerikanische Landarbeiter in den USA kämpfen gegen Rassismus und Unterdrückung.                                                                            | Konflikt zwischen **Symbolischem Gesetz** (Rechtssystem, kolonial) und **Realem der Unterdrückung**. Die Revolte als Versuch, das **Sinnlose** des Realen zu artikulieren. |
+| **Homo Faber (1991)**                                                       | Adaption von Max Frisch: Ingenieur Walter Faber erlebt eine Inzestbeziehung mit seiner eigenen Tochter, ohne es zu wissen.                                      | **Verdrängung und Wiederkehr des Verdrängten**, Inzest als **Überschreiten des väterlichen Gesetzes**. Konfrontation mit dem **Realem der Schuld**.                        |
+| **Der Unhold (1996)**                                                       | NS-Verführungsgeschichte: Ein Mann gerät in den Bann des Faschismus durch Karriere und Ideologie.                                                               | **Der faschistische Diskurs** als pervertierter **Meisterdiskurs**. Subjekt verschwindet im **großen Anderen** der Ideologie.                                              |
+| **Die Stille nach dem Schuss (2000)**                                       | Ex-Terroristin lebt im Untergrund in der DDR und erlebt nach der Wende die Auflösung ihrer Identität.                                                           | **Verlust des großen Anderen** (Staat, Ideologie). Identitätskrise als **Spaltung des Subjekts**.                                                                          |
+| **Diplomatie (2014)**                                                       | Gespräch zwischen General von Choltitz (der Paris zerstören soll) und dem schwedischen Diplomaten Nordling.                                                     | **Sprache als Handlung**. Macht des **Signifikanten** im Aufschub der Zerstörung. Paris als **Objekt a** im geopolitischen Begehren.                                       |
+
+## Ingmar Bergman
+
+| Film                                | Plot (short)                                                                                                         | Lacanian Elements                                                                                                                                                           |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Smiles of a Summer Night (1955)** | A comedy of mismatched lovers and erotic entanglements during a midsummer night.                                     | Imaginary of love and desire; Symbolic order of marriage vs. jouissance; phallic signifiers in sexual games.                                                                |
+| **The Seventh Seal (1957)**         | A knight returning from the Crusades plays chess with Death, searching for meaning amidst plague and silence of God. | Confrontation with the **Real (death, jouissance)**; the **Name-of-the-Father** absent (God’s silence); desire as lack of certainty; Symbolic collapse.                     |
+| **Wild Strawberries (1957)**        | An aging professor revisits his past through dreams and encounters, reflecting on lost love, mortality, and meaning. | Imaginary narcissism and confrontation with **mirror stage**; dreams reveal unconscious; Symbolic guilt and debt to others; desire unfulfilled.                             |
+| **Through a Glass Darkly (1961)**   | A woman struggles with schizophrenia, blurring reality and psychosis, and sees God as a spider.                      | **Psychotic foreclosure** of the Name-of-the-Father; collapse of the Symbolic; the spider-God as terrifying **Real**; feminine jouissance.                                  |
+| **Winter Light (1963)**             | A pastor loses faith, unable to reconcile God’s silence with suffering, echoing existential emptiness.               | **Crisis of the Symbolic (religion)**; God as absent signifier; **objet a** in the suffering of others; transference collapse.                                              |
+| **The Silence (1963)**              | Two sisters with a child travel through a foreign country, unable to communicate; eroticism and despair dominate.    | **Failure of language (Symbolic)**; Imaginary rivalry between sisters; child as witness to jouissance; intrusion of the Real (war, foreign signs).                          |
+| **Persona (1966)**                  | An actress falls mute, a nurse cares for her, identities blur in a destructive merging of self and other.            | Radical **Imaginary identification**; dissolution of subject in the Other’s desire; **mirror stage reversed**; Real of silence and jouissance; Symbolic collapse of speech. |
+| **Hour of the Wolf (1968)**         | An artist descends into madness, haunted by demons of creation and sexuality.                                        | The **Real of psychosis**; Imaginary demons as projections; foreclosure of the paternal function; jouissance overwhelming Symbolic stability.                               |
+| **Shame (1968)**                    | A couple struggles for survival during war, revealing moral and personal collapse.                                   | Breakdown of Symbolic (social order); Imaginary couple love fails; Real of war and jouissance of violence; objet a in survival.                                             |
+| **Cries and Whispers (1972)**       | Three sisters (and a maid) gather as one dies painfully; repressed emotions and rivalries emerge.                    | Feminine jouissance (body, pain, hysteria); Symbolic order of family failing; Imaginary sisterhood/desire; Real of death and suffering.                                     |
+| **Scenes from a Marriage (1974)**   | The dissection of a marriage through conflict, infidelity, divorce, and enduring bond.                               | Desire, castration, phallic rivalry; Symbolic institution of marriage fails; Imaginary couple mirrored in hatred; endless cycle of jouissance.                              |
+| **Autumn Sonata (1978)**            | A daughter confronts her pianist mother about neglect, art, and love.                                                | Maternal **Name-of-the-Mother** vs. Symbolic lack; Imaginary demand for love; jouissance of artistic creation vs. maternal duty.                                            |
+| **Fanny and Alexander (1982)**      | Children endure a tyrannical stepfather (bishop), with refuge in family, theatre, and imagination.                   | **Name-of-the-Father** as traumatic law (bishop); Imaginary richness of theatre; Symbolic vs. Real authority; child’s jouissance in fantasy.                                |
+| **Saraband (2003)**                 | An elderly couple (from *Scenes*) revisit unresolved conflicts; trauma repeats across generations.                   | Return of the repressed; transgenerational **phantasm**; repetition compulsion; Symbolic scars of failed desire.                                                            |
+
+## Asghar Farhadi
+
+| Filme                      | Enredo                                                                                                                                    | Elementos Lacanianos                                                                                                                                                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **About Elly (2009)**      | Um grupo de amigos viaja à beira-mar; o desaparecimento de Elly desencadeia tensão, mentiras e culpa coletiva.                            | O **objeto a** é Elly, cuja ausência estrutura todo o desejo e o gozo dos outros. O **Real** irrompe no desaparecimento, impossível de simbolizar. A dinâmica mostra o peso do **Outro** social e da mentira.                |
+| **A Separation (2011)**    | Um casal em processo de divórcio entra em conflito com uma cuidadora contratada; as tensões revelam ética, religião e classe.             | O **Nome-do-Pai** é tensionado pelo colapso da autoridade moral. A “separação” é também entre os registros do RSI: o **Simbólico** (lei, religião), o **Imaginário** (família idealizada) e o **Real** (enfermidade, morte). |
+| **The Past (2013)**        | Um iraniano retorna a Paris para finalizar o divórcio; segredos familiares e dramas não ditos emergem.                                    | O peso dos **significantes do Outro** (o passado) estrutura os sujeitos. O **fantasma** organiza a narrativa: a busca por uma verdade impossível de dizer.                                                                   |
+| **The Salesman (2016)**    | Um casal encena *A Morte do Caixeiro Viajante*; após um ataque, a relação conjugal se desestabiliza.                                      | A peça encenada funciona como **metonímia do inconsciente**. O trauma do ataque é o encontro com o **Real do gozo**. O marido busca reconstituir sua virilidade no **Imaginário**, fracassando no Simbólico.                 |
+| **Everybody Knows (2018)** | Uma espanhola retorna ao vilarejo natal; o sequestro de sua filha revela segredos e ressentimentos familiares.                            | O sequestro da filha é o **objeto perdido**, catalisando revelações. O inconsciente coletivo da família é exposto como rede de **significantes amarrados pelo segredo**. O **Real** irrompe como ameaça.                     |
+| **A Hero (2021)**          | Um homem preso por dívidas encontra uma bolsa de ouro; ao devolver, é considerado herói, mas as contradições morais e sociais o destroem. | O herói é capturado pelo **discurso do Outro social**. O ouro funciona como **objeto a** (valor simbólico versus valor real). O filme mostra o fracasso do **Simbólico** em sustentar uma imagem estável de sujeito.         |
+
+## Satyajit Ray
+
+| Filme                                             | Enredo                                                                                                                                                      | Elementos Lacanianos                                                                                                                                                              |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pather Panchali (1955)**                        | Primeiro da Trilogia de Apu. Mostra a infância de Apu em uma aldeia pobre de Bengala, suas descobertas, a relação com a irmã Durga, a mãe e o pai sonhador. | **Falta estrutural**: a miséria e a morte da irmã revelam o "Real" da perda. A criança é confrontada com o **desejo materno** e a precariedade como inscrição simbólica.          |
+| **Aparajito (1956)**                              | Continuação: Apu adolescente lida com a morte do pai, a dedicação da mãe, sua entrada na cidade e os estudos.                                               | **Separação da mãe**: o conflito entre permanecer objeto do desejo materno e buscar sua autonomia (Nome-do-Pai). **Ruptura simbólica** entre campo e cidade.                      |
+| **Apur Sansar (1959)**                            | Último da trilogia: Apu adulto, marcado pela morte da esposa após o parto, inicialmente rejeita o filho, mas depois assume a paternidade.                   | **Rejeição do falo / retorno ao simbólico**: a recusa do filho é um "foraclusão" temporária do laço, reintegrado pelo reencontro – metáfora da **transmissão do Nome-do-Pai**.    |
+| **Charulata (1964)**                              | História de Charu, esposa solitária de um intelectual, que descobre seu desejo através da escrita e da amizade com o primo do marido.                       | **Desejo feminino**: Charu é marcada pela insatisfação simbólica e pelo olhar. O **objeto a** aparece no primo. A cena final (a mão suspensa) mostra o **desejo sem fechamento**. |
+| **Mahanagar (1963)**                              | Uma dona de casa de Calcutá começa a trabalhar e encontra autonomia, gerando tensões no casamento e na família.                                             | **Emancipação do sujeito feminino**: entrada no campo simbólico social. Conflito entre **função paterna tradicional** e nova inscrição do feminino.                               |
+| **Devi (1960)**                                   | Um homem acredita que sua nora é a encarnação da deusa Kali, levando-a à destruição.                                                                        | **Psicose religiosa**: foraclusão do Nome-do-Pai (o sogro institui a nora como “objeto divino”). A jovem se torna **objeto do gozo do Outro**, anulando sua subjetividade.        |
+| **Jalsaghar (1958)**                              | Um zamindar decadente insiste em manter seu salão de música enquanto seu mundo se desmorona.                                                                | **Narcisismo** e **fixação imaginária**: apego ao gozo perdido. A queda do zamindar mostra o colapso do **Imaginário aristocrático** diante do Real da modernidade.               |
+| **The Chess Players (Shatranj ke Khilari, 1977)** | Dois nobres se distraem com o xadrez enquanto os britânicos tomam o reino de Oudh.                                                                          | **Desmentido da castração**: a recusa em assumir a perda política. O xadrez como **metáfora do deslocamento significante**, negando o Real da colonização.                        |
+| **Kanchenjunga (1962)**                           | Uma família burguesa em férias no Himalaia, com conflitos entre gerações, casamento arranjado e liberdade individual.                                       | **Cadeia significante familiar**: o Nome-do-Pai em conflito com o desejo feminino. A paisagem funciona como **Real sublime**, moldando as posições subjetivas.                    |
+| **Agantuk (1991)**                                | Um homem retorna após décadas dizendo ser o tio desaparecido; a família duvida de sua identidade.                                                           | **Questão da identidade e do Outro**: o estrangeiro encarna a figura do **sujeito barrado**, onde o reconhecimento depende do simbólico. O impasse: **quem é o Outro?**           |
+
+## Park Chan-wook
+
+| 영화                    | 줄거리 (Plot)                                   | 라캉적 분석 (Lacanian Reading)                                                                         |
+| --------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **공동경비구역 JSA (2000)** | 판문점에서 남북 병사 간 우정이 비극적으로 끝나는 이야기.             | **상징계의 분할**: 남과 북의 경계는 국가라는 거대한 상징계의 절대적 법. **상상계의 우정**은 잠시 실재의 틈새를 열지만, 결국 상징계의 폭력이 파국을 낳음.      |
+| **올드보이 (2003)**       | 이유 없이 15년간 감금된 오대수가 복수의 진실을 찾아가는 이야기.        | **실재의 귀환**: 근친상간의 비밀은 상징화 불가능한 실재. 복수는 욕망의 사슬을 따라가지만 끝내 무한회귀. "너는 누구의 욕망을 욕망하느냐?"라는 질문이 전면에 드러남.  |
+| **친절한 금자씨 (2005)**    | 13년간 옥살이를 한 금자가 복수와赦(용서)를 선택하는 이야기.          | **욕망과 윤리**: 라캉이 말한 "네 욕망에 대해 양심적으로 행동하라"를 전면화. 복수는 단순한 충동이 아니라 주체가 자기 욕망을 재구성하는 과정.               |
+| **박쥐 (2009)**         | 신부가 우연히 뱀파이어가 되며 욕망과 죄의식 사이에서 갈등.            | **초자아적 명령**: 성적·육체적 욕망과 종교적 금지의 충돌. 금기와 쾌락의 공존은 초자아의 폭력적 요구를 드러냄. 실재적 욕망(피)은 상징계와 화해할 수 없음.       |
+| **스토커 (2013)**        | 아버지의 죽음 후 찾아온 삼촌이 소녀의 욕망을 각성시키며 불안과 파멸을 불러옴. | **오이디푸스 구조의 변주**: 아버지의 부재, 새로운 타자(삼촌)의 등장으로 욕망이 뒤틀림. 상상계적 매혹과 실재적 폭력이 겹쳐져 주체의 분열이 극대화됨.           |
+| **아가씨 (2016)**        | 사기꾼과 하녀, 상속녀가 얽히는 욕망·권력·성적 해방의 이야기.          | **욕망의 다른 사람**: 여성들 간 욕망의 연대가 남성적 상징계의 폭력을 전복. 쾌락은 환상의 해체와 함께 실재를 향한 돌파구로 기능.                      |
+| **헤어질 결심 (2022)**     | 형사와 용의자의 금지된 사랑, 욕망과 죽음의 엇갈림.                | **사랑과 결여**: 욕망은 끝내 채워지지 않는 결핍에서 발생. 바다는 **실재의 은유**, 말해지지 않는 것의 장. 사랑은 주체가 자신의 욕망을 타인 속에서 마주하는 자리. |
+
+## Walter Salles
+
+| Filme                                   | Enredo (Plot)                                                                                                                                                                                     | Análise Lacaniana                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Central do Brasil (1998)**            | Dora, uma ex-professora, ganha a vida escrevendo cartas para analfabetos na estação Central do Brasil. Após a morte de uma mãe, ela embarca numa jornada com o menino Josué em busca do pai dele. | A escrita das cartas marca a função simbólica e a alienação do sujeito no Outro. Dora inicialmente ocupa o lugar de mestra da linguagem (decide o destino das cartas), mas sua travessia com Josué a confronta com a falta e a leva ao **atravessamento do fantasma**, permitindo que o desejo circule. Relação com RSI: Real (orfandade), Simbólico (a escrita), Imaginário (o vínculo Dora-Josué). |
+| **Terra Estrangeira (1996)**            | Paco, após a morte da mãe, vai a Lisboa em busca de novas possibilidades e se envolve em um tráfico de pedras preciosas.                                                                          | O exílio de Paco revela a perda de lugar no **Outro** (pátria, mãe). A diáspora aponta para o **Real da desterritorialização**, onde o sujeito fica suspenso entre identidades. A errância é tentativa de sutura da falta estrutural, um movimento topológico semelhante à Garrafa de Klein: dentro/fora, pátria/exílio.                                                                             |
+| **Abril Despedaçado (2001)**            | Em um sertão árido, uma família vive sob a lei da vingança: Tonho deve vingar a morte do irmão, mas encontra-se dividido entre a tradição e o desejo de escapar.                                  | A lógica da vingança é o **Nome-do-Pai como Lei simbólica absoluta**. Tonho está preso no circuito da repetição (pulsão de morte). Seu impasse é a própria estrutura da neurose: seguir a Lei do Outro ou abrir-se ao desejo singular. O filme encena a relação entre **castração e desejo**, e a possível saída da lógica mortífera pela inscrição de um novo significante.                         |
+| **Diários de Motocicleta (2004)**       | Jovem Che Guevara e seu amigo Alberto viajam pela América Latina. A viagem desperta nele uma consciência política e social.                                                                       | O road movie é a **travessia do fantasma**: o sujeito confronta a alteridade (os povos indígenas, os doentes, a pobreza) e se reinscreve no desejo. O encontro com o Real da miséria funciona como aquilo que não se simboliza, mas que convoca a um reposicionamento subjetivo.                                                                                                                     |
+| **Linha de Passe (2008)**               | Quatro irmãos de periferia de São Paulo e sua mãe enfrentam dificuldades, cada um buscando um caminho de sobrevivência e sentido.                                                                 | A ausência de um **Nome-do-Pai unificador** faz com que cada filho busque um ponto de consistência no gozo (futebol, religião, criminalidade, maternidade). O filme expõe o campo do **Não-todo**: a vida não se organiza por uma Lei única, mas pela fragmentação de gozos singulares.                                                                                                              |
+| **Na Estrada (On the Road, 2012)**      | Adaptação do romance de Jack Kerouac: jovens percorrem os EUA em busca de liberdade, sexo, drogas e experiências existenciais.                                                                    | O filme encena o **gozo errante**, a busca pelo “gozo feminino” (não-todo, ilimitado) que escapa à lógica fálica. A errância é movida pelo excesso de desejo, mas também evidencia a impossibilidade de fixar-se. Estrutura semelhante à topologia da Garrafa de Klein: os limites entre dentro/fora se apagam.                                                                                      |
+| **Dark Water (2005, versão americana)** | Uma mãe divorciada e sua filha mudam para um prédio onde começam a ocorrer eventos estranhos envolvendo água e fantasmas.                                                                         | A água funciona como metáfora do **gozo transbordante do Real**, aquilo que retorna incessantemente. A mãe é confrontada com a sua posição no **fantasma materno**, enquanto a filha encarna o objeto a, o ponto de desejo e de angústia.                                                                                                                                                            |
+
+
+Jean-Luc Godard
+À bout de souffle 1960
+Le Mépris 1963
+Pierrot le Fou1965
+Alphaville1965
+Deux ou trois choses que je sais d’elle 1967
+La Chinoise 1967
+Week-end1967
+Vivre sa vie1962
+La Femme est l’avenir de l’homme2000
+
+Hirokazu Koreeda
+誰も知らない (2004) 
+歩いても 歩いても (2008)
+そして父になる (2013) 
+海街diary (2015) |
+三度目の殺人 (2017) 
+万引き家族 (Shoplifters) (2018)
+ベイビー・ブローカー (2022) 
+
+Andrey Zvyagintsev
+Возвращение (2003)
+Изгнание (2007) 
+Елена (2011)
+Левиафан (2014) 
+Нелюбовь (2017) 
+Спутник (2020, продюсер)
+Капитан Волконогов бежал (2021, сопродюсер) 
+
+Luis Buñuel
+Un perro andaluz (1929)
+La edad de oro (1930)
+Los olvidados (1950) 
+Viridiana (1961) 
+El ángel exterminador (1962) 
+Diario de una camarera (1964)
+Belle de jour (1967) 
+Tristana (1970)
+El discreto encanto de la burguesía (1972) 
+El fantasma de la libertad (1974)
+Ese oscuro objeto del deseo (1977) 
+
+Pedro Almodóvar
+Mujeres al borde de un ataque de nervios (1988) 
+Tacones lejanos (1991)
+La flor de mi secreto (1995)
+Todo sobre mi madre (1999)
+Hable con ella (2002) 
+Volver (2006) 
+La piel que habito (2011) 
+Dolor y gloria (2019) 
+
+Wong Kar-Wai
+Days of Being Wild (1990) 
+Chungking Express (1994)
+Ashes of Time (1994)
+Happy Together (1997) 
+In the Mood for Love (2000) 
+2046 (2004) 
+My Blueberry Nights (2007)
+The Grandmaster (2013)
+
+Alfred Hitchcock
+Psycho (1960) 
+Vertigo (1958)
+Rear Window (1954)
+North by Northwest (1959) 
+The Birds (1963)
+Notorious (1946)
+Shadow of a Doubt (1943)
+Strangers on a Train (1951) 
+Rope (1948) 
+Dial M for Murder (1954)
+Rebecca (1940)
+Spellbound (1945) 
+Suspicion (1941)
+
+Federico Fellini
+La Strada (1954)
+Le notti di Cabiria (1957)
+La dolce vita (1960)
+8½ (1963)
+Giulietta degli spiriti (1965)
+Amarcord (1973)
+Casanova di Fellini (1976)
+E la nave va (1983)
+Ginger e Fred (1986)
+
+Volker Schlöndorff 
+Der junge Törless (1966)
+Die verlorene Ehre der Katharina Blum (1975, mit Margarethe von Trotta)
+Der Fangschuß (1976)
+Die Blechtrommel (1979)
+Ein Aufstand alter Männer (1987, US)
+Homo Faber (1991)
+Der Unhold (1996)
+Die Stille nach dem Schuss (2000)
+Diplomatie (2014)
+
+Ingmar Bergman
+Smiles of a Summer Night (1955)
+The Seventh Seal (1957)
+Wild Strawberries (1957)
+Through a Glass Darkly (1961)
+Winter Light (1963)
+The Silence (1963)
+Persona (1966)
+Hour of the Wolf (1968)
+Shame (1968)
+Cries and Whispers (1972)
+Scenes from a Marriage (1974)
+Autumn Sonata (1978)
+Fanny and Alexander (1982)
+Saraband (2003)
+
+Park Chan-wook
+공동경비구역 JSA (2000)
+올드보이 (2003)
+친절한 금자씨 (2005)
+박쥐 (2009)
+스토커 (2013)
+아가씨 (2016)
+헤어질 결심 (2022)
+
+Satyajit Ray
+Pather Panchali (1955)
+Aparajito (1956)
+Apur Sansar (1959)
+Charulata (1964)
+Mahanagar (1963)
+Devi (1960)
+Jalsaghar (1958)
+The Chess Players (Shatranj ke Khilari, 1977)
+Kanchenjunga (1962)
+Agantuk (1991)
+
+Asghar Farhadi
+About Elly (2009)
+A Separation (2011)
+The Past (2013)
+The Salesman (2016)
+Everybody Knows (2018)
+A Hero (2021)
+
+Walter Salles
+Central do Brasil (1998)
+Terra Estrangeira (1996)
+Abril Despedaçado (2001)
+Diários de Motocicleta (2004)
+Linha de Passe (2008)
+Na Estrada (On the Road, 2012)
+Dark Water (2005, versão americana)
