@@ -580,6 +580,37 @@ https://www.imdb.com/name/nm2304675/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Lulu%252
 
 # Best of Director
 
+Jean-Luc Godard
+Hirokazu Koreeda
+Andrey Zvyagintsev
+Luis Buñuel
+Pedro Almodóvar
+Wong Kar-Wai
+Alfred Hitchcock
+Federico Fellini
+Volker Schlöndorff 
+Ingmar Bergman
+Asghar Farhadi
+Satyajit Ray
+Park Chan-wook
+Walter Salles
+
+https://www.imdb.com/title/tt0118694/mediaviewer/rm93588992/?ref_=tt_ov_i | In the Mood for Love (2000)
+https://www.imdb.com/title/tt0408664/mediaviewer/rm4108044033/?ref_=tt_ov_i | Nobody Knows (2004)
+https://www.imdb.com/title/tt0095675/mediaviewer/rm3571401217/?ref_=tt_ov_i | Women on the Verge of a Nervous Breakdown (1988)
+https://www.imdb.com/title/tt4016934/mediaviewer/rm1566347521/?ref_=tt_ov_i | The Handmaiden (2016)
+https://www.imdb.com/title/tt0047396/mediaviewer/rm2152008192/?ref_=tt_ov_i | Rear Window (1954)
+https://www.imdb.com/title/tt0060574/mediaviewer/rm2104051456/?ref_=tt_ov_i | Young Törless (1966)
+https://www.imdb.com/title/tt0376968/mediaviewer/rm3731180032/?ref_=tt_ov_i | The Return (2003)
+https://www.imdb.com/title/tt1832382/mediaviewer/rm1048720128/?ref_=tt_ov_i | A Separation (2011)
+https://www.imdb.com/title/tt0059592/mediaviewer/rm2754535424/?ref_=tt_ov_i | Pierrot le fou (1965)
+https://www.imdb.com/title/tt0140888/mediaviewer/rm3102092033/?ref_=tt_ov_i | Central Station (1998)
+https://www.imdb.com/title/tt0048473/mediaviewer/rm115402241/?ref_=tt_ov_i | Pather Panchali (1955)
+https://www.imdb.com/title/tt0050986/mediaviewer/rm1843848449/?ref_=tt_ov_i | Wild Strawberries (1957)
+https://www.imdb.com/title/tt0050783/mediaviewer/rm4206147841/?ref_=tt_ov_i | Nights of Cabiria (1957)
+https://www.imdb.com/title/tt0042804/mediaviewer/rm3683987713/?ref_=tt_ov_i | The Young and the Damned (1950)
+
+
 ## Jean-Luc Godard
 | **Film**                                  | **Année** | **Résumé / intrigue**                                                                                         | **Éléments lacaniens**                                                                                                                                                                                      |
 | ----------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
