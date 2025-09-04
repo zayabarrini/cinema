@@ -120,54 +120,54 @@ Uk + Billy Elliot uk
 
 
 # 04/09/25
- '1928 The Passion of Joan of Arc'
- '1931 M'
- '1939 Rules of the Game'
- '1939 The Wizard Of Oz'
- '1946 Shoeshine (Vittorio.De.Sica) it'
- '1947 Monsieur Verdoux'
- '1948 The Red Shoes'
- '1950 Los Olvidados'
- '1950 Sunset Boulevard - Film Noir'
- '1953 Tokyo Story'
- '1955 Rififi'
- '1956 And God Created The Woman'
- '1957 Wild Strawberries '
- '1958 Cat On A Hot Tin Roof - (1958) Paul Newman, Elizabeth Taylor, Burl Ives'
- '1961 Through a Glass Darkly '
- '1964 The Gospel According to St Matthew it'
- '1966 Persona'
- '1967 Belle De Jour'
- '1968 Hour of the Wolf, Ingmar Bergman'
- '1968 Shame'
- '1970 The Conformist '
- '1971 The Devils'
- "1973 Federico Fellini's Amarcord"
- '1974 Scenes from a Marriage'
- '1975 Jeanne Dielman'
- '1976 In the Realm of the Senses'
- '1977 News From Home, Chantal Akerman'
- '1979 Life of Brian '
- '1979 Norma Rae'
- '1979 The Tin Drum, Volker'
- '1980 The Shining'
- '1981 Mephisto de'
- '1982 F&A sw'
- '1984 Once Upon A Time In America'
- "1987 Babette's Feast sw"
- '1988 The Last Temptation Of Christ'
- '1994 Satantango sw'
- '1996 Secrets and Lies'
- '1999 Dogma'
- '2001 Mulholland Drive'
- '2001 Ombre dal profondo'
- '2004 Veer Zaara hi'
- '2006 Notes on a Scandal'
- '2009 Mother'
- '2011 Calm at Sea, Volker'
- '2016 Before the Fall'
- '2017 1987 When the Day Comes  ko'
- '2018 My Best Friend'
- '2019 Adam ar'
- '2019 Away'
- '2021 Red Rocket'
+1928 The Passion of Joan of Arc
+1931 M
+1939 Rules of the Game
+1939 The Wizard Of Oz
+1946 Shoeshine (Vittorio.De.Sica) it
+1947 Monsieur Verdoux
+1948 The Red Shoes
+1950 Los Olvidados
+1950 Sunset Boulevard - Film Noir
+1953 Tokyo Story
+1955 Rififi
+1956 And God Created The Woman
+1957 Wild Strawberries 
+1958 Cat On A Hot Tin Roof - (1958) 
+1961 Through a Glass Darkly 
+1964 The Gospel According to St Matthew it
+1966 Persona
+1967 Belle De Jour
+1968 Hour of the Wolf, Ingmar Bergman
+1968 Shame
+1970 The Conformist 
+1971 The Devils
+1973 Federico Fellinis Amarcord
+1974 Scenes from a Marriage
+1975 Jeanne Dielman
+1976 In the Realm of the Senses
+1977 News From Home, Chantal Akerman
+1979 Life of Brian 
+1979 Norma Rae
+1979 The Tin Drum, Volker
+1980 The Shining
+1981 Mephisto de
+1982 F&A sw
+1984 Once Upon A Time In America
+1987 Babettes Feast sw
+1988 The Last Temptation Of Christ
+1994 Satantango sw
+1996 Secrets and Lies
+1999 Dogma
+2001 Mulholland Drive
+2001 Ombre dal profondo
+2004 Veer Zaara hi
+2006 Notes on a Scandal
+2009 Mother
+2011 Calm at Sea, Volker
+2016 Before the Fall
+2017 1987 When the Day Comes  ko
+2018 My Best Friend
+2019 Adam ar
+2019 Away
+2021 Red Rocket
