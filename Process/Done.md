@@ -171,3 +171,9 @@ Uk + Billy Elliot uk
 2019 Adam ar
 2019 Away
 2021 Red Rocket
+
+1962 Sundays and Cybele fr
+1970 Investigating a citizen above suspition it
+1988 Story of Women fr
+2009 Thirst (Bakjwi) ko
+2022 Suzume
