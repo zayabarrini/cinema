@@ -1,12 +1,19 @@
 ---
+
 title: "Korean Music"
+
 imgUrl: "/css/img/Bing/bing106.png"
+
 youtubeId: ""
+
 publishedAt: "2025-02-24"
+
 summary: "Grammar, Pronunciation, Verb Conjugation, Psychoanalysis, Cinema, etc"
+
 ---
 
 https://genius.com/artists/Bts | BTS Lyrics, Songs, and Albums | Genius
+
 https://genius.com/artists/Blackpink | BLACKPINK Lyrics, Songs, and Albums | Genius
 
 # BTS
@@ -11906,5 +11913,6 @@ Good luck
 너의 각막 깜짝 놀라지
 
 [정국/지민] 꽤 꽤 폼나지 포 포 폼나지
+
 
 

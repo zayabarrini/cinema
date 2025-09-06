@@ -1,22 +1,23 @@
----
-title: "Russian Songs"
-imgUrl: "/css/img/Bing/bing25.png"
-youtubeId: ""
-publishedAt: "2025-02-24"
-summary: "Milano, Jazeek"
----
-
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Jakone and Kiliana](#jakone-and-kiliana)
+
   - [Асфальт](#)
+
   - [Slovo Pazana](#slovo-pazana)
+
   - [Tralli-Valli](#tralli-valli)
+
   - [Ushla](#ushla)
+
   - [Roadrunner](#roadrunner)
+
   - [Manila](#manila)
+
   - [Ты меня манила](#-)
+
   - [Guarana](#guarana)
+
   - [Glaza](#glaza)
 
 <!-- TOC end -->
@@ -24,9 +25,13 @@ summary: "Milano, Jazeek"
 # Russian Singers
 
 https://www.musixmatch.com/artist/Jecito | Jecito lyrics | Musixmatch
+
 https://genius.com/artists/Jony | JONY Lyrics, Songs, and Albums | Genius
+
 https://genius.com/artists/Egor-kreed | Егор Крид (Egor Kreed) Lyrics, Songs, and Albums | Genius
+
 https://genius.com/artists/Jakone | Jakone Lyrics, Songs, and Albums | Genius
+
 https://genius.com/artists/Kiliana | Kiliana Lyrics, Songs, and Albums | Genius
 
 <!-- TOC --><a name="jakone-and-kiliana"></a>
@@ -964,3 +969,4 @@ Den an sie hab ich meine Seele verkauft
 И увидел в них себя
 
 И увидел в них себя (2х)
+
