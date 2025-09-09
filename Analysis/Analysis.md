@@ -1,3 +1,21 @@
+https://chat.deepseek.com/a/chat/s/8ad63a92-b281-4fda-87fb-b34528f31def | DeepSeek
+https://chatgpt.com/c/67aa0331-18f4-8012-9507-4c42a258750c | American Cinema
+https://chatgpt.com/c/67aa018e-af28-8012-83ee-c3944a5612db | French Cinema
+https://chatgpt.com/c/67aa03dd-ff88-8012-ae07-4572d58254b2 | Hindi Cinema
+https://chatgpt.com/c/67aa035e-9288-8012-b8fe-029ed339ec08 | Arabic Cinema
+https://chatgpt.com/c/67aa0349-4500-8012-8e46-724abbbded43 | Brazilian Cinema
+https://chatgpt.com/c/67aa03a1-d200-8012-b0e1-130bc5e42259 | Chinese Cinema
+https://chatgpt.com/c/67aa03b3-97f8-8012-9999-b8d6aeff0ab5 | Japanese Cinema
+https://chatgpt.com/c/68c08c2e-6f90-8322-838b-31bb06081b5f | Spanish Cinema
+https://chatgpt.com/c/68a0f06e-ae14-8320-a755-afae69d79c05 | Other Cinema
+https://chatgpt.com/c/67aa0126-ede4-8012-a76b-2a67bd912fbd | German Cinema
+https://chatgpt.com/c/67aa02a1-c798-8012-b29b-bffa0d3d0652 | Italian Cinema
+https://chatgpt.com/c/67aa01df-ccd8-8012-893a-ecde61d6b68d | Russian Cinema
+https://chatgpt.com/c/67aa03c8-b8c0-8012-8a7d-97046f42f0d4 | Korean Cinema
+https://chatgpt.com/c/67aa02ef-0e4c-8012-8327-0f3f03b140fc | UK Cinema
+
+
+
 ├── De
 │   ├── Die Welle (2008) de
 │   └── The White Ribbon 2009 de
