@@ -1970,3 +1970,62 @@ https://thepiratebay10.xyz/search/Cake%2014
 https://thepiratebay10.xyz/search/The%Nightshifter%2018
 https://thepiratebay10.xyz/search/Clash%of%the%Titans%2010
 https://thepiratebay10.xyz/search/Bones%2001
+
+# Lacan part 2
+
+https://www.imdb.com/title/tt0020530/?ref_=nv_sr_srsg_0_tt_2_nm_1_in_0_q_UN%2520PERRO%2520ANDALUZ%2520(1929) | Un chien andalou (Short 1929) - IMDb
+https://www.imdb.com/title/tt1073536/?ref_=nv_sr_srsg_0_tt_4_nm_1_in_0_q_HENRI%2520MATISSE%2520(1946) | Henri Matisse (Short 1946) - IMDb
+https://www.imdb.com/title/tt0045361/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_%25C3%2589L%2520(1953) | El (1953) - IMDb
+https://www.imdb.com/title/tt0054738/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_%2520(PARLEZ-MOI%2520D%25E2%2580%2599AMOUR)%2520%2520(1961) | Che femmina!! E... che dollari! (1961) - IMDb
+https://www.imdb.com/title/tt0062773/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_CALCUTA%2520(1969) | Calcutta (1969) - IMDb
+https://www.imdb.com/title/tt33254780/?ref_=fn_all_ttl_3 | "The School of Life" PSYCHOTHERAPY - Jacques Lacan (TV Episode 2016) - IMDb
+https://www.imdb.com/title/tt12258296/?ref_=fn_all_ttl_1 | A proposito del seminario di Jacques Lacan (TV Series 2020– ) - IMDb
+https://www.imdb.com/title/tt8690512/episodes/?ref_=tt_ov_ep_epl | La Tronche en Live (TV Series 2015– ) - Episode list - IMDb
+
+# Best Actress Oscar Winner
+
+https://thepiratebay10.xyz/search/Klute%(1971)%
+https://thepiratebay10.xyz/search/Places%in%the%Heart%(1984)%
+https://thepiratebay10.xyz/search/Alice%Doesn't%Live%Here%Anymore%(1974)%
+https://thepiratebay10.xyz/search/Hud%(1963)%
+https://thepiratebay10.xyz/search/Funny%Girl%(1968)%
+https://thepiratebay10.xyz/search/Coming%Home%(1978)%
+https://thepiratebay10.xyz/search/Suspicion%(1941)%
+https://thepiratebay10.xyz/search/Children%of%a%Lesser%God%(1986)%
+https://thepiratebay10.xyz/search/The%Trip%to%Bountiful%(1985)%
+https://thepiratebay10.xyz/search/Blue%Sky%(1994)%
+https://thepiratebay10.xyz/search/The%Three%Faces%of%Eve%(1957)%
+https://thepiratebay10.xyz/search/The%Great%Ziegfeld%(1936)%
+https://thepiratebay10.xyz/search/Morning%Glory%(1933)%
+https://thepiratebay10.xyz/search/Room%at%the%Top%(1958)%
+https://thepiratebay10.xyz/search/The%Country%Girl%(1954)%
+https://thepiratebay10.xyz/search/BUtterfield%8%(1960)%
+https://thepiratebay10.xyz/search/Anastasia%(1956)%
+https://thepiratebay10.xyz/search/The%Farmer's%Daughter%(1947)%
+https://thepiratebay10.xyz/search/A%Touch%of%Class%(1973)%
+https://thepiratebay10.xyz/search/To%Each%His%Own%(1946)%
+https://thepiratebay10.xyz/search/The%Divorcee%(1930)%
+https://thepiratebay10.xyz/search/Darling%(1965)%
+https://thepiratebay10.xyz/search/The%Good%Earth%(1937)%
+https://thepiratebay10.xyz/search/The%Rose%Tattoo%(1955)%
+https://thepiratebay10.xyz/search/Kitty%Foyle%(1940)%
+https://thepiratebay10.xyz/search/Street%Angel%(1928)%
+
+# Best International Picture
+
+https://thepiratebay10.xyz/search/Black%Orpheus%(1959)%
+https://thepiratebay10.xyz/search/Get%Out%Your%Handkerchiefs%(1978)%
+https://thepiratebay10.xyz/search/A%Man%and%a%Woman%(1966)%
+https://thepiratebay10.xyz/search/My%Uncle%(1958)%
+https://thepiratebay10.xyz/search/Yesterday,%Today%and%Tomorrow%(1963)%
+https://thepiratebay10.xyz/search/The%Garden%of%the%Finzi-Continis%(1970)%
+https://thepiratebay10.xyz/search/Closely%Watched%Trains%(1966)%
+https://thepiratebay10.xyz/search/Character%(1997)%
+https://thepiratebay10.xyz/search/Gate%of%Hell%(1953)%
+https://thepiratebay10.xyz/search/Samurai%I:%Musashi%Miyamoto%(1954)%
+https://thepiratebay10.xyz/search/Dangerous%Moves%(1984)%
+https://thepiratebay10.xyz/search/Journey%of%Hope%(1990)%
+https://thepiratebay10.xyz/search/Monsieur%Vincent%(1947)%
+https://thepiratebay10.xyz/search/The%Walls%of%Malapaga%(1949)%
+https://thepiratebay10.xyz/search/Madame%Rosa%(1977)%
+https://thepiratebay10.xyz/search/Begin%the%Beguine%(1982)%
