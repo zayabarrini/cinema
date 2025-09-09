@@ -1901,3 +1901,72 @@ https://www.imdb.com/title/tt2043879/?ref_=ls_t_55 | Found Memories (2011) - IMD
 https://www.imdb.com/title/tt19719976/?ref_=ls_t_14 | Joyland (2022) - IMDb
 https://www.imdb.com/title/tt1929410/?ref_=ls_t_19 | The Perfect Picture (2009) - IMDb
 https://www.imdb.com/title/tt0116308/?ref_=ls_t_44 | Fire (1996) - IMDb
+
+# 09/09/25 Alexandre's favorites
+
+Framing Britney Spears (2021)
+The Shining (1980)
+Dogtooth (2009)
+Marrowbone (2017)
+War of the Worlds (2005)
+Shang-Chi and the Legend of the Ten Rings (2021)
+Man of Steel (2013)
+mother! (2017)
+The Black Phone (2021)
+Underworld (2003)
+The Devil's Advocate (1997)
+Bones (2001)
+TRON: Legacy (2010)
+Clash of the Titans (2010)
+The Witch (2015)
+Thor: Ragnarok (2017)
+Possession (1981)
+The Nightshifter (2018)
+The Kiss (1981)
+The Asphalt Kiss (2018)
+Ready or Not (2019)
+Marriage Story (2019)
+Speak No Evil (2022)
+The Impossible (2012)
+The Bridges of Madison County (1995)
+August: Osage County (2013)
+All of Us Strangers (2023)
+Twilight's Kiss (2019)
+Close (2022)
+Ben Is Back (2018)
+Tully (2018)
+Disobedience (2017)
+The Shape of Water (2017)
+God's Own Country (2017)
+Cake (2014)
+Little Children (2006)
+Mysterious Skin (2004)
+Monster (2003)
+Thelma & Louise (1991)
+
+https://thepiratebay10.xyz/search/Thor:%Ragnarok%2017
+https://thepiratebay10.xyz/search/The%Bridges%of%Madison%County%1995
+https://thepiratebay10.xyz/search/The%Impossible%2012
+https://thepiratebay10.xyz/search/Little%Children%2006
+https://thepiratebay10.xyz/search/The%Kiss%1981
+https://thepiratebay10.xyz/search/Shang-Chi%and%the%Legend%of%the%Ten%Rings%2021
+https://thepiratebay10.xyz/search/Possession%1981
+https://thepiratebay10.xyz/search/Dogtooth%2009
+https://thepiratebay10.xyz/search/Man%of%Steel%2013
+https://thepiratebay10.xyz/search/Twilight's%Kiss%2019
+https://thepiratebay10.xyz/search/Underworld%2003
+https://thepiratebay10.xyz/search/The%Witch%2015
+https://thepiratebay10.xyz/search/The%Black%Phone%2021
+https://thepiratebay10.xyz/search/Tully%2018
+https://thepiratebay10.xyz/search/The%New%York%Times%Presents:%Framing%Britney%Spears%2021
+https://thepiratebay10.xyz/search/Tron:%Legacy%2010
+https://thepiratebay10.xyz/search/Ready%or%Not%2019
+https://thepiratebay10.xyz/search/Marrowbone%2017
+https://thepiratebay10.xyz/search/Ben%Is%Back%2018
+https://thepiratebay10.xyz/search/War%of%the%Worlds%2005
+https://thepiratebay10.xyz/search/Mother!%2017
+https://thepiratebay10.xyz/search/Speak%No%Evil%2022
+https://thepiratebay10.xyz/search/Cake%2014
+https://thepiratebay10.xyz/search/The%Nightshifter%2018
+https://thepiratebay10.xyz/search/Clash%of%the%Titans%2010
+https://thepiratebay10.xyz/search/Bones%2001
