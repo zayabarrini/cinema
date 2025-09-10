@@ -1944,32 +1944,25 @@ Mysterious Skin (2004)
 Monster (2003)
 Thelma & Louise (1991)
 
-https://thepiratebay10.xyz/search/Thor:%Ragnarok%2017
-https://thepiratebay10.xyz/search/The%Bridges%of%Madison%County%1995
-https://thepiratebay10.xyz/search/The%Impossible%2012
-https://thepiratebay10.xyz/search/Little%Children%2006
-https://thepiratebay10.xyz/search/The%Kiss%1981
-https://thepiratebay10.xyz/search/Shang-Chi%and%the%Legend%of%the%Ten%Rings%2021
-https://thepiratebay10.xyz/search/Possession%1981
-https://thepiratebay10.xyz/search/Dogtooth%2009
-https://thepiratebay10.xyz/search/Man%of%Steel%2013
-https://thepiratebay10.xyz/search/Twilight's%Kiss%2019
-https://thepiratebay10.xyz/search/Underworld%2003
-https://thepiratebay10.xyz/search/The%Witch%2015
-https://thepiratebay10.xyz/search/The%Black%Phone%2021
-https://thepiratebay10.xyz/search/Tully%2018
-https://thepiratebay10.xyz/search/The%New%York%Times%Presents:%Framing%Britney%Spears%2021
-https://thepiratebay10.xyz/search/Tron:%Legacy%2010
-https://thepiratebay10.xyz/search/Ready%or%Not%2019
-https://thepiratebay10.xyz/search/Marrowbone%2017
-https://thepiratebay10.xyz/search/Ben%Is%Back%2018
-https://thepiratebay10.xyz/search/War%of%the%Worlds%2005
-https://thepiratebay10.xyz/search/Mother!%2017
-https://thepiratebay10.xyz/search/Speak%No%Evil%2022
-https://thepiratebay10.xyz/search/Cake%2014
-https://thepiratebay10.xyz/search/The%Nightshifter%2018
-https://thepiratebay10.xyz/search/Clash%of%the%Titans%2010
-https://thepiratebay10.xyz/search/Bones%2001
+https://thepiratebay10.xyz/search/Thor:%20Ragnarok%202017 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Bridges%20of%20Madison%20County%201995 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Impossible%202012 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Little%20Children%202006 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Kiss%201981 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Man%20of%20Steel%202013 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Twilight's%20Kiss%202019 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Witch%202015 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Black%20Phone%202021 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20New%20York%20Times%20Presents:%20Framing%20Britney%20Spears%202021 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Tron:%20Legacy%202010 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Ready%20or%20Not%202019 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Ben%20Is%20Back%202018 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/War%20of%20the%20Worlds%202005 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Speak%20No%20Evil%202022 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/The%20Nightshifter%202018 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Clash%20of%20the%20Titans%202010 | thepiratebay10.xyz
+https://thepiratebay10.xyz/search/Bones%202001/1/99/0 | The Pirate Bay - The galaxy's most resilient bittorrent site
 
 # Lacan part 2
 
