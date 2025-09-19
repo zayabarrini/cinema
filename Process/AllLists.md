@@ -2022,3 +2022,396 @@ https://thepiratebay10.xyz/search/Monsieur%Vincent%(1947)%
 https://thepiratebay10.xyz/search/The%Walls%of%Malapaga%(1949)%
 https://thepiratebay10.xyz/search/Madame%Rosa%(1977)%
 https://thepiratebay10.xyz/search/Begin%the%Beguine%(1982)%
+
+# The Beauty Of
+
+Interstellar
+The Godfather trilogy
+Blade Runner 
+Middle Earth (K)
+Eyes Wide Shut
+Harry Potter
+Game of Thrones
+Dark
+Euphoria
+Breaking Bad
+Your Name (Kimi no na wa)
+The Sopranos
+Succession
+The Shape Of Water
+French Cinema
+Star Wars
+Mr Robot
+The Irishman
+Cowboy Bebop
+Neon Genesis Evangelion
+Better Call Saul
+Once Upon a Time in Hollywood
+Berserk
+Earth
+Barry Lyndon
+Akira Kurosawa
+Fight Club
+Sergio Leone
+Oppenheimer
+Call me by your name
+RRR
+The Secret Life Of Walter Mitty
+Casino
+Cinema
+Heat
+Andrei Tarkovsky
+Red Dead Redemption 
+Dune
+Michael Mann
+Goodfellas
+Twin Peaks
+Pirates Of The Caribbean
+Wong Kar Wai
+Apocalypse Now
+Avatar
+Once Upon A Time In The West
+Interstellar
+Cinema Paradiso
+Peaky Blinders
+Stanley Kubrick
+Arcane
+Once Upon A Time In America
+The Batman
+Lawrence Of Arabia
+The Place Beyond The Pines
+Denis Villeneuve
+Christopher Nolan
+Wes Anderson
+Joker
+Pulp Fiction
+La Haine
+Blade Runner
+Quentin Tarantino
+Rogue One
+Inception
+Drive
+Lost
+Ghost Of Tsushima
+True Detective
+The Lord Of The Rings
+Martin Scorsese
+The Revenant
+The Mandalorian
+John Wick
+Akira
+The Tree Of Life
+The Handmaiden (Ah-ga-ssi)
+Full Metal Jacket
+Skyfall
+Her
+ A Space Odyssey
+The Dark Knight Trilogy
+Spider-man  Into The Spider-Verse
+Pixar
+The Great Beauty (La Grande Bellezza)
+Aftersun
+Taxi Driver
+The Last Of Us (spoilers)
+Arrival
+Sherlock
+Another Round (Druk)
+Django Unchained
+The Grand Budapest Hotel
+Zack Snyder's Justice League
+Westworld
+The Good, The Bad and The Ugly
+Past Lives
+Ad Astra
+Spider-Man Across the Spider-Verse
+The Worst Person In The World
+How To Train Your Dragon trilogy
+Stranger Things
+Into The Wild
+La La Land
+Mulholland Drive
+A Clockwork Orange
+David Lynch
+Gaspar Noé
+Horror Cinema
+Chungking Express (Chóngqìng sēnlín)
+Raging Bull
+Paris, Texas
+Pusher trilogy
+Six Feet Under
+The Matrix Trilogy
+Blade Runner 
+Bong Joon-ho
+Terrence Malick
+Kung Fu Panda trilogy
+City Of God (Cidade de Deus)
+Dunkirk
+In The Mood For Love (Faa yeung nin wa)
+La Dolce Vita
+Ridley Scott
+Inglorious Basterds
+Donnie Darko
+Tim Burton
+Collateral
+Death Stranding
+There Will Be Blood
+Eternal Sunshine of the Spotless Mind
+Steven Spielberg
+Parasite (Gisaengchung)
+Zack Snyder
+Vinland Saga
+Life is Strange
+Midsommar
+No Country For Old Men
+Requiem For A Dream
+The Wire
+The Thin Red Line
+Schindler's List
+Seen
+Paul Thomas Anderson
+Altered Carbon
+The Northman
+The Great Gatsby
+Trainspotting
+Moneyball
+Tony Scott
+Hannibal
+Ghibli
+Three Colors trilogy
+Narcos
+The Shining
+The Green Knight
+James Cameron
+Days of Heaven
+Makoto Shinkai
+The Leftovers
+Phantom Thread
+Blood Diamond
+Prisoners
+Tron Legacy
+Top Gun
+David Fincher
+Children Of Men
+Life Of Pi
+The Social Network
+Hero (Ying xiong)
+The Crown
+Hara-kiri (Seppuku)
+The Master
+Mindhunter
+The Shawshank Redemption
+The Assassination Of Jesse James By The Coward Robert Ford
+Star Wars  The Last Jedi
+Gomorra
+A Hidden Life
+Xavier Dolan
+Hostiles
+Lady Bird
+Forrest Gump
+Sofia Coppola
+Sicario
+Elvis
+Amadeus
+Tumbbad
+The Fall
+The End Of The F***ing World
+The Skin I Live In (La Piel Que Habito)
+The Graduate
+Magnolia
+A Fistful Of Dollars
+Only God Forgives
+American Beauty
+The Creator
+Lost In Translation
+Alejandro González Iñárritu
+Drive My Car
+Yi Yi
+Jojo Rabbit
+Mids
+Gladiator
+Before Trilogy
+Black Swan
+Cold War
+The King
+The Queen's Gambit
+Normal People
+Mommy
+Last Night In Soho
+Chernobyl
+Marvel's Daredevil
+Batman Arkham
+Love, Death & Robots
+Birdman
+For A Few Dollars More
+Moonlight
+Mad Max Fury Road
+
+A Ghost Story
+Logan
+The Lighthouse
+Incendies
+Cinema - Teaser
+ (feat. Le Coroner)
+Darren Aronofsky
+Marriage Story
+David Lean
+Nicolas Winding Refn
+Star Wars The Old Republic (teaser)
+Utopia
+All Quiet On The Western Front
+Gris
+Jarhead
+Roma
+Andrei Rublev (Андрей Рублёв)
+Mel Gibson
+Kingdom of Heaven
+Blue Valentine
+Cloud Atlas
+Ghost In The Shell ()
+Too Old To Die Young
+The Summit Of The Gods
+Planet Of The Apes trilogy
+The Fountain
+Silence
+I Origins
+Rocky saga
+Alita  Battle Angel
+Portrait Of A Lady On Fire (Portrait de la jeune fille en feu)
+Suspiria
+Detroit Become Human
+Nocturnal Animals
+The Handmaid's Tale
+The Walking Dead (Telltale)
+Happy Together (Chun gwong cha sit)
+Foundation
+Sam Mendes
+The Neon Demon
+The Martian
+The Florida Project
+Batman VS Superman  Dawn of Justice
+Gravity
+Babel
+Illusions Perdues
+Indiana Jones
+The Aviator
+Mandy
+It's Only The End Of The World (Juste la fin du monde)
+Ida
+Dreams (Yume)
+Jean-Pierre Jeunet
+Fargo
+Waves
+Rome
+I Lost My Body (J'ai perdu mon corps)
+Samurai Champloo
+Road to Perdition
+Alien saga
+Dances With Wolves
+Knight Of Cups
+Inside Llewyn Davis
+The Eight Mountains
+Gangs of New York
+Pablo Larraín
+Beautiful Boy
+The Last Samurai
+Laurence Anyways
+Paths of Glory
+Watchmen
+The New World
+Markus Förderer
+Hiroshima Mon Amour
+Long Day's Journey Into Night (Di qiu zui hou de ye wan)
+Terminator 
+Sin City
+Tales From The Loop
+Valhalla Rising
+Falcon Lake
+Rush
+Coco
+Annihilation
+For All Mankind
+Black Hawk Down
+Pacifiction
+Boardwalk Empire
+True Romance
+Corsage
+James Gray
+Leos Carax
+The Polar Express
+If Beale Street Could Talk
+The Sacrifice (Offret)
+High Life
+Journey
+Ready Player One
+M. Night Shyamalan
+Final Fantasy  Remake
+You Were Never Really Here
+Lamb
+Manhattan
+Macbeth
+th Century Women
+Hellblade
+First Man
+Abzû
+The Farewell
+Unforgiven
+Petrov's flue (Петровы в гриппе)
+The Killing of a Sacred Deer
+Close Encounters of the Third Kind
+Céline Sciamma
+Razorback
+Munich
+Sunshine
+Big Little Lies
+Oblivion
+Holy Motors
+Under The Skin
+Ex Machina
+The NeverEnding Story
+Empire of the Sun
+Ema
+Pieces Of A Woman
+Under The Silver Lake
+She Will
+A Plague Tale  Innocence
+Quentin Dupieux
+First Reformed
+The Young and The New Pope
+Klaus
+Les Olympiades
+Sense
+Hacksaw Ridge
+The Favourite
+Lion
+Reality (Réalité)
+Carol
+Split
+Living
+The Lion King
+Flinch
+Lost River
+Kena  Bridge Of Spirits
+Unbreakable
+Bad Times At The El Royale
+The Last Black Man In San Francisco
+A Cure For Wellness
+It Follows
+The Rider
+Gagarine
+Atomic Blonde
+King Arthur  Legend of the Sword
+Wind River
+The King's Speech
+The Three Burials of Melquiades Estrada
+War Horse
+Close Enemies (Frères Ennemis)
+Marshland (La isla Mínima)
+A Star Is Born
+Wally Pfister
+The Way Back
+The Lodge
+By The Grace Of God (Grâce à Dieu)
+Relic
+Darkest Hour
+Brelindzè
+The Looming Storm (Bao xue jiang zhi)
