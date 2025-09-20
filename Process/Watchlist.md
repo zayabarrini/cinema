@@ -556,3 +556,38 @@ Early Summer (1951)
 El Sur (1983) 
 Do Bigha Zamin (1953) 
 The Hero (1966) 
+
+# The Beauty Of 
+09/2025
+
+https://thepiratebay10.xyz/search/Detroit:+Become+Human+
+https://thepiratebay10.xyz/search/Harakiri+
+https://thepiratebay10.xyz/search/Dune:+Part+Two+
+https://thepiratebay10.xyz/search/Baraka+
+https://thepiratebay10.xyz/search/Paths+of+Glory+
+https://thepiratebay10.xyz/search/Apocalypse+Now+
+https://thepiratebay10.xyz/search/Samsara+
+https://thepiratebay10.xyz/search/Heat+
+https://thepiratebay10.xyz/search/Lawrence+of+Arabia+
+https://thepiratebay10.xyz/search/Joker+
+https://thepiratebay10.xyz/search/Incendies+
+https://thepiratebay10.xyz/search/Metropolis+
+https://thepiratebay10.xyz/search/Casino+
+https://thepiratebay10.xyz/search/Taxi+Driver+
+https://thepiratebay10.xyz/search/Full+Metal+Jacket+
+https://thepiratebay10.xyz/search/For+a+Few+Dollars+More+
+https://thepiratebay10.xyz/search/Unforgiven+
+https://thepiratebay10.xyz/search/Ran+
+https://thepiratebay10.xyz/search/Rush+
+https://thepiratebay10.xyz/search/For+All+Mankind+
+https://thepiratebay10.xyz/search/Blade+Runner+
+https://thepiratebay10.xyz/search/Barry+Lyndon+
+https://thepiratebay10.xyz/search/Raging+Bull+
+https://thepiratebay10.xyz/search/Gone+Girl+
+https://thepiratebay10.xyz/search/Trainspotting+
+https://thepiratebay10.xyz/search/Yi+Yi+
+https://thepiratebay10.xyz/search/The+Bridge+on+the+River+Kwai+
+https://thepiratebay10.xyz/search/Hacksaw+Ridge+
+https://thepiratebay10.xyz/search/The+Third+Man+
+https://thepiratebay10.xyz/search/Ben-Hur+
+https://thepiratebay10.xyz/search/Chinatown+
