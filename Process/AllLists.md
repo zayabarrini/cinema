@@ -2214,7 +2214,7 @@ Elvis
 Amadeus
 Tumbbad
 The Fall
-The End Of The F***ing World
+The End Of The Fucking World
 The Skin I Live In (La Piel Que Habito)
 The Graduate
 Magnolia
@@ -2245,7 +2245,6 @@ Birdman
 For A Few Dollars More
 Moonlight
 Mad Max Fury Road
-
 A Ghost Story
 Logan
 The Lighthouse
