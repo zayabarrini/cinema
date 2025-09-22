@@ -1233,3 +1233,23 @@ The Unvanquished (1956)
 Foreign Land (1995) 
 A Grande Arte (1991) 
 To Each His Own Cinema (2007) 
+
+# Mubi
+
+https://mubi.com/pt/cast/satyajit-ray | Satyajit Ray – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/luis-bunuel | Luis Buñuel – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/wong-kar-wai | Wong Kar Wai – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/alfred-hitchcock | Alfred Hitchcock – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/ingmar-bergman | Ingmar Bergman – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/federico-fellini | Federico Fellini – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/br/films/everybody-knows | Assista Todos Já Sabem (2018) na MUBI
+https://mubi.com/pt/cast/asghar-farhadi | Asghar Farhadi – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/andrey-zvyagintsev | Andrey Zvyagintsev – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/hirokazu-koreeda | Hirokazu Koreeda – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/park-chan-wook | Park Chan-wook – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/haifaa-al-mansour | Haifaa Al-Mansour – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/pedro-almodovar | Pedro Almodóvar – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/jean-luc-godard | Jean-Luc Godard – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/walter-salles | Walter Salles – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/volker-schlondorff | Volker Schlöndorff – Filmes, Biografia e Listas na MUBI
+https://mubi.com/pt/cast/luca-guadagnino | Luca Guadagnino – Filmes, Biografia e Listas na MUBI
