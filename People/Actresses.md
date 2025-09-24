@@ -1,3 +1,32 @@
+4. Julianne Moore
+5. Cate Blanchett
+6. Meryl Streep
+7. Natalie Portman
+9. Kate Winslet
+10. Marion Cotillard
+12. Nicole Kidman
+15. Emma Thompson
+16. Katharine Hepburn
+17. Faye Dunaway
+18. Maggie Smith
+19. Elizabeth Taylor
+22. Sophia Loren
+23. Susan Hayward
+24. Ingrid Bergman
+25. Vivien Leigh
+26. Olivia de Havilland
+27. Jane Wyman
+28. Joan Crawford
+29. Claudette Colbert
+30. Bette Davis
+31. Greta Lee
+32. Sandra Hüller
+36. Leila Hatami
+39. Kani Kusruti
+42. Gong Li
+Viola Davis
+
+
 # Oscar Winners
 
 https://www.imdb.com/name/nm1297015/?ref_=ls_li_2_1 | Emma Stone - IMDb
