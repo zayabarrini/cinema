@@ -1,17 +1,17 @@
 1
 00:00:24,816 --> 00:00:30,030
 Hey I'm just testing something
-<font color="#CAFFBF" size="16">嘿，我只是在测试一些东西</font>
-hei wo zhi shi zai ce shi yi xie dong xi
+嘿，我只是在测试一些东西
+嘿 我 只 是 在 测 试 一 些 东 西
 
 2
 00:00:30,447 --> 00:00:33,617
 Are you ok, boy?
-<font color="#CAFFBF" size="16">你还好吗，男孩？</font>
-ni hai hao ma nan hai
+你还好吗，男孩？
+你 还 好 吗 男 孩
 
 3
 00:00:30,447 --> 00:00:33,617
 Well, now what?
-<font color="#CAFFBF" size="16">好吧，现在呢？</font>
-hao ba xian zai ne
+好吧，现在呢？
+好 吧 现 在 呢

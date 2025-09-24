@@ -1,0 +1,17 @@
+1
+00:00:24,816 --> 00:00:30,030
+Hey I'm just testing something
+ねえ、私はただ何かをテストしているだけです
+[{'orig': 'ね', 'trans': 'ne'}, {'orig': ' ', 'trans': ' '}, {'orig': 'え', 'trans': 'e'}, {'orig': ' ', 'trans': ' '}, {'orig': '私', 'trans': 'watashi'}, {'orig': ' ', 'trans': ' '}, {'orig': 'は', 'trans': 'ha'}, {'orig': ' ', 'trans': ' '}, {'orig': 'た', 'trans': 'ta'}, {'orig': ' ', 'trans': ' '}, {'orig': 'だ', 'trans': 'da'}, {'orig': ' ', 'trans': ' '}, {'orig': '何', 'trans': 'nani'}, {'orig': ' ', 'trans': ' '}, {'orig': 'か', 'trans': 'ka'}, {'orig': ' ', 'trans': ' '}, {'orig': 'を', 'trans': 'wo'}, {'orig': ' ', 'trans': ' '}, {'orig': 'テ', 'trans': 'te'}, {'orig': ' ', 'trans': ' '}, {'orig': 'ス', 'trans': 'su'}, {'orig': ' ', 'trans': ' '}, {'orig': 'ト', 'trans': 'to'}, {'orig': ' ', 'trans': ' '}, {'orig': 'し', 'trans': 'shi'}, {'orig': ' ', 'trans': ' '}, {'orig': 'て', 'trans': 'te'}, {'orig': ' ', 'trans': ' '}, {'orig': 'い', 'trans': 'i'}, {'orig': ' ', 'trans': ' '}, {'orig': 'る', 'trans': 'ru'}, {'orig': ' ', 'trans': ' '}, {'orig': 'だ', 'trans': 'da'}, {'orig': ' ', 'trans': ' '}, {'orig': 'け', 'trans': 'ke'}, {'orig': ' ', 'trans': ' '}, {'orig': 'で', 'trans': 'de'}, {'orig': ' ', 'trans': ' '}, {'orig': 'す', 'trans': 'su'}]
+
+2
+00:00:30,447 --> 00:00:33,617
+Are you ok, boy?
+あなたは大丈夫ですか、男の子？
+[{'orig': 'あ', 'trans': 'a'}, {'orig': ' ', 'trans': ' '}, {'orig': 'な', 'trans': 'na'}, {'orig': ' ', 'trans': ' '}, {'orig': 'た', 'trans': 'ta'}, {'orig': ' ', 'trans': ' '}, {'orig': 'は', 'trans': 'ha'}, {'orig': ' ', 'trans': ' '}, {'orig': '大', 'trans': 'dai'}, {'orig': ' ', 'trans': ' '}, {'orig': '丈', 'trans': 'take'}, {'orig': ' ', 'trans': ' '}, {'orig': '夫', 'trans': 'otto'}, {'orig': ' ', 'trans': ' '}, {'orig': 'で', 'trans': 'de'}, {'orig': ' ', 'trans': ' '}, {'orig': 'す', 'trans': 'su'}, {'orig': ' ', 'trans': ' '}, {'orig': 'か', 'trans': 'ka'}, {'orig': ' ', 'trans': ' '}, {'orig': '男', 'trans': 'otoko'}, {'orig': ' ', 'trans': ' '}, {'orig': 'の', 'trans': 'no'}, {'orig': ' ', 'trans': ' '}, {'orig': '子', 'trans': 'ko'}]
+
+3
+00:00:30,447 --> 00:00:33,617
+Well, now what?
+さて、今何？
+[{'orig': 'さ', 'trans': 'sa'}, {'orig': ' ', 'trans': ' '}, {'orig': 'て', 'trans': 'te'}, {'orig': ' ', 'trans': ' '}, {'orig': '今', 'trans': 'ima'}, {'orig': ' ', 'trans': ' '}, {'orig': '何', 'trans': 'nani'}]

@@ -475,3 +475,84 @@ Here's a **structured table** combining Lacanian analysis, tragedies, and ending
 3. **Actors as Archetypes**:  
    - Bette Davis = Ego dissolution.  
    - Jack Nicholson = Perverse Father.  
+
+# Alexandre
+
+Deixa eu te dar um retorno escrito e exaustivo sobre as listas. 
+Primeiro quero agradecer por compartilhar.
+Eu tenho direcionado meu trabalho entre conhecer indústria que me interessa (isso aqui é difícil kkkkk) e criar algo original Zaya (e Zaya como trabalhadora é um desafio também). Mas estamos caminhando. 
+
+Tenho buscado screenplays originais e fotografia/estética que sejam interessantes. 
+Vi a data de alguns festivais nacionais e internacionais. 
+O trabalho de dirigir e lançar um filme. 
+Ou trabalhar em alguma produção de um estúdio/diretor. 
+
+Eu compilei suas listas do LetterBox em uma lista única no imdb. 
+E assisti alguns. 
+Tenho procurado filtrar os filmes e a metodologia que uso para ver. 
+Alguns tenho visto só a fotografia, em geral leio um resumo/Análise Lacaniana sobre o filme e quase não tenho dado atenção para filmes com narrativas masculinas, guerra, máfia, ação. 
+Tenho priorizado também o cinema não-inglês, com a linguagem primária em outras línguas. O Oscar para filmes estrangeiros/internacional tem opções interessantes. 
+
+Cinema Multilingual: (en, es, pt, fr, it, ge, ru, ar, hi, ch, ja, ko)
+
+Meu favorito foi Marrowbone. Impecável. Tantos palavrinhas chaves que amo. 
+Muitos filmes com fotografias muito bonitas. 
+
+Twilight's Kiss
+Grata surpresa. Já havia procurado filmes LGBTs chineses e encontrei poucos. 
+De um tom excelente. Um romance entre homens mais velhos. Toda a subjetividade e drama por aí. Fofos. 
+
+Os filmes que eu costumo gostar bastante estão dentro dos seguintes gêneros:
+Beautiful, pure, tender, poignant - Past Lives
+Intense, reflective, provocative - Young Torless 
+Visually delicious, immersive, meditative - Too old to die young
+Lovely, elegant, melancholic: The Banshees of Inesherin + The Hours
+
+E criei o Zaya Awards com categorias semelhantes às dos Oscars:
+
+- Cinematography
+- Plot, Twist, Drama 
+- Costume, Makeup, Colors 
+- VFX
+- Picture
+- Screenplay
+- LGBT
+- Actress
+- Actor
+- Animation
+- Sound, Music
+
+Disponível por aqui.
+https://docs.google.com/spreadsheets/d/1KcT74De49pnJaOJJtajcwDd0Yzk2gRfo3np3xm48WmE/edit?usp=sharing
+
+Alexandre's favorites:
+https://www.imdb.com/list/ls4104362891/?ref_=uspf_t_5
+
+E compilei em um ebook também: 
+Não sei onde está a versão em inglês. 
+
+
+O Imdb tem uma parte de filtros avançados:
+Number of votes: > 1000
+Country of origin: China
+Search country of origin only: yes
+Imdb Ratings: 8 - 10
+Sort by user ranking: 
+Title type: movie=ar,zh,ja,de,ru,ko,es,fr
+Edit the URL so that after the "countries=" and "languages=" you add an "!"
+
+https://www.imdb.com/search/title/?countries=DE&languages=de&my_ratings=restrict&sort=my_ratings,desc | Germany, German, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=RU&my_ratings=restrict&sort=my_ratings,desc | Russia, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=JP&my_ratings=restrict&sort=my_ratings,desc | Japan, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=CN&languages=cmn&my_ratings=restrict&sort=my_ratings,desc | China, Mandarin, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=IN&my_ratings=restrict&sort=my_ratings,desc | India, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=KR&my_ratings=restrict&sort=my_ratings,desc | South Korea, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=ar&my_ratings=restrict&sort=my_ratings,desc | Arabic, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=fr&my_ratings=restrict&sort=my_ratings,desc | French, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=it&my_ratings=restrict&sort=my_ratings,desc | Italian, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?title_type=feature&countries=US,!AR,!AU,!BE,!BR,!CA,!CN,!FR,!DE,!GB,!IN,!ID,!IR,!IT,!JP,!KR,!MX,!NL,!NZ,!PT,!RU,!ZA,!ES,!SUHH&languages=en&my_ratings=restrict&sort=my_ratings,desc | Movie, United States, Not Argentina, Not Australia, Not Belgium, Not Brazil, Not Canada, Not China, Not France, Not Germany, Not United Kingdom, Not India, Not Indonesia, Not Iran, Not Italy, Not Japan, Not South Korea, Not Mexico, Not Netherlands, Not New Zealand, Not Portugal, Not Russia, Not South Africa, Not Spain, Not Soviet Union, English, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=GB,!US,!AR,!AU,!BE,!BR,!CA,!CN,!FR,!DE,!IN,!ID,!IR,!IT,!JP,!KR,!MX,!NL,!NZ,!PT,!RU,!ZA,!ES,!SUHH&languages=en&my_ratings=restrict&sort=my_ratings,desc | United Kingdom, Not United States, Not Argentina, Not Australia, Not Belgium, Not Brazil, Not Canada, Not China, Not France, Not Germany, Not India, Not Indonesia, Not Iran, Not Italy, Not Japan, Not South Korea, Not Mexico, Not Netherlands, Not New Zealand, Not Portugal, Not Russia, Not South Africa, Not Spain, Not Soviet Union, English, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=es&my_ratings=restrict&sort=my_ratings,desc | Spanish, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?primary_language=pt&my_ratings=restrict&sort=my_ratings,desc | Portuguese, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?countries=ID&my_ratings=restrict&sort=my_ratings,desc | Indonesia, Restrict to titles I've rated (Sorted by Your rating Descending)
+https://www.imdb.com/search/title/?title_type=feature&countries=!AR,!AU,!BE,!BR,!CA,!CN,!FR,!DE,!GB,!IN,!ID,!IR,!IT,!JP,!KR,!MX,!NL,!NZ,!PT,!RU,!ZA,!ES,!US,!SUHH&my_ratings=restrict&sort=my_ratings,desc | Movie, Not Argentina, Not Australia, Not Belgium, Not Brazil, Not Canada, Not China, Not France, Not Germany, Not United Kingdom, Not India, Not Indonesia, Not Iran, Not Italy, Not Japan, Not South Korea, Not Mexico, Not Netherlands, Not New Zealand, Not Portugal, Not Russia, Not South Africa, Not Spain, Not United States, Not Soviet Union, Restrict to titles I've rated (Sorted by Your rating Descending)
