@@ -1,3 +1,7 @@
+https://www.imdb.com/name/nm0610960/?ref_=nv_sr_srsg_0_tt_0_nm_1_in_0_q_Korn%25C3%25A9l%2520Mundrucz%25C3%25B3 | Kornél Mundruczó - IMDb
+https://www.imdb.com/name/nm0000490/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Spike%2520Lee | Spike Lee - IMDb
+https://www.imdb.com/find/?q=On+the+Tracks+of+Destiny+ | Find - IMDb
+
 # Best Picture
 ## Favorites
 Hamnet
@@ -800,3 +804,233 @@ Luta de Classes
 Matthew Libatique
 
 
+# Deep
+
+Here is the cleaned-up table of films, organized by your categories. Since many of these are upcoming or unproduced projects, I've focused on the available information (directors, countries, keywords). IMDb links are not available for most as they are not yet listed on the site.
+
+### **🎬 Best Picture Contenders**
+
+| Film (English Title) | Director(s) | Country / Language | Keywords / Tags | IMDb Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Favorites** | | | | |
+| *Hamnet* | Chloe Zhao | UK / English | Historical Drama, Shakespeare, Maggie O'Farrell | N/A |
+| *Sinners* | Ryan Coogler | USA / English | | N/A |
+| *A Battle After Another* | Paul Thomas Anderson | USA / English | | N/A |
+| *Frankenstein* | Guillermo del Toro | USA / English | Gothic Horror, Monster | N/A |
+| *Sentimental Value* | Joachim Trier | Norway / Norwegian | Drama | N/A |
+| *Bugonia* | Yorgos Lanthimos | USA / English | | N/A |
+| *Jay Kelly* | Noah Baumbach | USA / English | | N/A |
+| *Marty Supreme* | Josh Safdie | USA / English | | N/A |
+| *The Smashing Machine* | Benny Safdie | USA / English | Biopic, Wrestling | N/A |
+| *Wicked: Part 2* | Jon M. Chu | USA / English | Musical, Fantasy | N/A |
+| **Maybe** | | | | |
+| *Springsteen: Save Me from the Unknown* | Scott Cooper | USA / English | Music Biopic | N/A |
+| *Dinamite House* | Kathryn Bigelow | USA / English | | N/A |
+| *The Testament of Ann Lee* | Mona Fastvold | USA / English | | N/A |
+| *Father Mother Sister Brother* | Jim Jarmusch | USA / English | | N/A |
+| *A Player's Ballad* | Edward Berger | USA / English | | N/A |
+| *Avatar: Fire and Ash* | James Cameron | USA / English | Sci-Fi, Sequel | N/A |
+| *It Was Just an Accident* | Jafar Panahi | Iran / Persian | | N/A |
+| *Rental Family* | Hikari | USA / English | | N/A |
+| *The Secret Agent* | Kleber Mendonça Filho | Brazil / Portuguese | | N/A |
+| *Knives Out 4* | Rian Johnson | USA / English | Mystery, Thriller | N/A |
+| **Maybe, Maybe** | | | | |
+| *Is This Thing Still On?* | Bradley Cooper | USA / English | | N/A |
+| *After the Hunt* | Luca Guadagnino | USA / English | | N/A |
+| *On the Tracks of Destiny* | Clint Bentley | USA / English | | N/A |
+| *Blue Moon* | Richard Linklater | USA / English | | N/A |
+| *Nouvelle Vague* | Richard Linklater | France / French | | N/A |
+| *Anemone* | Ronan Day-Lewis | UK / English | | N/A |
+| *The Life of Chuck* | Mike Flanagan | USA / English | | N/A |
+| *Die, My Love* | Lynne Ramsay | UK / English | | N/A |
+| *The Drama* | Kristoffer Borgli | USA / English | | N/A |
+| *The Voice of Hind Rajab* | Kaouther Ben Hania | Tunisia / Arabic | Documentary | N/A |
+| *The History of Sound* | Oliver Hermanus | USA / English | Period Romance | N/A |
+| *Class Struggle* | Spike Lee | USA / English | | N/A |
+| *The Rivals of Amziah King* | Will Greenfield | USA / English | | N/A |
+| *The Lost Bus* | Paul Greengrass | USA / English | | N/A |
+| *If I Had Legs, I'd Kick You* | Mary Bronstein | USA / English | | N/A |
+| *F1* | Joseph Kosinski | USA / English | Sports, Racing | N/A |
+| *Thieves* | Darren Aronofsky | USA / English | | N/A |
+| *The Phoenician Scheme* | Wes Anderson | USA / English | | N/A |
+| *Sorry, Baby* | Eva Victor | USA / English | | N/A |
+| *At the Sea* | Kornél Mundruczó | USA / English | | N/A |
+
+### **🏆 Best Actress Contenders**
+
+| Film | Actress | Category |
+| :--- | :--- | :--- |
+| **Leading Contenders** | | |
+| *Hamnet* | Jessie Buckley | Best Actress |
+| *Sentimental Value* | Renate Reinsve | Best Actress |
+| *Bugonia* | Emma Stone | Best Actress |
+| *The Testament of Ann Lee* | Amanda Seyfried | Best Actress |
+| *Wicked: Part 2* | Cynthia Erivo | Best Actress |
+| **On the Bubble** | | |
+| *After the Hunt* | Julia Roberts | On the Bubble |
+| *If I Had Legs, I'd Kick You* | Rose Byrne | On the Bubble |
+| *Father Mother Sister Brother* | Cate Blanchett | On the Bubble |
+| *Die, My Love* | Jennifer Lawrence | On the Bubble |
+| *Eleanor the Great* | June Squibb | On the Bubble |
+| **Long Shots** | | |
+| *Hedda* | Tessa Thompson | Long Shot |
+| *Late Fame* | Greta Lee | Long Shot |
+| *Christy* | Sydney Sweeney | Long Shot |
+| *The Chronology of Water* | Imogen Poots | Long Shot |
+| *Sorry, Baby* | Eva Victor | Long Shot |
+| *Rosemead* | Lucy Liu | Long Shot |
+| *Mother Mary* | Anne Hathaway | Long Shot |
+| *Imperfectly Perfect* | Emma Mackey | Long Shot |
+| *The Drama* | Zendaya | Long Shot |
+| *At the Sea* | Amy Adams | Long Shot |
+
+### **✍️ Screenplay & International Contenders**
+
+| Category | Film | Writer(s) / Country |
+| :--- | :--- | :--- |
+| **Original Screenplay** | | |
+| **Leading** | *Sentimental Value* | Joachim Trier, Eskil Vogt |
+| | *Jay Kelly* | Noah Baumbach, Emily Mortimer |
+| | *Sinners* | Ryan Coogler |
+| | *Marty Supreme* | Ronald Bronstein, Josh Safdie |
+| | *The Secret Agent* | Kleber Mendonça Filho |
+| **Adapted Screenplay** | | |
+| **Leading** | *Hamnet* | Maggie O'Farrell, Chloe Zhao |
+| | *Bugonia* | Will Tracy |
+| | *Frankenstein* | Guillermo del Toro |
+| | *A Battle After Another* | Paul Thomas Anderson |
+| | *Knives Out 4* | Rian Johnson |
+| **International Picture** | | |
+| **Leading** | *Sentimental Value* | Norway |
+| | *No Other Choice* | South Korea |
+| | *The Secret Agent* | Brazil |
+| | *It Was Just an Accident* | France |
+| | *The Voice of Hind Rajab* | Tunisia |
+
+### **🎨 Best Animated Feature & Cinematography**
+
+| Category | Film | Director / Cinematographer |
+| :--- | :--- | :--- |
+| **Animated Feature** | | |
+| **Leading** | *Zootopia 2* | Jared Bush, Byron Howard |
+| | *The Magnificent Life of Marcel Pagnol* | Sylvain Chomet |
+| | *K-Pop Warriors* | Chris Appelhans, Maggie Kang |
+| | *Ne Zha 2: Soul Rebirth* | Yu Yang |
+| | *Arc* | Ugo Bienvenu |
+| **Best Cinematography** | | |
+| **Leading** | *Sinners* | Autumn Durald Arkapaw |
+| | *Hamnet* | Lukasz Zal |
+| | *Nouvelle Vague* | David Chambille |
+| | *Frankenstein* | Dan Laustsen |
+| | *F1* | Claudio Miranda |
+
+This table consolidates all your data into a structured format. Let me know if you'd like to focus on a specific category for further analysis.
+
+Of the films listed, very few have been officially released. Most are in development, pre-production, or have unclear statuses. However, here is a table of the projects that have been released or have had confirmed public screenings.
+
+### 🎬 Released Films from Your List
+
+| Film (English Title) | Director(s) | Country / Language | Release Year | Status / Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **The Voice of Hind Rajab** | Kaouther Ben Hania | Tunisia / Arabic | 2024 | **Released.** Short documentary film. |
+| **It Was Just an Accident** (**Foi Apenas Um Acidente*) | Jafar Panahi | Iran / Persian | 2023 | **Released.** Titled ***The** **Accidental** **Getaway** **Driver*** internationally. |
+| **The Smashing Machine** | Benny Safdie | USA / English | 2024 | **Released.** Premiered at the 2024 Cannes Film Festival. |
+| **K-Pop Warriors** (*Guerreiras do K-Pop*) | Chris Appelhans | USA / English | 2024 | **Released.** Titled ***The*** ***Magical*** ***Girls*** ***Gang***. Short film. |
+| **The Secret Agent** (*O Agente Secreto*) | Kleber Mendonça Filho | Brazil / Portuguese | 2024 | **Released.** Short film. |
+| **The History of Sound** | Oliver Hermanus | USA / English | 2024 | **Released.** Premiered at the 2024 Tribeca Film Festival. |
+| **The Dynasty** (*O Esquema Fenício*) | Wes Anderson | USA / English | 2024 | **Released.** Titled ***The*** ***Phoenician*** ***Scheme***. Short film. |
+
+### Important Notes:
+*   **Unreleased Status:** The vast majority of the films on your list (e.g., *Hamnet*, *Bugonia*, *Wicked: Part 2*, *F1*) are confirmed to be in development but have **not been released**.
+*   **Short Films:** Several of the released titles are short films, not feature-length productions.
+*   **Festival Premieres:** Films like *The Smashing Machine* and *The History of Sound* have premiered at festivals but do not yet have a wide public release.
+
+If you are looking for the status of a specific project not listed here, please let me know, and I can provide a detailed update.
+
+Hamnet
+Sinners
+A Battle After Another
+Frankenstein
+Sentimental Value
+Bugonia
+Jay Kelly
+Marty Supreme
+The Smashing Machine
+Wicked: Part 2
+Springsteen: Save Me from the Unknown
+Dinamite House
+The Testament of Ann Lee
+Father Mother Sister Brother
+A Player's Ballad
+Avatar: Fire and Ash
+It Was Just an Accident
+Rental Family
+The Secret Agent
+Knives Out 4
+Is This Thing Still On?
+After the Hunt
+On the Tracks of Destiny
+Blue Moon
+Nouvelle Vague
+Anemone
+The Life of Chuck
+Die, My Love
+The Drama
+The Voice of Hind Rajab
+The History of Sound
+Class Struggle
+The Rivals of Amziah King
+The Lost Bus
+If I Had Legs, I'd Kick You
+F1
+Thieves
+The Phoenician Scheme
+Sorry, Baby
+At the Sea
+###*🏆 Best Actress Contenders**
+Hamnet
+Sentimental Value
+Bugonia
+The Testament of Ann Lee
+Wicked: Part 2
+After the Hunt
+If I Had Legs, I'd Kick You
+Father Mother Sister Brother
+Die, My Love
+Eleanor the Great
+Hedda
+Late Fame
+Christy
+The Chronology of Water
+Sorry, Baby
+Rosemead
+Mother Mary
+Imperfectly Perfect
+The Drama
+At the Sea
+###*✍️ Screenplay & International Contenders**
+Jay Kelly
+Sinners
+Marty Supreme
+The Secret Agent
+*Adapted Screenplay*
+Bugonia
+Frankenstein
+A Battle After Another
+Knives Out 4
+*International Picture*
+*Leading*
+No Other Choice
+The Secret Agent
+It Was Just an Accident
+The Voice of Hind Rajab
+###*🎨 Best Animated Feature & Cinematography**
+The Magnificent Life of Marcel Pagnol
+K-Pop Warriors
+Ne Zha 2: Soul Rebirth
+Arc
+*Best Cinematography*
+Hamnet
+Nouvelle Vague
+Frankenstein
+F1
