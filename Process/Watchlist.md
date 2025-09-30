@@ -591,3 +591,7 @@ https://thepiratebay10.xyz/search/Hacksaw+Ridge+
 https://thepiratebay10.xyz/search/The+Third+Man+
 https://thepiratebay10.xyz/search/Ben-Hur+
 https://thepiratebay10.xyz/search/Chinatown+
+
+https://www.imdb.com/title/tt2120832/ | Shock Head Soul (2011) - IMDb
+https://www.imdb.com/title/tt0479098/ | Memoirs of My Nervous Illness (2006) - IMDb
+https://www.imdb.com/title/tt0216578/ | Murderous Maids (2000) - IMDb
