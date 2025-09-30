@@ -411,3 +411,79 @@ Let the **Real leave its trace**.
 ---
 
 
+# **Classification of Directors by "Male" vs. "Female" Logic**  
+(*Using Lacanian/Gender Theory Frameworks*)  
+
+**Key Definitions:**  
+- **"Male Logic" (Symbolic/Phallic):** Structured, hierarchical, resolution-driven, often preoccupied with power, violence, or systems.  
+- **"Female Logic" (Imaginary/Real):** Fluid, emotional, ambiguous, focused on relationships, interiority, and unresolved desire.  
+
+---
+
+### **Mostly "Male Logic" Directors**  
+| Director | Key Traits | Example Films |  
+|----------|-----------|--------------|  
+| **Sergio Leone** | Mythic masculinity, violent codes of honor, duel-as-resolution | *The Good, the Bad and the Ugly* |  
+| **Paul Thomas Anderson** | Patriarchal collapse, toxic masculinity, power struggles | *There Will Be Blood*, *The Master* |  
+| **Park Chan-wook** | Vengeance as moral calculus, brutal symmetry | *Oldboy*, *The Handmaiden* (subverts this) |  
+| **Martin McDonagh** | Absurdist male ego, cyclical violence | *In Bruges*, *Banshees of Inisherin* |  
+| **Todd Field** | Male fragility under institutional pressure | *TÁR*, *In the Bedroom* |  
+| **John Patrick Shanley** | Moral binaries, patriarchal doubt | *Doubt*, *Moonstruck* |  
+| **James McTeigue** | Dystopian control, hypermasculine rebellion | *V for Vendetta* |  
+
+---
+
+### **Mostly "Female Logic" Directors**  
+| Director | Key Traits | Example Films |  
+|----------|-----------|--------------|  
+| **Céline Sciamma** | Female gaze, queer desire, emotional silence | *Portrait of a Lady on Fire*, *Petite Maman* |  
+| **Charlotte Wells** | Memory as fragment, paternal absence | *Aftersun* |  
+| **Justine Triet** | Marital dissolution, legal ambiguity | *Anatomy of a Fall* |  
+| **Nadine Labaki** | Maternal sacrifice, communal grief | *Capernaum* |  
+| **Jane Campion** | Female repression in male landscapes | *The Piano*, *The Power of the Dog* |  
+| **Celine Song** | Diasporic longing, unspoken connections | *Past Lives* |  
+| **Pedro Almodóvar** | Melodrama as feminine excess | *All About My Mother*, *Volver* |  
+
+---
+
+### **Ambiguous/Blended Logic Directors**  
+| Director | Key Traits | Example Films |  
+|----------|-----------|--------------|  
+| **Bong Joon Ho** | Systems critique (male) + empathy for outliers (female) | *Parasite*, *Mother* |  
+| **Hayao Miyazaki** | Ecological anima (female) + warrior codes (male) | *Princess Mononoke*, *Spirited Away* |  
+| **Luca Guadagnino** | Male homoeroticism (Symbolic) + sensory longing (Real) | *Call Me By Your Name*, *Suspiria* |  
+| **David Lowery** | Mythic masculinity (male) + melancholic dissolution (female) | *The Green Knight*, *A Ghost Story* |  
+| **Joachim Trier** | Male existential crises (Symbolic) + emotional vulnerability (Real) | *The Worst Person in the World* |  
+| **Anthony Minghella** | Romantic idealism (female) + colonial power (male) | *The English Patient* |  
+
+---
+
+### **Wildcards (Defy Binary Logic)**  
+| Director | Key Traits | Example Films |  
+|----------|-----------|--------------|  
+| **Sean Baker** | Marginalized communities, chaotic joy/suffering | *The Florida Project*, *Tangerine* |  
+| **Gints Zilbalodis** | Wordless solitude, environmental sublime | *Away* |  
+| **Lukas Dhont** | Gender fragility, bodily trauma | *Close*, *Girl* |  
+
+---
+
+### **Ratings (Scale: 1 = Male Logic, 10 = Female Logic)**  
+| Director | Rating | Notes |  
+|----------|-------|-------|  
+| **Sergio Leone** | 1 | Mythic masculinity |  
+| **Céline Sciamma** | 10 | Queer feminine gaze |  
+| **Bong Joon Ho** | 5 | Balances systemic critique with empathy |  
+| **Jane Campion** | 9 | Female repression in male spaces |  
+| **Paul Thomas Anderson** | 3 | Patriarchal decay, but *Phantom Thread* is 8 |  
+| **Pedro Almodóvar** | 8 | Melodrama as feminine resistance |  
+| **Charlotte Wells** | 9 | Paternal absence as emotional void |  
+
+---
+
+### **Conclusion**  
+- **"Male Logic" Dominates:** Leone, McDonagh, PTA, Park Chan-wook (except *The Handmaiden*).  
+- **"Female Logic" Dominates:** Sciamma, Campion, Triet, Labaki.  
+- **Most Subversive:** Almodóvar (camp as feminist), Bong Joon Ho (class as genderless trauma).  
+
+**Lacanian Twist:** The "female" directors often engage the **Real** (trauma, silence), while "male" directors fixate on the **Symbolic** (law, power).  
+

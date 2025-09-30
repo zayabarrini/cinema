@@ -1,3 +1,6 @@
+Lacanian analysis: 
+https://chat.deepseek.com/a/chat/s/170c21fd-0196-4d70-b010-7d7b2c67d2c6
+
 https://chat.deepseek.com/a/chat/s/8ad63a92-b281-4fda-87fb-b34528f31def | DeepSeek
 https://chatgpt.com/c/67aa0331-18f4-8012-9507-4c42a258750c | American Cinema
 https://chatgpt.com/c/67aa018e-af28-8012-83ee-c3944a5612db | French Cinema
