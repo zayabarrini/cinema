@@ -556,3 +556,31 @@ https://www.imdb.com/search/title/?primary_language=es&my_ratings=restrict&sort=
 https://www.imdb.com/search/title/?primary_language=pt&my_ratings=restrict&sort=my_ratings,desc | Portuguese, Restrict to titles I've rated (Sorted by Your rating Descending)
 https://www.imdb.com/search/title/?countries=ID&my_ratings=restrict&sort=my_ratings,desc | Indonesia, Restrict to titles I've rated (Sorted by Your rating Descending)
 https://www.imdb.com/search/title/?title_type=feature&countries=!AR,!AU,!BE,!BR,!CA,!CN,!FR,!DE,!GB,!IN,!ID,!IR,!IT,!JP,!KR,!MX,!NL,!NZ,!PT,!RU,!ZA,!ES,!US,!SUHH&my_ratings=restrict&sort=my_ratings,desc | Movie, Not Argentina, Not Australia, Not Belgium, Not Brazil, Not Canada, Not China, Not France, Not Germany, Not United Kingdom, Not India, Not Indonesia, Not Iran, Not Italy, Not Japan, Not South Korea, Not Mexico, Not Netherlands, Not New Zealand, Not Portugal, Not Russia, Not South Africa, Not Spain, Not United States, Not Soviet Union, Restrict to titles I've rated (Sorted by Your rating Descending)
+
+# 30/09/25
+
+## A River Runs Through It (1992)
+Tensions between desire for security (symbolic) and longing for freedom (imaginary).
+Family ties: Brothers love each other but cannot save each other.
+Paul's self-destructive tendencies become stronger (gambling debts, fights).
+Fly fishing remains the shared space of beauty, harmony and brotherhood.
+Paul is killed in a fight – his desire for freedom ends in death.
+Norman's love for Jessie offers a possibility of continuity.
+Remembering the river – symbol of life, desire, the incomprehensible.
+“I am haunted by waters” – the unspeakable remains.
+
+Nature & Spirituality, Family & Fraternity, Freedom vs. Discipline, Time & Memory, Inexpressibility
+
+
+## Legends of the Fall (1994)
+
+All three brothers are attracted to Susannah.
+Samuel remains idealistic and innocent, Alfred rational and ambitious, Tristan wild and passionate.
+Tensions between the brothers are increasing, still hidden beneath family harmony.
+Conflicts with local politicians and gangsters escalate.
+
+Brothers & Rivalry, War & Trauma, Love & Impossibility, Nature & Freedom, Time & Myth
+
+## Elizabeth: The Golden Age (2007)
+
+Elizabeth is portrayed as an iconic monarch: strong, beautiful, charismatic – an image projected by the English people and court society.
