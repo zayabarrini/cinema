@@ -45,3 +45,43 @@ Women Directors
 Favorite Movies - Directors - Body of work
 It's not that hard to make a movie
 Loss of a meaningful bond - movies that made me cry
+
+
+Actresses
+AllLanguages
+Black Mirror
+Characters
+Cinema
+Conversations
+Curso
+Diccionario De Topologia Lacaniana
+Dictionary
+Favorite
+Fluxos
+Freudiana
+Grammar
+Harry Potter
+HP Cinema Screenplays
+IME
+Lacan
+LGBT
+Literature
+Mobius3
+Mobius3Presentation
+Music
+Originals
+Parts of Speech
+Phonetics
+Provas
+Psicanálise
+Psychoanalysis
+Quotes
+Revista
+Sentences
+Songs Lyrics
+Studies
+Topology
+TransParenting
+Vocabulaire
+Word Frequency
+WordList

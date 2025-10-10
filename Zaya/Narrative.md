@@ -95,3 +95,7 @@ Silêncio, isolamento, alienação em jogos
 Vivendo sua vida em seu quarto
 
 Renato, Rose, Elisa, Elineia, Marques, Meiriane, Tia Júlia, Jovi
+
+# 06/10/25
+Mocking the system of gods and Buddhas and the bureaucratization of heaven
+The image of Sun Wukong was reinterpreted in the works of Lu Xun, Wang Xiaobo and others
