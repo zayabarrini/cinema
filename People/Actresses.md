@@ -1,30 +1,30 @@
-4. Julianne Moore
-5. Cate Blanchett
-6. Meryl Streep
-7. Natalie Portman
-9. Kate Winslet
-10. Marion Cotillard
-12. Nicole Kidman
-15. Emma Thompson
-16. Katharine Hepburn
-17. Faye Dunaway
-18. Maggie Smith
-19. Elizabeth Taylor
-22. Sophia Loren
-23. Susan Hayward
-24. Ingrid Bergman
-25. Vivien Leigh
-26. Olivia de Havilland
-27. Jane Wyman
-28. Joan Crawford
-29. Claudette Colbert
-30. Bette Davis
-31. Greta Lee
-32. Sandra Hüller
-36. Leila Hatami
-39. Kani Kusruti
-42. Gong Li
 Viola Davis
+Julianne Moore
+Cate Blanchett
+Meryl Streep
+Natalie Portman
+Kate Winslet
+Marion Cotillard
+Nicole Kidman
+Emma Thompson
+Katharine Hepburn
+Faye Dunaway
+Maggie Smith
+Elizabeth Taylor
+Sophia Loren
+Susan Hayward
+Ingrid Bergman
+Vivien Leigh
+Olivia de Havilland
+Jane Wyman
+Joan Crawford
+Claudette Colbert
+Bette Davis
+Greta Lee
+Sandra Hüller
+Leila Hatami
+Kani Kusruti
+Gong Li
 
 
 # Oscar Winners
@@ -80,3 +80,64 @@ https://www.imdb.com/name/nm0001901/?ref_=tt_ov_3_1 | Chantal Akerman - IMDb
 https://www.imdb.com/name/nm0633223/?ref_=ttfc_fcr_3_16 | Cynthia Nixon - IMDb
 https://www.imdb.com/name/nm6891947/?ref_=tt_ov_3_1 | Lyna Khoudri - IMDb
 https://www.imdb.com/name/nm0033152/?ref_=tt_ov_3_2 | Arata Iura - IMDb
+
+
+# Youtube
+
+https://www.youtube.com/watch?v=V3PK_fBIzBM | Jessica Lange Breaks Down Her Career, from King Kong to American Horror Story | Vanity Fair - YouTube
+https://www.youtube.com/watch?v=TMEuuu3i7y4 | Blue sky 1994 Carly's meltdown - YouTube
+https://www.youtube.com/watch?v=Hm00Mk5dE3E | Sound of Metal - Best Scene - Oscars 2021 - YouTube
+https://www.youtube.com/watch?v=GXSSi6xzpJg | LOVE ON ITS OWN TERMS - YouTube
+https://www.youtube.com/watch?v=BjY5vygE1yg | Marlee Matlin On Being DGA's First Deaf Director For 'Accused' - YouTube
+https://www.youtube.com/watch?v=RwPoGwxqMo4 | Children of a Lesser God (1986) - Not in Silence...And Not In Sound Scene | Movieclips - YouTube
+https://www.youtube.com/watch?v=TIZi7UoJaxI | PLACES IN THE HEART | Sally Field, Donald Glover | Emotional Drama | Opening Scene - YouTube
+https://www.youtube.com/watch?v=riIkCORW_lY | PLACES IN THE HEART (1984) Clip - Sally Field and John Malkovich - YouTube
+https://www.youtube.com/watch?v=CZh1rv_fUZc | Jane Fonda in 'Coming Home' (1978) - YouTube
+https://www.youtube.com/watch?v=eXVUva_q1SY&list=RDeXVUva_q1SY&start_radio=1 | Jane Fonda's Hotness in Barbarella - YouTube
+https://www.youtube.com/watch?v=zbi9tW6yJxQ | Women in Love - 1969 (Alan Bates - Glenda Jackson) - YouTube
+https://www.youtube.com/watch?v=xVjkkhjl2Jw | Glenda Jackson in "A Touch Of Class" - YouTube
+https://www.youtube.com/watch?v=n3RVjhxFY8A | A TOUCH OF CLASS (1973) Clip - Glenda Jackson & George Segal - YouTube
+https://www.youtube.com/watch?v=_AbF0IUoHnc | Jane Fonda on KLUTE - YouTube
+https://www.youtube.com/watch?v=oxxLE5n_AJc | KLUTE (1971) Clip - Jane Fonda & Donald Sutherland - YouTube
+https://www.youtube.com/watch?v=4boKvEIuA1w | Klute — Therapy session (4K) - YouTube
+https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress#Multiple_wins_and_nominations | Academy Award for Best Actress - Wikipedia
+
+https://www.youtube.com/watch?v=lc4Evg8Zp2E | Elizabeth Taylor Spells It Out in Lipstick in BUtterfield 8 (1960) - YouTube
+https://www.youtube.com/watch?v=vLKcsK1EYEI | Butterfield 8 - Clip 2 - YouTube
+https://www.youtube.com/watch?v=uf0aHiQZ0PY | Simone Signoret in "Room At The Top" - YouTube
+https://www.youtube.com/watch?v=N2imONc6rs0 | ONE OF THE BEST KISS SCENES EVER: Room at the top (1959) - YouTube
+https://www.youtube.com/watch?v=vG242ZpMLVY | The Three Faces of Eve starring Joanne Woodward 1957 (full movie) - YouTube
+https://www.youtube.com/watch?v=4pl0r8hxyrw | Anastasia 1956 Film in English, Ingrid Bergman, Yul Brynner, Helen Hayes - YouTube
+https://www.youtube.com/watch?v=T9vothENu8o | Anna Magnani in "The Rose Tattoo" - YouTube
+https://www.youtube.com/watch?v=9Au__lUmByI | The Country Girl (1954) - Grace Kelly - William Holden - YouTube
+https://www.youtube.com/watch?v=El3zivuxv1U | Loretta Young, Joseph Cotten, Ethel Barrymore in "The Farmer's Daughter" (1947) - James Arness debut - YouTube
+https://www.youtube.com/watch?v=k_2vuXLObCQ | Loretta Young Joseph CottenThe Farmers Daughter 1947 colorized remastered 4K - YouTube
+https://www.youtube.com/watch?v=qWfY7nZZIig | To Each His Own Fan Made Trailer - YouTube
+https://www.youtube.com/watch?v=Bt9XXW2u_N8 | Olivia de Havilland - YouTube
+https://www.youtube.com/watch?v=vOTa10oJprQ | Suspicion | Full HD Movies For Free | Flick Vault - YouTube
+https://www.youtube.com/watch?v=JG3XiUf9Pdg | Notorious (1946) Film In English | Cary Grant, Ingrid Bergman, Claude Rains | Classic Movie HD 1080p - YouTube
+https://www.youtube.com/watch?v=8XcybxFKW1U&list=RD8XcybxFKW1U&start_radio=1 | The Most Beautiful Bride | Funny Girl | Love Love - YouTube
+https://www.youtube.com/watch?v=9r7coI37KYU&list=RD9r7coI37KYU&start_radio=1 | “My Man” from Funny Girl (1968) - YouTube
+https://www.youtube.com/watch?v=wIi8HJFaRRo | Julie Christie & Laurence Harvey in "Darling" (1965) - YouTube
+https://www.youtube.com/watch?v=MtNDmE_UawA | Darling 1965 (scarf) - YouTube
+https://www.youtube.com/watch?v=HnGtIxzYNUY | Hud (1963) You still got that itch? - YouTube
+https://www.youtube.com/watch?v=4J71RDJ0Gd8 | Hud scene 1 - YouTube
+https://www.youtube.com/watch?v=Yz6N3iKhcrQ | Patricia Neal Tribute - YouTube
+
+https://www.youtube.com/playlist?list=PLBHqHeFZPW9EdsrMUc8lVa-DIfpIVlnua | 1940s Movies - YouTube
+https://www.youtube.com/watch?v=ASNO9QuKLj0 | Bette Davis in 'Jezebel' (1938) - YouTube
+https://www.youtube.com/results?search_query=Janet+Gaynor+7th+Heaven | Janet Gaynor 7th Heaven - YouTube
+https://www.youtube.com/watch?v=B5gTIxCm_uY | 7th Heaven (1927) [ HD Restored ] Romance, Drama | Janet Gaynor | Charles Farrell - YouTube
+https://www.youtube.com/watch?v=lReKu0z_9Q8 | O Pecado de Madelon Claudet 1931 Legendado em português - YouTube
+https://www.youtube.com/watch?v=D9j9ypKxnSk | Heart-breaking conclusion of "Min & Bill" (1930) - YouTube
+https://www.youtube.com/watch?v=XOIA1ThxPAg | The Divorcee (1930) Norma Shearer - YouTube
+https://www.youtube.com/watch?v=dnVi0wyyqqY | Coquette (1929) MARY PICKFORD🍕 OSCAR WINNER - YouTube
+https://www.youtube.com/watch?v=iJ9so5KrtkM | Street Angel (1928) JANET GAYNOR ♥ CHARLES FARRELL - YouTube
+https://www.youtube.com/watch?v=Vkz_It54KJo | Dangerous (1935): I'm Too Tired To Be Hysterical - Classic Movie Clip - Bette Davis - Franchot Tone - YouTube
+https://www.youtube.com/watch?v=mYOGfNdwuC0 | Morning Glory (1933) - Katharine Hepburn - YouTube
+https://www.youtube.com/watch?v=Hrw4fQl5BXA | Luise Rainer in The Great Ziegfeld (1936) - Telephone Scene - YouTube
+https://www.youtube.com/watch?v=OHCuZV3wmb8 | Luise Rainer Wins 2nd Oscar For "The Good Earth" (1937) - YouTube
+https://www.youtube.com/watch?v=xj2I81_DRFE | 100-Year-Old Luise Rainer Talks About Her Work in The Good Earth (1937) - YouTube
+https://www.google.com/search?q=luise+rainer&oq=Luise+Rainer&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxMDA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | luise rainer - Google Search
+https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress#1920s | Academy Award for Best Actress - Wikipedia
+https://www.youtube.com/watch?v=2hFonV3rbYI | Romance at Work (Kitty Foyle 1940) - YouTube
