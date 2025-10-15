@@ -2414,3 +2414,22 @@ Relic
 Darkest Hour
 Brelindzè
 The Looming Storm (Bao xue jiang zhi)
+
+
+# 14/10/25
+https://www.youtube.com/results?search_query=top+10+russian+movies | top 10 russian movies - YouTube
+https://www.youtube.com/watch?v=sSj8ODXfBrU | TOP 9 RUSSIAN MOVIES - YouTube
+
+https://www.youtube.com/watch?v=JpgHdLHqhuw | Top 10 Chinese Movies Every Cinephile Must See – Ranked - YouTube
+https://www.imdb.com/title/tt0234837/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_Suzhou%2520River | Suzhou River (2000) - IMDb
+https://www.imdb.com/title/tt1124052/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_%2520City%2520of%2520Life%2520and%2520Death | City of Life and Death (2009) - IMDb
+https://www.imdb.com/title/tt0210916/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Postmen%2520in%2520the%2520Mountains | Postmen in the Mountains (1999) - IMDb
+https://www.imdb.com/title/tt0111786/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_%2520In%2520the%2520Heat%2520of%2520the%2520Sun | In the Heat of the Sun (1994) - IMDb
+https://www.imdb.com/title/tt9581076/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_So%2520Long%252C%2520My%2520Son | So Long, My Son (2019) - IMDb
+https://www.imdb.com/title/tt0245929/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Devils%2520on%2520the%2520Doorstep | Devils on the Doorstep (2000) - IMDb
+
+https://www.youtube.com/watch?v=-nyM7tST5Gc | Top 10 Japanese Films Every Cinephile MUST See Before They Die - YouTube
+https://www.imdb.com/title/tt1128075/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Love%2520exposure%2520 | Love Exposure (2008) - IMDb
+https://www.imdb.com/title/tt0123948/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Cure | Cure (1997) - IMDb
+https://www.imdb.com/title/tt0058625/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Women%2520in%2520the%2520Dunes | Woman in the Dunes (1964) - IMDb
+https://www.imdb.com/title/tt0057565/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_High%2520%2526%2520Low | High and Low (1963) - IMDb

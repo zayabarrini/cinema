@@ -1,3 +1,22 @@
+https://zayabarrini.vercel.app/blog/posts/Cinema-Women-Analysis
+https://www.imdb.com/list/ls538130914/?sort=user_rating%2Cdesc
+https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series#Programs_with_multiple_wins
+https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress
+https://en.wikipedia.org/wiki/Tony_Award_for_Best_Actress_in_a_Play
+https://en.wikipedia.org/wiki/EGOT
+https://www.hollywoodreporter.com/movies/movie-news/2025-2026-awards-season-calendar-oscars-emmys-dates-1235872190/
+
+EGOT:
+Emmy: September 14, 2025
+grammy: Sun, Feb 1, 2026
+oscar: March 15, 2026
+Tony: Sunday, June 7, 2026
+
+Grammy Categories: Whoopi Goldberg: Original Broadway Show Recording (1986) - Best Comedy Recording, Best Spoken Word Recording, Best Recording For Children, Best Spoken Word Album for Children, Best Audiobook, Narration & Storytelling
+Tony: Producer (Best Musical)
+
+Filme, Youtube trailer/scene, Tiktok
+
 Viola Davis
 Julianne Moore
 Cate Blanchett
@@ -26,8 +45,97 @@ Leila Hatami
 Kani Kusruti
 Gong Li
 
+Extend to other languages/countries: ch, ja, de, fr, it, es, ru, ar, hi, id, sw
+table of 30 Transgender Scientists, their field of work and country: https://zayabarrini.vercel.app/blog/posts/Psychoanalysis-Topology-Trans-Parenting
+Trans engineer and soldier in history
+Bella Longuinho, Maya, Urias
 
-# Oscar Winners
+# EGOT
+
+The Closest on the List: Nicole Kidman and Emma Thompson are both only two awards away (each needs a Grammy and a Tony). Maggie Smith is the closest, needing only a Grammy to complete her EGOT.
+
+Legends Missing Multiple Awards: It's surprising that icons like Meryl Streep, Katharine Hepburn, and Ingrid Bergman are missing more than half of the EGOT, proving just how difficult it is to achieve.
+
+The "EGOT Nominee" Club: Cate Blanchett is a notable member of this group, having been nominated for all four awards but not winning them all.
+
+International Actresses: For stars like Gong Li, Marion Cotillard, and Sandra Hüller, the Tony Award (for Broadway theatre) is often the highest hurdle, as their primary work is in film and non-American productions.
+
+Of course! An EGOT is the rare achievement of winning an Emmy, Grammy, Oscar, and Tony Award.
+
+Here is a table of the actresses who have achieved EGOT status, along with the specific works for which they won each award.
+
+### Actresses Who Have EGOTed
+
+| Actress | Emmy Win (Category) | Grammy Win (Category) | Oscar Win (Category) | Tony Win (Category) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Helen Hayes** (1900-1993) | **Schlitz Playhouse of Stars** (1953) <br> *Best Actress* | **Great American Documents** (1977) <br> *Best Spoken Word Recording* | **The Sin of Madelon Claudet** (1932) <br> *Best Actress* <br> **Airport** (1971) <br> *Best Supporting Actress* | **Happy Birthday** (1947) <br> *Best Actress in a Play* <br> **Time Remembered** (1958) <br> *Best Actress in a Play* |
+| **Rita Moreno** (b. 1931) | **The Muppet Show** (1977) <br> *Best Guest Actress* <br> **The Rockford Files** (1978) <br> *Best Supporting Actress* | **The Electric Company** (1972) <br> *Best Recording For Children* | **West Side Story** (1962) <br> *Best Supporting Actress* | **The Ritz** (1975) <br> *Best Featured Actress in a Play* |
+| **Audrey Hepburn** (1929-1993) | **Gardens of the World with Audrey Hepburn** (1993) <br> *Best Informational Program* | **Audrey Hepburn's Enchanted Tales** (1994) <br> *Best Spoken Word Album for Children* | **Roman Holiday** (1954) <br> *Best Actress* | **Ondine** (1954) <br> *Best Actress in a Play* |
+| **Whoopi Goldberg** (b. 1955) | **Beyond Tara: The Extraordinary Life of Hattie McDaniel** (2002) <br> *Best Special Class Special* <br> **The View** (2009) <br> *Best Talk Show Host* | **Whoopi Goldberg: Original Broadway Show Recording** (1986) <br> *Best Comedy Recording* | **Ghost** (1991) <br> *Best Supporting Actress* | **Thoroughly Modern Millie** (2002) <br> *Producer (Best Musical)* |
+| **Jennifer Hudson** (b. 1981) | **Baby Yoda** (2021) <br> *Best Interactive Media for a Daytime Program* | **Jennifer Hudson** (2009) <br> *Best R&B Album* <br> **The Color Purple** (2017) <br> *Best Musical Theater Album* | **Dreamgirls** (2007) <br> *Best Supporting Actress* | **A Strange Loop** (2022) <br> *Producer (Best Musical)* |
+| **Viola Davis** (b. 1965) | **How to Get Away with Murder** (2015) <br> *Best Actress in a Drama Series* | **Finding Me** (2023) <br> *Best Audiobook, Narration & Storytelling* | **Fences** (2017) <br> *Best Supporting Actress* | **King Hedley II** (2001) <br> *Best Featured Actress in a Play* <br> **Fences** (2010) <br> *Best Actress in a Play* |
+
+---
+
+### Key Takeaways:
+
+*   **The Pioneers:** Helen Hayes was the first woman to achieve the EGOT (in 1977). Rita Moreno was the first Latina and remains one of only 19 people total to have ever won all four awards.
+*   **Posthumous EGOTs:** Audrey Hepburn completed her EGOT after her death, with her Grammy win in 1994.
+*   **The Quickest EGOT:** Jennifer Hudson achieved her EGOT the fastest, taking only 16 years from her first win (Oscar in 2007) to her last (Tony in 2022).
+*   **The Most Recent:** Viola Davis is the most recent actress to join the list, achieving her EGOT in 2023 after winning a Grammy for her audiobook memoir. This also made her the **third Black actress** to EGOT, following Whoopi Goldberg and Jennifer Hudson.
+*   **Producer vs. Performer:** Note that for some of their Tony wins (Whoopi Goldberg, Jennifer Hudson), the award was for their role as a **producer** of the winning Best Musical, not for performing in it.
+
+That's an excellent observation! You've correctly identified the patterns. The "biggest challenge" in achieving an EGOT varies dramatically depending on a person's primary field. Here’s a breakdown by field and their typical EGOT hurdles.
+
+### EGOT by Field: The Biggest Challenge
+
+| Primary Field | Easiest Award | Typical Challenge | Biggest Hurdle | Prime Examples |
+| :--- | :--- | :--- | :--- | :--- |
+| **ACTORS/ACTRESSES** | **Emmy** (TV work) | **Oscar** (film prestige) | **Grammy** (recording) | **Viola Davis** (Grammy was last), **Maggie Smith** (needs Grammy), **Helen Hayes** (Grammy was last) |
+| **FILM COMPOSERS** | **Oscar** (film scores) | **Grammy** (soundtrack/score) | **Tony** (Broadway musical) | **John Williams** (needs Tony), **Hans Zimmer** (needs Tony), **Ennio Morricone** (needed Tony) |
+| **BROADWAY PERFORMERS** | **Tony** (stage work) | **Emmy** (TV roles) | **Oscar** (film roles) | **Audra McDonald** (needs Oscar), **Patti LuPone** (needs Oscar), **Lin-Manuel Miranda** (needs Oscar) |
+| **POP/ROCK MUSICIANS** | **Grammy** (music) | **Oscar** (song for film) | **Tony** (Broadway show) | **Elton John** (needs Tony), **Beyoncé** (needs Tony & Oscar), **Paul McCartney** (needs Tony) |
+| **TV PERSONALITIES** | **Emmy** (TV work) | **Grammy** (spoken word) | **Oscar/Tony** (crossover) | **Oprah Winfrey** (needs Tony & Oscar), **Ellen DeGeneres** (needs Tony & Oscar) |
+| **CLASSICAL MUSICIANS** | **Grammy** (recording) | **Emmy** (TV special) | **Oscar/Tony** (film/theatre) | **Itzhak Perlman** (needs Oscar & Tony) |
+
+---
+
+### Detailed Analysis of the Challenges
+
+#### 1. For Actors & Actresses: The **Grammy** is the Final Boss
+*   **Why the Grammy is Hard:** Their craft is visual and performative, not primarily musical or recorded. To win a Grammy, they must venture into a completely different medium.
+*   **Common Grammy Pathways:**
+    *   **Audiobooks/Narration:** This is the most common path (e.g., Viola Davis for her memoir, Maggie Smith could do this).
+    *   **Spoken Word Album:** Reading poetry or literature.
+    *   **Children's Album:** Recording a children's story or album.
+*   **The Tony:** For film-focused actors, the Tony is also a major challenge, as it requires a commitment to a long and grueling Broadway run. However, many serious actors do stage work at some point, making it more accessible than creating a Grammy-winning recording.
+
+#### 2. For Musicians & Composers: The **Tony** is the Great Filter
+*   **Why the Tony is Hard:** The Tony Awards are for live Broadway theatre in New York. A pop star or film composer must successfully write music for a stage musical—a discipline with unique demands (storytelling, character development, live performance stamina)—and have it become a critical and commercial hit on Broadway.
+*   **Common Tony Pathways:**
+    *   **Best Musical/Score:** Composing the music and lyrics for a successful Broadway show.
+    *   **Producer Credit:** Investing in and championing a winning Broadway production.
+*   **The Oscar:** For musicians, the Oscar is also a challenge, but it's a more familiar one: writing a great song for a movie. Many musicians have achieved this (Elton John, Adele, Billie Eilish).
+
+#### 3. For Broadway Stars: The **Oscar** is the Elusive Prize
+*   **Why the Oscar is Hard:** The skills for Broadway (projecting to the back row, singing, often larger-than-life performances) don't always translate seamlessly to the intimate realism of film. Furthermore, Hollywood simply doesn't make as many movie musicals, limiting the roles that perfectly suit their talents.
+*   **Common Oscar Pathways:**
+    *   **Movie Musicals:** Starring in a film adaptation of a musical (e.g., Catherine Zeta-Jones in *Chicago*).
+    *   **Dramatic Film Roles:** Successfully crossing over to non-musical, dramatic film acting, which is highly competitive.
+
+#### 4. The Ultimate "All-Rounder" Strategy
+The easiest path to an EGOT is arguably to be a **composer for musical theatre** who also works in film and television.
+*   **They naturally compete for Tonys and Oscars** (for Best Score/Song).
+*   **The cast album of their Broadway show** easily earns them a Grammy.
+*   **A televised version of their musical or a TV special** can net them an Emmy.
+
+**The perfect example of this is:**
+*   **Robert Lopez** (the only double EGOT winner): Co-wrote *The Book of Mormon* (Tony, Grammy) and *Frozen* (Oscar), and won Emmys for TV specials.
+
+In summary, your intuition is spot on: **the final, missing piece of the EGOT puzzle almost always requires crossing over into a completely different entertainment discipline,** which is why the achievement remains so rare.
+
+
+# Oscar Winners, most Americans
 
 https://www.imdb.com/name/nm1297015/?ref_=ls_li_2_1 | Emma Stone - IMDb
 https://www.imdb.com/name/nm0000706/?ref_=ls_li_2_1 | Michelle Yeoh - IMDb
@@ -80,7 +188,6 @@ https://www.imdb.com/name/nm0001901/?ref_=tt_ov_3_1 | Chantal Akerman - IMDb
 https://www.imdb.com/name/nm0633223/?ref_=ttfc_fcr_3_16 | Cynthia Nixon - IMDb
 https://www.imdb.com/name/nm6891947/?ref_=tt_ov_3_1 | Lyna Khoudri - IMDb
 https://www.imdb.com/name/nm0033152/?ref_=tt_ov_3_2 | Arata Iura - IMDb
-
 
 # Youtube
 
@@ -141,3 +248,53 @@ https://www.youtube.com/watch?v=xj2I81_DRFE | 100-Year-Old Luise Rainer Talks Ab
 https://www.google.com/search?q=luise+rainer&oq=Luise+Rainer&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxMDA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | luise rainer - Google Search
 https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress#1920s | Academy Award for Best Actress - Wikipedia
 https://www.youtube.com/watch?v=2hFonV3rbYI | Romance at Work (Kitty Foyle 1940) - YouTube
+
+
+https://www.youtube.com/watch?v=Sce_K-dMjfE | Viola Davis KICKS ASS in scene from "How To Get Away With Murder" - YouTube
+https://www.youtube.com/results?search_query=the+prime+of+miss+jean+brodie | the prime of miss jean brodie - YouTube
+https://www.youtube.com/watch?v=nS8tqsjySaI | Doubt (9/10) Movie CLIP - I Will Do What Needs to Be Done (2008) HD - YouTube
+https://www.youtube.com/watch?v=ThsZ8wfhJpk | Doubt - Meryl Streep and Viola Davis - YouTube
+https://www.youtube.com/watch?v=yoUYUd26UXQ | Maggie Smith Moments That Make Me Spit Out My Tea | Downton Abbey - YouTube
+https://www.youtube.com/watch?v=rM6vW62_6lw | The Dowager Countess: Wittiest Moments To Make You Laugh | Downton Abbey - YouTube
+https://www.youtube.com/watch?v=84MIQ8x44w8 | Maggie Smith #21 - The Prime of Miss Jean Brodie (1969) - A teacher, first, last and always - YouTube
+https://www.youtube.com/watch?v=_J_C7LKtG98 | The Best of Elizabeth Taylor (Compilation) | Summer Under the Stars | TCM - YouTube
+https://www.youtube.com/watch?v=ja1fqOo4ukc | Scarlett O'Hara's best lines (Gone with the Wind) - YouTube
+https://www.youtube.com/watch?v=VRV3Xb11kvU | A Streetcar Named Desire 60th Anniversary | Stanley Meets Blanche | Warner Bros. Entertainment - YouTube
+
+https://www.imdb.com/user/ur120912813/ratings/?ref_=hm_nv_rat&sort=my_ratings%2Cdesc | Your ratings
+https://www.youtube.com/results?search_query=nights+of+cabiria+scene | nights of cabiria scene - YouTube
+https://www.youtube.com/watch?v=lpMpSLexilw | Persona - Alma's Confessions (with subtitles) - YouTube
+https://www.youtube.com/watch?v=gJ2cQQfvcdk | Wild Strawberries Scene - YouTube
+https://www.youtube.com/watch?v=avsB4FHh1CM | Nights of Cabiria - YouTube
+https://www.youtube.com/watch?v=k8TLa9N1Ep8 | Getting Divorced Scene | ANORA (2024) Movie CLIP HD - YouTube
+https://www.youtube.com/watch?v=NXoBPCV55r8 | The Art of Close - YouTube
+https://www.youtube.com/watch?v=y0ELGjHgIcA | Past Lives Movie Clip - When Is He Leaving? (2023) - YouTube
+https://www.youtube.com/watch?v=qS8I9jWnEpA | Bette Davis -"Wipe My Mouth" from Of Human Bondage (1934) - YouTube
+https://www.youtube.com/watch?v=OKn00A40uWE | Mommie Dearest (8/9) Movie CLIP - Rodeo Queen (1981) HD - YouTube
+https://www.youtube.com/watch?v=-eD4xXOnhZ0 | Joan Crawford’s Iconic Lines - YouTube
+https://www.youtube.com/watch?v=nInE5TITzE8 | Who's Afraid of Virginia Woolf - Getting Angry, Baby? - YouTube
+
+https://www.youtube.com/results?search_query=v+for+vendetta+speech | v for vendetta speech - YouTube
+https://www.youtube.com/watch?v=lX9SDbhnYYU | Anacondas 2 (2004) - Bloodsucking Leeches Scene (2/10) | Movieclips - YouTube
+https://www.youtube.com/watch?v=sVfmACBWnIY | The Meg (2018) - We Killed the Meg! Scene (6/10) | Movieclips - YouTube
+https://www.youtube.com/watch?v=_FyezVyMFJ8 | The Blue Lagoon (4/8) Movie CLIP - Sticky Kiss (1980) HD - YouTube
+
+
+## EGOTs
+
+https://www.youtube.com/watch?v=drnBMAEA3AM | "Do-Re-Mi" - THE SOUND OF MUSIC (1965) - YouTube
+https://www.youtube.com/watch?v=5WXwDaX6cVs&t=54s | Helen Hayes | #10 — 1930s Top Female Actors - YouTube
+https://www.youtube.com/watch?v=YhSKk-cvblc&list=RDYhSKk-cvblc&start_radio=1 | West Side Story (4/10) Movie CLIP - America (1961) HD - YouTube
+https://www.youtube.com/watch?v=wtYV-ASt2P4 | Rita Moreno on her relationship with Marlon Brando - YouTube
+https://www.youtube.com/watch?v=0UsX6EdNnGU | Vivien Leigh | #9 — 1930s Top Female Actors - YouTube
+https://www.youtube.com/@BestActorIndex | Best Actor Index - YouTube
+https://www.youtube.com/results?search_query=John+Gielgud+ | John Gielgud - YouTube
+https://www.youtube.com/watch?v=EzzRvrjIQu8 | Screaming wife scene from Arthur - YouTube
+https://www.youtube.com/watch?v=oC7Jy0x89FQ | Audrey Hepburn Speaking 6 Languages - YouTube
+https://www.youtube.com/results?search_query=Mel+Brooks | Mel Brooks - YouTube
+https://www.youtube.com/results?search_query=Mike+Nichols | Mike Nichols - YouTube
+https://www.youtube.com/watch?v=-3lKbMBab18 | The Graduate (1967) - "Mrs. Robinson, you're trying to seduce me. Aren't you?" - YouTube
+https://www.youtube.com/results?search_query=Whoopi+Goldberg%09 | Whoopi Goldberg - YouTube
+https://www.youtube.com/watch?v=f0a-giMarZo&list=RDf0a-giMarZo&start_radio=1 | Jennifer Hudson - I Will Always Love You (BET Honors 2010) - YouTube
+https://www.youtube.com/watch?v=xKWWyO-C2o0&list=RDxKWWyO-C2o0&start_radio=1 | Barbra Streisand, Céline Dion - Tell Him (Official Remastered HD Video) - YouTube
+https://www.youtube.com/results?search_query=Frank+Marshall%09 | Frank Marshall - YouTube
