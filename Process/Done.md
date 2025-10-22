@@ -305,3 +305,52 @@ Directors
 2025 Sorry Baby
 2025 The Phoenician Scheme
 Bobs Burgers S03E16 Topsy
+
+ '1930 The Divorcee'
+ '1937 The Good Earth'
+ '1940 Kitty Foyle'
+ '1957 The Three Faces of Eve'
+ '1965 Darling'
+ '1971 Klute'
+ "1974 Alice Doesn't live here anymore"
+ '1978 Coming Home'
+ '1984 Places in the Heart'
+ '1990 Ju Dou'
+ 2008-The-Chaser-Chugyeogja-ko
+ '2009 The Young Victoria'
+ '2013 Gloria'
+ '2013 Omar'
+ 2015-Right-Now-Wrong-Then-ko
+ 2019-Gully-Boy-hi
+ "2020 Ma Rainey's Black Bottom"
+ '2022 The Lost King'
+ 2024-The-Life-of-Chuck
+
+Russian
+ '1941 Suspicion'
+ '1960 Letter Never Sent'
+ '1962 Ivanovo Detstvo'
+ 1964-Hamlet-AVC-mkv
+ '1965 Shadows of Forgotten Ancestors'
+ '1966 Andrei Rublev'
+ '1972 Solaris'
+ '1977 The Ascent'
+ '1979 Siberiade'
+ '1999 Old Man and The Sea'
+ '2007 Izgnanie'
+
+Done
+ 1986-The-Terrorizers-(Edward-Yang)
+ 1993-La-Estrategia-del-caracol
+ 2001-The-Royal-Tenenbaums
+ 2007-4-Months-3-Weeks-And-2-Days
+ 2009-Fantastic-Mr-Fox
+ 2012-Moonrise-Kingdom
+ 2015-Embrace-of-the-Serpent
+ '2015 Ixcanul'
+ 2018-Birds-Of-Passage
+ 2019-Honeyland
+ 2019-Lunana-A-Yak-In-The-Classroom-
+ 2021-The-French-Dispatch
+ 2025-Ne-Zha-2
+ 2025-The-Lost-Bus
