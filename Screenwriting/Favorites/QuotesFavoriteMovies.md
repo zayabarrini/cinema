@@ -1480,7 +1480,7 @@ I have such doubts.
 # The Hours
 ## Laura Brown
 - I'm going to make a cake
-11/13/18, 09:58 - Talles: "Well, I'm gonna make a cake.
+"Well, I'm gonna make a cake.
 That's what I'm gonna do.
 I'm gonna make a cake for daddy's birthday.
 Mommy, can I help?
@@ -1797,7 +1797,7 @@ It's not true.
 I got the prize for.
 Oh, you think they would have given it to me if I were healthy?
 - Always Giving parties
-11/13/18, 10:05 - Talles: "It's only a party.
+"It's only a party.
 Populated entirely with people who respect and admire you.
 Ha, small party, is it?
 Select party, is it?
@@ -1805,7 +1805,7 @@ Your friends.
 I thought I lost all my friends.
 I thought I drove my friends crazy.
 Jesus. -Oh, Mrs. Dalloway... always giving parties... to cover the silence."
-11/13/18, 10:08 - Talles: " I can't take this.
+" I can't take this.
 Take what?
 To be proud and brave... in front of everybody.
 Honey, it's not a performance.
@@ -1816,7 +1816,7 @@ I actually got the prize for having come through! -It's not true.
 For surviving! -It's not true!
 That's what I won it for!"
 - I wanted to write about it all.
-11/13/18, 10:12 - Talles: "I can't go through all this.
+"I can't go through all this.
 Why do you say that?
 I can't!
 Why?
@@ -1848,7 +1848,7 @@ I'm right here.
 Come closer, would you, please?
 Take my hand.
 - Who is this party for?
-11/13/18, 10:16 - Talles: "Come closer. Would you please?
+"Come closer. Would you please?
 Take my hand.
 Would you be angry...
 Would I be angry if you didn't show up at the party?
@@ -2161,7 +2161,7 @@ It never occurred to me it wasn't the beginning.
 It was happiness.
 It was the moment... right then.
 ## Virginia
-11/13/18, 09:50 - Talles: "Dearest, I feel certain, that I'm going mad again. I think we can't go through another of these terrible times and I shan't recover this time. I begin to hear voices and can't concentrate. So I'm doing what seems the best thing to do. You have given me the greatest possible happiness. You have been in every way all that anyone could be. I know that I'm spoiling your life and without me, you could work and you will. I know. You see I can't even write this properly. What I want to say is that I owe all the happiness of my life to you. You have been entirely patient with me and incredibly good. Everything is gone for me, but the certainty of your goodness. I can't go on spoiling your life any longer. I don't think two people could have been happier than we have been. 
+"Dearest, I feel certain, that I'm going mad again. I think we can't go through another of these terrible times and I shan't recover this time. I begin to hear voices and can't concentrate. So I'm doing what seems the best thing to do. You have given me the greatest possible happiness. You have been in every way all that anyone could be. I know that I'm spoiling your life and without me, you could work and you will. I know. You see I can't even write this properly. What I want to say is that I owe all the happiness of my life to you. You have been entirely patient with me and incredibly good. Everything is gone for me, but the certainty of your goodness. I can't go on spoiling your life any longer. I don't think two people could have been happier than we have been. 
 Virginia."
 - you must eat
 Good morning, Leonard.
