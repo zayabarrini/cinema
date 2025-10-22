@@ -198,3 +198,110 @@ Uk + Billy Elliot uk
     ├── 2002-Oasis-(Chang-Dong-Lee)-ko
     ├── 2008-The-Chaser-Chugyeogja-ko
     └── 2015-Right-Now-Wrong-Then-ko
+
+# 22/10/25
+Directors
+
+ 1945-Rome-Open-City-it
+ 1948-Germany-Year-Zero-de
+ 1952-Come-Back-Little-Sheba-en
+ 1961-Last-Year-at-Marienbad-alain-resnais-fr
+ 1962-Jules-et-Jim-fr
+ 1963-The-Leopard-aka-Il-gattopardo-it
+ 1963-Yesterday-Today-and-Tomorrow-it
+ 1965-The-Sound-of-Music-en
+ 1966-Black-Girl-fr
+ 1970-The-Garden-of-the-Finzi-Continis-it
+ '1970 Investigating a citizen above suspition it'
+ '1973 Day.for.Night'
+ 1976-Black-and-White-in-Color-fr
+ 1981-Possession
+ 1984-Paris-Texas-en
+ 1987-Pelle-The-Conqueror-da
+ 1992-Basic-Instinct
+ 1995-The-Bridges-of-Madison-County
+ 1997-Character
+ '2000 Crouching Tiger'
+ 2002-The-Twilight-Samurai-ja
+ 2003-my-life-without-me-en
+ 2003-Underworld
+ 2004-Before-The-Fall-de
+ 2005-The-Secret-Life-of-Words-en
+ 2006-Little-Children
+ 2009-About-Elly-fa
+ 2009-Dogtooth
+ 2012-The-Impossible-es
+ 2013-Like-Father-Like-Son-ja
+ 2017-Okja-ko
+ 2019-Ready-or-Not
+ 2019-Twilights-Kiss-ch
+ 2020-The-Whaler-Boy-ru
+ 2021-Shang-Chi-And-The-Legend-Of-The-Ten-Rings-ch
+ 2021-The-Black-Phone
+ 2022-Speak-No-Evil-da-en
+ '2022 Suzume'
+ 2025-Final-Destination-Bloodlines
+
+ '1927 Metropolis'
+ 1949-Late-Spring-ja
+ 1949-The-Third-Man
+ 1952-The-Life-of-Oharu-ja
+ 1954-Sansho-the-Bailiff-Dayu-ja
+ 1955-Pather-Panchali-bn
+ 1957-Paths-Of-Glory
+ 1957-Pyaasa-Thirst-hi
+ 1957-The-Bridge-on-the-River-Kwai
+ 1959-Ben-Hur
+ 1959-The-Human-Condition-II-ja
+ 1961-The-Human-Condition-III-ja
+ 1962-Harakiri
+ 1962-Harakiri-ja
+ 1962-Lawrence-Of-Arabia
+ 1963-Tengoku-to-jigoku---High-and-Low-ja
+ 1965-Doctor-Zhivago
+ 1965-For-a-Few-Dollars-More
+ 1969-Butch-Cassidy-And-The-Sundance-Kid
+ 1974-Chinatown
+ 1975-Barry-Lyndon
+ 1976-Taxi-Driver
+ "1978 Chantal Akerman - Les rendez-vous d'Anna "
+ 1980-Raging-Bull
+ 1982-Blade-Runner-Final-Cut
+ 1985-Out-of-Africa
+ '1985 Ran '
+ 1987-Full-Metal-Jacket
+ 1989-For-All-Mankind
+ 1992-A-River-Runs-Through-It
+ 1994-Legends-of-the-Fall
+ 1994-The-Adventures-of-Priscilla-Queen-of-the-Desert
+ 1995-Casino
+ 1995-Dilwale-Dulhania-Le-Jayenge-hi
+ 1995-Heat
+ 1996-Shine
+ 1996-Trainspotting
+ 2001-Moulin-Rouge
+ 2002-Oasis-(Chang-Dong-Lee)-ko
+ 2006-Marie-Antoinette
+ 2006-Omkara-hi
+ 2007-Elizabeth-The-Golden-Age
+ 2008-The-Chaser-Chugyeogja-ko
+ 2008-The-Duchess
+ 2011-Hugo
+ 2013-Rush
+ 2014-Cake
+ 2014-Gone-Girl
+ 2015-Right-Now-Wrong-Then-ko
+ 2015-The-Witch
+ 2016-Hacksaw-Ridge
+ 2017-Marrowbone
+ 2017-Mother
+ 2019-Gully-Boy-hi
+ 2020-Mank
+ 2024-The-Life-of-Chuck
+ 2025-Den-Of-Thieves-2-Pantera
+ 2025-F1-The-Movie
+ 2025-One-Battle-After-Another
+ 2025-Sinners
+ 2025-Sorry-Baby
+ 2025-The-Phoenician-Scheme
+ Bobs-Burgers-S03E16-Topsy
