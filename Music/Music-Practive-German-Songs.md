@@ -1,26 +1,25 @@
----
-title:
-  - type: main
-    text: German Songs
-  - type: songs
-    text: Music
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: milano.jpg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 1.3.4
-...
-
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+- Ljubavi
+- Wenn du lächelst
+- ICH WEISS
+- Fallschirm
+- Unter die Haut
+- Zu lange weg
+- NICHT VERDIENT
+- Eine Nachricht
+- FAKE LOVE
+- leer (piano version)
+- Moula
+- HABIBA
+- Abschiedsbrief
+- Nur Du
+- Perlweiss
+- Fick dich
+- Je vois
+- Voilà
+- Denkst du an mich
+- SPIEGLEIN SPIEGLEIN
 - [Milano](#milano)
   - [Nicht fur immer](#nicht-fur-immer)
   - [Es tut mir leid](#es-tut-mir-leid)
@@ -125,6 +124,2194 @@ https://genius.com/Jazeek-112-lyrics | Jazeek – 112 Lyrics | Genius Lyrics
 <!-- TOC --><a name="milano"></a>
 
 # Milano
+
+## Ljubavi
+
+[Part 1]
+
+Auch wenn du es weißt, ich lass' dich nie wieder mehr allein
+
+Auch wenn du es weißt, sieh diesen Song hier wie ein Beweis
+
+Nur für dich flieg' ich einmal um die Welt
+
+Bau ein Schloss für dich dahin, wo es dir gefällt
+
+[Pre-Hook]
+
+Du bist mein Leben, Baby, und keiner nimmt dich mir weg
+
+Könnt so viel sagen, doch diese Worte treffen's perfekt
+
+[Hook]
+
+Ljubavi
+
+Du bist ma vie, ma viе, ma vie
+
+Oh, ma jolie
+
+Du bist ma vie, ma viе, ma vie
+
+[Part 2]
+
+Et je serai sage, je veux juste un mot, je veux juste un message
+
+Wenn du es weißt, ich seh' dich nur an und weiß, was du meinst
+
+Jeden Tag, ein Ort, an dem wir noch nie war'n
+
+Mein Handy ist aus, alles kann warten, bist du da
+
+[Pre-Hook]
+
+Du bist mein Leben, Baby, und keiner nimmt dich mir weg
+
+Könnt so viel sagen, doch diese Worte treffen's perfekt
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Unzertrennlich
+
+Morpheuz
+
+VACATION
+
+benno!
+
+Pech für dich
+
+Florentina
+
+[Hook]
+
+Ljubavi
+
+Du bist ma vie, ma vie, ma vie
+
+Oh, ma jolie
+
+Du bist ma vie, ma vie, ma vie
+
+## Wenn du lächelst
+
+[Pre-Refrain]
+
+Wenn du lächelst, ist mir alles so egal
+
+Dein Lächeln lässt mir keine Wahl
+
+[Refrain]
+
+Oh Baby, wenn du gehst, dann hoff' ich nur, das hier ist nicht real
+
+Denn was ich fühl', bist du nicht da, ist nicht normal
+
+Mein Herz ist da, wo du bist, ich schenk' es dir
+
+Denn wenn du, ja, Baby, wenn du lächelst, dann
+
+[Strophe 1]
+
+Und wenn du lächelst, dann
+
+Steht sofort mein Herz in Flamm'n
+
+Keine andere zieht mich so an
+
+Denn keine andere sieht mich so an
+
+Und egal, wer hier im Raum ist
+
+Du bist immer die, die raussticht
+
+Fühlt sich an, als wenn das grad ein Traum ist
+
+Weil du bist einfach so unglaublich
+
+[Pre-Refrain]
+
+Und wenn du lächelst, ist mir alles so egal
+
+Dein Lächeln lässt mir keine Wahl
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+2003
+
+Liaze & ​equal (DEU)
+
+Say Don’t Go (Taylor’s Version) [From the Vault]
+
+Taylor Swift
+
+Now That We Don’t Talk (Taylor’s Version) [From the Vault]
+
+Taylor Swift
+
+[Refrain]
+
+Oh Baby, wenn du gehst, dann hoff' ich nur, das hier ist nicht real
+
+Denn was ich fühl', bist du nicht da, ist nicht normal
+
+Mein Herz ist da, wo du bist, ich schenk' es dir
+
+Denn wenn du, ja, Baby, wenn du lächelst, dann (Ey)
+
+[Strophe 2]
+
+Ja, ich lieb' es, wenn du morgens neben mir aufwachst, ey
+
+Ja, ich lieb' es sogar, wenn du mich wieder auslachst
+
+Deine Augen Magie
+
+Hab' mich so in dein Lächeln verliebt
+
+Will es zeigen, doch weiß nicht mal wie
+
+Sag mir, womit habe ich dich verdient?
+
+[Pre-Refrain]
+
+Wenn du lächelst, ist mir alles so egal
+
+Dein Lächeln lässt mir keine Wahl
+
+[Refrain]
+
+Oh Baby, wenn du gehst, dann hoff' ich nur, das hier ist nicht real
+
+Denn was ich fühl', bist du nicht da, ist nicht normal
+
+Mein Herz ist da, wo du bist, ich schenk' es dir
+
+Denn wenn du, ja, Baby, wenn du lächelst, dann (Germoney)
+
+## ICH WEISS
+
+[Intro]
+
+C'est Milano
+
+[Hook]
+
+Baby, ich weiß (Weiß)
+
+Ich ruf' dich an, doch du hast keine Zeit
+
+Bin auf der Straße, gucke, wo ich bleib'
+
+Vermisst du mich, ma chérie, sag Bescheid
+
+[Part 1]
+
+Eh, la miss, tu sais, dis-moi ton nom, c'est comment ?
+
+C'est Maria, bah, bébé, monte et prends les commandes
+
+Quatre heures sur l'autoroute, en Allemagne, dans un bolide allemand
+
+À mes côtés, la plus belle car, moi, j'les mets tous à l'amende
+
+Mais tu sais, une fois l'lendemain, c'est pas pareil
+
+Elle a un autre Snap' et elle a un autre appareil téléphonique
+
+C'est plus la même Maria, elle veut des "j'aime"
+
+Elle veut d'l'oseille dans son sac, elle veut plus qu'on lui dise "je t'aime"
+
+Maria, oh, Maria, tu la voudrais même pas en mariage
+
+Mais khoya, elle t'a piqué quand elle t'a montré son visage
+
+Plus moyen d'se désister, ma gueule, bah, faudra payer cash
+
+[Hook]
+
+Baby, ich weiß (Weiß)
+
+Ich ruf' dich an, doch du hast keine Zeit
+
+Bin auf der Straße, gucke, wo ich bleib' (Yeah)
+
+Vermisst du mich, ma chérie, sag Bescheid
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+​leer
+
+Milano
+
+Je vois
+
+Milano
+
+Bleib
+
+AYLIVA & Milano
+
+[Part 2]
+
+J'la vois sur l'té-c', té-c', elle s'la pète, pète
+
+Elle a mess' avec ses potes, potes, elle veut qu'j'l'appelle, 'ppelle
+
+Elle arrive, elle m'fait la folle, folle, elle fait la belle, belle
+
+Elle fait la folle, folle, elle fait la belle, belle
+
+Et j'remonte dans la gova et j'fais demi-tour
+
+Mon téléphone qui sonne, sonne mais je fais le sourd
+
+J'ai cru qu'elle était conne, conne, poto, et c'est tout
+
+Ouais, poto, j'déconne, 'conne et j'fais moins le fou
+
+[Hook]
+
+Baby, ich weiß
+
+Ich ruf' dich an, doch du hast keine Zeit
+
+Bin auf der Straße, gucke, wo ich bleib' (Oh)
+
+Vermisst du mich, ma chérie, sag Bescheid
+
+[Outro]
+
+Ohh oh oh oh oh oh oh
+
+Baby, du weißt
+
+## Fallschirm
+
+[Intro]
+
+(Germoney)
+
+[Strophe 1]
+
+Immer, wenn ich auf dem Weg nach Haus bin
+
+Weiß ich, du bist da und wartest auf mich
+
+Frag' mich, womit ich dich nur verdient hab'
+
+Darum sing' ich für dich dieses Lied, Schatz
+
+Ich will, dass du weißt
+
+Ich lass' dich niemals allein
+
+Bist du bereit?
+
+Ich bitte dich nur um eins
+
+[Refrain]
+
+Fang mich auf, wenn ich falle
+
+Sei mein Fallschirm, wenn ich stürz'
+
+Weil ich dann sicherer lande
+
+Wenn ich ein bisschen zu hoch flieg'
+
+Ich schließ' meine Augen, weil ich weiß
+
+Du passt auf mich auf um jeden Preis
+
+Fang mich auf, wenn ich falle, ey
+
+Oh-oh, oh-oh-oh-oh-oh, oh-oh
+
+[Strophe 2]
+
+Bei all dem Stress, der um mich rum so passiert
+
+Such ich Frieden und ich find' ihn bei dir
+
+Wenn du was brauchst, send mir nur ein Signal
+
+Denn geht's um dich, ist alles andre egal
+
+Öffne deine Hände, ich leg' dir mein Herz da rein
+
+Oh-oh-oh-oh, bei dir wird es sicher sein
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Interpol
+
+Made & Kenan
+
+Fussballer ⚽️
+
+Bonez MC
+
+Scheine zählen
+
+AYLIVA
+
+[Refrain]
+
+Fang mich auf, wenn ich falle
+
+Sei mein Fallschirm, wenn ich stürz'
+
+Weil ich dann sicherer lande
+
+Wenn ich ein bisschen zu hoch flieg'
+
+Ich schließ' meine Augen, weil ich weiß
+
+Du passt auf mich auf um jeden Preis
+
+Fang mich auf, wenn ich falle, ey
+
+Oh-oh, oh-oh-oh-oh-oh, oh-oh
+
+[Outro]
+
+Fang mich auf, wenn ich falle
+
+Sei mein Fallschirm, wenn ich stürz'
+
+Weil ich dann sicherer lande
+
+Wenn ich ein bisschen zu hoch flieg'
+
+## Unter die Haut
+
+[Intro]
+
+(Germoney)
+
+[Strophe 1]
+
+Du tust mir nicht gut
+
+Deine Wort sind Gift, deine Blicke sind leer, treffen mich wie ein Pfeil
+
+Ich kann tagelang nur mit dir sein, ich fühl' mich trotzdem allein
+
+Wenn du irgendwann verstehst, dann ruf mich an
+
+Bis dahin bricht mein Herz wie Porzellan
+
+[Pre-Refrain]
+
+Du musst versteh'n
+
+Warum ich geh'
+
+[Refrain]
+
+Du tust mir nicht gut (Ey)
+
+Ich kann so nicht mehr, ganz egal, wie oft ich es versuch' (Ey)
+
+Du bist mein Tattoo, deine Worte geh'n unter die Haut
+
+Du sagst immer wieder, ich hör' dir niе richtig zu (Ey)
+
+Ich kann dich nicht hör'n, deine Taten sind dafür zu laut
+
+[Strophe 2]
+
+Ich würdе dir so gerne Vorwürfe machen, doch wo fang' ich da nur an?
+
+Bei allem, was du getan hast, ist die Liste leider dafür zu lang, oh-woah
+
+Aber heut läuft das alles anders
+
+Du bist für mich wie alle andern
+
+Glaub mir, nie wieder liege ich wach, denn du warst es nicht wert
+
+Aber heut läuft das alles anders
+
+Du bist für mich wie alle andern
+
+Glaub mir, nie wieder liege ich wach, denn du warst es nicht wert
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Ohne Dich
+
+Milano
+
+Bleib
+
+AYLIVA & Milano
+
+Au Revoir
+
+Milano & Eddin
+
+[Pre-Refrain]
+
+Du musst versteh'n
+
+Warum ich geh'
+
+[Refrain]
+
+Du tust mir nicht gut (Ey)
+
+Ich kann so nicht mehr, ganz egal, wie oft ich es versuch' (Ey)
+
+Du bist mein Tattoo, deine Worte geh'n unter die Haut
+
+Du sagst immer wieder, ich hör' dir nie richtig zu (Ey)
+
+Ich kann dich nicht hör'n, deine Taten sind dafür zu laut
+
+Ich kann so nicht mehr, ganz egal, wie oft ich es versuch' (Ey)
+
+Du bist mein Tattoo, deine Worte geh'n unter die Haut
+
+Du sagst immer wieder, ich hör' dir nie richtig zu (Ey)
+
+Ich kann dich nicht hör'n, deine Taten sind dafür zu laut
+
+## Zu lange weg
+
+[Intro]
+
+(Perino beat)
+
+(A-A-A-Angelo)
+
+[Pre-Hook]
+
+Ja, du warst zu lange weg
+
+Warum kommst du jetzt wieder an?
+
+Noch einmal, Baby, schaff' ich's nicht
+
+Ja, das hab' ich endlich erkannt
+
+[Hook]
+
+Auch wenn das mich umbringt und das jede Nacht
+
+Solltest du umdreh'n, was hast du gedacht?
+
+Ja, du warst zu lange weg
+
+Bitte komm jetzt nicht wieder an
+
+[Part 1]
+
+Hab' mich verlaufen in deine Wüste
+
+Du siehst in mein'n Augen, Baby, ich bin so müde
+
+Immer up and down, in mein' Kopf wieder Krise
+
+Kann dir nicht vertrau'n, aber brauch' deine Liebе
+
+Tu sais que j'm'en veux oui, mêmе si j'dis que j'm'en fous oui
+
+Et oui je l'avoue oui, dans ton cœur j'veux m'enfouir
+
+De ta vie m'enfuir car, eh
+
+Cent fois j'aimerais te dire que, eh
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Kill Bill
+
+SZA
+
+Moulaga
+
+Made, Bobby Vandamme & Dorian
+
+Black Kings
+
+Sauce Walka
+
+[Pre-Hook]
+
+Ja, du warst zu lange weg
+
+Warum kommst du jetzt wieder an?
+
+Noch einmal, Baby, schaff' ich's nicht
+
+Ja, das hab' ich endlich erkannt
+
+[Hook]
+
+Auch wenn das mich umbringt und das jede Nacht
+
+Solltest du umdreh'n, was hast du gedacht?
+
+Ja, du warst zu lange weg
+
+Bitte komm jetzt nicht wieder an
+
+[Part 2]
+
+Deine Liebe lass' ich hinter mir
+
+Das ganze Jahr war der Winter hier
+
+Leere Zimmer und ich bin verwirrt
+
+Kann jeder deiner Berührungen noch immer spür'n
+
+Nichts ist wie früher, ich komme nicht klar
+
+Sie fragen, was los ist, doch kein Kommentar
+
+Hebe den Hörer seit Wochen nicht ab, oh-oh-oh-oh-oh
+
+[Pre-Hook]
+
+Ja, du warst zu lange weg
+
+Warum kommst du jetzt wieder an?
+
+Noch einmal, Baby, schaff' ich's nicht
+
+Ja, das hab' ich endlich erkannt
+
+[Hook]
+
+Auch wenn das mich umbringt und das jede Nacht
+
+Solltest du umdreh'n, was hast du gedacht?
+
+Ja, du warst zu lange weg
+
+Bitte komm jetzt nicht wieder an (Ey, ey-ey)
+
+[Outro]
+
+Zu lange, lange
+
+Zu lange, lange weg
+
+Zu lange, lange
+
+Zu lange, lange weg
+
+## NICHT VERDIENT
+
+[Hook: Milano]
+
+Ich hab' seit Monaten schon
+
+Keine Antwort gekriegt
+
+Aber das ist besser für mich
+
+Denn jeder Satz von dir bricht
+
+Dieses Herz in tausend Teile, du liebst, wenn ich weine
+
+Oh, ma vie, wie oft hab' ich
+
+Dir das schon verzieh'n? Du kannst nicht ohne ihn
+
+Ich war so naiv und blind verliebt
+
+Das hab' ich nicht verdient, das hab' ich nicht verdient
+
+[Part 1: BOJAN]
+
+Ich war blind, aber scheiß drauf
+
+Hätte nicht gedacht, dass du mich eintauscht
+
+Hab' geglaubt, dass du nur ein bisschen Zeit brauchst
+
+Dеin Lächeln sieht noch immer glеich aus
+
+Ich geh' jedes Ma' kaputt, wenn ich an euch vorbeilauf'
+
+Kann schon sein, dass das alles auf meine Psyche geht
+
+Wenn ich daran denke, wie er dir die Welt zu Füßen legt
+
+Du hast viel zu viele Scherben hinterlassen
+
+Egal, wie sehr ich liebe, ich muss lern'n, dich zu hassen
+
+Fahre ganz alleine in mei'm Wagen durch das Stadtzentrum
+
+Ich kann ohne dich nicht schlafen, ich brauch' Ablenkung
+
+Mitternacht spiegelt sich der Mond in dem Feld
+
+Während in der leeren Wohnung deine Rosen verwelken
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Bagchaser Can
+
+Pashanim
+
+CENT’ANNI
+
+Shindy
+
+You’re Losing Me (From The Vault)
+
+Taylor Swift
+
+[Hook: Milano]
+
+Ich hab' seit Monaten schon
+
+Keine Antwort gekriegt
+
+Aber das ist besser für mich
+
+Denn jeder Satz von dir bricht
+
+Dieses Herz in tausend Teile, du liebst, wenn ich weine
+
+Oh, ma vie, wie oft hab' ich
+
+Dir das schon verzieh'n? Du kannst nicht ohne ihn
+
+Ich war so naiv und blind verliebt
+
+Das hab' ich nicht verdient, das hab' ich nicht verdient
+
+[Part 2: BOJAN]
+
+Ich hab' dir tausendma' mein'n Standort geschickt
+
+Tausendmal keine Antwort gekriegt
+
+Ich glaub', ich chatte immer noch auf deine alte Nummer
+
+Ein Pfeil, doch ich warte auf ein Wunder
+
+Ich fahr' nachts an deinem Haus vorbei und gucke, ob die Lichter brenn'n
+
+Möchte nur dein'n Schatten seh'n, doch leider kann ich nichts erkenn'n
+
+Wie kannst du behaupten, ich wäre ein Psychopath?
+
+Du hast mich so krank gemacht, du und deine kühle Art
+
+Alle deine Freunde geben dir recht und reden mich schlecht
+
+Aber wer von den'n ist echt, heh?
+
+Hast du nicht geseh'n, wie die nicht klarkam'n?
+
+Die war'n neidisch, als wir beide noch ein Paar war'n
+
+Ich schaff' nie wieder mehr, dass deine schön'n Augen wein'n
+
+Damit du glücklich bist, muss ich traurig sein
+
+Ein Drama, aus dem wir beide rausmöchten
+
+Zeit, dass wir den Verlauf löschen
+
+[Hook: Milano]
+
+Ich hab' seit Monaten schon
+
+Keine Antwort gekriegt
+
+Aber das ist besser für mich
+
+Denn jeder Satz von dir bricht
+
+Dieses Herz in tausend Teile, du liebst, wenn ich weine
+
+Oh, ma vie, wie oft hab' ich
+
+Dir das schon verzieh'n? Du kannst nicht ohne ihn
+
+Ich war so naiv und blind verliebt
+
+Das hab' ich nicht verdient
+
+## Eine Nachricht
+
+[Intro]
+
+C'est Milano
+
+[Pre-Hook]
+
+Ich denke zurück, vermisse deine Art
+
+Ich lauf' auf der Brücke allein in der Nacht
+
+Du siehst meine Blicke nicht, doch ich seh', wenn du lachst
+
+Ich wusste von Anfang an, dass du mich magst
+
+[Hook]
+
+J't'ai d'jà vue dans le passé
+
+Wie du in dei'm weißen Kleid einfach so dastehst
+
+Tu m'l'as dit mais c'est passé
+
+Ich hoff' nur, dass du wartest, sterbe, wenn du nicht da bist
+
+Schick mir nur eine Nachricht, hey (Hey)
+
+J'attends, tél' à la main, schick mir nur eine Nachricht
+
+J'te l'ai dit dans le passé
+
+[Part 1]
+
+T'as échoué
+
+Sur moi, t'as fait des plans mais j'ai déjoué
+
+T'as pеnsé plus qu'un temps qu'j'suis un p'tit joueur
+
+Notre histoirе n'est pas prête de se dénouer
+
+Dans les strass et paillettes, j'ai trouvé douleur
+
+Quand j'rentre à la maison
+
+J'suis même plus les saisons parce qu'avec toi
+
+J'me pose plein de questions
+
+J'en perds même la raison car plus d'une fois
+
+J'ai dû t'la mettre, j'sais qu'c'est difficile
+
+J'suis plus dans l'binks, faut qu'j'reprenne mes idées
+
+Quitter la terre, j'me rapproche des îles
+
+J'ai rien à perdre, qui m'a félicité ?
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Wenn du lächelst
+
+Milano
+
+Lose Yourself
+
+Eminem
+
+Mockingbird
+
+Eminem
+
+[Pre-Hook]
+
+Ich denke zurück, vermisse deine Art
+
+Ich lauf' auf der Brücke allein in der Nacht
+
+Du siehst meine Blicke nicht, doch ich seh', wenn du lachst
+
+Ich wusste von Anfang an, dass du mich magst
+
+[Hook]
+
+J't'ai d'jà vue dans le passé (Ey, ey)
+
+Wie du in dei'm weißen Kleid einfach so dastehst
+
+Tu m'l'as dit mais c'est passé
+
+Ich hoff' nur, dass du wartest, sterbe, wenn du nicht da bist
+
+Schick mir nur eine Nachricht, hey (Hey)
+
+J'attends, tél' à la main, schick mir nur eine Nachricht
+
+J'te l'ai dit dans le passé, ahh-ah
+
+[Part 2]
+
+Et j'rentre tard, j'suis trop dans la zone
+
+J'sais qu'la roue finira par tourner
+
+J'cours pour toi mais pas derrière les sommes
+
+J'sais qu'ensemble, on peut atteindre les sommets
+
+Les laisser dans mon rétro que pour toi, ma lady
+
+Même en galère, crois-moi frère, on n'a pas crié « Mayday »
+
+Cœur de pierre, y a pas d'amour mais t'es devenue mon baby
+
+J'me retrouve en solo, ma te-tê me dit qu'j'ai merdé
+
+[Pre-Hook]
+
+Ich denke zurück, vermisse deine Art
+
+Ich lauf' auf der Brücke allein in der Nacht
+
+Du siehst meine Blicke nicht, doch ich seh', wenn du lachst
+
+Ich wusste von Anfang an, dass du mich magst
+
+[Hook]
+
+J't'ai d'jà vue dans le passé (Ey, ey)
+
+Wie du in dei'm weißen Kleid einfach so dastehst
+
+Tu m'l'as dit mais c'est passé
+
+Ich hoff' nur, dass du wartest, sterbe, wenn du nicht da bist
+
+Schick mir nur eine Nachricht, hey (Hey)
+
+J'attends, tél' à la main, schick mir nur eine Nachricht
+
+J'te l'ai dit dans le passé (C'est Milano)
+
+## FAKE LOVE
+
+[Intro]
+
+Oh-ohh
+
+C'est Milano
+
+Ey (The Placements)
+
+[Hook]
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wieder deine Mailbox, Mailbox
+
+Bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wiedеr deine Mailbox, Mailbox
+
+Bitte gеh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+[Part 1]
+
+J'ai l'habitude de dévier du bien jusqu'au mal
+
+J'peux compter mes amis sur une main, j'suis pas sentimental
+
+J'ai laissé love sur le té-cô, mes lovés dans le sac
+
+En vrai, j'voulais juste me ser-po et puis bronzer sur le sable
+
+Mais un beau jour, t'arrives, tout s'bouscule dans ma vie
+
+T'accoster, j'ai pas hésité, sans t'demander ton avis
+
+J'suis consumé comme un mégot, tu m'as fait trop de sale
+
+J'croyais qu't'étais une de mes gos mais j'suis tombé sous le charme
+
+Mais comment t'as fait, bébé ?
+
+Tout s'est trop vite passé
+
+Dis-moi, comment t'as fait, bébé ?
+
+La bague j't'aurais passé
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Wenn du lächelst
+
+Milano
+
+Lose Yourself
+
+Eminem
+
+Mockingbird
+
+Eminem
+
+[Hook]
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wieder deine Mailbox, Mailbox
+
+Bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wieder deine Mailbox, Mailbox
+
+Bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+[Part 2]
+
+Hey, quand j't'ai vue, je savais, mais bon, j'étais pas prêt
+
+Au final, tu m'l'as mise comme j'l'ai dit dans l'premier couplet
+
+Demain sera meilleur qu'hier, j'veux pas t'retrouver
+
+J'continue mes prières car sur toi, j'voudrais plus tomber love, bébé
+
+Cœur cassé, j'pourrais dire mort, j'étais
+
+Trop sur toi, mon erreur, ça l'était, j'stoppe mes idées
+
+Des larmes, j'en ai coulé, ça c'est vrai, clope every day
+
+J'regrette quand j'faisais le malin, j'suis désolé
+
+J'pensais qu'à faire la mala mais j'suis tombé
+
+Sous le charme d'une beauté qui m'voulait
+
+Dans son ke-sa pour me jeter des sommets
+
+[Hook]
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wieder deine Mailbox, Mailbox
+
+Bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+Unsre Liebe nur noch Fake Love, Fake Love
+
+Schon wieder deine Mailbox, Mailbox
+
+Bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone
+
+[Outro]
+
+Unsre Liebe ist nur noch Fake Love
+
+Schon wieder deine Mailbox
+
+Oh, bitte geh ran an dein Telephone-phone, Telephone
+
+Geh ran an dein Telephone-phone, Telephone, yeah
+
+## leer (piano version)
+
+[Songtext zu „leer (piano version)“]
+
+[Intro]
+
+(Germoney)
+
+Ohh, du hast mir doch gesagt, „Ohne dich fühl' ich mich leer“
+
+Du hast mich nur verarscht
+
+Deine Worte haben kein'n Wert für mich
+
+Geh bitte, werd glücklich
+
+Ab heute nehm' ich auf dich nie wieder mehr Rücksicht
+
+[Part 1]
+
+Hab' noch Bilder von dir auf meinem iPhone
+
+Du fragst dich, „Was ist passiert?“, aber du weißt schon
+
+Als wir uns das erste Mal sah'n
+
+Dacht ich, das mit uns beiden wär irgendwie anders
+
+Aber scheiß drauf, ich hab' mit der Zeit geseh'n
+
+Chérie, du bist gеnau so wie die andern
+
+On s'était promis qu'on habitеrait
+
+Dans un palais, que des habits j'achèterais
+
+Pourquoi parler quand la réponse on connaît?
+
+Fini d'penser, ahh, leer
+
+[Pre-Hook]
+
+Mann, ich verzeihe dir jedes Mal wieder aufs Neue die Fehler
+
+Denn wenn ich auf Abstand geh', dann kommst du auf einmal doch wieder näher
+
+Das hier zu beenden wär für uns das Beste und für beide fairer
+
+Deshalb fühl' ich mich leer
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+A&W
+
+Lana Del Rey
+
+Lord of the Lost - Blood & Glitter (Deutsche Übersetzung)
+
+Genius Deutsche Übersetzungen
+
+Sadio Mane
+
+Bobby Vandamme
+
+[Hook]
+
+Ich fühle mich leer, ohh
+
+Ich fühle mich leer, ohh
+
+[Part 2]
+
+Ich fühle mich leer ohne dich
+
+Leer, weil ich so deine Wärme vermiss'
+
+Mein Lachen ist fake und mein Herz, es zerbricht
+
+Ich sterbe daran, Engel, merkst du das nicht?
+
+Mal willst du heiraten, mal willst du Schluss machen
+
+Mal zeigst du Verständnis, mal willst du Druck machen
+
+Baust mich auf und willst mich danach kaputt machen
+
+Wieso sagst du, es klappt nicht? Es muss klappen
+
+Nur wenn ich geh'n will, vermisst du mich
+
+Spür' deine Liebe so sehr, weil sie giftig ist
+
+Ich weiß nicht, ob es richtig ist
+
+Versprich, du vergisst mich nicht
+
+Mhh, dein „Tut mir leid“ bringt nichts, wenn du dich wiederholst
+
+Denn nach jedem Streit lässt du mich eh wieder los
+
+Jedes Mal, wenn wir nicht durchziehen
+
+Wird es für uns umso schwerer
+
+„Ihr tut euch nicht gut, vielleicht solltet ihr's lassen“
+
+Das sagt zu uns jeder
+
+[Pre-Hook]
+
+Das hier zu beenden wär für uns das Beste und für beide fairer
+
+Deshalb fühl' ich mich leer
+
+[Hook]
+
+Ich fühle mich leer, ohh
+
+Ich fühle mich leer, ohh
+
+Ich fühle mich leer, ohh
+
+Ich fühle mich leer, ohh, mhh
+
+[Outro]
+
+Du hast mir doch gesagt, „Ohne dich fühl' ich mich leer“
+
+Du hast mich nur verarscht
+
+## Moula
+
+[Intro]
+
+(Moula, Moula, Moula, ey)
+
+(Moula, Moula, Moula, ey)
+
+Ich denk' an die alte Zeit und es tut weh
+
+Merke, für den ganzen Scheiß ist es zu spät
+
+Hab genug von all dem Leid und ich muss geh'n
+
+Und ich bleib' nie wieder steh'n
+
+[Strophe 1]
+
+Eh, oui je sais
+
+Que je paierai le tarif
+
+Entre nous y a plus de « chéri » mais quoi qu'il arrive
+
+Eh, on se baladera plus dans Paris
+
+Ne m'appelle pas ton mari, je n'te veux plus dans ma vie
+
+J'ai plus ton num' dans mon téléphone
+
+Tout s'effondre entre nous, on savait
+
+Mais on n'a pas eu le temps
+
+De s'aimer, éviter les fautes
+
+Je n'suis plus là pour toi dans ta vie
+
+Chérie, descends du navire
+
+[Pre-Refrain]
+
+Ich denk' an die alte Zeit und es tut weh
+
+Merke, für den ganzen Scheiß ist es zu spät
+
+Hab genug von all dem Leid und ich muss geh'n
+
+Und ich bleib nie wieder steh'n
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Wenn du lächelst
+
+Milano
+
+Wood
+
+Taylor Swift
+
+The Fate of Ophelia
+
+Taylor Swift
+
+[Refrain]
+
+Denn sie will an mein Moula (Moula)
+
+Vertrau' nur mein' Bruder (Bruder)
+
+Bist gefährlich wie Yakuza (-kuza)
+
+Denn sie will nur mein Moula (Moula)
+
+Sie will nur mein Moula (Moula)
+
+Vertrau' nur mein' Bruder (Bruder)
+
+Gefährlich wie Yakuza (-kuza)
+
+Denn sie will mein Moula (Moula)
+
+[Strophe 2]
+
+Ey, ich hab vertraut, aber du hast nur gespielt
+
+Ich hab' geglaubt, doch das hast du nicht verdient (Gin-Gine)
+
+Glas voll mit Gin-Gine
+
+Egal, was kommt, ich chille
+
+Los, lass mich los
+
+Du machst nur Show
+
+Keine Chance, eh-ey
+
+Lass mich los
+
+Alles low, keine Girls
+
+C'est Milano, oh-oh
+
+[Pre-Refrain]
+
+Ich denk' an die alte Zeit und es tut weh
+
+Merke, für den ganzen Scheiß ist es zu spät
+
+Hab genug von all dem Leid und ich muss geh'n
+
+Und ich bleib nie wieder steh'n
+
+[Refrain]
+
+Denn sie will an mein Moula (Moula)
+
+Vertrau' nur mein' Bruder (Bruder)
+
+Bist gefährlich wie Yakuza (-kuza)
+
+Denn sie will nur mein Moula (Moula)
+
+Sie will nur mein Moula (Moula)
+
+Vertrau' nur mein' Bruder (Bruder)
+
+Gefährlich wie Yakuza (-kuza)
+
+Denn sie will mein Moula (Moula)
+
+[Post-Refrain]
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, ey
+
+Moula, Moula, Moula, eh-ey
+
+## HABIBA
+
+[Intro]
+
+Heyy, c'est Milano
+
+Ahh-oh
+
+[Pre-Hook]
+
+Auf der Straße, Leute rufen an
+
+Bin mit dir und habe null Empfang
+
+Keine Zeit für eure Party
+
+Hab' ein'n anderen Plan
+
+[Hook]
+
+Heute bist du ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba
+
+Heute nur mit ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba, c'est Milano
+
+[Part 1]
+
+Meine Blicke nur bei dir Baby-Mama
+
+So viele Frauen, doch du bist nicht wie die andern (Eh-eh)
+
+Wie du dich bewegst, va si madame
+
+Alle machen Augе, lass sie labern
+
+Nachts in meinеm Ghetto, Zina, wir sind kriminell
+
+Hatte keine Wahl, war allein auf dieser Welt
+
+Komm und hol mich raus, weil ich lebe hier zu schnell
+
+Die Frauen woll'n mein Geld, aber du willst nur mein Herz, oh ma bella
+
+Mais j'préfère pas y penser
+
+Toute la ville dort ce soir, j'fais que danser
+
+La nuit, ça parle en français
+
+Oui ma belle, montre-moi tous tes bons côtés
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Wenn du lächelst
+
+Milano
+
+Lose Yourself
+
+Eminem
+
+Mockingbird
+
+Eminem
+
+[Pre-Hook]
+
+Auf der Straße, Leute rufen an
+
+Bin mit dir und habe null Empfang
+
+Keine Zeit für eure Party
+
+Hab' ein'n anderen Plan
+
+[Hook]
+
+Heute bist du ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba
+
+Heute nur mit ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba, c'est Milano (Hey)
+
+[Part 2]
+
+Je sais qu'jvais finir solo
+
+J'rentre dans ma bulle, j'gratte ma tête, j'écris seul (Ah-ah)
+
+Juste un battement de cils
+
+Tout peut changer vite fait sans qu'tu décides (wouh)
+
+Pour ça qu'faut faire les bons choix
+
+J'casse des barres, c'est mieux qu'faire des cauchemars
+
+Ce soir, on sort les touches-car (Ah-ah)
+
+J'vise le but, j'ai les idées toutes noires (Ah-ah)
+
+Ma chérie, keine Sorgen
+
+Wenn ich in der Nacht wieder fort bin
+
+Elle m'zehef, elle est sûre d'elle
+
+Elle va finir sur le côté
+
+[Pre-Hook]
+
+Auf der Straße, Leute rufen an
+
+Bin mit dir und habe null Empfang
+
+Keine Zeit für eure Party
+
+Hab' ein'n anderen Plan
+
+[Hook]
+
+Heute bist du ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba
+
+Heute nur mit ma Habiba, -biba
+
+Heute bist du ma Habiba, -biba, c'est Milano
+
+## Abschiedsbrief
+
+[Intro]
+
+(Germoney)
+
+[Strophe 1]
+
+Du fehlst mir so sehr
+
+Ich weine für dich ein Meer
+
+Das Atmen fällt mir so schwer
+
+Ich spüre in mir diese Leere
+
+Ich zieh' das grüne Gift in meine Lunge
+
+Ein Sorry krieg' ich nicht über die Zunge
+
+Wie dieses Lied, wenn ich es für dich summe
+
+Am Ende war ich ma' wieder der Dumme
+
+Ich red' mit dir, kannst du mich hör'n?
+
+Sag, kannst du mich hör'n?
+
+Ich hör' auf zu leben, wenn es dich stört
+
+Wenn es dich stört
+
+Verdammt, ich sеh' dich, seh' dich, seh' dich, seh' dich
+
+Übеrall
+
+Siehst du mich auch?
+
+[Refrain]
+
+Hey, hey, hey, seitdem du weg bist
+
+Dreht sich für mich meine Welt nicht mehr
+
+Was ist passiert?
+
+Ich kann mir das nicht einmal selbst erklär'n
+
+Bist du bei mir
+
+Wenn ich zurück zu den Engel kehr'?
+
+Entweder mit dir
+
+Oder gar nicht, mon amour
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Wenn du lächelst
+
+Milano
+
+Wood
+
+Taylor Swift
+
+The Fate of Ophelia
+
+Taylor Swift
+
+[Strophe 2]
+
+Ich empfinde Demut
+
+In mir wächst die Sehnsucht
+
+Weil mir das so wehtut
+
+Weil mir das so wehtut
+
+Laufe durch die kalte Nacht in der Hoffnung
+
+Du drehst dich auf deinem Weg am Ende doch um
+
+Denke daran, als bei uns noch alles gut war
+
+Mann, ich wünsche mir so, alles wär in Ordnung
+
+Doch es wird nie mehr, wie es war
+
+Mein größter Traum wird niemals wahr
+
+Ich muss es einseh'n, ich hab' dich für immer verlor'n
+
+Ich sterbe allein
+
+[Refrain]
+
+Hey, hey, hey, seitdem du weg bist
+
+Dreht sich für mich meine Welt nicht mehr
+
+Was ist passiert?
+
+Ich kann mir das nicht einmal selbst erklär'n
+
+Bist du bei mir
+
+Wenn ich zurück zu den Engel kehr'?
+
+Entweder mit dir
+
+Oder gar nicht, mon amour
+
+## Nur Du
+
+[Intro]
+
+(Plug)
+
+(Juh-Juh-Dee on the beat)
+
+[Strophe 1: Milano]
+
+Baby
+
+Bébé, tu me rappelles une chose, je n'sais pas laquelle, yeah
+
+Ich weiß, das ist nicht gut, ich lieb' dich mehr als mich selbst
+
+Quand tu bouges, quand tu bouges, quand tu bouges
+
+Deine Hüften dreh'n sich im Kreis
+
+Babe, ich weiß nicht mehr von dir, als du mir zeigst
+
+Sag mir, wann du kannst, und Babe, ich nehm' mir Zeit (Oh)
+
+Denn ich will wissen, wer du bist, du bist Honig, Baby, Zimt
+
+Du bist die, die ich will
+
+Nur du, keine andre, keine andere
+
+[Hook: Jazeek, Milano, Beide]
+
+Oh Baby, nur du, nur du (Yeah)
+
+Ich will dich nicht verlieren
+
+Nur du kannst mit mir spielen, Baby
+
+Nur du (Oh, oh), nur du
+
+Bist wie gemacht für mich
+
+Wie gemacht für mich (Jazeek)
+
+See Jazeek Live
+
+Get tickets as low as $110
+
+You might also like
+
+bissu dumm ¿ MEGALODON REMIX
+
+Bonez MC, Nate57 & Jugglerz
+
+#12
+
+Alim (Blaq), Veysel.Blaq & HoodBlaq
+
+Hand in Hand
+
+SAMIRA
+
+[Part 2: Jazeek]
+
+Baby, you remind me of somethin'
+
+But I don't know what it is (Yeah)
+
+Ist es dein Ass oder sind es deine Hips?
+
+Baby, du wirst heute mit mir sein, ich seh' es an dei'm Blick (Ja)
+
+Ich bringe dein'n Booty on fire (Fire)
+
+Oh Baby, lass nach France fahr'n, nur wir allein (Ja)
+
+Ich weiß, du bist da all night
+
+La-di-da-di-da, ich lass' dich sing'n wie Mariah
+
+Sing'n so wie, ah
+
+Ich will nur dich, Baby, ich will nur dich (Yeah)
+
+Baby, no lie (Lie)
+
+All I want is you, I'm not lyin'
+
+[Hook: Jazeek & Milano]
+
+Oh Baby, nur du (Nur du), nur du (Nur du)
+
+Ich will dich nicht verlieren
+
+Nur du kannst mit mir spielen, Baby
+
+Nur du (Oh, oh), nur du
+
+Bist wie gemacht für mich
+
+Wie gemacht für mich
+
+[Outro: Milano & Jazeek]
+
+Nur du, nur du
+
+Nur du, oh Baby, nur du
+
+Nur du, nur du
+
+Nur du, oh Baby, nur du
+
+Nur du, nur du
+
+Nur du, oh Baby, nur du
+
+Baby, nur du
+
+Yeah (Jazeek, haha)
+
+## Perlweiss
+
+[Intro]
+
+(Germoney)
+
+[Hook: JAZN]
+
+Ihr Lächeln ist perlweiß, perlweiß
+
+Shawty, du bist sehr nice, sehr nice
+
+Kommst du heute mit? Wer weiß
+
+Füll' ihr Glas mit mehr Wein, mehr Wein
+
+Shawty hat Klunker, ey
+
+Ihr Booty geht hoch und runter
+
+Wir schreien laut, „Rumba“, ey
+
+Hab' 100k Cash gebunkert
+
+[Part 1: JAZN]
+
+Ich feier', feier', feier' dich
+
+Gehe Knockout bei deinem Blick
+
+Hautton Kakao, du geile Chick
+
+Es bricht ein Brand aus, verbrenne mich
+
+[Pre-Hok: JAZN]
+
+Vintage-Brille, okay
+
+Ich chille, sipp' den Cocktail
+
+Bin zu rillé, okay
+
+Und fülle nach mit Bombay
+
+See upcoming rap shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Bombay
+
+JAZN
+
+Lose Yourself
+
+Eminem
+
+Mockingbird
+
+Eminem
+
+[Hook: JAZN & Milano]
+
+Ihr Lächeln ist perlweiß, perlweiß
+
+Shawty, du bist sehr nice, sehr nice
+
+Kommst du heute mit? Wer weiß
+
+Füll' ihr Glas mit mehr Wein, mehr Wein
+
+Shawty hat Klunker, ey
+
+Ihr Booty geht hoch und runter
+
+Wir schreien laut, „Rumba“, ey (Milano)
+
+Hab' 100K Cash gebunkert (Ey, ey)
+
+[Part 2: Milano]
+
+Et puis j'la regarde elle me dit, que j'dois monter dans son navire
+
+J'ai pas la tête à ça donc chérie doucement mais sûrement
+
+Je crois qu'elle n'est pas de ce monde, hey
+
+(Et j'ai devancé mon remord)
+
+Weil ich von ihr viel zu weit entfernt bin
+
+Bist du immer auf mein'n Livekonzerten
+
+Es ist in der Nacht, du greifst nach Sternen
+
+Aber du wirst niemals meine Perle
+
+Elle veut que je fasse des efforts, après la nuit, je refais le mort
+
+Elle le sait que moi j'ai la cote, et je sais qu'mes sons, elle écoute
+
+[Pre-Hook: Milano]
+
+Vintage-Brille, okay
+
+Ich chille, sipp' den Cocktail
+
+Bin zu rillé, okay
+
+Und fülle nach mit Bombay
+
+[Hook: JAZN & Milano]
+
+Ihr Lächeln ist perlweiß, perlweiß
+
+Shawty, du bist sehr nice, sehr nice
+
+Kommst du heute mit? Wer weiß
+
+Füll' ihr Glas mit mehr Wein, mehr Wein
+
+Shawty hat Klunker, ey (Ohh)
+
+Ihr Booty geht hoch und runter
+
+Wir schreien laut, „Rumba“, ey (Milano)
+
+Hab' 100K Cash gebunkert (Ohh)
+
+[Outro: Milano]
+
+Sie will Cocaine, ja, ja, hab' kein Problem
+
+Kann dir was geben, ja, ja, wenn du mitgehst
+
+## Fick dich
+
+[Intro]
+
+[Hook]
+
+Wie kann dein Herz nur so vergiftet sein‘?
+
+Mit deiner Story hast du mich gemeint
+
+Hör auf zu lügen, Mädchen fick dich
+
+Nochmal nimmst du mir mein Gesicht nicht
+
+Ich scheiß auf dich, und deine falsche Art
+
+Am anfang hast du mir noch leid getan
+
+Hör auf zu weinen, Mädchen fick dich
+
+Uh-uh-uh-uh
+
+Fick dich
+
+[Part 1]
+
+Du erzählst dein‘ Freunden über mich nur schlechtes
+
+Weil du weißt, dass dir dann jeder recht gibt
+
+Stellst mich nur da, als Abschaum
+
+Bis dir das jeder abkauft
+
+Weiß nicht, ob ich es hass dich zu lieben
+
+Oder lieb ich, dass ich dich hass
+
+Ich sag, dass du mir egal wärst
+
+Aber frage mich was du machst
+
+Ich hab von dir noch nie viel verlangt
+
+Uh-uh-uh
+
+Ich knall die Tür zu-u-u
+
+Und schrei‘ dich an
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Je vois
+
+Milano
+
+Down
+
+Milano
+
+Wenn du lächelst
+
+Milano
+
+[Hook]
+
+Wie kann dein Herz nur so vergiftet sein‘?
+
+Mit deiner Story hast du mich gemeint
+
+Hör auf zu lügen, Mädchen fick dich
+
+Nochmal nimmst du mir mein Gesicht nicht
+
+Ich scheiß auf dich, und deine falsche Art
+
+Am anfang hast du mir noch leid getan
+
+Hör auf weinen, Mädchen fick dich
+
+Uh-uh-uh-uh
+
+Fick dich
+
+[Part 2]
+
+[???]
+
+Wie so ist deine Art so Toxisch?
+
+Du willst Streit, und suchst ein Grund
+
+Sag mir nur, wieso du meinen Kopf fickst
+
+Ich mach das alles doch nur für uns
+
+Ich will dich lieben, wieso lässt du nicht zu?
+
+Hör auf zu lügen, ich hab davon genug
+
+[Outro]
+
+[Hook]
+
+Wie kann dein Herz nur so vergiftet sein‘?
+
+Mit deiner Story hast du mich gemeint
+
+Hör auf zu lügen, Mädchen fick dich
+
+Nochmal nimmst du mir mein Gesicht nicht
+
+Ich scheiß auf dich, und deine falsche Art
+
+Am anfang hast du mir noch leid getan
+
+Hör auf weinen, Mädchen fick dich
+
+Uh-uh-uh-uh
+
+Fick dich
+
+## Je vois
+
+[Part 1]
+
+Et puis je respire, l'odeur des trains quand tu t'allonges
+
+Et que tu transpires, mon odeur sur ton corps ma chérie
+
+J'veux qu'tu espères, j'attrape par les hanches et sans questionner Tu t'laisses faire, y a comme un sentiment d'amour dans l'atmosphère
+
+Soldat de l'ombre
+
+Comme l'impression qu'dans la pièce on est nombreux
+
+Et dans tes yeux, mon regard je plonge
+
+Il est trop tard si une erreur nous faisons, eh, eh-eh
+
+T'as besoin d'aucun autre, j'te l'redis par amour
+
+Regarde-moi, regarde-moi
+
+J'te rendrai parano, eh j'te l'dis par amour
+
+Écoute-moi, écoute-moi
+
+[Pre-Hook]
+
+Je l'ai vu dans ton sourire
+
+Que tu m'aimerais jusqu'à me voir mourir
+
+Pour te quitter, il suffira d'un soupir
+
+Une de nous deux à la fin devra sou-ffrir, eh
+
+(Et puis j'le vois dans ton sourire)
+
+[Hook]
+
+Et puis je vois, vois, vois
+
+Et puis je vois ta-la-la-la-la-ta
+
+Puis je vois, oye oye oyeah
+
+Et puis je vois, vois, vois
+
+Et puis je vois ta-la-la-la-la-ta
+
+Puis je vois, oye oye oy-oyeah
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Fick dich
+
+Milano
+
+Wenn du lächelst
+
+Milano
+
+Wood
+
+Taylor Swift
+
+[Part 2]
+
+Irgendwas hat dieses Feuer entfacht
+
+Keine Schwäche zeigen, ist warum du nicht lachst
+
+Denn ich stehe bei dir sowieso schon unter verdacht
+
+Aber irgendwas hält uns die ganze Nacht wach
+
+Deine Blicke sind so Tödlich
+
+Willst du deinen Ex vergessen
+
+Dann beweg‘ dich
+
+Versuch zu wiedersteh‘n
+
+Aber es geht nicht
+
+Dieses eine Mal es zählt nicht
+
+Babe, babe gib mir mehr von dir
+
+Du bist nicht etwas, dass wert verliert
+
+Trotzdem spür‘ ich wie mein Herz erfriert
+
+Doch bitte komm ein bisschen Näh‘r zu mir
+
+[Pre-Hook]
+
+Je l'ai vu dans ton sourire
+
+Que tu m'aimerais jusqu'à me voir mourir
+
+Pour te quitter, il suffira d'un soupir
+
+Une de nous deux à la fin devra sou-ffrir, eh (Eh, eh)
+
+[Hook]
+
+Et puis je vois, vois, vois
+
+Et puis je vois ta-la-la-la-la-ta
+
+Puis je vois, oye oye oyeah
+
+Et puis je vois, vois, vois
+
+Et puis je vois ta-la-la-la-la-ta
+
+Puis je vois, oye oye oyeah
+
+## Voilà
+
+[Intro]
+
+Voilà, voilà, voilà
+
+Ich gab dir mein Herz mit jedem Schlag
+
+Hab' dich so geliebt, doch dass du mich so siehst
+
+Das wollte ich nie
+
+[Strophe 1]
+
+Baby, schwör’, meine Trän'n
+
+Hat vor dir keine andre geseh'n
+
+Ich dachte, du kannst mich versteh’n
+
+Doch weiß, ich lag falsch
+
+Wir sind so distanziert
+
+Also leg' ich dir Blum'n vor die Tür
+
+Wie kann's sein, dass du nichts mehr spürst?
+
+Ich verbrenn', du bleibst kalt
+
+[Refrain]
+
+Voilà, voilà, voilà
+
+Ich gab dir mein Herz mit jedem Schlag
+
+Hab' dich so geliebt, doch dass du mich so siehst
+
+Das wollte ich nie
+
+Voilà, voilà, voilà
+
+Jetzt ist nichts mehr übrig von dem, was ich war
+
+Hab' alles versucht
+
+Doch das was ich tu', war dir nie genug
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+You might also like
+
+Blutbad
+
+Amo & MERO
+
+Weiße Lilien
+
+CÉLINE
+
+IMMERNOCH
+
+OMAR
+
+[Strophe 2]
+
+Ich reiß’ mir mein Herz aus der Brust
+
+Weil ich für dich sterb’, wenn ich muss
+
+Dann wär'n wir den Schmerz endlich los
+
+Doch dir wär’s egal
+
+Denn du willst mehr, als ich hab', sagst, es reicht dir nicht
+
+Geb' dir mein Leben, aber ich krieg' keins zurück
+
+Ich laufe Meilen für dich, du nicht einen Schritt
+
+Und sogar das werd’ ich verzeih'n
+
+[Refrain]
+
+Voilà, voilà, voilà
+
+Ich gab dir mein Herz mit jedem Schlag
+
+Hab' dich so geliebt, doch dass du mich so siehst
+
+Das wollte ich nie
+
+Voilà, voilà, voilà
+
+Jetzt ist nichts mehr übrig von dem, was ich war
+
+Hab' alles versucht
+
+Doch das was ich tu', war dir nie genug
 
 ## Denkst du an mich
 
@@ -2729,6 +4916,1350 @@ Du und ich bleiben immer erste Wahl, ey
 Nur du und ich, alle andern sind egal
 
 Du und ich gibt es nur einmal
+
+# Zayn, Room under the stairs 
+
+## Dreamin 
+
+[Intro]
+
+One, two, three, go
+
+[Verse 1]
+
+Let me mean it, what I say
+
+I've been feelin’
+
+Yeah, I'm dreamin' my life away
+
+Just need to level with sky
+
+It seems to live on my mind
+
+[Chorus]
+
+I’ve been dreamin', feelin' this way
+
+I've been needin' something else
+
+I'll know what it is when I see it
+
+Can't hold on anymore to this feelin'
+
+[Verse 2]
+
+With no senses, ain’t no sentence
+
+Makin’ sense of us
+
+Did I mention life's intention
+
+Never steered me the right way?
+
+Oh, I’ve been fallin'
+
+[Chorus]
+
+I've been dreamin', feelin’ this way
+
+I've been needin' something else
+
+I'll know what it is when I see it
+
+Can't hold on anymorе to this feelin'
+
+[Guitar Solo]
+
+[Bridge]
+
+Say I've been fallin' in love and in the mornin'
+
+Thеn I feel nothing again
+
+Please don't let me forget fallin' in love, it's all good
+
+And in the mornin' then you call me again
+
+Don't call me again, don't call me again
+
+When you faded, no need to call me again
+
+I've been feelin'
+
+[Chorus]
+
+I've been dreamin', feelin' this way
+
+I've been needin' something else
+
+I'll know what it is when I see it
+
+Can't hold on anymore to this feelin'
+
+I've been dreamin', feelin' this way
+
+I've been needin' something else
+
+I'll know what it is when I see it
+
+Can't hold on anymore to this feelin'
+
+[Outro]
+
+Yeah, I'm dreamin' my life away
+
+## What I Am 
+
+[Verse 1]
+
+I've been drinking absinthe
+
+I just did the math, it ain't adding up
+
+I've had enough of running 'round this board game
+
+You can know your own name, I won't give it up
+
+[Pre-Chorus]
+
+Am I crazy? Am I foolish?
+
+Am I stupid for playin' these games with you?
+
+[Chorus]
+
+If I told you I loved you
+
+Would you say that it's fucked up?
+
+If I told you they're flyin'
+
+Would you say that you looked up?
+
+Don't take me for what I'm sayin'
+
+Just take me for what I am
+
+'Cause this is where I'm stayin'
+
+My two feet are in the sand
+
+[Verse 2]
+
+I've been readin' old shit and I can't make sense of it
+
+Ain't no conspiracy that can save me
+
+Livin' in the moment feels good to me till it hurts
+
+And I need somebody
+
+See upcoming R&B shows
+
+Get tickets for your favorite artists
+
+[Pre-Chorus]
+
+Am I crazy? Am I foolish?
+
+Am I stupid for playin' these games with you?
+
+[Chorus]
+
+If I told you I loved you
+
+Would you say that it's fucked up?
+
+If I told you they'rе flyin'
+
+Would you say that you looked up?
+
+Don't take me for what I'm sayin'
+
+Just takе me for what I am
+
+'Cause this is where I'm stayin'
+
+My two feet are in the sand
+
+[Bridge]
+
+Take me as I am
+
+I'm tired of dancin' around the point
+
+Sharp and it is jagged
+
+Like the shape of glass and it steals my voice
+
+[Chorus]
+
+If I told you I loved you (Oh)
+
+Would you say that it's fucked up?
+
+If I told you they're flyin'
+
+Would you say that you looked up? (Looked up)
+
+Don't take me for what I'm sayin' (Don't)
+
+Just take me for what I am
+
+'Cause this is where I'm stayin'
+
+My two feet are in the sand
+
+[Outro]
+
+If I told you I loved you
+
+Would you say that it's fucked up?
+
+If I told you they're flyin'
+
+Would you say that you looked up?
+
+Don't take me for what I'm sayin' (Ooh)
+
+Just take me for what I am
+
+'Cause this is where I'm stayin'
+
+My two feet are in the sand
+
+## Grateful 
+
+[Verse 1]
+
+I see your mother’s shine in your eye
+
+I know that you’re mine and I'm cryin'
+
+Tellin' you the things that are on my mind
+
+When I think of you
+
+[Pre-Chorus]
+
+Yeah, I'm grateful for you
+
+Love it when the rain comes down
+
+Love it when the waves calm down
+
+Yeah, I'm grateful for you
+
+[Chorus]
+
+These days I live to my depiction
+
+Nowadays I'm findin' no affliction
+
+These days I'm needin' no restriction
+
+Feel like I'm finding new addiction
+
+[Verse 2]
+
+And it feels good
+
+And I knew it would
+
+When I'm tellin' this story it's complicated
+
+Some mishaps I've been mournin' but I'm grateful for it
+
+[Pre-Chorus]
+
+Yeah, I'm grateful for you
+
+Love it when the rain comes down (Yeah, I love it)
+
+Love it when the waves calm down (When you can come down)
+
+Yeah, I'm grateful for you
+
+[Chorus]
+
+These days I live to my depiction
+
+Nowadays I'm findin' no affliction
+
+These days I'm needin' no restriction
+
+Feel like I'm finding new addiction
+
+[Bridge]
+
+Things change and I'm okay with what I'm not
+
+It feels wasteful to be hateful
+
+I'll be grateful for what I got
+
+Things change and I'm okay with what I'm not
+
+Feels wasteful to be hateful
+
+I'll be grateful with what I got
+
+[Chorus]
+
+These days I live to my depiction (Yeah, I'm grateful)
+
+Nowadays I'm findin' no affliction (Yeah, I'm grateful)
+
+These days I'm needin' no restriction (For you)
+
+Feel like I'm finding new addiction (Yeah, I'm grateful)
+
+These days I live to my depiction (Yeah, I'm grateful)
+
+Nowadays I'm foundin' no affliction (Yeah, I'm grateful)
+
+These days I'm needin' no restriction (For you)
+
+Feel like I'm finding new addiction (Yeah, I'm grateful)
+
+[Outro]
+
+Yeah, I'm grateful for you
+
+## Alienated 
+
+[Verse 1]
+
+No two people are the same
+
+Stand beside you, but just far enough away
+
+Last night we were drinking
+
+Tried to think away the pain
+
+Made that age-old mistake
+
+Tried to disconnect my body
+
+From my soul, from my soul
+
+See, I feel alright already on my own
+
+[Pre-Chorus]
+
+Can you let me be
+
+Intoxicated on my own?
+
+Do I need to answer
+
+Or right my wrongs?
+
+Am I home if I don't know this place?
+
+[Chorus]
+
+And I've been feeling alienated
+
+On my spaceship alone
+
+Say goodbye to the past
+
+Leave it all with a laugh
+
+'Cause you always was right all along
+
+[Verse 2]
+
+Know my reasons for the pain
+
+But if you brought it in front of me
+
+I know I'd do it all again
+
+Call them beer can gains
+
+I know from all the years
+
+That my feelings nеver change
+
+[Pre-Chorus]
+
+Can you let mе be
+
+Intoxicated on my own?
+
+Do I need to answer
+
+Or right my wrongs?
+
+Am I home if I don't know this place?
+
+[Chorus]
+
+And I've been feeling alienated
+
+On my spaceship alone
+
+Say goodbye to the past
+
+Leave it all with a laugh
+
+'Cause you always was right all along
+
+[Verse 3]
+
+Did the winds make the noise of change?
+
+Can the wings on your skin help you fly away?
+
+'Cause it's always raining
+
+And the clouds are always grey when you're away
+
+[Chorus]
+
+Yeah, I've been feeling alienated
+
+On my spaceship alone
+
+Say goodbye to the past (Ayy, ayy)
+
+Leave it all with a laugh
+
+'Cause you always was right all along
+
+[Outro]
+
+All along
+
+Say goodbye to the past
+
+Say goodbye
+
+Ooh, ooh, ooh
+
+Ah, ah-ah
+
+## My Woman 
+
+[Chorus]
+
+Love me partly, leave me tonight
+
+Say, "Don't fall in pieces," I might
+
+Just for the fun of it
+
+Let my mind just roll with it tonight
+
+[Verse 1]
+
+Since the stone age
+
+I’ve been stoned in
+
+Livin' lonely, on my own
+
+Then she came along
+
+Made me believe
+
+Made me believe, I wouldn't leave her
+
+I’m finished wastin' my time
+
+I'm livin' blurred like those lines
+
+[Pre-Chorus]
+
+I fill my cup to forget her
+
+Known it from the get up
+
+This is my dеmise
+
+My demise is what's holdin' mе
+
+Grabbed a hold then took control of me
+
+In my mind
+
+[Chorus]
+
+Love me partly, leave me tonight
+
+Say, "Don't fall in pieces," I might
+
+Just for the fun of it
+
+Let my mind just roll with it tonight
+
+[Verse 2]
+
+Where did you wanna go?
+
+Where did you stay last night?
+
+Save my mind, save my time
+
+Yeah, I know
+
+I've been holdin’ on to somethin’
+
+For so long, mm, with no eyes
+
+Yeah, I've been blind
+
+I’ve been blind
+
+[Pre-Chorus]
+
+I fill my cup to forget her
+
+I've known it from the get up
+
+This is my demise
+
+[Chorus]
+
+Love me partly, leave me tonight
+
+Say, "Don't fall in pieces," I might
+
+Just for the fun of it
+
+Let my mind just roll with it tonight
+
+Love me partly, leave me tonight
+
+Say, "Don't fall in pieces," I might
+
+Just for the fun of it
+
+Let my mind just roll with it tonight
+
+[Outro]
+
+Just for the fun of it tonight
+
+## How It Feels 
+
+[Verse 1]
+
+I've been getting old standin' by the river
+
+Watch the water move but I don't move with her
+
+[Pre-Chorus]
+
+Shivers down my spine
+
+Never forget to remind me I'm alive
+
+[Chorus]
+
+Till I let go of this moment
+
+Something holdin' me to this place
+
+I've been breakin', always fakin'
+
+I'm just lyin' to your face
+
+And I can't tell you how it feels
+
+[Verse 2]
+
+Can you tell me just one thing?
+
+Can you give me a reason to stay?
+
+'Cause the feelings I'm harborin' don't seem to
+
+See the light of day
+
+[Pre-Chorus]
+
+Shivers down my spine
+
+Never forget to remind me I'm alive
+
+[Chorus]
+
+Till I let go of this moment
+
+Something holdin' me to this place
+
+I've been breakin', always fakin'
+
+I'm just lyin' to your face
+
+And I can't tell you how it feels
+
+[Bridge]
+
+Bring me to my knees
+
+I begged and pleaded
+
+I asked to leave
+
+But you insisted on stayin' and breakin' my heart
+
+Breakin' my heart
+
+Breakin' my heart
+
+Breakin' my heart, yeah
+
+[Chorus]
+
+Till I let go of this moment
+
+Something holdin' me to this place
+
+I've been breakin', always fakin'
+
+I'm just lyin' to your face
+
+And I can't tell you how it feels
+
+[Outro]
+
+Till I let go of this moment
+
+Something holdin' me to this place
+
+## Stardust 
+
+[Verse 1]
+
+Pretty Christmas on a cardboard cup
+
+I wait outside for you to pick me up
+
+There's somethin' different in the way you touch
+
+Different in the way you love
+
+Different in the way you love
+
+[Chorus]
+
+Feels like stardust
+
+Floatin' all around us
+
+Shootin' right across a
+
+Big black sky
+
+Feels like stardust
+
+Fallin' all around us
+
+Funny how it found us
+
+Maybe I, maybe I
+
+(Yeah, yeah, yeah, yeah)
+
+[Verse 2]
+
+I found perfume in a magazine
+
+Oh-oh, oh-oh
+
+Far off places in the moonlit scene
+
+Hey-hey-hey (Hey-hey-hey)
+
+And I love to be there with you
+
+And I love to be there, baby too
+
+'Cause you make anywhere at all
+
+[Chorus]
+
+Feel like stardust
+
+Floatin' all around us
+
+Shootin' right across a
+
+Big black sky
+
+Feels like stardust
+
+Fallin' all around us
+
+Funny how it found us
+
+Maybe I, maybe I
+
+(Yeah, yeah, yeah, yeah)
+
+[Instrumental Break]
+
+[Chorus]
+
+Feels like stardust
+
+Floatin' all around us
+
+Shootin' right across a
+
+Big black sky
+
+Feels like stardust
+
+Fallin' all around us
+
+Funny how it found us
+
+Maybe I, maybe I
+
+Maybe I
+
+## Gates of Hell 
+
+[Verse 1]
+
+So fucked, I can't feel my face
+
+Know a couple people might call me a disgrace
+
+But fuck them, I ain't looking up
+
+Ain't never been one to give a second look
+
+[Chorus]
+
+I, I don't like you very much
+
+But I keep putting up with your shit
+
+I don't like you very much
+
+But I keep putting up with your shit
+
+[Verse 2]
+
+Yeah, we drift away like islands
+
+And I wanna float on this wave
+
+A different day, time and meaning
+
+And I know I'd do it all the same
+
+[Chorus]
+
+I, I don't like you very much
+
+But I keep putting up with your shit
+
+I don't like you very much
+
+But I keep putting up with your shit
+
+[Bridge]
+
+You always come to mind
+
+When I think to myself
+
+What could have been
+
+If we were living in Utopia
+
+You always come to mind
+
+[Chorus]
+
+I, I don't like you very much
+
+But I keep putting up with your shit
+
+I don't like you very much
+
+But I keep putting up with your shit
+
+## Birds On A Cloud 
+
+[Verse 1]
+
+So when I wake up today
+
+Hopin' I don't feel the same as I did last night
+
+Shit-faced, not knowin' which way is up
+
+Or down, or sideways, I'm frownin' anyway
+
+[Chorus]
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+Please give me one more day
+
+I need it, I need it
+
+[Verse 2]
+
+Wake up and bake up again
+
+Fight and hope we make up again
+
+Know when something's wrong, but somethin' inside tells me it's all okay
+
+Even if it's strange, it's our love
+
+[Chorus]
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+[Bridge]
+
+When I think of things lost, think I fell off
+
+Took my foot off the pedal
+
+Think it's all suss and once I make a fuss
+
+I don't need any medals
+
+[Chorus]
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+Please give me one more day of happiness
+
+I need it, I need it
+
+Please give me one more day
+
+[Outro]
+
+From this place I'm runnin' from
+
+I hope I kept my grace
+
+From this place I'm runnin' from
+
+I hope I kept my grace
+
+From this place I'm runnin' from
+
+I know I can't escape
+
+I can't escape
+
+## Concrete Kisses 
+
+[Verse 1]
+
+All I wanted was a cup of coffee
+
+I got somethin' else or so it seems
+
+Concrete kisses on my face and forehead
+
+From where I fell last night on the street
+
+[Pre-Chorus]
+
+When I fell hard
+
+All these scars on my skin where you left marks
+
+When I fell hard
+
+All these scars on my skin where you left marks
+
+[Chorus]
+
+This might not sound right, but it's alright, it's real
+
+I'm finding my way on the highway this year
+
+[Verse 2]
+
+Got a big ol' cup of shit, told me to drink it
+
+Middle finger to what you believe
+
+Beginnings have a habit of endin'
+
+Purgatory, I'm stuck here in between
+
+[Chorus]
+
+This might not sound right, but it's alright, it's real
+
+I'm finding my way on the highway this year
+
+[Bridge]
+
+Why does this pain feel so good?
+
+Pumpin' my brain like drunk blood
+
+Feeling this way, there's no such thing as happy endings
+
+See on my face, my heart changed
+
+Lovin' this place I've created
+
+Realize that I'm too good for games we've been playin'
+
+[Chorus]
+
+This might not sound right, but it's alright, it's real
+
+I'm finding my way on the highway this year
+
+[Outro]
+
+Ooh, ooh-ooh, ooh-ooh, ooh-ooh
+
+Ooh, ooh-ooh, ooh-ooh, ooh-ooh
+
+Ah-ah-ah-ah-ah, ooh-ooh, ooh-ooh, ooh-ooh
+
+## False Starts 
+
+[Verse 1]
+
+Fast car, fast heart, trouble in my brain
+
+Big dreams, false starts and I know I've changed
+
+Don't want the things we can't have
+
+Watchin' my life just roll past
+
+Old rooms, new paint, still it looks the same
+
+Sad thoughts, bad luck, with no one to blame
+
+They say the trouble don't last
+
+Sometimes the pain makes me laugh, oh, oh
+
+[Pre-Chorus]
+
+It's hard, but it only gets harder
+
+Tonight we can go it alone
+
+[Chorus]
+
+Ooh, no one ever has to know
+
+No one ever has to know
+
+Ooh, no one ever has to know
+
+But I know I have to go
+
+Yeah, I'm shakin', my heart's naked
+
+Out of control, oh-oh-oh, oh-oh-oh, oh-oh
+
+[Verse 2]
+
+There's no morе time, gotta get my way
+
+What do you want? We don't havе to stay
+
+Trust me you're not gonna crash
+
+They say that trouble don't last
+
+[Pre-Chorus]
+
+It's hard, but it only gets harder
+
+Tonight we can go it alone
+
+[Chorus]
+
+Ooh, no one ever has to know
+
+No one ever has to know
+
+Ooh, no one ever has to know
+
+But I know I have to go
+
+Yeah, I'm shakin', my heart's naked
+
+Out of control, oh-oh-oh, oh-oh-oh, oh-oh
+
+[Bridge]
+
+Before I leave a part of me behind
+
+Before I leave a part of me behind
+
+## The Time 
+
+[Verse 1]
+
+Yesterday just came and went
+
+And if today I wake up late, I won't forgive myself
+
+’Cause time's running its own game
+
+And I've rolled the dice too many times in my head
+
+[Pre-Chorus]
+
+Never fell for the fame thing
+
+They fell in love with the same things
+
+Let me know when the rain ends
+
+See all I need is you
+
+[Chorus]
+
+Ain’t it special? Ain't it precious?
+
+The time that we have
+
+When I'm laid in your bed and you tell me you lovе me
+
+[Verse 2]
+
+Colours back in all my days
+
+Build the structure, lеt it break
+
+As long as it's good for your brain
+
+Lessons learned is what I've gained
+
+Feedin' families, forget the fame
+
+I'm doing it now for a second name
+
+[Pre-Chorus]
+
+Never fell for the fame thing
+
+They fell in love with the same things
+
+Let me know when the rain ends
+
+See all I need is you
+
+[Chorus]
+
+Ain't it special? Ain’t it precious?
+
+The time that we have
+
+When I’m laid in your bed and you tell me you love me
+
+[Bridge]
+
+And I could cry when you tell me that you love me
+
+When you're doing things you shouldn’t be
+
+And I lie for you
+
+And I could cry when you tell me that you love me
+
+And I'd die for you if you asked me to
+
+[Chorus]
+
+Ain't it special? Ain't it precious?
+
+The time that we have
+
+When I’m laid in your bed and you tell me you love me
+
+[Outro]
+
+And when you tell me you love me
+
+When you tell me you love me
+
+When you tell me you love me
+
+When you tell me you love me
+
+## Something In The Water 
+
+[Chorus]
+
+Must be somethin' in the water
+
+I can feel you in the atmosphere
+
+Don't say much until we speak in tongues
+
+One on one
+
+Swear you flowin' through my blood
+
+Must be somethin' in the water
+
+[Verse 1]
+
+Am I goin' out my mind?
+
+Said it was the last, last two or three times
+
+Spent the whole day till we woke up last night
+
+Nothing's makin' sense no more
+
+Caught a glimpse of you gaze, I was frozen
+
+Got a grip on my heart, now it's stolen
+
+Had a lock on the door, now it's open, now oh-oh-oh
+
+[Chorus]
+
+Must be somethin' in the water
+
+I can feel you in the atmosphere
+
+Don't say much until we spеak in tongues
+
+One on one
+
+Swеar you flowin' through my blood
+
+Must be somethin' in the water
+
+On the edge until you pull me in
+
+Got me drippin' in that old school love
+
+Pour me some, feelings got me goin' numb
+
+[Post-Chorus]
+
+Must be somethin' in the water, in the water
+
+Must be somethin' in the water, in the water
+
+Ooh-ooh, ooh-ooh
+
+(Water)
+
+[Verse 2]
+
+I might let myself sink
+
+Deep into the bottom, can't hear myself think
+
+'Cause all I wanna hear is your voice
+
+Pull me out of that void
+
+It's an instinct, I don't have a choice tonight
+
+You got my heart doin' things it don't do
+
+But I'm not gon' fight it
+
+You’re in control, just show me what to do
+
+I'm not afraid
+
+[Chorus]
+
+Must be somethin' in the water
+
+I can feel you in the atmosphere
+
+Don't say much until we speak in tongues
+
+One on one
+
+Swear you flowin' through my blood
+
+Must be somethin' in the water
+
+On the edge until you pull me in
+
+Got me drippin' in that old school love
+
+Pour me some, feelings got me goin' numb
+
+[Post-Chorus]
+
+Must be somethin' in the water, in the water
+
+Must be somethin' in the water, in the water
+
+## Shoot At Will 
+
+[Chorus]
+
+Just took a drag, oh, ain't it a drag?
+
+When you feel like history's pullin' you back
+
+Yeah, I've been runnin' bare feet in a field
+
+Yeah, a dream gon' bad
+
+'Cause it feels like history's pullin' me back
+
+[Verse 1]
+
+I stayed at the ball and had a good time
+
+'Cause I had some bullshit up on my mind
+
+Roll with the tide
+
+When I look at her, all I see is you
+
+When you look at her, do you see me too?
+
+[Bridge]
+
+Does it not occur to you?
+
+Do you not prefer the truth?
+
+I was in love with you
+
+Though I didn't show the proof
+
+[Chorus]
+
+Just took a drag, oh, ain't it a drag?
+
+When you feel like history's pullin' you back
+
+Yeah, I've been runnin' bare feet in a field
+
+Yeah, a dream gon' bad
+
+'Cause it feels like history's pullin' me back
+
+'Cause it feels like history's pullin' me back
+
+[Verse 2]
+
+I hold my hands up for the firing squad
+
+And if you want, you can take it all
+
+I don't really know, I can't give no more
+
+Shoot at will
+
+Because she shoots to kill, yeah
+
+And I'm dyin' inside
+
+## Fuchsia Sea 
+
+[Intro]
+
+I'm tired of the grey
+
+I'm sick of the pain
+
+I'm tired of the pain
+
+I'm sick of the grey
+
+[Verse 1]
+
+I gotta love this feelin'
+
+To keep myself from dreamin' about somethin' else
+
+And you keep me entertained 'cause I saw the flame, and you still walked through it
+
+[Pre-Chorus]
+
+I bet you knew it, that I would do it if I'm given the chance
+
+[Chorus]
+
+Ferocious devotion
+
+I can't keep it up, I'm fallin' into motion
+
+Ferocious devotion
+
+I can't keep it up, I'm fallin' into motion
+
+[Verse 2]
+
+Just let me fall into motion
+
+How can you break when you're broken to begin with?
+
+I can't see it with you, I can't live with you
+
+Don't you hear me when I'm talkin'?
+
+[Pre-Chorus]
+
+I bet you knew it, that I would do it if I'm given the chance
+
+[Chorus]
+
+Ferocious devotion
+
+I can't keep it up, I'm fallin' into motion
+
+Ferocious devotion
+
+I can't keep it up, I'm fallin' into motion
+
+[Bridge]
+
+Ah-ah-ah, ah-ah-ah, ah-ah
+
+Ah-ah-ah, ah-ah-ah, ah-ah
+
+[Outro]
+
+I'm tired of the grey
+
+I'm sick of the pain
+
+I'm tired of the pain
+
+I'm sick of the grey
+
+
 
 <!-- TOC --><a name="jazeek"></a>
 
