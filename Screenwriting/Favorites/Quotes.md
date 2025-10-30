@@ -61,7 +61,34 @@ How much worse is it then for the lone man, the lone woman, stricken by a privat
 Imagine the isolation.
 Now you see the world as through a window.
 On one side of the glass, happy untroubled people, and on the other side, you.
-There are those of you in church today who know exactly the crisis of faith I describe, and I wanna say to you:
-doubt can be a bond as powerful and sustaining as certainty.
+There are those of you in church today who know exactly the crisis of faith I describe, and I wanna say to you: doubt can be a bond as powerful and sustaining as certainty.
 When you are lost, you are not alone.
+
+- Why don't we play a game?
+- What game?
+I'll tell you a secret, something I've never told you before.
+Then you'll tell me one and whoever tells the best secret wins. Okay?
+When I was your age,
+I'd only just started masturbating.
+And I'd only just started ejaculating.
+Only a little, barely a drop. was worried that I had some kind of problem because at school I'd heard all sorts of stories.
+Then one day, when my father had had a lot to drink, and my brothers were out and he was sleeping in the bedroom,
+I crept inside, put my hand on his penis, and started stroking it until he ejaculated.
+The sheets were covered in sperm.
+I got scared and ran out.
+I've never told anyone that before.
+Now, it's your turn to tell me a secret.
+I don't know. I don't have one.
+That's impossible.
+You have to have one.
+No. I don't.
+Bob, if all this is just an act, you should know that if you tell me now,
+I won't punish you.
+And neither will your mother.
+We won't be angry with you, either.
+It's not an act.
+But if it is an act and you don't stop this stupid joke right now, your punishment won't just be no TV for two months.
+I will take my electric razor, and I will shave your head and make you eat your hair.
+I mean it, I will literally make you eat your hair. I'm not kidding
+It's not an act.
 
