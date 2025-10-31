@@ -1,3 +1,5 @@
+[Predictions and Recommendations](https://github.com/zayabarrini/zayapredictions)
+
 # Support Us
 
 [![" 🤝 Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tallesberrs)
