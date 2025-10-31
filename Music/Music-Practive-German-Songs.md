@@ -169,24 +169,6 @@ Du bist mein Leben, Baby, und keiner nimmt dich mir weg
 
 Könnt so viel sagen, doch diese Worte treffen's perfekt
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Unzertrennlich
-
-Morpheuz
-
-VACATION
-
-benno!
-
-Pech für dich
-
-Florentina
-
 [Hook]
 
 Ljubavi
@@ -238,24 +220,6 @@ Weil du bist einfach so unglaublich
 Und wenn du lächelst, ist mir alles so egal
 
 Dein Lächeln lässt mir keine Wahl
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-2003
-
-Liaze & ​equal (DEU)
-
-Say Don’t Go (Taylor’s Version) [From the Vault]
-
-Taylor Swift
-
-Now That We Don’t Talk (Taylor’s Version) [From the Vault]
-
-Taylor Swift
 
 [Refrain]
 
@@ -347,24 +311,6 @@ Bin auf der Straße, gucke, wo ich bleib' (Yeah)
 
 Vermisst du mich, ma chérie, sag Bescheid
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-​leer
-
-Milano
-
-Je vois
-
-Milano
-
-Bleib
-
-AYLIVA & Milano
-
 [Part 2]
 
 J'la vois sur l'té-c', té-c', elle s'la pète, pète
@@ -455,24 +401,6 @@ Denn geht's um dich, ist alles andre egal
 
 Oh-oh-oh-oh, bei dir wird es sicher sein
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Interpol
-
-Made & Kenan
-
-Fussballer ⚽️
-
-Bonez MC
-
-Scheine zählen
-
-AYLIVA
-
 [Refrain]
 
 Fang mich auf, wenn ich falle
@@ -555,24 +483,6 @@ Du bist für mich wie alle andern
 
 Glaub mir, nie wieder liege ich wach, denn du warst es nicht wert
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Ohne Dich
-
-Milano
-
-Bleib
-
-AYLIVA & Milano
-
-Au Revoir
-
-Milano & Eddin
-
 [Pre-Refrain]
 
 Du musst versteh'n
@@ -644,24 +554,6 @@ Et oui je l'avoue oui, dans ton cœur j'veux m'enfouir
 De ta vie m'enfuir car, eh
 
 Cent fois j'aimerais te dire que, eh
-
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Kill Bill
-
-SZA
-
-Moulaga
-
-Made, Bobby Vandamme & Dorian
-
-Black Kings
-
-Sauce Walka
 
 [Pre-Hook]
 
@@ -778,24 +670,6 @@ Ich kann ohne dich nicht schlafen, ich brauch' Ablenkung
 Mitternacht spiegelt sich der Mond in dem Feld
 
 Während in der leeren Wohnung deine Rosen verwelken
-
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Bagchaser Can
-
-Pashanim
-
-CENT’ANNI
-
-Shindy
-
-You’re Losing Me (From The Vault)
-
-Taylor Swift
 
 [Hook: Milano]
 
@@ -931,24 +805,6 @@ Quitter la terre, j'me rapproche des îles
 
 J'ai rien à perdre, qui m'a félicité ?
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Wenn du lächelst
-
-Milano
-
-Lose Yourself
-
-Eminem
-
-Mockingbird
-
-Eminem
-
 [Pre-Hook]
 
 Ich denke zurück, vermisse deine Art
@@ -1073,24 +929,6 @@ Dis-moi, comment t'as fait, bébé ?
 
 La bague j't'aurais passé
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Wenn du lächelst
-
-Milano
-
-Lose Yourself
-
-Eminem
-
-Mockingbird
-
-Eminem
-
 [Hook]
 
 Unsre Liebe nur noch Fake Love, Fake Love
@@ -1211,24 +1049,6 @@ Das hier zu beenden wär für uns das Beste und für beide fairer
 
 Deshalb fühl' ich mich leer
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-A&W
-
-Lana Del Rey
-
-Lord of the Lost - Blood & Glitter (Deutsche Übersetzung)
-
-Genius Deutsche Übersetzungen
-
-Sadio Mane
-
-Bobby Vandamme
-
 [Hook]
 
 Ich fühle mich leer, ohh
@@ -1344,24 +1164,6 @@ Merke, für den ganzen Scheiß ist es zu spät
 Hab genug von all dem Leid und ich muss geh'n
 
 Und ich bleib nie wieder steh'n
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Wenn du lächelst
-
-Milano
-
-Wood
-
-Taylor Swift
-
-The Fate of Ophelia
-
-Taylor Swift
 
 [Refrain]
 
@@ -1503,24 +1305,6 @@ La nuit, ça parle en français
 
 Oui ma belle, montre-moi tous tes bons côtés
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Wenn du lächelst
-
-Milano
-
-Lose Yourself
-
-Eminem
-
-Mockingbird
-
-Eminem
-
 [Pre-Hook]
 
 Auf der Straße, Leute rufen an
@@ -1643,24 +1427,6 @@ Entweder mit dir
 
 Oder gar nicht, mon amour
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Wenn du lächelst
-
-Milano
-
-Wood
-
-Taylor Swift
-
-The Fate of Ophelia
-
-Taylor Swift
-
 [Strophe 2]
 
 Ich empfinde Demut
@@ -1748,24 +1514,6 @@ Nur du (Oh, oh), nur du
 Bist wie gemacht für mich
 
 Wie gemacht für mich (Jazeek)
-
-See Jazeek Live
-
-Get tickets as low as $110
-
-You might also like
-
-bissu dumm ¿ MEGALODON REMIX
-
-Bonez MC, Nate57 & Jugglerz
-
-#12
-
-Alim (Blaq), Veysel.Blaq & HoodBlaq
-
-Hand in Hand
-
-SAMIRA
 
 [Part 2: Jazeek]
 
@@ -1868,24 +1616,6 @@ Ich chille, sipp' den Cocktail
 Bin zu rillé, okay
 
 Und fülle nach mit Bombay
-
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Bombay
-
-JAZN
-
-Lose Yourself
-
-Eminem
-
-Mockingbird
-
-Eminem
 
 [Hook: JAZN & Milano]
 
@@ -2011,24 +1741,6 @@ Ich knall die Tür zu-u-u
 
 Und schrei‘ dich an
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Je vois
-
-Milano
-
-Down
-
-Milano
-
-Wenn du lächelst
-
-Milano
-
 [Hook]
 
 Wie kann dein Herz nur so vergiftet sein‘?
@@ -2139,24 +1851,6 @@ Et puis je vois ta-la-la-la-la-ta
 
 Puis je vois, oye oye oy-oyeah
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Fick dich
-
-Milano
-
-Wenn du lächelst
-
-Milano
-
-Wood
-
-Taylor Swift
-
 [Part 2]
 
 Irgendwas hat dieses Feuer entfacht
@@ -2259,24 +1953,6 @@ Hab' alles versucht
 
 Doch das was ich tu', war dir nie genug
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Blutbad
-
-Amo & MERO
-
-Weiße Lilien
-
-CÉLINE
-
-IMMERNOCH
-
-OMAR
-
 [Strophe 2]
 
 Ich reiß’ mir mein Herz aus der Brust
@@ -2368,24 +2044,6 @@ Wie ich an dich dеnk', wenn ich 'ne andre—, ah
 Ich Idiot hab' an Liebe geglaubt
 
 Dir geglaubt, als du mir sagtest: „Ich liebe dich auch“, Baby
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-BOTTEGA
-
-RAF Camora
-
-PARFUM
-
-Jazeek & Shindy
-
-Keine Helden
-
-Kontra K & SDP
 
 [Strophe 2]
 
@@ -2498,24 +2156,6 @@ Sag mir, wer ist denn der Schönste hier im ganzen Land?
 Hab' schon alles geseh'n, doch ich muss gesteh'n
 
 Nur dein Blick macht mich schön
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Unlock
-
-Luciano
-
-Alle Risse heilen
-
-Olson
-
-Tischtennisplatte
-
-Aymen
 
 [Strophe 2: Lune & Milano]
 
@@ -3199,24 +2839,6 @@ Sonst bist du nicht da, oh no
 
 Die Wahrheit tut unendlich weh, mein Babe
 
-See pop shows near Rio de Janeiro
-
-Get tickets as low as $48
-
-You might also like
-
-Mit Ihm
-
-Ardian Bujupi
-
-Last Dance
-
-PA Sports, Jamule & Mucco
-
-Jasmin
-
-Aymen
-
 [Refrain]
 
 Wie kann man so herzlos sein wie du?
@@ -3444,24 +3066,6 @@ Ich hab' geschwor'n, ich bin da, jede Nacht schlaf' ich mit dir ein
 Jetzt wach' ich auf in andern Arm'n
 
 Hey, ohh, hey
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Playboy Bunnies
-
-Jazeek, Luciano & Miksu / Macloud
-
-Without Me
-
-Eminem
-
-She Knows
-
-J. Cole
 
 [Strophe 2]
 
@@ -3764,24 +3368,6 @@ Sie hat's nicht verdient und war auch unverschämt“
 Ich hab' 'n Fehler begang'n, ich war ein anderer Mann
 
 Ich schwör', ich würd es rückgängig machen, wenn ich's kann
-
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Jingle Bells
-
-Christmas Songs
-
-Silent Night
-
-Christmas Songs
-
-Lej
-
-DON XHONI & Dhurata Dora
 
 [Pre-Refrain]
 
@@ -4753,24 +4339,6 @@ Und bau' ich dich auf, ja, dann lässt du mich fall'n, hab' das Gefühl, dass mi
 
 Seitdem du weg bist
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Au Revoir
-
-Milano & Eddin
-
-JIB MASSARI
-
-Hassuna
-
-Ma Jolie
-
-Made, CALI & Kenan
-
 [Strophe 2: Milano]
 
 Des maux de tête mais t'es plus là
@@ -5054,24 +4622,6 @@ Ain't no conspiracy that can save me
 Livin' in the moment feels good to me till it hurts
 
 And I need somebody
-
-See upcoming R&B shows
-
-Get tickets for your favorite artists
-
-[Pre-Chorus]
-
-Am I crazy? Am I foolish?
-
-Am I stupid for playin' these games with you?
-
-[Chorus]
-
-If I told you I loved you
-
-Would you say that it's fucked up?
-
-If I told you they'rе flyin'
 
 Would you say that you looked up?
 
@@ -6315,24 +5865,6 @@ Wenn ich das nur wüsste, ich würde
 
 Alles tun, damit wir auch in 'nem andren Leben verein'n
 
-See upcoming pop shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Rattenhaut (Rap La Rue)
-
-Haaland936
-
-Eredivisie (Rap La Rue)
-
-Haaland936 & Amo
-
-7 Minute Drill
-
-J. Cole
-
 [Pre-Refrain: SANTOS]
 
 Ich hab' nach oben geschaut, doch da leuchtet nichts mehr
@@ -6673,24 +6205,6 @@ Babe, mach dich locker
 
 Hol dir noch einen Shot, ja
 
-See upcoming rap shows
-
-Get tickets for your favorite artists
-
-You might also like
-
-Used To Be Young
-
-Miley Cyrus
-
-​making the bed
-
-Olivia Rodrigo
-
-​ballad of a homeschooled girl
-
-Olivia Rodrigo
-
 [Hook: Jazeek]
 
 Ich weiß, wie's war ohne mein Bae
@@ -6808,24 +6322,6 @@ Marihu-hu-hu, Marihu-hu-hu, Marihuana
 Mein Marihu-hu-hu, Marihu-hu-hu, Marihuana
 
 Marihu-hu-hu, Marihu-hu-hu, Marihu-hu-huana (Ah)
-
-See Jazeek Live
-
-Get tickets as low as $63
-
-You might also like
-
-Eat Your Young
-
-Hozier
-
-Fake Love
-
-Tink
-
-Jimin - Set Me Free Pt.2 (English Translation)
-
-Genius English Translations
 
 [Part 2]
 
@@ -7449,24 +6945,6 @@ In L-O-V-E, yeah
 
 Oh-oh-oh
 
-See Jazeek Live
-
-Get tickets as low as $63
-
-You might also like
-
-Special
-
-SZA
-
-Did you know that there’s a tunnel under Ocean Blvd
-
-Lana Del Rey
-
-Buzz Down
-
-Bonez MC
-
 [Hook]
 
 Sie ist so in love, L-O-V-E
@@ -7715,24 +7193,6 @@ Baby, lass mich rein, nein, ich klopf' nicht an
 
 Oh-na-na-na
 
-See Jazeek Live
-
-Get tickets as low as $63
-
-You might also like
-
-Mittelmeer
-
-Pashanim
-
-Eminem - Houdini (Deutsche Übersetzung)
-
-Genius Deutsche Übersetzungen
-
-BLAQ ON BLAQ
-
-HoodBlaq
-
 [Hook]
 
 Sag mir, liebst du meine Augen
@@ -7866,24 +7326,6 @@ Kipp' Whisky in mein Glas hinein
 Oh nein, oh nein, wie ich es immer tu' (Ja)
 
 Der Grund warst immer du (Yeah)
-
-See Jazeek Live
-
-Get tickets as low as $63
-
-You might also like
-
-Paris, Texas
-
-Lana Del Rey
-
-LET GO
-
-Central Cee
-
-Bagchaser Can
-
-Pashanim
 
 [Part 2]
 
