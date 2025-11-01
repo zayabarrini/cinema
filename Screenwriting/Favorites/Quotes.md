@@ -92,3 +92,11 @@ I will take my electric razor, and I will shave your head and make you eat your 
 I mean it, I will literally make you eat your hair. I'm not kidding
 It's not an act.
 
+I am sorry, senator, if you do not have the time to answer for who bought the real cost of your development.
+Not just Trisha Stanley and her boyfriend, David Allen, who served 21 years in prison but the thousands who were displaced in the name of lining your pockets.
+The majority of whom are poor, powerless and didn’t hear the color of skin desirable to your business interests.
+You tore a community apart.
+You tore families apart.
+You destroyed lives, Senator.
+Admit it.
+Admit you killed Trisha Stanley and had my client, David Allen, set up for her murder.
