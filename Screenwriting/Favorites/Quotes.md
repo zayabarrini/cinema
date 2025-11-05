@@ -100,3 +100,4 @@ You tore families apart.
 You destroyed lives, Senator.
 Admit it.
 Admit you killed Trisha Stanley and had my client, David Allen, set up for her murder.
+
