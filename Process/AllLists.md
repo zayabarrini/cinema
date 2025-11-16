@@ -1,3 +1,74 @@
+# Sumary
+
+- Mubi's lists
+- Foreign Submissions Oscars
+- 15/05/25
+- Subjectivity, Children protagonists - Chinese
+- Scenery Arabic
+- Beautiful Scenery Ru, Ar, Ch, Hi
+- LGBT Arabic
+- Early Love-Tragedy
+- IMDb Language Search
+- Hindi movies about FAMILY / LOSS / RECONCILIATION
+- Hindi CHILD SUBJECTIVITY
+- Top Language
+- Japanese LGBTQ+, French Animation, Portuguese
+- Children Subjectivity
+- Adult Subjectivity
+- Animations
+- LGBTQ+
+- Family, Loss
+- Death, Horror, Spirituality
+- Artistic/Avant-Garde
+- Political/Social
+- Russian GL Matrix
+- Essentials Mubi Russian
+- Beautiful Scenery
+- Love in June 2025
+- Hindi: National Film Award for Best Cinematography
+- Arabic Oscar Submissions
+- Russian Best Cinematography
+- Cross-Cultural Equivalents of Key Films
+- German, French 
+- Chinese, japanese
+- Russian, Arabic, Hindi
+- Portuguese, Spanish
+- Women Directors
+- German, French
+- Italy, China
+- Japan, Korea
+- Arabic, Russia
+- Brazil, Spain
+- Hindi, Mexico
+- UK, USA
+- Women Director Movies
+- Favorite Directors
+- Filtered
+- 06/08/25
+- Take these movies and give the equivalent of them  in German, France, China, Japan, Arabic, Russian, Brazil, Spanish, Hindi
+- 🎬 **Cross-Cultural Lacanian Equivalents for Selected Films**
+- The Hours inspired
+- Asia
+- Africa
+- America
+- Favorite Directors' favorite movies
+- International Film Oscar Nomination
+- Greatest Directors by languages
+- 13/07/25 Directors selection
+- Korean and Japanese Directors selection
+- Trans-Parenting
+- User's ratings - The Hours 10
+- Users
+- Arabic
+- Women's direction
+- 09/09/25 Alexandre's favorites
+- Lacan part 2
+- Best Actress Oscar Winner
+- Best International Picture
+- The Beauty Of
+- 14/10/25
+
+
 # Links and resources
 
 https://mubi.com/en/awards-and-festivals
