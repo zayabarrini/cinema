@@ -4,7 +4,9 @@
 
 [![" 🤝 Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tallesberrs)
 
-[Estúdio de Psicanálise, Arte e Cinema](https://docs.google.com/presentation/d/1tVhZKi6ufmf8tDZoy2uanwNu-rk55qBWa79q-A8g0x8/edit?usp=sharing)
+[Estúdio de Psicanálise, Arte e Cinema](https://zayabarrini.vercel.app/)
+
+[Linktree](https://linktr.ee/zayabarrini)
 
 [Kickante](https://www.kickante.com.br/crowdfunding/escola-de-psicanalise-talles-barrini)
 
@@ -12,13 +14,12 @@
 
 [Amazon WishList](https://www.amazon.com.br/hz/wishlist/ls/3UUK9DJ1OZ20S?ref_=wl_share)
 
-[Linktree](https://linktr.ee/tallesbarrini)
 
-**Proposta de Financiamento Contínuo para a Construção do Estúdio de Psicanálise, Arte e Cinema Talles Barrini**
+**Proposta de Financiamento Contínuo para a Construção do Estúdio de Psicanálise, Arte e Cinema Zaya Barrini**
 
 **Introdução**
 
-O Estúdio de Psicanálise, Arte e Cinema Talles Barrini surge com a missão de integrar três campos do conhecimento e da prática: a psicanálise, a arte e o cinema. Este projeto inovador visa criar um espaço único onde a interseção dessas disciplinas possa promover um ambiente de aprendizado, criatividade e transformação pessoal e coletiva.
+O Estúdio de Psicanálise, Arte e Cinema Zaya Barrini surge com a missão de integrar três campos do conhecimento e da prática: a psicanálise, a arte e o cinema. Este projeto inovador visa criar um espaço único onde a interseção dessas disciplinas possa promover um ambiente de aprendizado, criatividade e transformação pessoal e coletiva.
 
 **Objetivo**
 
@@ -26,7 +27,7 @@ O objetivo deste pedido de financiamento contínuo é garantir a cobertura dos c
 
 **Justificativa**
 
-A construção do Estúdio de Psicanálise, Arte e Cinema Talles Barrini é um empreendimento ambicioso e de longo prazo. A integração entre psicanálise, arte e cinema não só enriquecerá a formação dos alunos, mas também criará um espaço para a produção de conhecimento inovador, incentivando a exploração de novas linguagens e formas de expressão. Este ambiente colaborativo proporcionará oportunidades únicas de desenvolvimento pessoal e profissional para todos os participantes.
+A construção do Estúdio de Psicanálise, Arte e Cinema Zaya Barrini é um empreendimento ambicioso e de longo prazo. A integração entre psicanálise, arte e cinema não só enriquecerá a formação dos alunos, mas também criará um espaço para a produção de conhecimento inovador, incentivando a exploração de novas linguagens e formas de expressão. Este ambiente colaborativo proporcionará oportunidades únicas de desenvolvimento pessoal e profissional para todos os participantes.
 
 **Impacto do Financiamento**
 
@@ -143,7 +144,7 @@ O financiamento contínuo proporcionará diversos benefícios diretos e indireto
 
 # Grupos e Canais
 
-<span style="color:#FDFFE2">WhatsApp Talles Barrini: </span> _[https://chat\.whatsapp\.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
+<span style="color:#FDFFE2">WhatsApp Zaya Barrini: </span> _[https://chat\.whatsapp\.com/JGlGyJQirVK2nshslvTsen](https://chat.whatsapp.com/JGlGyJQirVK2nshslvTsen)_
 
 <span style="color:#FDFFE2">WhatsApp Afiliados: </span> _[https://chat\.whatsapp\.com/Ebe8zQC1oLjLGDuKC8by8I](https://chat.whatsapp.com/Ebe8zQC1oLjLGDuKC8by8I)_
 
@@ -155,13 +156,13 @@ O financiamento contínuo proporcionará diversos benefícios diretos e indireto
 
 # Contato
 
-**Talles Barrini**
+**Zaya Barrini**
 
-@tallesbarrini
+@zayabarrini
 
 \+55 \(35\) 99772 6990
 
-_[tallesbarrini@gmail\.com](mailto:tallesconsultoriapessoal@gmail.com)_
+_[zayabarrini@gmail\.com](mailto:tallesconsultoriapessoal@gmail.com)_
 
 # Sala Online
 
