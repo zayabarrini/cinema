@@ -34,11 +34,7 @@ https://genius.com/artists/Jakone | Jakone Lyrics, Songs, and Albums | Genius
 
 https://genius.com/artists/Kiliana | Kiliana Lyrics, Songs, and Albums | Genius
 
-<!-- TOC --><a name="jakone-and-kiliana"></a>
-
 # Jakone and Kiliana
-
-<!-- TOC --><a name=""></a>
 
 ## Асфальт
 
@@ -138,8 +134,6 @@ https://genius.com/artists/Kiliana | Kiliana Lyrics, Songs, and Albums | Genius
 
 Я знаю, что ты знаешь, что я знаю, что ты там
 
-<!-- TOC --><a name="slovo-pazana"></a>
-
 # Jecito
 
 ## Slovo Pazana
@@ -205,8 +199,6 @@ Ich komme nicht klar
 Как холодная Москва, не верила слезам
 
 А я тебя люблю как прежде ты моя, моя
-
-<!-- TOC --><a name="tralli-valli"></a>
 
 ## Tralli-Valli
 
@@ -314,8 +306,6 @@ Tilli-tilli tralli-valli каждую ночь
 
 Не теряет цвет, остаётся любoвь
 
-<!-- TOC --><a name="ushla"></a>
-
 ## Ushla
 
 Да, ты ушла (ушла)
@@ -367,8 +357,6 @@ Tilli-tilli tralli-valli каждую ночь
 Я как roadrunner (wha', woah)
 
 Тем, кем был, я просто так забyду
-
-<!-- TOC --><a name="roadrunner"></a>
 
 ## Roadrunner
 
@@ -560,8 +548,6 @@ Aha
 
 2x
 
-<!-- TOC --><a name="manila"></a>
-
 ## Manila
 
 Ты меня манила
@@ -628,8 +614,6 @@ Also tu nicht so als ob du mich verstehst
 
 Ты меня манила
 
-<!-- TOC --><a name="-"></a>
-
 ## Ты меня манила
 
 Меня погубила
@@ -693,8 +677,6 @@ Also tu nicht so als ob du mich verstehst
 Душу ты скурила
 
 Ты меня манила
-
-<!-- TOC --><a name="guarana"></a>
 
 ## Guarana
 
@@ -899,8 +881,6 @@ Drip drip drip
 я в crib crib crib
 
 с пацанами завис
-
-<!-- TOC --><a name="glaza"></a>
 
 ## Glaza
 
