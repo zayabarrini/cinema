@@ -1,23 +1,22 @@
----
-title:
-  - type: main
-    text: Software for Cinema
-  - type: subtitle
-    text: Cinema
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: ../Capas/SoftwareCinema.jpg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 1.3.4
-...
+- Camtasia: Audio Transcription, Translation, Remove vocals
+- Create Own: Netflix/Casa do Saber
+- Job Search + Digital Twin
+- Transliteration Chrome Extension
+- PDF2Latex for free
+- Cinema: Toon Boom Harmony (2D), Cinema 4D/Autodesk Maya/Blender, Adobe After Effects/Adobe Premiere Pro, Storyboard Pro (Toon Boom)
+
+Storyboard Pro (Toon Boom)
+Monthly Subscription
+USD $53.00 /month
+
+Adobe Creative Pro:
+https://www.adobe.com/br/creativecloud.html
+R$ 129,00/mês
+
+Cinema 4D
+R$ 4,319.82 / YEAR
+Per License
+
 
 # Summary
 
