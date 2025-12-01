@@ -595,3 +595,22 @@ https://thepiratebay10.xyz/search/Chinatown+
 https://www.imdb.com/title/tt2120832/ | Shock Head Soul (2011) - IMDb
 https://www.imdb.com/title/tt0479098/ | Memoirs of My Nervous Illness (2006) - IMDb
 https://www.imdb.com/title/tt0216578/ | Murderous Maids (2000) - IMDb
+
+
+# Top imdb rewatches
+01/12/25
+https://www.imdb.com/chart/top/ | IMDb Top 250 movies
+https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1 | The Shawshank Redemption (1994) - IMDb
+https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2 | The Godfather (1972) - IMDb
+https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3 | The Dark Knight (2008) - IMDb
+https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4 | The Godfather Part II (1974) - IMDb
+https://www.imdb.com/title/tt0108052/?ref_=chttp_t_7 | Schindler's List (1993) - IMDb
+https://www.imdb.com/title/tt0110912/?ref_=chttp_t_9 | Pulp Fiction (1994) - IMDb
+https://www.imdb.com/title/tt0109830/?ref_=chttp_t_12 | Forrest Gump (1994) - IMDb
+https://www.imdb.com/title/tt0137523/?ref_=chttp_t_13 | Fight Club (1999) - IMDb
+https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14 | Inception (2010) - IMDb
+https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15 | Star Wars: Episode V - The Empire Strikes Back (1980) - IMDb
+https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17 | Goodfellas (1990) - IMDb
+https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20 | Se7en (1995) - IMDb
+https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21 | It's a Wonderful Life (1946) - IMDb
+https://www.imdb.com/title/tt0102926/?ref_=chttp_t_22 | The Silence of the Lambs (1991) - IMDb
