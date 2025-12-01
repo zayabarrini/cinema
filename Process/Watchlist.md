@@ -614,3 +614,18 @@ https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17 | Goodfellas (1990) - IMDb
 https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20 | Se7en (1995) - IMDb
 https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21 | It's a Wonderful Life (1946) - IMDb
 https://www.imdb.com/title/tt0102926/?ref_=chttp_t_22 | The Silence of the Lambs (1991) - IMDb
+
+https://thepiratebay10.xyz/search/The%20Shawshank%20Redemption%20%281994%29%20
+https://thepiratebay10.xyz/search/The%20Godfather%20%281972%29%20
+https://thepiratebay10.xyz/search/The%20Dark%20Knight%20%282008%29%20
+https://thepiratebay10.xyz/search/The%20Godfather%20Part%20II%20%281974%29%20
+https://thepiratebay10.xyz/search/Schindler%27s%20List%20%281993%29%20
+https://thepiratebay10.xyz/search/Pulp%20Fiction%20%281994%29%20
+https://thepiratebay10.xyz/search/Forrest%20Gump%20%281994%29%20
+https://thepiratebay10.xyz/search/Fight%20Club%20%281999%29%20
+https://thepiratebay10.xyz/search/Inception%20%282010%29%20
+https://thepiratebay10.xyz/search/Star%20Wars%3A%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%20%281980%29%20
+https://thepiratebay10.xyz/search/Goodfellas%20%281990%29%20
+https://thepiratebay10.xyz/search/Se7en%20%281995%29%20
+https://thepiratebay10.xyz/search/It%27s%20a%20Wonderful%20Life%20%281946%29%20
+https://thepiratebay10.xyz/search/The%20Silence%20of%20the%20Lambs%20%281991%29%20

@@ -1,3 +1,1991 @@
+# Il ballo della vita
+
+## Torna a casa Lyrics
+
+[Testo di "Torna a casa"]
+
+[Strofa 1]
+
+Cammino per la mia città ed il vento soffia forte
+
+Mi son lasciato tutto indietro e il Sole all'orizzonte
+
+Vedo le case da lontano, hanno chiuso le porte
+
+Ma per fortuna ho la sua mano e le sue guance rosse
+
+Lei mi ha raccolto da per terra coperto di spine
+
+Coi morsi di mille serpenti, fermo per le spire
+
+Non ha ascoltato quei bastardi e il loro maledire
+
+Con uno sguardo mi ha convinto a prendere e partire
+
+Che questo è un viaggio che nessuno prima d'ora ha fatto
+
+Alice, le sue meraviglie e il Cappellaio Matto
+
+Cammineremo per 'sta strada e non sarò mai stanco
+
+Fino a che il tempo porterà sui tuoi capelli il bianco
+
+Che mi è rimasto un foglio in mano e mezza sigaretta
+
+Restiamo un po' di tempo ancora, tanto non c'è fretta
+
+Che c'ho una frase scritta in testa, ma non l'ho mai detta
+
+Perché la vita senza te non può essere perfetta
+
+[Ritornello]
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che non voglio più aspettare
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che ho paura di sparire
+
+[Strofa 2]
+
+E il cielo piano piano qua diventa trasparente
+
+Il Sole illumina le debolezze della gente
+
+Una lacrima salata bagna la mia guancia mentre
+
+Lei con la mano mi accarezza in viso dolcemente
+
+Col sangue sulle mani scalerò tutte le vette
+
+Voglio arrivare dove l'occhio umano si interrompe
+
+Per imparare a perdonare tutte le mie colpe
+
+Perché anche gli angeli a volte han paura della morte
+
+Che mi è rimasto un foglio in mano e mezza sigaretta
+
+Corriamo via da chi c'ha troppa sete di vendetta
+
+Da questa Terra ferma perché ormai la sento stretta
+
+Ieri ero quiete perché oggi sarò la tempesta
+
+[Ritornello]
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che non voglio più aspettare
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che non voglio più...
+
+[Bridge]
+
+Prima di te ero solo un pazzo, ora lascia che ti racconti:
+
+Avevo una giacca sgualcita e portavo tagli sui polsi
+
+Oggi mi sento benedetto e non trovo niente da aggiungere
+
+Questa città si affaccerà quando ci vedrà giungere
+
+Ero in bilico tra l'essere vittima e essere giudice
+
+Era un brivido che porta la luce dentro le tenebre
+
+E ti libera da queste catene splendenti, lucide
+
+Ed il dubbio mio, se fossero morti oppure rinascite
+
+[Ritornello]
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che non voglio più aspettare
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che non voglio più sparire
+
+[Outro]
+
+Quindi Marlena torna a casa
+
+Che il freddo qua si fa sentire
+
+Quindi Marlena torna a casa
+
+Che ho paura di sparire
+
+## L'altra dimensione Lyrics
+
+[Testo di "L’altra dimensione"]
+
+[Strofa 1]
+
+E adesso giuro faccio le valigie
+
+E scappo via in un'altra dimensione
+
+Son stanco delle vostre facce grigie
+
+Voglio un mondo rosa, pieno di colore
+
+Voi comprate amore con le carte Visa
+
+Con le facce intrise, sì ma di sudore
+
+E adesso, giuro, faccio le valigie
+
+E scappo via dalla dolce
+
+[Ritornello]
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a bailar
+
+[Strofa 2]
+
+Amico mio devi essere felice
+
+Perché il nuovo mondo sta per arrivare
+
+E non c'è taglio, non c'è cicatrice
+
+Che questa passione non possa curare
+
+Dio, io dalla polvere come fenice
+
+Son risorto ed ho imparato anche a volare
+
+Soltanto perché ho fatto le valigie
+
+Ed ho baciato la dolce
+
+[Ritornello]
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a ballare stasera
+
+Marlena, Marlena, sì portami a bailar
+
+Il ballo della vida
+
+Il ballo della vida
+
+Il ballo della vida
+
+Il ballo della vida
+
+Il ballo di
+
+[Outro]
+
+Marlena, Marlena, sì vienimi a parlare
+
+Ti prego Marlena, Marlena, io ti starò ad ascoltare
+
+Ti prego Marlena, Marlena, insegnami a lottare
+
+Ti prego Marlena, Marlena, sì portami a bailar
+
+Il ballo della vita
+
+Il ballo della vita
+
+Il ballo della vita
+
+Il ballo della vita
+
+## Le parole lontane Lyrics
+
+[Testo di "Le parole lontane"]
+
+[Strofa 1]
+
+Come l'aria mi respirerai
+
+Il giorno che
+
+Ti nasconderò dentro frasi che
+
+Non sentirai
+
+Che l'errore tuo è stato amarmi
+
+Come se domani
+
+Il mondo fosse uguale a com'era ieri
+
+[Bridge 1]
+
+Ma adesso lasciami credere che questo sia reale
+
+E sento l'ansia che sale, bevo le lacrime amare
+
+Ti prego lasciami perdere dentro all'acqua del mare
+
+Che le parole lontane giuro te le voglio urlare
+
+[Ritornello]
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana da me
+
+[Strofa 2]
+
+Il tempo brucerà tutti i fogli che
+
+Parlan di te
+
+Piangerai con me sotto il sole poi
+
+Diluvierà
+
+Per portare via le parole
+
+Forse inutili
+
+Canteremo insieme ma restando muti
+
+[Bridge 2]
+
+Adesso portarmi a casa che mi spaventa l'inverno
+
+Le gambe stanno cedendo, non vedi che ho troppo freddo
+
+Marlena portami a casa che il tuo sorriso è stupendo
+
+Ma sai, se adesso ti perdo, non vedo neanche più un metro
+
+[Ritornello: Damiano & [?]]
+
+Perché ti sento lontana, lontana da me
+
+(Tu sei lontano da me, tu sei lontano da me)
+
+Perché ti sento lontana, lontana da me
+
+(Tu sei lontano da me, tu sei lontano da me)
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana, lontana da me, yeeh
+
+Perché ti sento lontana, lontana da me
+
+Perché ti sento lontana da me
+
+[Outro]
+
+Come l'aria mi respirerai
+
+Il giorno che
+
+Ti nasconderò dentro frasi che
+
+Non sentirai
+
+## Immortale (Ft. Vegas Jones) Lyrics
+
+[Intro]
+
+D-D-D-Don Joe
+
+[Strofa 1: Damiano]
+
+Io voglio rubare la libertà
+
+Perché me la son vista portare via
+
+Regalare alla mia gente verità
+
+Diventare leggenda nella mia via
+
+Perchè non è questione di abilità
+
+Dentro me ci sta il bacio della magia
+
+Quindi vi voglio tutti fuori da qua
+
+Fuori dal mio regno (Ehi), questa è casa mia (Ehi)
+
+Ho solo il piano A+ non ho un piano B
+
+Passo mi fanno: "Cheese", sai che non ho limiti
+
+Jeez, questa roba non esiste in giro
+
+Solo hits in viral, ora aggiusto il tiro (Brr)
+
+Sto puntando in cima, siamo missili (Uh)
+
+Segnati bene questi messaggi sono biblici
+
+Dagli sbagli che ho commesso nei miei momenti difficili
+
+Ho imparato i segreti per essere invincibili (Uoh)
+
+[Pre-Ritornello: Damiano]
+
+Adesso vi guardo dal cielo
+
+Perché, sì, ho imparato a volare
+
+Tu che lo fai per il dinero
+
+Io per diventare immortale
+
+Credimi, credimi
+
+Se mi senti è perché lo so fare
+
+Credimi, credimi
+
+Sono diventato immortale
+
+[Ritornello: Damiano & Vegas Jones]
+
+Ehi, ehi
+
+Se mi senti è perché lo so fare (Skrrt)
+
+Ehi, ehi
+
+Sono diventato immortale (Skrrt)
+
+Ehi, ehi
+
+Se mi senti è perché lo so fare (Skrrt)
+
+Ehi, ehi
+
+Sono diventato immortale
+
+[Strofa 2: Damiano & Vegas Jones]
+
+Se sono sere nere
+
+Mi sentirò bene sotto la luna piena
+
+Sono ancora in piedi nonostante
+
+I segni che mi hanno lasciato sulla schiena
+
+Sono l'unico fiore che sboccia
+
+Anche senza aspettare questa primavera
+
+Tu che lotti solo per avere un nome
+
+Io per diventare una leggenda, yah-yah-yah-yah
+
+Ehi, Big Bang, esplodo
+
+Non mi serve del relax (Skrrt)
+
+Ehi, ehi, non mi basta più la Terra
+
+Voglio un altro pianeta, ratatatatatatà
+
+Non mi posso più fermare
+
+L'universo è la mia meta, ehi
+
+Guardami come fossi il Sole
+
+Tu stella comune, io stella cometa
+
+[Pre-Ritornello: Damiano]
+
+Adesso vi guardo dal cielo
+
+Perché, sì, ho imparato a volare
+
+Tu che lo fai per il dinero
+
+Io per diventare immortale
+
+Credimi, credimi
+
+Se mi senti è perché lo so fare
+
+Credimi, credimi
+
+Sono diventato immortale
+
+[Ritornello: Damiano & Vegas Jones]
+
+Ehi, ehi
+
+Se mi senti è perché lo so fare (Skrrt)
+
+Ehi, ehi
+
+Sono diventato immortale (Skrrt)
+
+Ehi, ehi
+
+Se mi senti è perché lo so fare (Skrrt)
+
+Ehi, ehi
+
+Sono diventato immortale
+
+[Outro: Damiano & Vegas Jones]
+
+Ehi, ehi
+
+Ehi, ehi
+
+Ehi, ehi
+
+Ehi, ehi
+
+Sono diventato immortale
+
+## Lasciami stare Lyrics
+
+[Testo di "Lasciami stare"]
+
+[Strofa 1]
+
+Oh il tempo va veloce, sì seguo le lancette
+
+Ci scrivo le parole, perché non le ha mai dette
+
+Chi dice che sto fuori, puoi stare sicuro, mente
+
+Voglio entrare nei cuori, nei cuori di questa gente
+
+Scrivo le canzoni, esprimo la mia mente
+
+Voi poveri coglioni chiusi con le manette
+
+Legate con i fili sembrate, sì, marionette
+
+Ma scrivo le canzoni perché durino per sempre
+
+[Bridge]
+
+Tu, lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Volare via
+
+Ma tu, lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Volare via
+
+[Ritornello]
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+[Strofa 2]
+
+Yeah, yeah, sei troppo giovane, giovane per questo
+
+E no non vuoi volare, è ancora troppo presto
+
+Ma non è per soldi, per fama o per rispetto
+
+Ma m'ama solamente per seguire il mio disegno
+
+[Bridge]
+
+Tu, lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Volare via
+
+Ma tu, lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Volare via (Wooh)
+
+[Ritornello]
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+[Bridge]
+
+Lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Lasciami stare, tu, lasciami stare
+
+Ehi, lasciami stare, lasciami volare via
+
+Volare via, volare via
+
+Volare via
+
+[Ritornello]
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+Ora ho la forza necessaria per rinascere
+
+Lavare tutti i miei vestiti dalla polvere
+
+Guardare il lato sporco delle vostre maschere
+
+Prendere ciò che è mio, prendere ciò che è mio
+
+## Niente da dire Lyrics
+
+[Strofa 1]
+
+Voglio volare
+
+Per sollevarmi fin là
+
+Sentir urlare
+
+Il mio nome nelle città
+
+Comunicare
+
+Messaggio mio e dei miei frà
+
+Soltanto per assaporare il gusto della realtà
+
+Devo sfogare
+
+Questo mio senso di colpa
+
+Dimenticare
+
+Quest'altra stupida stronza
+
+Per poi curare
+
+Ferite date dai morsi
+
+Per poter camminare dentro al freddo dei boschi
+
+[Bridge]
+
+Però tu dimmi se è possibile
+
+Bruciare combustibile
+
+Scendere dalle ripide
+
+Farsi male e sorridere
+
+Dimmi se devo credere che tutto ciò è reale
+
+Sì come l'aria di mare che rende tutto visibile
+
+Dimmi se è possibile
+
+Bruciare combustibile
+
+Scendere dalle ripide
+
+Farsi male e sorridere
+
+Dimmi se devo credere che tutto ciò è reale
+
+Sì come l'aria di mare che rende tutto visibile
+
+[Ritornello]
+
+Io non ho niente da dire
+
+Io non ho niente da ridere
+
+Ho strappato queste spine
+
+E ho cominciato a vivere
+
+Io non ho niente da dire
+
+Io non ho niente da ridere
+
+Ho strappato queste spine
+
+E ho cominciato a vivere
+
+[Strofa 2]
+
+Quindi Marlena
+
+Stai accanto a me per viaggiare
+
+Se arriva sera
+
+Impareremo a guardare la luna piena
+
+Amore non ascoltare il canto di queste sirene che non voglio annegare
+
+Perché il momento è ora
+
+Scordiamoci la paura
+
+Scriviamo la memoria
+
+Diciamola nuda e cruda
+
+Sì ma in forma di poesia perché non faccia paura
+
+Qui la notte è scura, qui la notte è scura
+
+[Bridge]
+
+Ma dimmi se è possibile
+
+Bruciare combustibile
+
+Scendere dalle ripide
+
+Farsi male e sorridere
+
+Dimmi se devo credere che tutto ciò è reale
+
+Sì come l'aria di mare che rende tutto visibile
+
+Dimmi se è possibile
+
+Bruciare combustibile
+
+Scendere dalle ripide
+
+Farsi male e sorridere
+
+Dimmi se devo credere che tutto ciò è reale
+
+Sì come l'aria di mare che rende tutto visibile
+
+[Ritornello]
+
+Io non ho niente da dire
+
+Io non ho niente da ridere
+
+Ho strappato queste spine
+
+E ho cominciato a vivere
+
+Io non ho niente da dire
+
+Io non ho niente da ridere
+
+Ho strappato queste spine
+
+E ho cominciato a vivere
+
+[Outro]
+
+Io non ho niente da dire
+
+## Morirò da re Lyrics
+
+[Intro]
+
+Ehi, it's Måneskin yeah
+
+[Strofa 1]
+
+E allora prendi la mia mano bella señorita
+
+Disegniamo sopra il mondo con una matita
+
+Resteremo appesi al treno solo con le dita
+
+Pronta che non sarà facile, è tutta in salita
+
+E allora prendi tutto quanto
+
+Baby prepara la valigia
+
+Metti le calze a rete e il tacco
+
+Splendiamo in questa notte grigia
+
+[Ritornello]
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Oh no no no
+
+Oh no no no
+
+[Strofa 2]
+
+Ed anche quando starò male sarò troppo stanco
+
+Come fuoco avanzerò per prender tutto quanto
+
+Ciò che spetta per esser pronto ad affrontare il branco
+
+Non voglio tornare indietro, adesso parto
+
+Allora baby baby baby asciuga il pianto
+
+Bevi bevi bevi dal mio piatto
+
+Sì tu vuoi cadere in piedi anche dall'alto
+
+Sì tu vuoi cadere in piedi anche dall'alto
+
+[Ritornello]
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+[Strofa 3]
+
+Marlena, vinci la sera
+
+Spogliati nera
+
+Prenditi tutto quello che fa comodo e sincera
+
+Apri la vela dai, viaggia leggera
+
+Tu mostra la bellezza a questo popolo e
+
+Marlena, vinci la sera
+
+Spogliati nera
+
+Prenditi tutto quello che fa comodo e sincera
+
+Apri la vela dai, viaggia leggera
+
+Tu mostra la bellezza a questo popolo e
+
+Marlena, vinci la sera
+
+Spogliati nera
+
+Prenditi tutto quello che fa comodo e sincera
+
+Apri la vela dai, viaggia leggera
+
+Tu mostra la bellezza a questo popolo ed io
+
+[Ritornello]
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Io morirò da re
+
+Ehi ye-eh
+
+Amore accanto a te
+
+Baby accanto a te
+
+Baby accanto a te
+
+Baby accanto a te
+
+Io morirò da re-eh
+
+# Teatro D’ira - Vol.I
+
+## ZITTI E BUONI Lyrics
+
+[Testo di "ZITTI E BUONI"]
+
+[Strofa 1]
+
+Loro non sanno di che parlo
+
+Vestiti sporchi, fra', di fango
+
+Giallo di siga' fra le dita
+
+Io con la siga' camminando
+
+Scusami, ma ci credo tanto
+
+Che posso fare questo salto
+
+E anche se la strada è in salita
+
+Per questo ora mi sto allenando
+
+E buonasera, signore e signori
+
+Fuori gli attori
+
+Vi conviene toccarvi i coglioni
+
+Vi conviene stare zitti e buoni
+
+Qui la gente è strana tipo spacciatori
+
+Troppe notti stavo chiuso fuori
+
+Mo li prendo a calci 'sti portoni
+
+Sguardo in alto tipo scalatori
+
+Quindi scusa mamma se sto sempre fuori, ma
+
+[Ritornello]
+
+Sono fuori di testa, ma diverso da loro
+
+E tu sei fuori di testa, ma diversa da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+[Strofa 2]
+
+Io ho scritto pagine e pagine
+
+Ho visto sale, poi lacrime
+
+Questi uomini in macchina
+
+Non scalare le rapide
+
+Scritto sopra una lapide
+
+In casa mia non c'è Dio
+
+Ma se trovi il senso del tempo
+
+Risalirai dal tuo oblio
+
+E non c'è vento che fermi
+
+La naturale potenza
+
+Dal punto giusto di vista
+
+Del vento senti l'ebrezza
+
+Con ali in cera alla schiena
+
+Ricercherò quell'altezza
+
+Se vuoi fermarmi, ritenta
+
+Prova a tagliarmi la testa
+
+Perché
+
+[Ritornello]
+
+Sono fuori di testa, ma diverso da loro
+
+E tu sei fuori di testa, ma diversa da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+[Bridge]
+
+Parla la gente purtroppo
+
+Parla, non sa di che cosa parla
+
+Tu portami dove sto a galla
+
+Che qui mi manca l'aria
+
+Parla la gente purtroppo
+
+Parla, non sa di che cosa parla
+
+Tu portami dove sto a galla
+
+Che qui mi manca l'aria
+
+Parla la gente purtroppo
+
+Parla, non sa di che cazzo parla
+
+Tu portami dove sto a galla
+
+Che qui mi manca l'aria
+
+[Ritornello]
+
+Ma sono fuori di testa, ma diverso da loro
+
+E tu sei fuori di testa, ma diversa da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+Siamo fuori di testa, ma diversi da loro
+
+[Outro]
+
+Noi siamo diversi da loro
+
+## CORALINE Lyrics
+
+[Testo di "CORALINE"]
+
+[Intro]
+
+Dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+[Strofa 1]
+
+Coraline bella come il sole
+
+Guerriera dal cuore zelante
+
+Capelli come rose rosse
+
+Preziosi quei fili di rame, amore, portali da me
+
+Se senti campane cantare
+
+Vedrai Coraline che piange
+
+Che prende il dolore degli altri
+
+E poi lo porta dentro lei
+
+[Bridge]
+
+Coraline, Coraline, dimmi le tue verità
+
+Coraline, Coraline, dimmi le tue verità
+
+Coraline, Coraline, dimmi le tue verità
+
+Coraline, Coraline
+
+[Strofa 2]
+
+Però lei sa la verità, ah
+
+Non è per tutti andare avanti
+
+Con il cuore che è diviso in due metà, ah
+
+È freddo già
+
+È una bambina però sente come un peso
+
+E prima o poi si spezzerà
+
+E la gente dirà, ah: "Non vale niente
+
+Non riesce neanche a uscire da una misera porta"
+
+Ma un giorno, una volta, lei ci riuscirà
+
+[Pre-Ritornello 1]
+
+E ho detto a Coraline che può crescere
+
+Prendere le sue cose e poi partire
+
+Ma sente un mostro che la tiene in gabbia
+
+Che le ricopre la strada di mine
+
+E ho detto a Coraline che può crescere
+
+Prendere le sue cose e poi partire
+
+Ma Coraline non vuole mangiare, no
+
+Sì, Coraline vorrebbe sparire
+
+[Ritornello]
+
+E Coraline piange
+
+Coraline ha l'ansia
+
+Coraline vuole il mare
+
+Ma ha paura dell'acqua
+
+E forse il mare è dentro di lei
+
+E ogni parola è un'ascia
+
+Un taglio sulla schiena
+
+Come una zattera che naviga
+
+In un fiume in piena
+
+E forse il fiume è dentro di lei, di lei
+
+[Strofa 3]
+
+Sarò il fuoco ed il freddo
+
+Riparo d'inverno
+
+Sarò ciò che respiri
+
+Capirò cosa hai dentro
+
+E sarò l'acqua da bere
+
+Il significato del bene
+
+Sarò anche un soldato
+
+O la luce di sera
+
+[Pre-Ritornello 2]
+
+E in cambio non chiedo niente
+
+Soltanto un sorriso
+
+Ogni tua piccola lacrima è oceano sopra al mio viso
+
+E in cambio non chiedo niente
+
+Solo un po' di tempo
+
+Sarò vessillo, scudo
+
+O la tua spada d'argento, yeah
+
+[Ritornello]
+
+E Coraline piange
+
+Coraline ha l'ansia
+
+Coraline vuole il mare
+
+Ma ha paura dell’acqua
+
+E forse il mare è dentro di lei
+
+E ogni parola è un'ascia
+
+Un taglio sulla schiena
+
+Come una zattera che naviga
+
+In un fiume in piena
+
+E forse il fiume è dentro di lei, di lei
+
+[Assolo di chitarra]
+
+[Outro]
+
+E dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+Dimmi le tue verità, Coraline, Coraline
+
+Coraline, bella come il sole
+
+Ha perso il frutto del suo ventre
+
+Non ha conosciuto l'amore
+
+Ma un padre che di padre ha niente
+
+Le han detto in città c'è un castello
+
+Con mura talmente potenti
+
+Che se ci vai a vivere dentro
+
+Non potrà colpirti più niente
+
+Non potrà colpirti più niente
+
+## LIVIDI SUI GOMITI Lyrics
+
+[Testo di "LIVIDI SUI GOMITI"]
+
+[Strofa 1]
+
+"Calmati", ti ho detto, "Guardami"
+
+È finito il tempo di nascondersi dietro quegli angoli
+
+Adesso dimmi dove corri e perché ansimi
+
+Non l'hai mai visto chi ha ballato coi fottuti diavoli
+
+Chi è cresciuto con sogni forti e mani fragili
+
+Chi è stato spinto nella fossa, schiacciato ai margini
+
+Coperto d'oro e poi trafitto, la bella Kahlo Frida
+
+Davanti a tutti stavo zitto e invece adesso guardami
+
+[Pre-Ritornello]
+
+Quindi tu resta con il tuo gruppo
+
+Striscia, prega, confonditi
+
+A noi il coraggio non ci manca, siamo impavidi
+
+Siamo cresciuti con i lividi sui gomiti
+
+Non ce ne frega un cazzo di te
+
+E del tuo gruppo con cui mangi, strisci, preghi, vomiti
+
+A noi il coraggio non ci manca, siamo impavidi
+
+Siamo cresciuti con i lividi sui gomiti
+
+Non ce ne frega un cazzo di te
+
+[Ritornello]
+
+E del tuo gruppo con cui mangi, strisci, preghi, vomiti
+
+A noi il coraggio non ci manca, siamo impavidi
+
+Siamo cresciuti con i lividi sui gomiti
+
+Non ce ne frega un cazzo
+
+[Strofa 2]
+
+E se vuoi sapere la mia storia siediti ed ascolta
+
+Dura una manciata di secondi quindi adesso contali
+
+Voler brillare aver paura e tutti gli altri complici
+
+Della paura di brillare che abbiamo da giovani
+
+È una bellissima morale ma da mezzi uomini
+
+Una cultura secolare ma di stereotipi
+
+Disprezza chi ha meno di te e quelli più in alto lodali
+
+Onora tua madre e tuo padre ma da dietro sputagli
+
+Però mi resta la mia strada, gli sguardi, tre amici non codardi
+
+E se il mondo l'ha capito adesso inizierà a guardarci
+
+E sono tanti gli stracci che ho preso senza lamentarmi
+
+Io sono zero, ma lo zero piscia in testa a te e il tuo gruppo
+
+[Pre-Ritornello]
+
+Striscia, prega, confonditi
+
+A noi il coraggio non ci manca, siamo impavidi
+
+Siamo cresciuti con i lividi sui gomiti
+
+Non ce ne frega un cazzo di te
+
+E del tuo gruppo con cui mangi, strisci, preghi, vomiti
+
+A noi il coraggio non ci manca, siamo impavidi
+
+Siamo cresciuti con i lividi sui gomiti
+
+Non ce ne frega un cazzo di te
+
+[Outro]
+
+E del tuo gruppo con cui mangi
+
+Sì, del tuo gruppo con cui mangi
+
+Sì, del tuo gruppo con cui mangi
+
+## IN NOME DEL PADRE Lyrics
+
+[Testo di "IN NOME DEL PADRE"]
+
+[Strofa 1]
+
+Ci ho provato a liberarmi da quel senso di indesiderato
+
+Ed ho fallito mille volte però ci ho provato
+
+Ho messo pesi sulla schiena e poi sono caduto
+
+Ho perso sangue dal naso e mi sono rialzato
+
+Però a vent'anni già mi chiedo se son troppo stanco
+
+Se quello che mi serve è quello che ho desiderato
+
+Se un giorno riuscirò davvero ad esser realizzato
+
+E sono spaventato
+
+[Pre-Ritornello 1]
+
+E tu stammi ad un palmo dal culo, testa di cazzo
+
+Ho scelto sempre di essere uno ed uno soltanto
+
+Toccarе il cielo e ritornare a mangiarе l'asfalto
+
+A volte ho pianto, ma non è questo che mi ferma
+
+Voglio il mio riscatto
+
+Tu stammi ad un palmo dal culo, testa di cazzo
+
+Ho scelto di essere uno ed uno soltanto
+
+Toccare il cielo e tornare a mangiare asfalto
+
+In nome del padre, del figlio e spirito santo
+
+[Ritornello]
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+[Strofa 2]
+
+Fate spazio, fatene tanto
+
+Che adesso non mi basta il mondo, non mi basta il palco
+
+Mi hanno chiamato in tutti i modi, anche codardo
+
+Son morto più di cento volte, mai morto invano
+
+Tu dimmi che stai nascondendo, cos'hai nel palmo?
+
+Perché dopo che mi hai guardato mi dai del pazzo?
+
+Se pensi che sono cambiato, che sono un altro
+
+Non hai capito un cazzo di niente, quindi che cazzo mi guardi?
+
+[Pre-Ritornello 2]
+
+Tu stammi ad un palmo dal culo, te lo ripeto
+
+Ho scelto di guardare più avanti di ciò che vedo
+
+Il mio passato non me lo scordo, non lo rinnego
+
+Colpisci forte, tanto non cado, rimango in piedi
+
+Tu stammi ad un palmo dal culo, testa di cazzo
+
+Ho scelto di essere uno ed uno soltanto
+
+Toccare il cielo e tornare a mangiare asfalto
+
+In nome del padre, del figlio e spirito santo
+
+[Ritornello]
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+Ah, ah, ah, ehi
+
+In nome del padre, del figlio, spirito santo
+
+[Outro]
+
+Per quello che ho vissuto, il tempo che ho buttato
+
+Pensavi che fossi morto e poi sono rinato
+
+Di cos'è fare l'artista te ne hanno mai parlato?
+
+Di tutto quello che ho perso, che ho sacrificato
+
+Di non avere voce, restare senza fiato
+
+Di avere mille persone che aspettano un tuo sbaglio
+
+Sapere che ogni passo falso verrà condannato
+
+Mi chiedo spesso se son stato solo fortunato
+
+E non mi passa, nuoto nella mia rabbia
+
+Spero che il mio passato se lo porti via la carta
+
+È matto, questo è matto, chiedi perché lo faccio
+
+In nome del padre, del figlio, spirito santo
+
+## LA PAURA DEL BUIO Lyrics
+
+[Testo di "LA PAURA DEL BUIO"]
+
+[Strofa 1]
+
+Sento mille voci che parlano, ma non sento che dicono
+
+Mi guardo allo specchio ed immagino di essere al circo
+
+Su una giostra di felicità e non voglio andare giù
+
+Anche se non mi diverto più
+
+A volte mi sento un miracolo e a volte ridicolo
+
+Poi perdo la testa in un attimo, ma non ditelo in giro
+
+Son fuori di me, la la la
+
+Son fuori di me, la la la
+
+[Ritornello]
+
+E quindi prendimi, mordimi, toglimi tutto
+
+Continuerò a non avere la paura del buio
+
+Ed anche quando sarò qui per terra distrutto
+
+Continuerò a non avere la paura del buio
+
+E quindi sputami, strappami i vestiti di dosso
+
+Continuerò a non avere la paura del buio
+
+E quindi comprami, vendimi, fammi di tutto
+
+Sei soltanto tu ad avere la paura del buio
+
+Noi no, noi no, io no, io
+
+[Strofa 2]
+
+Preparo il mio valzer col diavolo
+
+Da quando son piccolo
+
+Puoi darmi del pazzo, bastardo, malato
+
+Io ci brinderò sopra col vino
+
+Sì, brinderò a te, la la la
+
+Sì, brinderò a te
+
+Perché so che anche se mi hai odiato
+
+Canterai il mio nome
+
+[Ritornello]
+
+E quindi prendimi, mordimi, toglimi tutto
+
+Continuerò a non avere la paura del buio
+
+Ed anche quando sarò qui per terra distrutto
+
+Continuerò a non avere la paura del buio
+
+E quindi sputami, strappami i vestiti di dosso
+
+Continuerò a non avere la paura del buio
+
+E quindi comprami, vendimi, fammi di tutto
+
+Sei soltanto tu ad avere la paura del buio
+
+Noi no
+
+[Bridge]
+
+Tu tornerai da me con l'aria stanca
+
+Porterai dei tagli sulle braccia
+
+Sei rimasta sola sulla barca
+
+Riconosco i segni sulla faccia
+
+[Outro]
+
+Tu tornerai da me con le mani giunte
+
+Tornerai da me
+
+Tornerai da me con le mani giunte
+
+Tornerai da me
+
+Tornerai da me con le mani giunte
+
+Tornerai da me
+
+## VENT'ANNI Lyrics
+
+[Testo di "VENT'ANNI"]
+
+[Strofa 1]
+
+Io c'ho vent'anni
+
+Perciò non ti stupire se dal niente faccio drammi
+
+Ho paura di lasciare al mondo soltanto denaro
+
+Che il mio nome scompaia tra quelli di tutti gli altri
+
+Ma c'ho solo vent'anni
+
+E già chiedo perdono per gli sbagli che ho commesso
+
+Ma la strada è più dura quando stai puntando al cielo
+
+Quindi scegli le cose che son davvero importanti
+
+Scegli amore o diamanti, demoni o santi
+
+[Pre-Ritornello]
+
+E sarai pronto per lottare
+
+Oppure andrai via
+
+E darai la colpa agli altri o la colpa sarà tua
+
+Correrai diretto al sole oppure verso il buio
+
+Sarai pronto per lottare
+
+Per cercare sempre la libertà
+
+[Ritornello]
+
+E andarе un passo più avanti
+
+Essere semprе vero
+
+Spiegare cos'è il colore
+
+A chi vede bianco e nero
+
+E andare un passo più avanti
+
+Essere sempre vero
+
+E prometti domani a tutti parlerai di me
+
+E anche se ho solo vent'anni dovrò correre
+
+Mh
+
+[Strofa 3]
+
+Io c'ho vent'anni
+
+E non mi frega un cazzo
+
+C'ho zero da dimostrarvi
+
+Non sono come voi che date l'anima al denaro
+
+Dagli occhi di chi è puro siete soltanto codardi
+
+[Ritornello]
+
+E andare un passo più avanti
+
+Essere sempre vero
+
+Spiegare cos'è il colore
+
+A chi vede bianco e nero
+
+E andare un passo più avanti
+
+Essere sempre vero
+
+E prometti domani a tutti parlerai di me
+
+E anche se ho solo vent'anni dovrò correre
+
+Per me
+
+[Strumentale]
+
+[Ponte]
+
+E sarai pronto per lottare
+
+Oppure andrai via
+
+E darai la colpa agli altri o la colpa sarà tua
+
+Correrai diretto al sole oppure verso il buio
+
+Sarai pronto per lottare
+
+Per cercare sempre la libertà
+
+[Outro]
+
+E c'hai vent'anni
+
+Ti sto scrivendo adesso prima che sia troppo tardi
+
+E farà male il dubbio di non essere nessuno
+
+Sarai qualcuno se resterai diverso dagli altri
+
+Ma c'hai solo vent'anni
+
+## LA FINE
+
+[Testo di "LA FINE"]
+
+[Strofa 1]
+
+Mi sveglio ed è passato un anno
+
+Ed io che sono ancora stanco
+
+Con la valigia sotto braccio
+
+Non so nemmeno dove vado
+
+E vago come se fossi un pazzo
+
+Mordo ancora le mie manette
+
+Ho girato il mondo, ho visto gente
+
+No, non è come lo immaginavo
+
+Io ho schiacciato bene la testa nel fango
+
+Ho mangiato male per restare in vita
+
+Ho sentito gente chiamarmi bastardo
+
+E ancora corro cercando l'uscita
+
+Ma l'unico modo è staccarsi dal branco
+
+Scavare finché non senti le dita
+
+Se tutti quanti ora ti stanno amando
+
+Sappi che non è l'inizio, è la fine
+
+[Ritornello]
+
+Sappi che non è l'inizio, è la fine
+
+Anche la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restarе a marcire
+
+Sappi che non è l'inizio, è la fine
+
+Anchе la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restare a marcire
+
+[Strofa 2]
+
+Hai idea di come ci si sente?
+
+Avere il mondo fra le mani
+
+Come contasse veramente
+
+Come se fossimo speciali
+
+E invece ci rimane niente
+
+Un pugno di mosche tra le mani
+
+Nemmeno tutto l'oro al mondo
+
+Potrà comprare ciò che lasci
+
+Mi hanno trattato come un santo, poi giudicato
+
+Guardato male come fossi pregiudicato
+
+Quando ritroveranno il corpo del mio reato
+
+Si accorgeranno troppo tardi di aver sbagliato
+
+Però io invece non mi fermo, continuo
+
+Voglio vivere correndo sopra un filo
+
+Il giorno che non avrò più un motivo
+
+Saprò che non è l'inizio, è la fine
+
+[Ritornello]
+
+Sappi che non è l'inizio, è la fine
+
+Anche la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restare a marcire
+
+Sappi che non è l'inizio, è la fine
+
+Anche la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restare a marcire
+
+[Bridge]
+
+Cercavo soltanto un pretesto per dire questo
+
+Per smettere di andare dove tira il vento
+
+Trovare luce prima che tutto sia spento
+
+E se non mi amerà nessuno sarà lo stesso
+
+Cercavo soltanto un pretesto per dire questo
+
+Per smettere di andare dove tira il vento
+
+Trovare luce prima che tutto sia spento
+
+E se non mi amerà nessuno sarà lo stesso
+
+[Ritornello]
+
+Sappi che non è l'inizio, è la fine
+
+Anche la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restare a marcire
+
+Sappi che non è l'inizio, è la fine
+
+Anche la rosa più bella ha le spine
+
+Forse l'unica risposta è partire
+
+O restare a marcire
+
+## IL DONO DELLA VITA
+
+[Testo di "IL DONO DELLA VITA"]
+
+[Strofa 1]
+
+Stronzi, vi vedo, siete bianchi in faccia
+
+Le malelingue sono andate via
+
+Il suono della tua brutta risata
+
+Mi ha aperto il passo per la retta via
+
+E la tua mano era sempre puntata
+
+Ma mai per aiutare quella mia
+
+E adesso guarda mentre volo in alto
+
+E tocco il sole, ma non cado mica io
+
+[Ritornello]
+
+Respiro aria pulita
+
+Che alimenta il fuoco dentro di me
+
+E lascio che mi uccida
+
+Io rinasco dalla mia cenere
+
+[Strofa 2]
+
+Per non vedere più mia madre stanca
+
+Ridarle indietro il dono della vita
+
+Spaccarmi schiena, mani, gambe e braccia
+
+Essere fiero della mia fatica
+
+E pure Dio era girato di spalle
+
+Mentre gli dicevo che stavo cadendo
+
+Ma basta un raggio di sole, un soffio di vento
+
+Uno sguardo verso il cielo
+
+[Ritornello]
+
+Respiro aria pulita
+
+Che alimenta il fuoco dentro di me
+
+E lascio che mi uccida
+
+Io rinasco dalla mia cenere
+
+Io nasco dentro di te
+
+Io nasco dentro di te
+
+[Bridge]
+
+Sento una voce tagliente
+
+Un respiro costante
+
+Una luce che squarcia il suolo
+
+Perso nel mezzo del niente
+
+Cedono le gambe
+
+Ma il cuore mi batte ancora
+
+Una luce che squarcia il suolo
+
+Ma il cuore mi batte ancora
+
+Una luce che squarcia il suolo
+
+Ma il cuore mi batte ancora
+
+[Outro]
+
+Sento una voce tagliente
+
+Un respiro costante
+
+Una luce che squarcia il suolo
+
 # Gioventù Bruciata, Mahmood
 
 ## Soldi 
