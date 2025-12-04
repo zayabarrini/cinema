@@ -2,12 +2,12 @@
 
 # Sumário
 
-All of us Strangers
-Moonlight
-Anatomy of a fall
-Maestro
-Past Lives
-Basic Conversation
+- All of us Strangers
+- Moonlight
+- Anatomy of a fall
+- Maestro
+- Past Lives
+- Basic Conversation
 
 
 ## All of us Strangers

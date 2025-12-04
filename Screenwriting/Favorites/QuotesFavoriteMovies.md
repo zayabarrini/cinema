@@ -1,21 +1,39 @@
 Sumário
 
-HTGAWM
-Doubt
-The Hours
-Anatomy of a fall
-The Banshees of Inesherin
-Past Lives
-V for Vendetta
-The big bang theory
-The talented Mr. Ripley
-Little women
-The social network
-The boys in the band ✔️
-Dead poets society
-A home at the end of the world
-The Prime of Miss Jean Brodie ✔️
-Call me by your name 
+- HTGAWM
+- Doubt
+- The Hours
+- Anatomy of a fall
+- The Banshees of Inesherin
+- Past Lives
+- V for Vendetta
+- The big bang theory
+- The talented Mr. Ripley
+- Little women
+- The social network
+- The boys in the band ✔️
+- Dead poets society
+- A home at the end of the world
+- The Prime of Miss Jean Brodie ✔️
+- Call me by your name 
+- Maurice
+
+Actresses:
+- Viola Davis, Meryl Streep, Julianne Moore, Nicole Kidman, Vivien Leigh, Kathrine Hepburn
+- Colin Farrel
+- Sandra Hüller
+- Hugo Weaving, Natalie Portman
+- Jim Parsons
+- Jude Law, Matt Daimon
+- Saoirse Ronan, Emma Watson
+- Jesse Eisenberg, Rooney Mara
+- Robin Williams, Ethan Hawke, Robert Sean Leonard
+- Maggie Smith
+- Armie Hammer, Timothée Chalamet
+- Hugh Grant, James Wilby, Rupert Graves
+
+Directors:
+Stephen Daldry, Celine Song, Justine Triet, Martin McDonagh, Charlotte Wells, Terence Davies, Céline Sciamma, Pedro Almodóvar, James Ivory, David Lowery, Xavier Dolan, Terence Davies, David Fincher, Peter Weir, Ronald Neame, Luca Guadagnino, James McTeigue, Peter Nowalk
 
 # HTGAWM
 All men or persons who stand bound by recognizance or who otherwise have business before this court may now appear and they shall be heard.
@@ -129,8 +147,7 @@ Did Lila ever share any details about this man?
 Just that he was married.
 She called him Mr. Darcy.
 LAUREL:
-Thank you for picking me,
-making me Frank's girl.
+Thank you for picking me, making me Frank's girl.
 I have a boyfriend.
 I know how you got
 Rebecca's confession tape.
@@ -5060,8 +5077,7 @@ Six inches is perfectly adequate.
 More is vulgar.
 Forsooth, one should have... an innate sense of these things, of what is suitable.
 For those who like that sort of thing, that is the sort of thing they like.
-That is what I am for,
-Mary McGregor... to provide you with interests.
+That is what I am for, Mary McGregor... to provide you with interests.
 Little girls, I am in the business of putting old heads on young shoulders.
 All my pupils are the crème de la crème.
 Give me a girl at an impressionable age... and she is mine for life.
@@ -5360,3 +5376,204 @@ CALL ME BY YOUR NAME | MY COMFORT SCENE
 (ELIO shakes his head.)
 “Then let me say one more thing. It will clear the air. I may have come close, but I never had what you two had. Something always held me back or stood in the way. How you live your life is your business. Remember, our hearts and our bodies are given to us only once. And before you know it, your heart is worn out, and, as for your body, there comes a point when no one looks at it, much less wants to come near it. Right now there's sorrow. Pain. Don't kill it and with it the joy you've felt.”
 “We may never speak about this again. But I hope you'll never hold it against me that we did. I will have been a terrible father if, one day, you'd want to speak to me and felt that the door was shut, or not sufficiently open.”
+
+# Maurice
+## Alec and Maurice
+I know what you're trying to do.
+You'd do better to settle this, I can tell you.
+You've had your fun.
+Now you've gotta pay up.
+I'll leave you to think it over.
+Surely, surely you're an old boy at Mr. Abrahams's school.
+Now, now, don't, don't tell me your name.
+I, I, I want to remember.
+I shall remember.
+Um, you're not Colgan.
+You're not Smith, I know.
+You're, you're Wimbleby, yes?
+My name's Scudder.
+Isn't, I'm Mr. Scudder.
+And I've got a serious charge to bring against this gentleman.
+Yes, awfully serious.
+My goodness me.
+I am really most, most frightfully sorry.
+I, I, I do beg your pardon.
+It's seldom I make a mistake.
+Well, remarkable place, this, isn't it?
+Not just a collection of relics.
+It's a place which could stimulate the minds of the--
+Less fortunate?
+Well, quite so.
+To ask questions which one, which one no doubt inadequately tries to--
+Ben, we're waiting.
+Oh uh, yes, quite so.
+I, uh, I, I, excuse me.
+Extraordinary thing.
+I shan't trouble you any further.
+Where are you going with your serious charge?
+I don't know what came over me.
+You blackmailed me.
+No, sir, no
+You didn't?
+Maurice, listen.
+Maurice am I?
+Well, you called me Alec.
+I'm as good as you.
+I don't find you are.
+By God, if you'd split on me to Ducie,
+I'd have broken you.
+Might have cost me hundreds, but I've got them.
+But the police always back my sort against yours.
+As good as I?
+Come outside.
+It rained even harder than this at the boathouse.
+It was even colder.
+Why did you not come?
+I was frightened.
+And you let yourself get afraid of me.
+That's why we're trying to down each other.
+I wouldn't take a penny from you.
+I don't want to hurt your little finger.
+Come on.
+Let's give over talking, here.
+Stop with me.
+Sleep the night with me.
+I, I can't.
+I've got an engagement.
+A formal business dinner.
+It's my job.
+Meet me another evening instead.
+I can't come to London again.
+My father or Mr. Borenius will be passing remarks.
+What does it matter if they do?
+What does your engagement matter?
+First time I seed you, I thought,
+"I wish I had that one."
+And it is so.
+The only good thing to happen to me at Pendersleigh.
+"Scudder, do this.
+"Scudder, do that."
+The old lady, she says,
+"Oh, would you most kindly
+"of your goodness post this for me.
+"What's your name?
+"What's your name?"
+Every day for bloody 18 months
+I went to that front porch for orders and the old bitch doesn't even know my name.
+I said to her, "What's your name?
+"Fuck your name!"
+Nearly did, too.
+Wish I had.
+And you, too grand to come to the boathouse.
+"Haw, my man.
+"Five shillings not good enough for you, eh?"
+You've no idea how you nearly missed gettin' me.
+Boathouse was the place
+I always fancied.
+I still got the key now, matter of fact.
+We'll meet in your boathouse yet.
+No, we won't.
+You'll remember that at any rate.
+Tomorrow's Thursday.
+Friday's packing.
+Saturday, Southampton, so it's good-bye, old England.
+You mean that you and I shan't meet again after now?
+That's right.
+You got it quite correct.
+Stay with me.
+Stay, miss my boat?
+You daft?
+Of all the bloody rubbish.
+Order me about again, you would.
+It's a chance in a thousand we met.
+You know it.
+Why don't you stay?
+Stay, with you?
+How, and where?
+With your ma?
+Oh, yeah.
+What would she say if she saw me?
+All rough and ugly the way I am.
+My people wouldn't take to you one bit.
+And I don't blame them either.
+And how would you run your job,
+I'd like to know?
+I shall chuck it.
+Your job in the city, what gives you money and position?
+You talk like a man who's never had to earn his living.
+You can do anything, once you know what it is.
+We can live without money, without people.
+We can live without position.
+We're not fools.
+We're both strong.
+There'll be someplace we could go.
+Wouldn't work, Maurice.
+Be the ruin of us both.
+Can't you see?
+Well, I'm off.
+Pity we ever met, really, if you think about it.
+You paid for this room in advance, didn't you?
+I mean, they won't stop me downstairs or anything?
+You'll be all right.
+## Now we shan't never be parted.
+Clive.
+Don't tell Anne I'm here.
+I've only a few minutes.
+I mean, look here, man, that's fantastic.
+She'll be furious if you don't stay the night.
+Maurice, I hope nothing's wrong.
+Pretty well everything.
+You'd think so.
+Very well, I'm at your service.
+My advice, though, is to sleep here tonight and ask Anne in the morning.
+Where a woman is in question, it's always better to ask another woman, and particularly if she has
+Anne's almost uncanny insight.
+I'm not here to see Anne.
+Or you, Clive.
+It's miles worse for you.
+I'm in love with Alec Scudder.
+What a grotesque announcement.
+Most grotesque.
+But I felt I ought to tell you.
+Maurice,
+Maurice, we did everything we could when you and I thrashed out the subject.
+When you brought yourself to kiss my hand.
+Don't allude to that.
+Come in here.
+I'm more sorry for you than I can possibly say.
+And I do, do beg you to resist the return of this obsession.
+I don't need advice.
+I'm flesh and blood, Clive, if you'll condescend to such low things.
+I've shared with Alec.
+Shared, shared what?
+Everything.
+Alec slept with me in the Russet Room, when you and Anne were away.
+Oh, good God.
+Also in town.
+The sole excuse for any relationship between two men is that it remain purely platonic.
+Surely we agreed that.
+I don't know.
+I've come to tell you what I did.
+Well, Alec, Scudder, is in point of fact no longer in my service.
+In fact, he's no longer in England.
+He sailed for Buenos Aires this very day.
+He didn't.
+He sacrificed his career for my sake, without a guarantee.
+I don't know whether that's platonic of him or not, but it's what he did.
+Scudder missed his boat?
+Maurice, you're going mad.
+May I ask if you intend to pursue--
+No, no, you may not ask.
+I'll tell you everything up to this minute.
+Not a word beyond.
+Alec?
+Alec.
+So you got the wire, then?
+What wire?
+The wire I sent to your house, telling you...
+Oh, sorry.
+I'm a bit tired, what with one thing and another.
+No, telling you to come here, to the boathouse at
+Pendersleigh without fail.
+Now we shan't never be parted.
+It's finished.
