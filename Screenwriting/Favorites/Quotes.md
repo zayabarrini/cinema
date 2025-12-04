@@ -101,3 +101,67 @@ You destroyed lives, Senator.
 Admit it.
 Admit you killed Trisha Stanley and had my client, David Allen, set up for her murder.
 
+Listen to me, you little shit.
+All he's ever done is worship you, and all you've ever done is walk out on him.
+Don't you dare speak to him like that, you hear me?
+You don't know what you're talking about.
+You don't know the first thing about worship.
+Do you know?
+Do you have any idea how much I...
+Listen, you guys--
+How much
+I wanted you?
+How much I loved you, you asshole?
+You know?
+And then, what an idiot I am, how pathetic is that?
+Me in love with you.
+And then Bobby comes along, and I fall in love with this one, and then I think that we...
+That the three of us, maybe we could...
+
+
+I was so in love with you.
+I was in love with you too.
+But Bobby is the love of your life.
+You know it's not that simple.
+It's just that...
+I seem to have ended up...
+Come to bed.
+I can't sleep.
+Do you want me to get up?
+No.
+Go back to sleep.
+Good night, crazy mama.
+It'll all seem better in the morning.
+
+Come here.
+I got a surprise for you.
+It's windowpane.
+For clarity of vision.
+Cin-cin.
+[]
+She's my favorite.
+Yeah, she's a beauty.
+How you feeling?
+Okay.
+Tell me when you feel more than okay.
+I will.
+Come on.
+I got something to show you.
+It's a good place to come when things get a little... tilty back home.
+My son... this is your inheritance.
+[WIND WHISTLING]
+Whoa.
+There's nothing to be afraid of in this whole pretty world, Bobby.
+I'm here.
+Wow.
+All's well, yes?
+This is where we live.
+I can see our house from here!
+Come on down, man.
+I can see the school too!
+Come on.
+I can see tomorrow from here!
+How's it look?
+Pretty.
+Big, pretty world, man.
+Everything can happen.

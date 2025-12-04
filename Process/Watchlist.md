@@ -615,6 +615,21 @@ https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20 | Se7en (1995) - IMDb
 https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21 | It's a Wonderful Life (1946) - IMDb
 https://www.imdb.com/title/tt0102926/?ref_=chttp_t_22 | The Silence of the Lambs (1991) - IMDb
 
+The Shawshank Redemption (1994) 
+The Godfather (1972) 
+The Dark Knight (2008) 
+The Godfather Part II (1974) 
+Schindler's List (1993) 
+Pulp Fiction (1994) 
+Forrest Gump (1994) 
+Fight Club (1999) 
+Inception (2010) 
+Star Wars: Episode V - The Empire Strikes Back (1980) 
+Goodfellas (1990) 
+Se7en (1995) 
+It's a Wonderful Life (1946) 
+The Silence of the Lambs (1991) 
+
 https://thepiratebay10.xyz/search/The%20Shawshank%20Redemption%20%281994%29%20
 https://thepiratebay10.xyz/search/The%20Godfather%20%281972%29%20
 https://thepiratebay10.xyz/search/The%20Dark%20Knight%20%282008%29%20
