@@ -2504,3 +2504,98 @@ https://www.imdb.com/title/tt1128075/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Love%25
 https://www.imdb.com/title/tt0123948/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Cure | Cure (1997) - IMDb
 https://www.imdb.com/title/tt0058625/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Women%2520in%2520the%2520Dunes | Woman in the Dunes (1964) - IMDb
 https://www.imdb.com/title/tt0057565/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_High%2520%2526%2520Low | High and Low (1963) - IMDb
+
+# International Film Submissions, Oscar 2026
+
+Luna Park
+Belén
+My Armenian Phantoms
+The Wolves Always Come at Night
+Peacock
+Taghiyev: Oil
+A House Named Shahana
+Young Mothers
+I, the Song
+The Southern House
+Blum: Masters of Their Own Destiny
+The Secret Agent
+Tarika
+Tenement
+The Things You Kill
+The Mysterious Gaze of the Flamingo
+Dead to Rights
+A Poet
+The Altar Boy, the Priest and the Gardener
+Fiume o morte!
+I'm Not Everything I Want to Be
+Mr. Nobody Against Putin
+Pepe
+Chuzalongo
+Happy Birthday
+Rolling Papers
+100 Litres of Gold
+It Was Just an Accident
+Panopticon
+Sound of Falling
+Arcadia
+Walls – Akinni Inuk
+Kidnapping Inc.
+The Last Dance
+Orphan
+The Love That Remains
+Homebound
+Sore: A Wife from the Future
+Cause of Death: Unknown
+The President's Cake
+Sanatorium
+The Sea
+Familia
+Kokuho
+All That's Left of You
+Cadet
+Black Red Yellow
+Dog of God
+A Sad and Beautiful World
+The Southern Chronicles
+Breathing Underwater
+Disco Afrika: A Malagasy Story
+Pavane for an Infant
+We Shall Not Be Moved
+Silent City Driver
+The Tower of Strength
+Calle Málaga
+Anjila
+Reedland
+The Tale of Silyan
+Sentimental Value
+Palestine 36
+Beloved Tropic
+Papa Buka
+Under the Flags, the Sun
+Kinra
+Magellan
+Franz
+Banzo
+Traffic
+Hijra
+Demba
+Sun Never Again
+Stranger Eyes
+Father
+Little Trouble Girls
+The Heart Is a Muscle
+No Other Choice
+Sirāt
+Eagles of the Republic
+Late Shift
+Left-Handed Girl
+Black Rabbit, White Rabbit
+A Useful Ghost
+The Voice of Hind Rajab
+One of Those Days When Hemme Dies
+Kimote
+2000 Meters to Andriivka
+My Father's Shadow
+Don't You Let Me Go
+Alí Primera 
+Red Rain
