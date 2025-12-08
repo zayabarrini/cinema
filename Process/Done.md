@@ -355,3 +355,44 @@ Done
  2025-Ne-Zha-2
  2025-The-Lost-Bus
 e
+
+# 08/12/25
+ '1955 East of Eden'
+ 1986-The-Terrorizers-(Edward-Yang)
+ 1993-La-Estrategia-del-caracol
+ '1999 Old Man and The Sea'
+ 2001-The-Royal-Tenenbaums
+ 2007-4-Months-3-Weeks-And-2-Days
+ 2008-The-Chaser-Chugyeogja-ko
+ 2009-Fantastic-Mr-Fox
+ 2012-Moonrise-Kingdom
+ 2015-Embrace-of-the-Serpent
+ 2015-Right-Now-Wrong-Then-ko
+ '2015 Ixcanul'
+ 2018-Birds-Of-Passage
+ 2019-Gully-Boy-hi
+ 2019-Honeyland
+ 2019-Lunana-A-Yak-In-The-Classroom-
+ '2019 Little Women'
+ '2019 Marriage Story'
+ "2020 Ma Rainey's Black Bottom"
+ 2021-The-French-Dispatch
+ '2021 Drive My Car'
+ '2022 Nice View'
+ '2023 The-Wandering-Earth-II'
+ 2025-Ne-Zha-2
+ 2025-The-Lost-Bus
+ '2025 2000 Meters to Andriivka'
+ '2025 Frankenstein'
+ '2025 If I Had Legs Id Kick You'
+ '2025 It Was Just an Accident'
+ '2025 Jay Kelly'
+ '2025 Left Handed Girl'
+ '2025 No Other Choice'
+ '2025 Train Dreams'
+ '2025 Wake Up Dead Man A Knives Out Mystery'
+ 'House Of Flying Daggers 2004 720p BrRip x264 Dual audio English Hindi GOPI SAHI PDR.mkv'
+ 'The Lord of the Rings The Fellowship of the Ring  EXTENDED (2001)'
+ 'The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]'
+ 'The Lord of the Rings The Two Towers (2002) [1080p]'
+ 'Titanic (1997) [1080p]'
