@@ -359,6 +359,7 @@ e
 # 08/12/25
  '1930 The Divorcee'
  '1937 The Good Earth'
+ '1954 On the Waterfront'
  '1955 East of Eden'
  '1955 The Rose Tattoo'
  '1957 The Three Faces of Eve'
@@ -378,6 +379,7 @@ e
  2015-Right-Now-Wrong-Then-ko
  '2015 Ixcanul'
  2018-Birds-Of-Passage
+ '2018 Tully'
  2019-Gully-Boy-hi
  2019-Honeyland
  2019-Lunana-A-Yak-In-The-Classroom-
@@ -408,20 +410,12 @@ e
 
 
 
- '1933 Morning Glory'
- '1940 Waterloo Bridge'
- '1954 On the Waterfront'
- '1954 Senso'
- '1964 The Night Of The Iguana'
- '1967 Kidnapping Caucasian Style'
- '2018 Sobibor'
- '2018 Tully'
- 'Prisoner of the Mountains'
-
 Russian
  '1964 Hamlet'
  '1965 Shadows of Forgotten Ancestors'
  '1966 Andrei Rublev'
+ '1966 Prisoner of the Mountains'
+ '1967 Kidnapping Caucasian Style'
  '1972 Solaris'
  '1977 Mimino - LS'
  '1979 Siberiade'
@@ -434,18 +428,25 @@ Russian
  'Barber of Siberia'
 
 Interesting
+ '1933 Morning Glory'
+ '1940 Waterloo Bridge'
  '1941 Suspicion'
+ '1954 Senso'
  '1960 Letter Never Sent'
  '1962 Ivanovo Detstvo'
+ '1964 The Night Of The Iguana'
  '1977 The Ascent'
  1992-Baraka
  '2006 Curse Of The Golden Flower'
  '2007 Izgnanie'
  '2009 The Young Victoria'
  2011-Samsara
+ '2011 The Flowers Of War (2011)'
  '2013 Gloria'
  '2013 Omar'
+ '2016 Aquarius'
+ '2018 Sobibor'
  '2021 Unclenching the Fists'
- 'Aquarius 2016'
- 'The Flowers Of War (2011)'
+ '2025 Panopticon'
+
 
