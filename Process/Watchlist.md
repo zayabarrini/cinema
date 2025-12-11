@@ -673,3 +673,9 @@ Great Expectations (1946)
 Brief Encounter (1945) 
 The Way Back (2010) 
 Witness (1985) 
+
+# Oscar 2026
+The Rider (2017) 
+Hamnet (2025) 
+Oslo, August 31st (2011) 
+Sentimental Value

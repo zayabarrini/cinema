@@ -357,96 +357,96 @@ Done
 e
 
 # 08/12/25
- '1930 The Divorcee'
- '1937 The Good Earth'
- '1954 On the Waterfront'
- '1955 East of Eden'
- '1955 The Rose Tattoo'
- '1957 The Three Faces of Eve'
- '1973 A Touch Of Class'
- "1974 Alice Doesn't live here anymore"
- '1978 Coming Home'
- '1984 Places in the Heart'
- 1986-The-Terrorizers-(Edward-Yang)
- 1993-La-Estrategia-del-caracol
- '1999 Old Man and The Sea'
- 2001-The-Royal-Tenenbaums
- 2007-4-Months-3-Weeks-And-2-Days
- 2008-The-Chaser-Chugyeogja-ko
- 2009-Fantastic-Mr-Fox
- 2012-Moonrise-Kingdom
- 2015-Embrace-of-the-Serpent
- 2015-Right-Now-Wrong-Then-ko
- '2015 Ixcanul'
- 2018-Birds-Of-Passage
- '2018 Tully'
- 2019-Gully-Boy-hi
- 2019-Honeyland
- 2019-Lunana-A-Yak-In-The-Classroom-
- '2019 Little Women'
- '2019 Marriage Story'
- "2020 Ma Rainey's Black Bottom"
- 2021-The-French-Dispatch
- '2021 Drive My Car'
- '2022 Nice View'
- '2022 The Lost King'
- '2023 The-Wandering-Earth-II'
- 2025-Ne-Zha-2
- 2025-The-Lost-Bus
- '2025 2000 Meters to Andriivka'
- '2025 Frankenstein'
- '2025 If I Had Legs Id Kick You'
- '2025 It Was Just an Accident'
- '2025 Jay Kelly'
- '2025 Left Handed Girl'
- '2025 No Other Choice'
- '2025 Train Dreams'
- '2025 Wake Up Dead Man A Knives Out Mystery'
- 'House Of Flying Daggers 2004 720p BrRip x264 Dual audio English Hindi GOPI SAHI PDR.mkv'
- 'The Lord of the Rings The Fellowship of the Ring  EXTENDED (2001)'
- 'The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]'
- 'The Lord of the Rings The Two Towers (2002) [1080p]'
- 'Titanic (1997) [1080p]'
+1930 The Divorcee
+1937 The Good Earth
+1954 On the Waterfront
+1955 East of Eden
+1955 The Rose Tattoo
+1957 The Three Faces of Eve
+1973 A Touch Of Class
+1974 Alice Doesnt live here anymore
+1978 Coming Home
+1984 Places in the Heart
+1986-The-Terrorizers-(Edward-Yang)
+1993-La-Estrategia-del-caracol
+1999 Old Man and The Sea
+2001-The-Royal-Tenenbaums
+2007-4-Months-3-Weeks-And-2-Days
+2008-The-Chaser-Chugyeogja-ko
+2009-Fantastic-Mr-Fox
+2012-Moonrise-Kingdom
+2015-Embrace-of-the-Serpent
+2015-Right-Now-Wrong-Then-ko
+2015 Ixcanul
+2018-Birds-Of-Passage
+2018 Tully
+2019-Gully-Boy-hi
+2019-Honeyland
+2019-Lunana-A-Yak-In-The-Classroom-
+2019 Little Women
+2019 Marriage Story
+2020 Ma Raineys Black Bottom
+2021-The-French-Dispatch
+2021 Drive My Car
+2022 Nice View
+2022 The Lost King
+2023 The-Wandering-Earth-II
+2025-Ne-Zha-2
+2025-The-Lost-Bus
+2025 2000 Meters to Andriivka
+2025 Frankenstein
+2025 If I Had Legs Id Kick You
+2025 It Was Just an Accident
+2025 Jay Kelly
+2025 Left Handed Girl
+2025 No Other Choice
+2025 Train Dreams
+2025 Wake Up Dead Man A Knives Out Mystery
+House Of Flying Daggers 2004 720p BrRip x264 Dual audio English Hindi GOPI SAHI PDR.mkv
+The Lord of the Rings The Fellowship of the Ring  EXTENDED (2001)
+The Lord of the Rings The Return of the King EXTENDED (2003) [1080p]
+The Lord of the Rings The Two Towers (2002) [1080p]
+Titanic (1997) [1080p]
 
 
 
 Russian
- '1964 Hamlet'
- '1965 Shadows of Forgotten Ancestors'
- '1966 Andrei Rublev'
- '1966 Prisoner of the Mountains'
- '1967 Kidnapping Caucasian Style'
- '1972 Solaris'
- '1977 Mimino - LS'
- '1979 Siberiade'
- '1999 Moloch'
- '2004 Night Watch'
- '2009 Ward.No..6'
- '2012 White Tiger'
- '2013 Stalingrad'
- '2017 Wolf Warrior 2'
- 'Barber of Siberia'
+1964 Hamlet
+1965 Shadows of Forgotten Ancestors
+1966 Andrei Rublev
+1966 Prisoner of the Mountains
+1967 Kidnapping Caucasian Style
+1972 Solaris
+1977 Mimino - LS
+1979 Siberiade
+1999 Moloch
+2004 Night Watch
+2009 Ward.No..6
+2012 White Tiger
+2013 Stalingrad
+2017 Wolf Warrior 2
+Barber of Siberia
 
 Interesting
- '1933 Morning Glory'
- '1940 Waterloo Bridge'
- '1941 Suspicion'
- '1954 Senso'
- '1960 Letter Never Sent'
- '1962 Ivanovo Detstvo'
- '1964 The Night Of The Iguana'
- '1977 The Ascent'
- 1992-Baraka
- '2006 Curse Of The Golden Flower'
- '2007 Izgnanie'
- '2009 The Young Victoria'
- 2011-Samsara
- '2011 The Flowers Of War (2011)'
- '2013 Gloria'
- '2013 Omar'
- '2016 Aquarius'
- '2018 Sobibor'
- '2021 Unclenching the Fists'
- '2025 Panopticon'
+1933 Morning Glory
+1940 Waterloo Bridge
+1941 Suspicion
+1954 Senso
+1960 Letter Never Sent
+1962 Ivanovo Detstvo
+1964 The Night Of The Iguana
+1977 The Ascent
+1992-Baraka
+2006 Curse Of The Golden Flower
+2007 Izgnanie
+2009 The Young Victoria
+2011-Samsara
+2011 The Flowers Of War (2011)
+2013 Gloria
+2013 Omar
+2016 Aquarius
+2018 Sobibor
+2021 Unclenching the Fists
+2025 Panopticon
 
 
