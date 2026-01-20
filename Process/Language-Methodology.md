@@ -40,3 +40,4 @@ NB: When using this regex pattern in combination with other patterns (using the 
 -?\[.*\] : Remove indications enclosed by square brackets that sound or music that is playing (e.g. "[PLAYFUL MUSIC]" or "-[GASPS]")
 ^[\-\(\)\.\s\p{Lu}]+$ : As an alternative to the above, filter out descriptions written in capital letters, but without the square brackets (e.g. "PLAYFUL MUSIC"). If your language has additional letters with diacritics, you feel free to add them to this list.
 [♪♬#～〜]+ : Any combination of symbols on their own that represent playing music (e.g. ♪♬♪)
+
