@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ancient Scripts Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Garamond', 'Times New Roman', serif;
+        }
+        
+        body {
+            background-color: #f5f1e6;
+            color: #3a3226;
+            line-height: 1.6;
+            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" opacity="0.05"><path d="M0,0 L100,100 M100,0 L0,100" stroke="%233a3226" stroke-width="1"/></svg>');
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 2px solid #8b7355;
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            color: #5d4c3a;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+            letter-spacing: 3px;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            font-style: italic;
+            color: #7a6852;
+            margin-top: 10px;
+        }
+        
+        .script-section {
+            background-color: rgba(255, 253, 248, 0.8);
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border: 1px solid #d4c9b8;
+        }
+        
+        .script-title {
+            font-size: 2.2rem;
+            color: #5d4c3a;
+            border-bottom: 1px solid #d4c9b8;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .script-content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            align-items: flex-start;
+        }
+        
+        .script-text {
+            flex: 1;
+            min-width: 300px;
+            font-size: 1.4rem;
+            line-height: 1.8;
+            text-align: justify;
+            padding: 20px;
+            background-color: #f9f7f2;
+            border-radius: 5px;
+            border: 1px dashed #c9bda5;
+        }
+        
+        .script-info {
+            flex: 1;
+            min-width: 300px;
+            padding: 20px;
+            background-color: #f0ebe1;
+            border-radius: 5px;
+            border-left: 4px solid #8b7355;
+        }
+        
+        .script-info h3 {
+            color: #5d4c3a;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+        
+        .script-info p {
+            margin-bottom: 15px;
+        }
+        
+        .tengwar {
+            font-family: 'Tengwar Annatar', 'Tengwar Formal', 'Tengwar', serif;
+            font-size: 1.8rem;
+            line-height: 2.2;
+        }
+        
+        .tengwar-image {
+            width: 100%;
+            max-width: 500px;
+            border: 1px solid #c9bda5;
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        .cuneiform {
+            font-family: 'Cuneiform', serif;
+            font-size: 2rem;
+        }
+        
+        .hieroglyphic {
+            font-family: 'Aegyptus', 'NewGardiner', serif;
+            font-size: 2.2rem;
+        }
+        
+        .calligraphic {
+            font-family: 'Uncial', 'Blackletter', serif;
+            font-size: 1.6rem;
+        }
+        
+        .translation {
+            font-size: 1rem;
+            font-style: italic;
+            color: #7a6852;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px dashed #c9bda5;
+        }
+        
+        .unicode-tengwar {
+            font-size: 2rem;
+            line-height: 2.5;
+            text-align: center;
+        }
+        
+        .image-placeholder {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #e6dfd1 0%, #d4c9b8 100%);
+            border: 2px dashed #8b7355;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #7a6852;
+            font-style: italic;
+            margin: 20px 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 40px;
+            border-top: 2px solid #8b7355;
+            color: #7a6852;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .script-content {
+                flex-direction: column;
+            }
+            
+            .script-text, .script-info {
+                min-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Ancient Scripts Gallery</h1>
+            <p class="subtitle">A Journey Through Timeless Writing Systems</p>
+        </header>
+        
+        <section class="script-section">
+            <h2 class="script-title">Tengwar in Sindarin Mode</h2>
+            <div class="script-content">
+                <div class="script-text">
+                    <!-- Unicode Tengwar characters (limited support) -->
+                    <div class="unicode-tengwar">
+                        &#xE000;&#xE002;&#xE003;&#xE004; &#xE005;&#xE006;&#xE007;&#xE008;
+                        <br>
+                        &#xE009;&#xE00A;&#xE00B;&#xE00C; &#xE00D;&#xE00E;&#xE00F;&#xE010;
+                        <br>
+                        &#xE011;&#xE012;&#xE013;&#xE014; &#xE015;&#xE016;&#xE017;&#xE018;
+                    </div>
+                    
+                    <div class="image-placeholder">
+                        [Image: Tengwar in Sindarin Mode - "A Elbereth Gilthoniel"]
+                    </div>
+                    
+                    <p><em>Note: Actual Tengwar rendering requires specialized fonts. Above is a symbolic representation.</em></p>
+                </div>
+                <div class="script-info">
+                    <h3>About Sindarin Tengwar</h3>
+                    <p>The Tengwar script, created by J.R.R. Tolkien, is used to write various Elvish languages including Sindarin. In the Sindarin mode, vowels are typically represented as full letters rather than diacritical marks.</p>
+                    <p>Sindarin was the everyday language of the Grey-elves in Middle-earth and became the dominant Elvish language in the Third Age.</p>
+                    <p>The text shown represents the beginning of "A Elbereth Gilthoniel," a famous Elvish hymn to the star-kindler Varda.</p>
+                    <div class="translation">
+                        Translation: "O Elbereth Starkindler, (white) glittering, slants down sparkling like a jewel..."
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="script-section">
+            <h2 class="script-title">Tengwar of Valinor (Quenya Mode)</h2>
+            <div class="script-content">
+                <div class="script-text">
+                    <!-- Unicode Tengwar characters (limited support) -->
+                    <div class="unicode-tengwar">
+                        &#xE050;&#xE051;&#xE052;&#xE053; &#xE054;&#xE055;&#xE056;&#xE057;
+                        <br>
+                        &#xE058;&#xE059;&#xE05A;&#xE05B; &#xE05C;&#xE05D;&#xE05E;&#xE05F;
+                        <br>
+                        &#xE060;&#xE061;&#xE062;&#xE063; &#xE064;&#xE065;&#xE066;&#xE067;
+                    </div>
+                    
+                    <div class="image-placeholder">
+                        [Image: Classical Tengwar in Quenya Mode - Ring Inscription]
+                    </div>
+                    
+                    <p><em>Note: Actual Tengwar rendering requires specialized fonts. Above is a symbolic representation.</em></p>
+                </div>
+                <div class="script-info">
+                    <h3>About Valinorean Tengwar</h3>
+                    <p>The Tengwar script was created by the Elf Fëanor in Valinor, the blessed realm of the Valar. The script was designed to be a flexible writing system that could be adapted to many languages.</p>
+                    <p>In Valinor, the Tengwar were primarily used to write Quenya, the language of the High-elves. The script is noted for its elegant, flowing appearance that reflects the beauty and grace of Elven culture.</p>
+                    <p>This example shows the classical Quenya mode where vowels are represented as tehtar (diacritical marks) above the preceding consonant.</p>
+                    <div class="translation">
+                        Translation: "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them."
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="script-section">
+            <h2 class="script-title">Ancient Egyptian Hieroglyphs</h2>
+            <div class="script-content">
+                <div class="script-text hieroglyphic">
+                    𓂀 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑
+                    𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑
+                    𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑 𓅓 𓂋 𓏏 𓀀 𓈖 𓆑
+                </div>
+                <div class="script-info">
+                    <h3>About Egyptian Hieroglyphs</h3>
+                    <p>Hieroglyphs were the formal writing system used in Ancient Egypt, combining logographic and alphabetic elements. Used from around 3200 BCE to 400 CE, they appear on temple walls, tombs, and papyri.</p>
+                    <p>The script includes three basic types of signs: logograms (representing words), phonograms (representing sounds), and determinatives (which clarify meaning).</p>
+                    <p>Egyptian hieroglyphs were deciphered in the 19th century following the discovery of the Rosetta Stone.</p>
+                    <div class="translation">
+                        Translation: "Words spoken by [deity name]: I have given you all life, stability, dominion like Ra eternally."
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="script-section">
+            <h2 class="script-title">Medieval Calligraphy</h2>
+            <div class="script-content">
+                <div class="script-text calligraphic">
+                    In principio creavit Deus cælum et terram. 
+                    Terra autem erat inanis et vacua, et tenebræ 
+                    erant super faciem abyssi: et Spiritus Dei 
+                    ferebatur super aquas. Dixitque Deus: Fiat lux. 
+                    Et facta est lux.
+                </div>
+                <div class="script-info">
+                    <h3>About Medieval Calligraphy</h3>
+                    <p>Medieval European calligraphy encompasses various scripts developed between the 5th and 15th centuries. These include Uncial, Carolingian Minuscule, and Gothic Blackletter scripts.</p>
+                    <p>Monastic scribes meticulously copied religious and classical texts by hand, creating illuminated manuscripts that were both functional and beautiful works of art.</p>
+                    <p>The example shown is in a style reminiscent of Carolingian Minuscule, the script developed during the reign of Charlemagne that became the basis for our modern lowercase letters.</p>
+                    <div class="translation">
+                        Translation: "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light."
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <footer>
+            <p>Ancient Scripts Gallery &copy; 2023 | A tribute to the beauty of historical writing systems</p>
+            <p>Note: For proper Tengwar rendering, specialized fonts like "Tengwar Annatar" or "Tengwar Formal" need to be installed.</p>
+        </footer>
+    </div>
+</body>
+</html>

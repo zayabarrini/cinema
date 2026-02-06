@@ -1,6 +1,4 @@
-# Asti
-
-# Феникс
+# Asti, Феникс
 
 ## Моя птичка (My little bird) [Intro] 
 
