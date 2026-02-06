@@ -1,0 +1,834 @@
+# Exo, Monster 
+She got me gone crazy
+美丽让心颤栗
+你多像画里的 Goddess
+关在梦里 Yeah yeah
+我把心敲打开往你心里去
+这一夜隐形的刺激
+疯狂视界好奇一些
+来吧陷入爱的狂野
+Don’t be afraid
+Love is the way
+Shawty I got it
+You can call me monster
+I’m creeping in your heart babe
+这爱情把你侵蚀并吞掉
+爱偷走快乐加眼泪
+也消灭你的爱
+心中火焰烙印下我
+爱被留在世纪以后
+(Come here girl)
+You call me monster
+(You call me monster)
+听见了吗心中的星
+She got me gone crazy
+(Oh yeah, she got me)
+呼吸都已迷离
+(Oh yeah, oh yeah, she got me)
+那醉意不支了多久
+想念着你就会失控
+(爱有些可恶)
+莫名地被你吸引
+That’s right, my type
+这一夜两颗心战斗
+灵魂分裂身体里面
+我站在危险的边界
+Don’t be afraid
+Love is the way
+Shawty I got it
+You can call me monster
+I’m creeping in your heart babe
+这爱情把你侵蚀并吞掉
+爱偷走快乐加眼泪
+也消灭你的爱
+心中火焰烙印下我
+[D.O/Baek] 爱被留在世纪以后
+(Come here girl)
+You call me monster
+听见了吗心中的星
+战栗的梦让你发抖
+制造了混乱之后
+I’m sorry, you make me so crazy
+You know you do
+所有人都在怕我
+So I’m untouchable man
+最终你的内心
+却还是无法再抗拒我
+暗处里隐藏的
+我让你惊心动魄 (Who?)
+这样自相矛盾的我
+是你存在的全部 (How we do?)
+就用爱来证明结果
+抛弃内心的畏惧跟随着我
+享受命运支配的爱情之火
+尽情地向我靠近
+你的灵魂已写在我心
+我的爱也将你囚禁
+月色下勾画你我追逐的脚印 Brah
+You can call me monster
+I’m creeping in your heart babe
+(Yeah yeah yeah yeah)
+这爱情把你侵蚀并吞掉
+(Yeah yeah yeah yeah)
+爱偷走快乐加眼泪
+也消灭你的爱
+心中火焰烙印下我
+爱被留在世纪以后
+(Come here girl)
+[Baek/Chen] You call me monster
+听见了吗心中的星
+Creeping, creeping, creeping
+Creeping, creeping, creeping
+You, oh whoa, creeping
+# Artificial Love 
+Artificial lover 从始至终的
+神秘的你 undercover cover
+对我而言这是爱情 相信我
+不现实的你 更加吸引我 (吸引我)
+毫无理由 掉进漩涡
+对你的渴望让我口渴
+其实你和我之间的关系
+像剧情里设定好的爱情游戏
+虚幻的感觉和
+不透明的情爱的秘密
+She don’t love me
+这是 Artificial love
+曾纯洁般你的 Artificial love
+告诉我你想法是真的还是假的
+Can’t trust this
+You got that
+虚伪 微笑 Artificial love
+虚伪 眼泪 Artificial love
+虚伪 爱情 Artificial love
+这些 都是 你的 你的
+Love Love Oh Oh
+No No Oh Oh
+明知道这样不行
+还是会联系你
+明知道没有结果
+还是不想放弃
+Now you wanna play me
+我想要的无懈可击的你
+设计出了完美的
+冰冷的 Artificial love
+Artificial lover 这样的爱情太讽刺
+中毒无法自拔 伤口愈合就忘记
+无法判断感情趋势 不会轻易给予抛弃
+内心装满泪水 就像沙滩上的潮水涌起
+你冰冷气息 就像凌晨的空气
+穿过冰冻的虚空 消失在这原地
+毁掉你这盏谜灯 以及残留的痕迹
+You know why artificial lover
+She don’t love me
+没错 Artificial love
+空虚的心 Artificial love
+告诉我你想法是真的还是假的
+Can’t trust this
+You got that
+虚伪 微笑 Artificial love
+虚伪 眼泪 Artificial love
+虚伪 爱情 Artificial love
+这些 都是 你的 你的
+Love Love Oh Oh
+No No Oh Oh
+Love Love Oh Oh
+No No Oh Oh
+Uh Listen up
+我想要的是
+纯洁的爱我们约定的那样
+就给我指明一条路
+许下心愿将我
+圈禁在甜美的白色梦里 (Yeah turn it up)
+Artificial lover
+Artificial lover
+Artificial lover
+Can’t trust this
+You got that
+虚伪 微笑 Artificial love
+虚伪 眼泪 Artificial love
+虚伪 爱情 Artificial love
+这些 都是 你的 你的
+# 白色噪音 (White Noise) 
+Lonely nights 凌晨一点半
+你在我脑中旋转
+音浪围绕耳畔
+带着我远离去彼岸 oh no
+回忆会把我遣返再回到
+我们拥抱那段 not far away no
+时针画圈越久越想念
+那耳边的呼吸
+熟悉的声音就是你 babe
+I hear you I feel you
+每一次闭上眼睛
+我看不到你但能听到你
+全世界太多纷繁音律
+一秒钟就听见你
+你的笑声 我仔细聆听
+我努力捕捉你幸福的讯息
+只愿意为你
+Somebody (somebody) Somebody
+(someone loves you baby)
+Somebody (oh oh oh) Somebody
+你是天空降落的雨滴
+(Don’t you worry babe)
+可不可以给我一场暴雨
+清洗我内心里堆积的复杂情绪
+如果你侧耳搜寻会听见 一种熟悉声音
+Not far away no
+在不远的距离某个人
+一直在原地释放思念你的频率 babe
+Oh I hear you I feel you
+每一次闭上眼睛
+我看不到你但能听到你
+全世界太多纷繁音律
+一秒钟就听见你
+你的笑声 我仔细聆听
+幸福的讯息让我安心
+Right here yo!
+抱歉我又再一次自言自语
+这里没了你的痕迹
+我只好对空气问候你
+经过我耳边的声音里
+是否你的稀薄气息
+擦身而过的风
+会不会在某一天
+也经过你的身边
+带我的声音到你那边
+梦醒后 我还是徘徊在迷雾中的 Somebody
+Somebody loves you
+务必了解这一切 yeah
+就算抓不住但也请你
+Just hold on tight
+你不在我身边 却占据我心里
+随时感觉你 (Somebody love 我心里)
+闭上眼睛我们的曾经
+已经足够我回忆 (已经足够我回忆)
+不管哪里 隔多远距离
+你幸福就可以
+每一次闭上眼睛
+我看不到你但能听到你
+全世界太多纷繁音律
+一秒钟就听见你
+你的笑声 我仔细聆听
+(I miss you babe)
+我努力捕捉你幸福的讯息
+只愿意为你
+# Obsession
+将这循环终止
+黑暗降临 世界变蒙昧
+你又潜入心灵的暗涌
+放大耳边的纤微 撩拨思维
+轻笑着 在怂恿
+无尽私语 将这梦境都摧毁
+Oh you’re the bad dream kill
+不停争吵 不停呼召
+言语触角 将我推向你深渊
+由我承受 (I don’t think so)
+为什么都在涌向我 (I don’t think so)
+总想遮蔽真我 (I don’t think so)
+试图掩盖什么 (I don’t think so)
+虚幻似梦魔 (I don’t think so)
+别让恶毒再结果 (I don’t think so)
+永远不要靠近我 (I don’t think so)
+Shut up and go away
+Thousand nights 已经厌倦的嗜好
+伴生着的噩梦 由我终结掉
+(当我熄灭 exit light) 当我熄灭 exit light
+就让黑暗 将你存在都抹消
+I want ya, I want ya, want ya
+I want ya, I want ya, want ya (Yeah)
+I want ya, I want ya, want ya
+I want ya, I want ya, want ya (Hoo)
+受够了
+Ha! 停止干涉 (bang)
+不停轰炸耳膜那些噪音 I'ma let it blow
+感知都向它集中 紧绷着 every moment
+失控的灵魂 被你肆意地搅动
+混沌的空气中游离着
+悄无声息 渗入肌肤 the phantom
+I’m so sick and tired of it
+渴望天亮后 就能消除你痕迹
+就只攻击我 (I don’t think so)
+为什么都在涌向我 (I don’t think so)
+深深嵌入骨骼 (I don’t think so)
+想混淆真我 (I don’t think so)
+Take whatever (I don’t think so)
+不要打破沉默 (I don’t think so)
+永远别想控制我 (I don’t think so)
+别再执着沉迷
+Thousand nights 已经厌倦的嗜好
+伴生着的噩梦 由我终结掉
+(当我熄灭 exit light) 当我熄灭 exit light
+就让黑暗 将你存在都抹消
+Blacken my heart
+Creepin’ dark night
+Stainin’ my soul
+朦胧着 眼前世界 都变得异样
+它的气息 醒目而夸张
+留下无主 names on the ground
+摇曳中再起舞 tonight
+Say it, what you like?
+所有的幸福 都只存在
+那些短暂回忆
+到此为止 就别再侵扰
+Forget everything, yeah, yeah!
+由我承受 (I don’t think so)
+为什么都在涌向我 (I don’t think so)
+总想遮蔽真我 (I don’t think so)
+试图掩盖什么 (I don’t think so)
+虚幻似梦魔 (I don’t think so)
+别让恶毒再结果 (I don’t think so)
+永远不要靠近我 (I don’t think so)
+Shut up and go away
+Thousand nights 已经厌倦的嗜好
+伴生着的噩梦 由我终结掉
+(当我熄灭 exit light) 当我熄灭 exit light
+就让黑暗 将你存在都抹消
+One night 黑暗之中却看到
+缠绕在我身后影子的全貌
+(闪烁着的 exit light) 闪烁着的 exit light
+照亮错愕映在镜中那个我
+# The eve
+[Verse 1]
+睁眼看看 what's the situation
+慌乱中眼看最后一道
+围墙正在崩裂瓦解
+慢慢变清晰的清晨 yeah uh
+反覆着没尽头的黑洞
+拼死也要掐住的致命的根源
+引发疫情不断蔓延 yeah
+至今还是无法能解
+[Pre-Chorus]
+听风集结在高耸城墙
+面前微弱地席卷成漩
+吹响了巨大风暴袭击眼前
+宁静的黑夜
+[Chorus]
+穿破风暴中雷电 抹去淹没我的灰
+嘶吼呼天喊地灭 贯穿千里的边界
+直到千万颗星星
+带着微光点亮无尽的深渊
+快要再一次苏醒 迎接黎明的光辉 oh-oh
+[Verse 2]
+忍你的傲慢视线嘲讽
+当你回神我早在复兴之中
+旷野由我开拓 yeah
+胸口的梦无法触碰
+[Pre-Chorus]
+数万个梦想随着战役的旗帜
+洗去历经摧残
+如今我抬起了头
+俯瞰着百花重新盛绽
+[Chorus]
+穿破风暴中雷电
+抹去淹没我的灰
+嘶吼呼天喊地灭
+贯穿千里的边界
+直到千万颗星星
+带着微光点亮无尽的深渊
+快要再一次苏醒
+迎接黎明的光辉
+[Bridge]
+被扭曲的事实 被捏造的故事
+听见号角响起 汹涌地浪袭
+层层吞噬过去 开创盛世天地
+It's you
+[Chorus]
+穿破天崩和地裂
+亿年不变的信念
+咆啸到声嘶力竭
+睁大眼无惧无畏
+招集千万颗星星
+带着微光驱争黑暗的锁链
+我要现在就觉醒
+创新世界美无限
+# CALL ME BABY (叫我) 
+[Intro: Tao, All, Sehun]
+(Call me baby) 整条街喧闹了起来
+(Call me baby) 每一个人陌生的存在 (Ha-ha)
+(Call me baby) 在一起的每个瞬间
+Like boom, boom, boom, boom, boom (What up?)
+[Verse 1: Baekhyun, Xiumin, Chen]
+Hey, girl, 永恒般的刹那 (如命运的安排)
+瞬间就把我穿透去 (雷电一样 速度飞快)
+是你呼唤我的名字
+远远向我走过来
+惊讶 你所散发的强光
+当我遇见你时候, oh, my
+你安静坐在这里
+开始听我讲的每句话
+[Verse 2: D.O, Lay, Chanyeol]
+Oh, I don’t care, 绕远的路
+才到这里来
+就这样在你身边
+愿做你唯一那个男人
+你悄悄潜入我嘴唇
+唤醒了我的深睡灵魂
+The time’s wasting girl
+So don’t wait, don’t wait too long
+[Refrain: Kai, All, Tao, Xiumin, *Sehun*, **Suho**]
+华丽的不实的 麻麻 (麻麻)
+需要你双眼睁 大大 (大大)
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+(You know my name, girl)
+我的爱每天涨 码码 (码码)
+左心房为你敞 大大 (大大)
+*(You know I’m here, girl)*
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+**叫几次都行, call me, girl**
+[Chorus: All, D.O]
+是你让我成为我自己
+在我世界只有 you’re the one
+You’re the one ('Cause, you’re the one I want)
+[Post-chorus: Suho, All, Sehun, Chanyeol]
+华丽的不实的 麻麻 (麻麻)
+需要你双眼睁 大大 (大大; You know my name girl)
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+(叫几次都行, call me, girl)
+[Verse 3: Lay, Chen, Suho, All]
+Baby girl, 无数的 贪心之中
+你不理他们的流言 (Call me baby)
+仍然对于我充满信任
+纵然人们变心 慢慢离开我
+你是我唯一 lady
+紧紧地 握住我手 就足够
+[Refrain: Lay, All, Tao, Sehun, *Kai*]
+华丽的不实的 麻麻 (麻麻)
+需要你双眼睁 大大 (大大)
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+(You know my name, girl)
+我的爱每天涨 码码 (码码)
+左心房为你敞 大大 (大大)
+*(You know I’m here girl)*
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+[Bridge: Baekhyun, Lay, Chen, Chen & D.O, D.O.]
+身陷黑暗迷宫里面的
+Oh, 我, oh (在无际黑暗里)
+耳边传来 你唤醒我的声音
+我就是因你而重生
+[Post-Bridge: Xiumin, Tao, Baekhyun]
+E-X-O, listen (Yeah)
+[Verse 4: Tao, Xiumin, All]
+(Baby, baby, ba-baby)
+(Say my name, louder)
+从这混乱的空间里面
+救出我没有放弃我
+成为这照亮着我的光线 (What up?)
+拥着你 再也不会变
+拥着你 再次面对那些
+离开我的每张脸
+Never don’t mind about a thing
+把你填满我内心为你留下的空间
+(Call me baby)
+[Chorus: All, Baekhyun, D.O]
+在这危险混乱世界里 (Ooh, baby)
+闪亮无比唯一的光彩 就是你
+Girl, you’re the one I want
+(You’re the one I want)
+[Post-chorus: Chanyeol, All, Tao]
+华丽的不实的 麻麻 (麻麻)
+需要你双眼睁 大大 (大大)
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+(You know my name, girl)
+[Interlude: Chen, D.O.]
+(I’ll be your baby, yeah; Hoo)
+[Chorus: All, Kai, Baekhyun]
+是你让我成为我自己 (You know I’m here girl)
+在我世界只有
+You’re the one, you’re the one
+(You’re the one I want)
+[Post-chorus: Xiumin, All, Lay]
+华丽的不实的 麻麻 (麻麻)
+需要你双眼睁 大大 (大大)
+Call me baby, bae, call me baby
+Call me baby, bae, call me baby
+叫几次都行, call me, girl
+# 壞男孩 PLAYBOY 
+Hey Playboy haha (boy) Let’s play!
+电话都不要接 就安静
+随放它去响 我们把时间留一下
+没有重要事 需要你 立即地回答
+让你左思右想
+别去想 别去想
+我都能看出你的思索 别去想
+别去想 别去想
+就让我解你的密码
+黑夜黑我的心停留在 Your place
+燃烧后你的心一直在 My place
+两颗心有距离不能一起 play
+请忘记我的话冻结在 My base
+已消失你的话却留下 Your trace
+两颗心太拥挤无法让你 Play (boy)
+Play play (boy)
+Play play (boy)
+Play (boy) Play (boy) Play
+你眼睛在说你
+太晚看清楚真正原因
+你已偷偷爱上我 (不是吗?)
+其实你 早已经
+在意我但现在的理由 却通通只会怪我
+我是坏 比你想象中还坏
+你发现的却不一样 你都是想错
+跟我会 让幸福再靠近
+多一些 请别再随便离开我
+别去想 别去想
+我都能看出你的思索
+别去想 别去想 别去想
+就让我解你的密码
+黑夜黑我的心停留在 Your place
+燃烧后你的心一直在 My place
+两颗心有距离不能一起 play
+请忘记我的话冻结在 My base
+已消失你的话却留下 Your trace
+两颗心太拥挤无法让你 Play
+Uh, playboy!
+把昵称设定写好
+只消一个吻 That’s all
+遇见了我这样的货算是运气
+或倒霉你分的清
+双重选择 yes! 就像是喝了 Whisky
+让你感到头脑眩晕脸变得热
+(leggo)
+你越是抗拒就会让我越兴奋
+我说过后面有没开始的 Main game
+再挣扎再试一下
+赢对我不在话下
+我就在新鲜又孤独的每一天里融化
+Oh! 我真不想去停下
+其实我们一样感觉
+你根本不想看我离开 (不是吗?)
+My babe
+黑夜黑我的心停留在 Your place
+燃烧后你的心一直在 My place
+两颗心有距离不能一起 play
+请忘记我的话冻结在 My base
+已消失你的话却留下 Your trace
+两颗心太拥挤无法让你 Play (boy)
+Play play (boy)
+Play play (boy)
+Play (boy) Play (boy) Play
+# Love shot
+冰冷目光 窒息中对决
+锋利音节刺伤了虚伪
+沉默成为幸存的机会
+Oh-oh-oh, oh-oh, eh-eh-eh
+屏蔽感官 不愿去回答
+时间壁垒 堆砌成高塔
+偏见取代诚实的想法
+Uh 毫无预兆 理智城堡已开始崩塌
+瓦砾落下 最后声音无限地放大
+溢出耳畔 在摇摇欲坠中宣告
+It's the love shot
+Na, na-na-na-na-na-na-na
+Na, na-na-na-na-na-na
+Na, na-na-na-na-na-na-na
+Oh-oh-oh-oh-oh
+It's the love shot
+Na, na-na-na-na-na-na-na
+Na, na-na-na-na-na-na
+Na, na-na-na-na-na-na-na
+Oh-oh-oh-oh-oh
+It's the love shot
+失去了爱恨的自由
+麻木中 甘心被束缚
+思念的锁链渐渐腐化 褪去了光泽
+遗憾变成唯一选择
+不甘示弱的你我
+汹涌渴望里说 where is love?
+Yeah-yeah-yeah-yeah
+逃亡已经开始 游走在像迷宫般 黑暗曲折的 love
+剥离了希望的现实 随剧烈的呼吸 在不停地侵袭 my soul
+奔向出口 迎着那曙光宣告
+It's the love shot
+Na, na-na-na-na-na-na-na
+Na, na-na-na-na-na-na (oh, oh, oh, oh)
+Na, na-na-na-na-na-na-na
+Oh-oh-oh-oh-oh (hey, hey)
+It's the love shot
+Na, na-na-na-na-na-na-na (yeah, yeah, yeah, yeah)
+Na, na-na-na-na-na-na (oh)
+Na, na-na-na-na-na-na-na
+Oh-oh-oh-oh-oh
+It's the love shot (yeah)
+People come and people go
+我们定格在这时间轴
+那眼神 不再奢求
+回忆都慢慢变陈旧
+血液点燃 感情花园枯萎的枝蔓
+我在旁观 逐渐适应溢散的温暖
+驱散黑暗 沐浴在光芒中宣告 yeah
+It's the love shot
+Na, na-na-na-na-na-na-na (ay, ay, ay)
+Na, na-na-na-na-na-na (na, it's the love shot)
+Na, na-na-na-na-na-na-na (oh, oh, oh, oh)
+Oh-oh-oh-oh-oh (c'mon)
+It's the love shot
+Na, na-na-na-na-na-na-na (yeah, yeah, yeah, yeah)
+Na, na-na-na-na-na-na (the love shot)
+Na, na-na-na-na-na-na-na
+Oh-oh-oh-oh-oh
+It's the love shot
+# Tempo
+I can't believe
+整个世界 为她着迷 (oh)
+无法不去在意 纠缠耳膜的 melody
+反复回忆 go on and on and oh (oh-oh-oh-oh)
+跟随这旋律 留住你痕迹
+Don't mess up my tempo (don't)
+接受它 用心去倾听 (nah)
+I said, "Don't mess up my tempo"
+这是我偷心的武器
+别乱了我节奏
+独一无二的 one two three, uh (hey, yeah)
+Don't mess up my tempo
+她是我专属 melody, (oh, woah) yeah
+和你一起 so lovely
+窄窄的街道 有魔力
+变得不规则的 heart beat
+闭上眼睛聆听 trust me (ooh-hoo)
+时间还没到 我就等在这里 are you ready? (Look)
+来培养一点这都市和我之间的默契 (aw)
+Don't be shy, nobody is ever ready, yeah, my boo (ah)
+不需要 又想坏 又想乖 何必 (how coming out)
+Oh 牵着我 跟着我 I'll show you my lady
+走到哪里都有玫瑰花瓣铺地
+走路姿态像传奇 (swish)
+Girl, we just ride now to the beat, my tempo (aw)
+Baby girl
+你的 morning call 让我世界开机
+每天见面也还是分秒想你
+就从现在开始 let's get down (get down)
+一切美好得难以相信 (相信 baby)
+So don't slow it up for me (don't, oh)
+Don't mess up my tempo
+接受它 用心去倾听
+I said, "Don't mess up my tempo"
+这是我偷心的武器
+别乱了我节奏
+独一无二的 one two three, uh
+Don't mess up my tempo
+她是我专属 melody, yeah (don't mess up my tempo)
+魅惑我的你 lovely (oh, oh-oh)
+越阻挡就越是无力
+再激烈都可以 okay
+只要是你想要 teach me (hoo-ooh)
+在我的地盘 don't test me (oh, yeah)
+如果你落单感到不安就给我 message
+Now you got me flexin' (flexin')
+现在看清楚我是这刺激的街道 伟大的盖茨比 (hold on, wow)
+I'm doing right, baby girl, you don't know (you don't)
+脸上所有的问号都抛弃 (what?)
+我字典里没有 L.I.E 你还没注意
+但你早已经踏入了我的 tempo (aw)
+Baby girl (baby girl)
+当你微微靠着我的脸呼吸 (我的脸呼吸)
+那阵气息引起无尽的涟漪 (无尽的涟漪)
+像​​漩涡般突然向我袭击 (袭击)
+希望时间就停在 right now (right now)
+So don't mess up my tempo, baby (don't)
+Don't slow it up for me
+Don't mess up my tempo
+Don't mess up my tempo
+Don't mess up my tempo
+Don't mess up my (hoh, no)
+Don't mess up my tempo
+Don't mess up my tempo
+Don't mess up my tempo
+请看着我的眼睛诉说
+贴在我的耳边诉说 (hoh, hmm)
+告诉我你只想爱我
+告诉我你只拥有我
+别再听谁的道听途说 (oh, oh, oh)
+绝不让你被谁诱惑 (oh, oh, oh)
+对手出现绝不啰嗦 (hoh)
+守护着你的会是我
+Dum-dum-dum-dum
+Dum-dum-dum-dum-dum
+Can you feel it? Feel my heartbeat (feel my heartbeat)
+包围着我的你
+专属的 唯一的 savior
+Oh-oh-oh-oh, no
+全世界暂停 全在看着你
+I can't believe (I can't believe, I can't believe)
+整个世界 为她着迷 (为她着迷)
+无法不去在意 纠缠耳膜的 melody
+反复回忆 go on and on and oh
+跟随这旋律 留住你痕迹
+Yeah, yeah, yeah (uh)
+Don't mess up my tempo
+接受它 用心去倾听 (don't mess up my tempo, baby)
+I said, "Don't mess up my tempo" (my tempo)
+这是我偷心的武器 (woo-hoo) uh
+别乱了我节奏
+独一无二的 (完美的) one, two, three, (yeah) uh
+Don't mess up my tempo
+她是我专属 melody, yah (don't mess up my tempo)
+# Thunder
+[EXO-M "Thunder (雷电)" 歌词]
+[Verse 1: Luhan, Chen]
+Oh, du-du-du-du
+Woo-Yeah, yeah
+瞬间消失的一道光
+充满幸福回忆的那一道光芒
+几乎让我变得目盲
+你却已远去到达我接触不了的地方
+[Refrain: Lay, Chen]
+你像是闪电 剎那的光芒
+世界被点亮 又隐藏
+像全世界都属於我一样
+却只能仓促一眼的张望
+[Pre-Chorus: All, Xiumin, Tao]
+我像雷声一样的迟缓
+想找寻你却太慢
+Boom, Boom, Boom, Boom, Boom, Boom
+向你召唤　这一切都已太晚
+[Chorus: All, Luhan, Chen]
+Oh, Oh, Oh, Oh, Oh
+事到如今我才懂
+Oh, Oh, Oh, Oh, Oh
+现在才因你心痛
+Thunder, Thunder, Thunder
+想要把你紧握
+Thunder, Thunder, Thunder
+[Verse 2: Chen, Luhan]
+你的背影已走向远方
+时间把我们的距离变得更长 Woah-Yeah
+在你远去的方向
+会不会是我 终於陌生的星光
+[Refrain: Lay, Luhan]
+你就像闪电一样的匆忙
+是否我永远追不上
+我们之间这遥远的时差
+无法在同一个空间里到达
+[Pre-Chorus: All, Xiumin, Tao]
+我像雷声一样的迟缓
+想找寻你却太慢
+Boom, Boom, Boom, Boom, Boom, Boom
+向你召唤 这一切都已太晚
+[Chorus: All, Lay, Chen]
+Oh, Oh, Oh, Oh, Oh
+事到如今我才懂
+Oh, Oh, Oh, Oh, Oh
+现在才因你心痛
+Thunder, Thunder, Thunder
+想要把你紧握
+Thunder, Thunder, Thunder
+[Bridge: Tao, Chen, Kris]
+让我 跟随着你 跟随着你
+追逐着你 追逐着你
+寻觅着你 寻觅着你
+慢慢的远离去
+就让我超越时间超越这座高壁
+从现在到开始那相同的风景
+相信我可以再，再回到过去
+我一二在心底读秒测我们的距离
+[Chorus: All, Xiumin, Lay, Chen, Luhan]
+Oh, Oh, Oh, Oh, Oh
+事到如今我才懂
+Oh, Oh, Oh, Oh, Oh
+现在才因你心痛
+Thunder, Thunder, Thunder (Woah)
+想要把你紧握 (想要把你紧握)
+Thunder, Thunder, Thunder (Yeah)
+[Outro: All, Chen, Luhan]
+(Woah-oh)
+Thunder, Thunder, Thunder
+想要把你紧握
+(已远去的你 想要把你紧握)
+Thunder, Thunder, Thunder
+想要把你紧握
+Thunder, Thunder, Thunder
+Woah
+# Overdose
+[EXO-M《上瘾》歌词]
+[前奏(Intro)]
+Come in
+[主歌#1(Verse 1): Luhan, Chen]
+我赌上一切 而喝下了你
+时间倒转也无法收回
+就算冒着上瘾的危险
+So bad, no one can stop her
+[後主歌/后主歌(Refrain): All, Lay, Chen]
+Her love, her love
+我想要她的一切
+她的爱 就是唯一的定律
+她的唇一吻致命
+越恍惚 就越无法自拔
+[導歌(Pre-Chorus): Luhan, Chen]
+Oh, she wants me
+Oh, she’s got me
+Oh, she hurts me
+我是如此渴望想得到你
+[副歌(Chorus): All, Lay, Chen]
+Someone call the doctor, 快绑住我 对我说
+爱情这病 上瘾 overdose
+思念的时间太久 恐慌就开始折磨
+慢慢越被你深深迷惑, eh-oh
+[後副歌 / 后副歌(Post-Chorus): Luhan, All]
+Too much, 是你
+Your love, 这是 overdose
+Too much, 是你
+Your love, 这是 overdose
+[主歌#2(Verse 2): Chen, Lay]
+你轻轻地挑逗我的肩
+每一次触碰都像是触电
+心跳快到极限 窒息的瞬间
+战栗, 叹了一口气
+[後主歌/后主歌(Refrain): Xiumin, Luhan]
+Her love, her love
+就是唯一的解药
+就像无法解脱的 destiny
+全身动脉沸腾着, yeah-eh
+终于能驾驭这感觉
+[導歌(Pre-chorus): Chen, Luhan]
+Oh, she wants me
+Oh, she’s got me
+Oh, she hurts me
+继续 追逐这你 想得到你
+[副歌(Chorus): All, Lay, Chen]
+Someone call the doctor, 快绑住我 对我说
+爱情这病 上瘾 overdose
+思念的时间太久 恐慌就开始折磨
+慢慢越被你深深迷惑, eh-oh
+[後副歌 / 后副歌(Post-Chorus): Luhan, All]
+Too much, 是你
+Your love, 这是 overdose
+Too much, 是你
+Your love, 这是 overdose
+[過門(Bridge): Lay, Luhan, Chen, Xiumin]
+所有人都在问着我
+怎么我变了很多
+从内心深处 感染你一切
+你就是唯一的世界
+再也无法倒退 你填满的空间
+在这一瞬间, you're in my hea-heart (E-X-O)
+[主歌#3(Verse 3): Kris, Xiumin, Tao]
+我想要把你灌满我的喉
+全身都在颤抖
+就算喝得再多永远都不够
+毒性已经蔓延从头到脚
+但我不去招架
+享受着这种刺激
+那么痛快, I can’t stop (Hey, doctor)
+这种感觉就挺好的, huh
+抗拒不了你给的引力
+让我慢慢被你融化
+宁愿长睡不醒如果
+这种感觉不存在 中你甜蜜的毒
+变成我活不下去的期待 (Someone call the doctor)
+[副歌(Chorus): All, Chen, Luhan]
+Someone call the doctor, 她的爱才能救我 (Hey-eh-ey)
+失去她一天都不能活 (我都不能活)
+我不想离开 你的爱像天堂的诱惑 (Yeah)
+致命的美丽 震撼着我, eh-oh
+[後副歌 / 后副歌(Post-Chorus): All, Chen]
+Too much (Too much), 是你 (是你)
+Your love, 这是 overdose
+Too much, 是你
+Your love, 这是 overdose
