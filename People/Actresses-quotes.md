@@ -61,3 +61,102 @@ A6 isn't it terribly Dam but that make a difference well yes if you had no cloth
 Crawley tells me that you paid her a visit when you first came that you were amazingly friendly well I hope I'm always friendly nobody's always friendly the mother is Keen they should take the matter to court well you can't blame her why if her husband wanted me to have the place who we to argue you never thought to turn it down do I look as if I turn down a villa in the south of
 France I suppose she has an appropriate costume for every activity Tom has been the victim of a cruel prank which I know you will all be kind kind enough to forget forgive perhaps forget never oh you two are dressed for a barbecue and I feel like a
 Chicago Bootlegger I don't even know what that means but it sounds almost as peculiar as you look you want me to tell you why he did it when the truth is I do not know and with that I will say good night and leave you to discuss my mysterious past you owe your place to Mrs Crawley she would not let me go until I'd promised she would not relax her grip you make me sound very fervent Wars have been waged with less F well let's hope we win this one if we can show the county he can behave normally they will soon lose interest in him and I shall make sure he behaves normally because I shall hold his hand on the radiator until he does I'm a feeble substitute for the entire Crawley family yes but you're better than nothing how warming you make that sound really granny how can you say that I'm too worldly but cibil's not worldly enough you cannot be so contrary I'm a woman Mary I can be as contrary as I choose
+
+# Sophie Clarke, South Pacific
+
+1
+00:00:00.000 --> 00:00:37.595
+Just because you're in it doesn't mean we're you know we're always going to trust you we'll trust you until you do something wrong and right now it looks more and more like Brandon is just a small small you know Russell hands Brandon actually wants and to leave he likes Michaela better now he's changed his mind she's no longer like you know the horror of the tribe whatever he thought before now she's fantastic but he's still going to vote her out I don't get it he is nuts absolutely not Eddie Endo was kind of feeling on the outs and I think that yesterday Edna playing such an important role in the challenge and then having
+
+2
+00:00:38.992 --> 00:00:45.630
+I really think that yesterday was a huge day for Edna to feel like she's a part of this tribe
+
+3
+00:00:45.630 --> 00:00:53.200
+Our tribe feeds off of this you know we're better than everyone we're the religious tribe we're a family you know we're nice to people
+
+4
+00:00:53.200 --> 00:01:03.182
+The other tribe looks absolutely devastated Audrey looked like he was gonna break down and cry he was shaking and the more we see them get upset and angry at each other um I
+
+5
+00:01:07.545 --> 00:01:19.007
+I think conference feelings have been heard about a lot out here and as smart as he is I have a feeling that his decision is somewhat emotional as well
+
+6
+00:01:19.007 --> 00:02:22.537
+There's no other options and might as well have faith and wait and see what happens Albert tried to take control of this game and I'm the swing boat so now I'm debating whether to fix a coach or Joe is Albert's crazy plan in the end of the day it's a question of what will take me to the end I think Albert thinks he has this great species mind and I don't think he's come up with one good plan yet his recent plan is to get Brandon out sooner I guess I don't see the point of that just because I feel um like everyone is going to go along with getting out Survive everyone is going to go along with getting out Brandon and end up first the last thing I want is for things to be shaken Albert's the one who's always feeling uncomfortable he's always wanting to make a big move and sometimes I think he just wants to make a big move just for the hell of it you go against the five you go against the six yeah we're gonna throw you in the fire we're gonna chop your head off I always felt his personality is something Concord has going for him out here I mean when I first came here I felt kind of bad for Hawkeye it seemed like people bullied him
+
+7
+00:02:22.537 --> 00:02:27.929
+Now why people got annoyed with him
+
+8
+00:02:27.929 --> 00:02:34.668
+You know I get frustrated by the kind of air he puts on
+
+9
+00:02:34.668 --> 00:02:41.310
+Think he's really proud of the movie he made I think he still thinks that somebody will take him to the end
+
+10
+00:02:41.310 --> 00:03:00.892
+I don't like it Cochran said I know a lot of you feel dead into me I don't feel indebted to you you know for you he made an awful move he should have sucked with his tribe Albert coach myself it's really the three of us calling the shot so yeah I mean up to a point I'm not too worried about keeping coffin happy because I think he's first to go
+
+11
+00:03:00.892 --> 00:03:16.109
+My life is with four strong men who are you know slightly egotistical and I think that my game has been pretty understated so far and I'm kind of relying a lot on final tribal to kind of reveal how much I've done how much I feel I've done specifically
+
+12
+00:03:16.109 --> 00:03:20.292
+But the game is out I'll play out last
+
+13
+00:03:20.292 --> 00:03:54.824
+I think often thinks an apology absolves all sins and maybe that's true in church but of Survivor uh people are not as forgiving as you know Jesus Christ is and Edna's not as forgiving and the rest of the tribe um
+
+14
+00:03:54.824 --> 00:04:54.089
+It didn't go unnoticed with us I think coach and I are really on the same page and we both recognize that Brandon has done things in the past but I think you've seen a change in Brandon since the merge superficially at least he's the most loyal the most trustworthy the most Godly man out here and that's not somebody I would want to go to the final three with today worst case scenario happens Brandon wanted me and they were hoping to get Branded out tonight so I feel like the way to go right now with Albert what are you thinking coach and I both agree that Albert has just been getting up there more and more and more since submerged he's been sneaky he thinks he's more strategic than everyone else and everything he does is the smartest teacher decision possible and more and more I'm feeling like Albert should go home tonight it's so gratifying seeing everything with Albert being exposed because now instead of a nice little Blind Side he gets to go out looking even more pathetic and he's looked this whole game where is there a strategic value
+
+15
+00:04:54.089 --> 00:05:38.449
+Where is the Strategic mine now it's like he's in the toilet bowl and Brandon and Coach and I and Rick we all have a little chance of pushing him down um he's kind of scrambling back up but I think Jeff is the final flush tonight tribal was crazy that it was fantastic Brandon made one of the stupidest moves ever to be made and gave his necklace away and I think the great thing is that Albert's not giving back the necklace seemed like a really cowardly move in front of the jury watching the guys from the duel Brendan was going like a maniac and I guess a terrifying thing was Ozzy was still able to beat him and if Ozzy keep winning immunity there's really only so much I can do
+
+16
+00:05:38.449 --> 00:06:19.188
+False they are not dangerous at all Sophie wins another immunity it's not just old loyalties it makes me want Aussie out of the game Ozzy hasn't respected me since day one that's cool when you don't talk more than a sentence to me I mean that's really disrespectful but I feel like you act like a spoiled brat out here yeah yeah well every piece of information that I'm making my judgment off of has been given to me by people coming through Redemption saying also if he does all day is sleep and hang out she doesn't really do anything else I think although it's game and you have to be strategic and you have to lie there's ways to um
+
+17
+00:06:19.188 --> 00:07:12.739
+Kept my character intact when it suddenly calls into question and even now when he's suddenly saying is everybody calling it the question it does hurt you know part of what's happening right now is 37 days oh I know in a game that can be brutal on your psyche I listen I was thinking about how Aussie says to just come from him and now I'm just worried that if it didn't just come from him I'm this big awful so selfish spoiled bitch and it makes me regret coming
+
+18
+00:07:12.739 --> 00:07:19.456
+Sophie
+
+19
+00:07:19.456 --> 00:07:22.042
+Game
+
+20
+00:07:22.042 --> 00:08:20.755
+New Slayers born you certainly are because in this game from moment one Ozzy was the dragon and you freaking slayed him everything was riding on this challenge beating Aussie was crucial Audie had to be out of this game and I think beyond that being the one to beat Aussie must be something I can hang my hat on come Final Tribal we woke up and we go to tree mail and there's just more food than I'd be in this whole entire time and I couldn't help myself I was hopping up and down like a bunny Tuesday 39 after 39 days of deprivation having this one day where we suddenly get everything it's amazing I think we're all really proud of ourselves today I think we really are realizing that you know we did it nobody can vote us out
+
+21
+00:08:20.755 --> 00:09:22.363
+Don't have anything bad to say about you and I'm not going to I mean there's nothing really for me to say about you I thought today more and more about my emotional breakdown at tribal I want to keep my composure tonight the last thing I want to do is seem like this complete you know nut job you know crazy emotional crying because I think that's somebody who doesn't deserve to go to the end so I'm going to try to go in um perhaps a bit more logically than emotionally okay so I'm just going to cut to the chase it's on our bus it's about outwitting outlasting and up playing and when it comes to out playing I felt like I held my own intelliges when it came to individual immunity I went three individual communities when it came to our wedding I definitely felt like there were two parts to it and one was the Strategic part and I felt like I did that well I made a five person Alliance from the beginning and I wanted to keep that five person lives at the end and wasn't necessarily the easiest thing to do but I made sure that my strategy revolved around it and then the other half of that wedding I think was a social game
+
+22
+00:09:22.363 --> 00:10:22.363
+I think it became more clear to me a couple tribals ago that maybe I wasn't so good at the social game I felt like I made some genuine friendships back into polu but you know like I've not used car salesman like I came back here and I was myself and I do think I was honest as possible so I think I filled a requirements Sophie the reason I find it hard to write your name down for a million dollars is that your most condescending person I've ever met you took zero time to get to know anybody really I think I said this in the beginning I mean I think that's part of who I am I think I am really hard to get to know and I'm very blunt I'm very intimidating and I think that it's just part of like how I come off and I think that after this game after hearing all the feedback I think it's not such a good quality as I thought it was I thought it was definitely not but I think it's quick okay thanks before I came to this game I said you know I wish I was a man because man in this game seemed to be able to get
+
+23
+00:10:22.363 --> 00:10:49.004
+Two young girls to follow them to end and that's something I can't do and when I met coach I saw him as the equivalent of a young girl he was someone who said to me my loyalty is worth more than a million dollars I'm not an easiest person I'm not a strategist and it came to bite me it's probably my fault because I was his strategist so I was I was something I really didn't make a lot up the winner of Survivor South Pacifica
+
+24
+00:10:57.561 --> 00:11:05.072
+Why blank laws because we continue our series of Y blank 1 podcasts in parallel
+
