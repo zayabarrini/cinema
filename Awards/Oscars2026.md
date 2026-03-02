@@ -1034,3 +1034,170 @@ Hamnet
 Nouvelle Vague
 Frankenstein
 F1
+
+
+# 02/03/26
+WatchList:
+Hamnet
+- "The Secret Agent"
+- "Bugonia"
+- Rose Byrne, "If I Had Legs, I'd Kick You"
+- Kate Hudson, "Song Sung Blue"
+- "Blue Moon" – Robert Kaplow
+- Tunisia, "The Voice of Hind Rajab"
+
+- "Arco"
+- "Elio"
+- "KPop Demon Hunters"
+- "Little Amélie or the Character of Rain"
+- "Zootopia 2"
+
+## Best Picture
+- "Bugonia"
+- "F1"
+- "Frankenstein"
+- "Hamnet"
+- "Marty Supreme"
+- "One Battle After Another"
+- "The Secret Agent"
+- "Sentimental Value"
+- "Sinners"
+- "Train Dreams"
+## Best Actor
+- Timothée Chalamet, "Marty Supreme"
+- Leonardo DiCaprio, "One Battle After Another"
+- Ethan Hawke, "Blue Moon"
+- Michael B. Jordan, "Sinners"
+- Wagner Moura, "The Secret Agent"
+## Best Supporting Actor
+- Benicio del Toro, "One Battle After Another"
+- Jacob Elordi, "Frankenstein"
+- Delroy Lindo, "Sinners"
+- Sean Penn, "One Battle After Another"
+- Stellan Skarsgård, "Sentimental Value"
+## Best Original Screenplay
+- "Blue Moon" – Robert Kaplow
+- "It Was Just an Accident" – Jafar Panahi and script collaborators
+- "Marty Supreme" – Ronald Bronstein and Josh Safdie
+- "Sentimental Value" – Eskil Vogt and Joachim Trier
+- "Sinners" – Ryan Coogler
+## Best Animated Feature
+- "Arco"
+- "Elio"
+- "KPop Demon Hunters"
+- "Little Amélie or the Character of Rain"
+- "Zootopia 2"
+## Best Documentary Feature Film
+- "The Alabama Solution"
+- "Come See Me in the Good Light"
+- "Cutting Through Rocks"
+- "Mr. Nobody Against Putin"
+- "The Perfect Neighbor"
+## Best Animated Short Film
+- "Butterfly"
+- "Forevergreen"
+- "The Girl Who Cried Pearls"
+- "Retirement Plan"
+- "The Three Sisters"
+## Best Original Score
+- "Bugonia" – Jerskin Fendrix
+- "Frankenstein" – Alexandre Desplat
+- "Hamnet" – Max Richter
+- "One Battle After Another" – Jonny Greenwood
+- "Sinners" – Ludwig Göransson
+## Best Sound
+- "F1"
+- "Frankenstein"
+- "One Battle After Another"
+- "Sinners"
+- "Sirât"
+## Best Cinematography
+- "Frankenstein" – Dan Laustsen
+- "Marty Supreme" – Darius Khondji
+- "One Battle After Another" – Michael Bauman
+- "Sinners" – Autumn Durald Arkapaw
+- "Train Dreams" – Adolpho Veloso
+## Best Production Design
+- "Frankenstein"
+- "Hamnet"
+- "Marty Supreme"
+- "One Battle After Another"
+- "Sinners"
+## Best Makeup and Hairstyling
+- "Frankenstein"
+- "Kokuho"
+- "Sinners"
+- "The Smashing Machine"
+- "The Ugly Stepsister"
+## Best Director
+- Chloé Zhao, "Hamnet"
+- Josh Safdie, "Marty Supreme"
+- Paul Thomas Anderson, "One Battle After Another"
+- Joachim Trier, "Sentimental Value"
+- Ryan Coogler, "Sinners"
+## Best Actress
+- Jessie Buckley, "Hamnet"
+- Rose Byrne, "If I Had Legs, I'd Kick You"
+- Kate Hudson, "Song Sung Blue"
+- Renate Reinsve, "Sentimental Value"
+- Emma Stone, "Bugonia"
+## Best Supporting Actress
+- Elle Fanning, "Sentimental Value"
+- Inga Ibsdotter Lilleaas, "Sentimental Value"
+- Amy Madigan, "Weapons"
+- Wunmi Mosaku, "Sinners"
+- Teyana Taylor, "One Battle After Another"
+## Best Adapted Screenplay
+- "Bugonia" – Will Tracy
+- "Frankenstein" – Guillermo del Toro
+- "Hamnet" – Chloé Zhao and Maggie O'Farrell
+- "One Battle After Another" – Paul Thomas Anderson
+- "Train Dreams" – Clint Bentley and Greg Kwedar
+## Best International Feature Film
+- Brazil, "The Secret Agent"
+- France, "It Was Just an Accident"
+- Norway, "Sentimental Value"
+- Spain, "Sirât"
+- Tunisia, "The Voice of Hind Rajab"
+## Best Documentary Short Film
+- "All the Empty Rooms"
+- "Armed Only with a Camera: The Life and Death of Brent Renaud"
+- "Children No More: Were and Are Gone"
+- "The Devil Is Busy"
+- "Perfectly a Strangeness"
+## Best Live Action Short Film
+- "Butcher's Stain"
+- "A Friend of Dorothy"
+- "Jane Austen's Period Drama"
+- "The Singers"
+- "Two People Exchanging Saliva"
+## Best Original Song
+- "Dear Me" from "Diane Warren: Relentless"
+- "Golden" from "KPop Demon Hunters"
+- "I Lied to You" from "Sinners"
+- "Sweet Dreams of Joy" from "Viva Verdi!"
+- "Train Dreams" from "Train Dreams"
+## Best Visual Effects
+- "Avatar: Fire and Ash"
+- "F1"
+- "Jurassic World: Rebirth"
+- "The Lost Bus"
+- "Sinners"
+## Best Film Editing
+- "F1" – Stephen Mirrione
+- "Marty Supreme" – Ronald Bronstein and Josh Safdie
+- "One Battle After Another" – Andy Jurgensen
+- "Sentimental Value" – Olivier Bugge Coutté
+- "Sinners" – Michael P. Shawver
+## Best Costume Design
+- "Avatar: Fire and Ash" – Deborah L. Scott
+- "Frankenstein" – Kate Hawley
+- "Hamnet" – Malgosia Turzanska
+- "Marty Supreme" – Miyako Bellizzi
+- "Sinners" – Ruth E. Carter
+## Best Casting
+- "Hamnet" – Nina Gold
+- "Marty Supreme" – Jennifer Venditti
+- "One Battle After Another" – Cassandra Kulukundis
+- "The Secret Agent" – Gabriel Domingues
+- "Sinners" – Francine Maisler
