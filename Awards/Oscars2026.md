@@ -1038,6 +1038,13 @@ F1
 
 # 02/03/26
 WatchList:
+The Secret Agent
+Bugonia
+Rose Byrne, If I Had Legs, I'd Kick You
+Kate Hudson, Song Sung Blue
+Blue Moon – Robert Kaplow
+Tunisia, The Voice of Hind Rajab
+
 Hamnet
 - "The Secret Agent"
 - "Bugonia"
