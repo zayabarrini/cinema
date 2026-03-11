@@ -1,6 +1,6 @@
 # Organizational Tree
 
-Certainly! Here's an organizational structure for **Zaya Barrini Cinema Studio**, designed for an independent but internationally-minded production company. This structure balances creative vision with business operations and allows for global co-productions.
+Here's an organizational structure for **Zaya Barrini Cinema Studio**, designed for an independent but internationally-minded production company. This structure balances creative vision with business operations and allows for global co-productions.
 
 ---
 

@@ -17,33 +17,33 @@ Tony: Producer (Best Musical)
 
 Filme, Youtube trailer/scene, Tiktok
 
-Viola Davis
-Julianne Moore
-Cate Blanchett
-Meryl Streep
-Natalie Portman
-Kate Winslet
-Marion Cotillard
-Nicole Kidman
-Emma Thompson
-Katharine Hepburn
-Faye Dunaway
-Maggie Smith
-Elizabeth Taylor
-Sophia Loren
-Susan Hayward
-Ingrid Bergman
-Vivien Leigh
-Olivia de Havilland
-Jane Wyman
-Joan Crawford
-Claudette Colbert
-Bette Davis
-Greta Lee
-Sandra Hüller
-Leila Hatami
-Kani Kusruti
-Gong Li
+- Viola Davis
+- Julianne Moore
+- Cate Blanchett
+- Meryl Streep
+- Natalie Portman
+- Kate Winslet
+- Marion Cotillard
+- Nicole Kidman
+- Emma Thompson
+- Katharine Hepburn
+- Faye Dunaway
+- Maggie Smith
+- Elizabeth Taylor
+- Sophia Loren
+- Susan Hayward
+- Ingrid Bergman
+- Vivien Leigh
+- Olivia de Havilland
+- Jane Wyman
+- Joan Crawford
+- Claudette Colbert
+- Bette Davis
+- Greta Lee
+- Sandra Hüller
+- Leila Hatami
+- Kani Kusruti
+- Gong Li
 
 Extend to other languages/countries: ch, ja, de, fr, it, es, ru, ar, hi, id, sw
 table of 30 Transgender Scientists, their field of work and country: https://zayabarrini.vercel.app/blog/posts/Psychoanalysis-Topology-Trans-Parenting

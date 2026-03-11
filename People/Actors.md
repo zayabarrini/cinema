@@ -9,3 +9,7 @@ https://www.imdb.com/name/nm1104118/?ref_=tt_ov_3_1 | Kim Ki-duk - IMDb
 https://www.imdb.com/name/nm0880484/?ref_=tt_ov_3_1 | Gaspard Ulliel - IMDb
 https://www.imdb.com/name/nm0000022/?ref_=ls_li_2_1 | Clark Gable - IMDb
 https://www.imdb.com/name/nm0000008/?ref_=ls_li_2_2 | Marlon Brando - IMDb
+
+
+There are a lot of gay movies with excellent actors. 
+I'd take it mainly from there. 

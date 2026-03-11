@@ -1,25 +1,25 @@
 # Favorites
 
-Wong Kar-Wai 
-Ang Lee 
-Hayao Miyazaki 
-Hirokazu Koreeda 
-Pedro Almodóvar 
-Park Chan-wook 
-Bong Joon Ho 
-Stephen Daldry 
-James Ivory 
-Jane Campion 
-Lukas Dhont 
-Gints Zilbalodis 
-Nicolas Winding Refn 
-Alfred Hitchcock 
-Xavier Dolan 
-Michael Haneke 
-Volker Schlöndorff 
-Luca Guadagnino 
-Andrey Zvyagintsev 
-Asghar Farhadi 
+- Wong Kar-Wai 
+- Ang Lee 
+- Hayao Miyazaki 
+- Hirokazu Koreeda 
+- Pedro Almodóvar 
+- Park Chan-wook 
+- Bong Joon Ho 
+- Stephen Daldry 
+- James Ivory 
+- Jane Campion 
+- Lukas Dhont 
+- Gints Zilbalodis 
+- Nicolas Winding Refn 
+- Alfred Hitchcock 
+- Xavier Dolan 
+- Michael Haneke 
+- Volker Schlöndorff 
+- Luca Guadagnino 
+- Andrey Zvyagintsev 
+- Asghar Farhadi 
 
 https://www.imdb.com/list/ls4103065447/?ref_=uspf_t_1 | Favorite Directors
 https://www.imdb.com/name/nm0939182/?ref_=ls_t_1 | Wong Kar-Wai - IMDb
