@@ -1,29 +1,6 @@
----
-title:
-  - type: main
-    text: Korean Music
-  - type: subtitle
-    text: Lyrics
-creator:
-  - role: author
-    text: Talles Barrini
-  - role: editor
-    text: Talles Barrini
-cover-image: Koreanbts.jpg
-identifier:
-  - scheme: DOI
-    text: doi:10.234234.234/33
-publisher: My Press
-rights: © 2007 John Smith, CC BY-NC
-ibooks:
-  version: 1.3.4
-...
+# Skull Luv Affair 2014
 
-# BTS
-
-## Skull Luv Affair 2014
-
-### Intro : Skool Luv Affair
+## Intro : Skool Luv Affair
 
 첫 만남 첫 문자 첫 통화
 
@@ -109,7 +86,7 @@ Who in the world can dampen my heart's blood? Nobody
 
 방탄 style, 방탄 style, wassup
 
-### Skit : Soulmate
+## Skit : Soulmate
 
 Oh, man (잘했어)
 
@@ -185,7 +162,7 @@ Oh, man (잘했어)
 
 (아니 진짜) 아니 앞에, 앞에 녹음하던 건 뭔데
 
-### Boy in Luv
+## Boy in Luv
 
 되고파 너의 오빠
 
@@ -339,7 +316,7 @@ Say what you want, say what you want
 
 니가 진짜로 원하는 게 뭐야?
 
-### Where You From
+## Where You From
 
 가시나야 니는 어데서 왔노?
 
@@ -491,7 +468,7 @@ Oh 난 너무나도 궁금해
 
 다 사랑을 하잖아 oh yeah
 
-### Just One Day
+## Just One Day
 
 Yeah, yeah
 
@@ -637,7 +614,7 @@ Ayy, 너와 내가 함께 하고 있다면, let's go time
 
 Can you please stay with me?
 
-### Tomorrow
+## Tomorrow
 
 같은 날 (같은 날), 같은 달 (같은 달)
 
@@ -767,7 +744,7 @@ Tomorrow, 문을 열어
 
 너무 멀어지진 마 tomorrow
 
-### BTS Cypher PT. 2 : Triptych
+## BTS Cypher PT. 2 : Triptych
 
 Yeah, yeah, yeah drop
 
@@ -985,7 +962,7 @@ Hey beat 쪽 팔린 줄 알어 너 24마디에 너는 자리 펴고 앓아 누�
 
 Ha ha ha ya!
 
-### JUMP - Japanese
+## JUMP - Japanese
 
 上に、さあ皆！手上げろ飛びなPUMP IT UP！
 
@@ -1175,7 +1152,7 @@ LET'S GO PARTY
 
 (LET'S JUMP！) 心配ない JUS DON'T CARE！
 
-### Outro: Propose (Outro : Propose)
+## Outro: Propose (Outro : Propose)
 
 Oh ah, oh yeah
 
@@ -1241,9 +1218,9 @@ I give it to you
 
 Good to you
 
-## Dark & Wild
+# Dark & Wild
 
-### Intro : What am I to you
+## Intro : What am I to you
 
 Come here I'm 'bout to take you higher
 
@@ -1360,7 +1337,7 @@ What am I to you girl? what am I to you?
 I do love you crazy, uh, do you?
 
 
-### Danger
+## Danger
 
 You in danger
 
@@ -1534,7 +1511,7 @@ Drama에 나온 주인공들 다 저리 가라
 
 헷갈리게 하지 마
 
-### War of Hormone
+## War of Hormone
 
 누구 떄문에?
 
@@ -1722,7 +1699,7 @@ La la la la la la la la la
 
 걸음걸이 하나까지 최고 최고 (최고 최고)
 
-### Hip Hop Lover
+## Hip Hop Lover
 
 It was a new world 평소에 글이나 시나 끄적이던 내게
 
@@ -1882,7 +1859,7 @@ Yeah I love this
 
 Ooh
 
-### Let Me Know
+## Let Me Know
 
 마무리 된 이 선율 위에서
 
@@ -2056,7 +2033,7 @@ Girl, let me know
 
 Let me know, yeah, yeah
 
-### BTS Cypher PT.3 : KILLER
+## BTS Cypher PT.3 : KILLER
 
 네가 무엇을 하든 I will kill for
 
@@ -2262,7 +2239,7 @@ You can't control my 쉿
 
 불신을 참아낸 닌자가 돼 다시 돌아왔지 (woo!)
 
-### Can You Turn Off Your Phone
+## Can You Turn Off Your Phone
 
 핸드폰 좀 꺼줄래
 
@@ -2464,7 +2441,7 @@ Tap tap
 
 눌러줘 너의 찰칵
 
-### Blanket Kick
+## Blanket Kick
 
 One, two, three, four
 
@@ -2614,7 +2591,7 @@ Oh, 예뻐, 예뻐, 예뻐 (예뻐!)
 
 Only you
 
-### 24/7=heaven
+## 24/7=heaven
 
 너와의 첫 데이트
 
@@ -2791,7 +2768,7 @@ How we do uh yeah)
 너라는 해가 뜬 Sunday
 
 
-### Look Here
+## Look Here
 
 처음에는 단지 호기심으로 시작해
 
@@ -3013,7 +2990,7 @@ Baby come on
 
 여기 봐
 
-### 2nd Grade
+## 2nd Grade
 
 눈 깜짝할 새 2학년이 돼
 
@@ -3173,7 +3150,7 @@ Burn it up, burn it up 불태워 매 순간
 
 (Still everyday) bang it bang it, bang it bang it (brra, brra, let's go)
 
-### Does That Make Sense?
+## Does That Make Sense?
 
 I rewind my girl
 
@@ -3263,10 +3240,10 @@ Come back to my world
 
 I rewind my girl come back
 
-## 화양연화 Young Forever
+# 화양연화 Young Forever
 
 
-### INTRO  화양연화
+## INTRO  화양연화
 
 오늘따라 림이 멀어보여 (멀어보여)
 
@@ -3360,7 +3337,7 @@ What am I doin' with my life
 
 난 행복하다
 
-### I NEED U
+## I NEED U
 
 Fall (everything), fall (everything)
 
@@ -3485,7 +3462,7 @@ I need you, girl (I need you, girl)
 I need you, girl, I need you, girl
 
 
-### 잡아줘 Hold Me Tight
+## 잡아줘 Hold Me Tight
 
 Umm, umm, ooh, ooh, yeah, yeah, ooh
 
@@ -3617,7 +3594,7 @@ Can you trust me, can you trust me
 
 너를 느낄 수 있게 나를 끌어안아줘
 
-### 고엽 Autumn Leaves
+## 고엽 Autumn Leaves
 
 떨어져 날리는 저기 낙엽처럼
 
@@ -3791,7 +3768,7 @@ Never never fall
 
 Never never fall
 
-### Butterfly prologue mix
+## Butterfly prologue mix
 
 아무것도 생각하지 마
 
@@ -3891,7 +3868,7 @@ Butterfly, like a butterfly
 
 그냥 내게 웃어줘
 
-### RUN
+## RUN
 
 넌 내 하나뿐인 태양, 세상에 딱 하나
 
@@ -4006,7 +3983,7 @@ Run (love is a lie, lie)
 (Don't tell me, don't tell me, don't tell me bye, bye)
 
 
-### Ma City
+## Ma City
 
 Uh uh 니가 어디에 살건 내가 어디에 살건
 
@@ -4196,7 +4173,7 @@ Ma city, city
 
 Ma city, ma city yeah yeah (ha ha ha)
 
-### 뱁새
+## 뱁새
 
 They call me 뱁새
 
@@ -4352,7 +4329,7 @@ So call me 뱁새
 
 금수저로 태어난 내 선생님
 
-### 쩔어 Dope
+## 쩔어 Dope
 
 음, 어서 와, 방탄은 처음이지?
 
@@ -4532,7 +4509,7 @@ Say what?
 
 쩔어
 
-### 불타오르네 (FIRE)
+## 불타오르네 (FIRE)
 
 불타오르네
 
@@ -4678,7 +4655,7 @@ Bow-wow-wow
 
 용서해 줄게
 
-### Save ME
+## Save ME
 
 난 숨쉬고 싶어 이 밤이 싫어 (이 밤이 싫어)
 
@@ -4786,7 +4763,7 @@ I need your love before I fall, fall
 
 I need your love before I fall, fall
 
-### EPILOGUE  Young Forever
+## EPILOGUE  Young Forever
 
 막이 내리고, 나는 숨이 차
 
@@ -4891,7 +4868,7 @@ Forever, we are young
 끝없이 달리네 꿈을 향해
 
 
-### Converse High
+## Converse High
 
 너의 컨버스하이
 
@@ -5033,7 +5010,7 @@ I really really need you
 
 Converse high
 
-### 이사 Moving On
+## 이사 Moving On
 
 Ayo SUGA
 
@@ -5215,7 +5192,7 @@ That's right
 
 이젠 안녕
 
-### Whalien
+## Whalien
 
 Yeah
 
@@ -5390,7 +5367,7 @@ No more, no more
 오늘도 다시 노래하지
 
 
-### Butterfly
+## Butterfly
 
 아무것도 생각하지 마
 
@@ -5491,7 +5468,7 @@ Butterfly, like a butterfly
 그냥 내게 웃어줘
 
 
-### House Of Cards (full length edition)
+## House Of Cards (full length edition)
 
 또 위태로워 또 위험해
 
@@ -5573,7 +5550,7 @@ So hard 또 무너지는 걸, ah
 
 헛된 꿈이래도 이대로 조금 더 stay, yeah
 
-### Love is not over (full length edition)
+## Love is not over (full length edition)
 
 그 긴 밤이 널 따라 흘러만 가는 것 같아
 
@@ -5687,9 +5664,9 @@ Love is not over, over, over
 
 Love is not over, over, over
 
-## Wings 2016
+# Wings 2016
 
-### Intro : Boy Meets Evil
+## Intro : Boy Meets Evil
 
 어두워져 가 내 미래의 빛
 
@@ -5778,7 +5755,7 @@ It’s too evil
 Yeah it’s evil
 
 
-### Blood Sweat & Tears
+## Blood Sweat & Tears
 
 내 피 땀 눈물
 
@@ -5899,7 +5876,7 @@ Kiss me on the lips lips
 내 피 땀 눈물
 
 
-### Begin
+## Begin
 
 아무것도 없던 열다섯의 나
 
@@ -5983,7 +5960,7 @@ You make me begin
 
 You made me again
 
-### Lie
+## Lie
 
 내게 말해
 
@@ -6093,7 +6070,7 @@ Caught in a lie
 
 벌받는 나를 구해줘
 
-### Stigma
+## Stigma
 
 숨겨왔어
 
@@ -6181,7 +6158,7 @@ Please dry my eyes
 
 제발
 
-### First Love
+## First Love
 
 내 기억의 구석
 
@@ -6333,7 +6310,7 @@ without you there’s nothing
 
 한 켠에 자리잡은 갈색 piano
 
-### Reflection
+## Reflection
 
 I know every life's a movie
 
@@ -6415,7 +6392,7 @@ I wish I could love myself
 
 I wish I could love myself
 
-### MAMA
+## MAMA
 
 Time travel 2006년의 해
 
@@ -6555,7 +6532,7 @@ Hey mama (hey)
 
 Hey mama (ho)
 
-### Lost
+## Lost
 
 Oh
 
@@ -6681,7 +6658,7 @@ Oh, lost my way, ayy, ayy-ayy-ayy-ayy-ayy, ayy, ayy
 
 Oh, found my way-ayy, way-ayy, way-ayy, ayy
 
-### Am I Wrong
+## Am I Wrong
 
 The world's goin' crazy
 
@@ -6819,7 +6796,7 @@ Are you ready for this?
 
 Are you ready for this?
 
-### 21st Century Girls
+## 21st Century Girls
 
 You worth it, you perfect
 
@@ -6941,7 +6918,7 @@ All my ladies, put your hands up
 
 Now scream
 
-### 2! 3!
+## 2! 3!
 
 Been trying to tell you this
 
@@ -7106,7 +7083,7 @@ This is all for you
 슬픈 기억 모두 지워
 
 
-### Interlude : Wings
+## Interlude : Wings
 
 Take me to the sky
 
@@ -7240,9 +7217,9 @@ Fly fly fly
 
 If my wings could fly
 
-## LOVE YOURSELF 轉 'Tear'
+# LOVE YOURSELF 轉 'Tear'
 
-### Intro  Singularity
+## Intro  Singularity
 
 무언가 깨지는 소리
 
@@ -7300,7 +7277,7 @@ Tell me 고통조차 가짜라면
 
 그때 내가 무얼해야 했는지
 
-### FAKE LOVE
+## FAKE LOVE
 
 널 위해서라면 난 슬퍼도 기쁜 척 할 수가 있었어
 
@@ -7422,7 +7399,7 @@ Fake love, fake love
 
 이뤄지지 않는 꿈속에서 피울 수 없는 꽃을 키웠어
 
-### The Truth Untold (feat. Steve Aoki)
+## The Truth Untold (feat. Steve Aoki)
 
 외로움이 가득히
 
@@ -7542,7 +7519,7 @@ But I still want you
 
 And I still want you
 
-### 134340
+## 134340
 
 Get back, get get back
 
@@ -7684,7 +7661,7 @@ Us는 you의 복수형일 뿐
 
 (넌 날 지웠어 넌 날 잊었어)
 
-### Paradise
+## Paradise
 
 마라톤 마라톤
 
@@ -7838,7 +7815,7 @@ Stop runnin' for nothin' my friend
 
 너를 이루는 모든 언어는 이미 낙원에
 
-### Love Maze
+## Love Maze
 
 'Cause I'll be in love maze
 
@@ -7956,7 +7933,7 @@ My-ay-ay 더 가까이 와
 
 My-ay-ay 절대 엇갈리면 안돼 in love maze (ay)
 
-### Magic Shop
+## Magic Shop
 
 망설인다는 걸 알아 진심을 말해도
 
@@ -8125,7 +8102,7 @@ So show me I'll show you
 Show you show you
 
 
-### Airplane, pt. 2
+## Airplane, pt. 2
 
 이상한 꼬마 숨 쉬듯 노래했네
 
@@ -8275,7 +8252,7 @@ Hoo-ooh-ooh-ooh, ooh-ooh
 
 Hoo-ooh-ooh-ooh, ooh-ooh-ooh
 
-### Anpanman
+## Anpanman
 
 Waiting for you, Anpanman
 
@@ -8457,7 +8434,7 @@ Lemme say, "All the bad men, cop out"
 
 Whoa, oh
 
-### So What
+## So What
 
 Somebody call me right one
 
@@ -8663,7 +8640,7 @@ Somebody call me wrong
 
 너도 그럼 어때?
 
-### Outro  Tear
+## Outro  Tear
 
 이별은 내게 티어
 
@@ -8873,9 +8850,9 @@ You're my -
 
 Tear
 
-## Love yourself: answer
+# Love yourself: answer
 
-### Euphoria
+## Euphoria
 
 너는 내 삶에 다시 뜬 햇빛
 
@@ -8988,7 +8965,7 @@ Close the door now (door now)
 When I'm with you, I'm in utopia
 
 
-### Trivia 起 Just Dance
+## Trivia 起 Just Dance
 
 내게 그 순간을 묻는다면
 
@@ -9143,7 +9120,7 @@ I really wanna, wanna, wanna
 Just dance
 
 
-### Serendipity (Full Length Edition)
+## Serendipity (Full Length Edition)
 
 이 모든 건 우연이 아냐
 
@@ -9201,7 +9178,7 @@ Let me love, let me love you
 
 
 
-### DNA
+## DNA
 
 첫눈에 널 알아보게 됐어 (hmm)
 
@@ -9306,7 +9283,7 @@ La-la-la-la-la, la-la-la-la-la
 우연이 아니니까 (DNA)
 
 
-### Dimple
+## Dimple
 
 꼭꼭 숨었다가 웃으면 나타나
 
@@ -9406,7 +9383,7 @@ But I want it anyway, anyway, anyway
 
 
 
-### Trivia 承 Love
+## Trivia 承 Love
 
 s this love, yeah
 
@@ -9589,7 +9566,7 @@ I hope you feel the same with me
 Love
 
 
-### Her
+## Her
 
 Yo, the world is a complex
 
@@ -9759,7 +9736,7 @@ II call you, "Her, her" (yeah)
 
 
 
-### Singularity
+## Singularity
 
 무언가 깨지는 소리
 
@@ -9818,7 +9795,7 @@ Tell me 고통조차 가짜라면
 그때 내가 무얼해야 했는지
 
 
-### FAKE LOVE
+## FAKE LOVE
 
 널 위해서라면
 
@@ -9973,7 +9950,7 @@ Fake love, fake love
 피울 수 없는 꽃을 키웠어
 
 
-### The Truth Untold (feat. Steve Aoki)
+## The Truth Untold (feat. Steve Aoki)
 
 외로움이 가득히
 
@@ -10087,7 +10064,7 @@ And I still want you
 
 
 
-### Trivia 轉 Seesaw
+## Trivia 轉 Seesaw
 
 시작은 뭐 즐거웠었네
 
@@ -10230,7 +10207,7 @@ Alright 지겨운 시소게임
 (Hol' up, hol' up) 니가 없는 이 시소에서 내려
 
 
-### Tear
+## Tear
 
 이별은 내게 티어
 
@@ -10442,7 +10419,7 @@ Tear
 
 
 
-### Epiphany
+## Epiphany
 
 참 이상해
 
@@ -10520,7 +10497,7 @@ I'm the one I should love, hhmm, whoo, yeah
 
 
 
-### I'm Fine
+## I'm Fine
 
 시리도록 푸른 하늘 아래 눈 떠
 
@@ -10685,7 +10662,7 @@ I'm fine
 I'm fine
 
 
-### IDOL
+## IDOL
 
 You can call me artist (artist)
 
@@ -10873,7 +10850,7 @@ Oh-oh-ooh-whoa
 
 
 
-### Answer Love Myself
+## Answer Love Myself
 
 눈을 뜬다 어둠 속 나
 
@@ -11015,7 +10992,7 @@ I'm learning how to love myself
 
 빠짐없이 남김없이 모두 다 나
 
-### Magic Shop
+## Magic Shop
 
 망설인다는 걸 알아, 진심을 말해도
 
@@ -11142,7 +11119,7 @@ So show me (I'll show you)
 Show you, show you
 
 
-### Best of Me
+## Best of Me
 
 When you say that you love me, 난 하늘 위를 걷네
 
@@ -11260,7 +11237,7 @@ When you say that you love me, 난 그 한 마디면 돼
 
 변하지 않는다고, just one more time
 
-### Airplane, pt.2
+## Airplane, pt.2
 
 이상한 꼬마 숨 쉬듯 노래했네
 
@@ -11411,7 +11388,7 @@ Hoo-ooh-ooh-ooh, ooh-ooh
 Hoo-ooh-ooh-ooh, ooh-ooh-ooh
 
 
-### Go Go
+## Go Go
 
 Dollar, dollar
 
@@ -11586,7 +11563,7 @@ Where the party, yah?
 고민보다 go, go (everybody)
 
 
-### Anpanman
+## Anpanman
 
 Waiting for you, Anpanman
 
@@ -11769,7 +11746,7 @@ Lemme say, "All the bad men, cop out"
 Whoa, oh
 
 
-### MIC Drop
+## MIC Drop
 
 
 Yeah 누가 내 수저 더럽대

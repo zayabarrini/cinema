@@ -24,3 +24,4 @@ https://www.youtube.com/watch?v=qGayyBbpUiE&pp=ygUVYmVzdCBvZiBtYXJrIHN1cnZpdm9y 
 https://www.youtube.com/watch?v=RWrdqzqAn3k | Best of Liz Parnov - Australian Survivor: Heroes vs Villains - YouTube
 https://www.youtube.com/watch?v=Pasetp1t5Xo | Best of George Mladenov - Australian Survivor: Heroes vs Villains (Pre-Merge) - YouTube
 https://www.youtube.com/watch?v=xeHekceS2O0 | Best of George Mladenov - Australian Survivor: Heroes vs Villains (Post-Merge) - YouTube
+

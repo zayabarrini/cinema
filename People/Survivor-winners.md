@@ -125,11 +125,12 @@ The Australian version has had a complex broadcast history, with seasons airing 
 | Parvati Shallow | Season 16: Micronesia (2008)  |
 | Sophie Clarke | Season 23: South Pacific (2011)  |
 | Michele Fitzgerald | Season 32: Kaôh Rōng (2016)  |
-| Sandra Diaz-Twine | Season 7: Pearl Islands (2003)  |
 | Kim Spradlin | Season 24: One World (2012)  |
 | Rachel Lamont | Season 47 (2024)  |
 | Denise Stapley | Season 25: Philippines (2012)  |
 | Kenzie Petty | Season 46 (2024)  |
+| Sandra Diaz-Twine | Season 7: Pearl Islands (2003)  |
+| Vecepia Towery | Season 4: Marquesas (2002)  |
 
 
 # Favorite Male Winners
@@ -145,20 +146,22 @@ The Australian version has had a complex broadcast history, with seasons airing 
 
 | Name | Season |
 | :--- | :--- |
+| Judson "Fabio" Birza | Season 21: Nicaragua (2010)  |
+| Yul Kwon | Season 13: Cook Islands (2006)  |
+| Adam Klein | Season 33: Millennials vs. Gen X (2016)  |
+| Earl Cole  | Season 14: Fiji (2007)  |
 | Todd Herzog | Season 15: China (2007)  |
 | Nick Wilson | Season 37: David vs. Goliath (2018)  |
-| Adam Klein | Season 33: Millennials vs. Gen X (2016)  |
 | Yamil "Yam Yam" Arocho | Season 44 (2023)  |
-| Yul Kwon | Season 13: Cook Islands (2006)  |
+| Robert "Bob" Crowley | Season 13: Cook Islands (2006)  |
 | Tony Vlachos | Season 28: Cagayan (2014)  |
 | Jeremy Collins | Season 31: Cambodia (2015)  |
+| Tom Westman | Season 10: Palau (2005)  |
 
-
-
-# USA to Watch
+## Week 14 2026
 
 4. Survivor: Marquesas (2002)
-| Vecepia Towery | Season 4: Marquesas (2002)  |
+| Vecepia Towery | Season 4: Marquesas (2002)  | 
 
 14. Survivor: Fiji (2007)
 | Earl Cole | Season 14: Fiji (2007)  |
@@ -178,4 +181,13 @@ The Australian version has had a complex broadcast history, with seasons airing 
 17. Survivor: Gabon (2008)
 | Bob Crowley | Season 17: Gabon (2008)  |
 
-
+https://en.wikipedia.org/wiki/Survivor_(franchise)#Format | Survivor (franchise) - Wikipedia
+https://en.wikipedia.org/wiki/Australian_Survivor | Australian Survivor - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Marquesas | Survivor: Marquesas - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Vanuatu | Survivor: Vanuatu - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Palau | Survivor: Palau - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Fiji | Survivor: Fiji - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Gabon | Survivor: Gabon - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Nicaragua | Survivor: Nicaragua - Wikipedia
+https://en.wikipedia.org/wiki/Survivor:_Island_of_the_Idols | Survivor: Island of the Idols - Wikipedia
+https://chat.deepseek.com/a/chat/s/c8cfa61a-cbe4-4bd9-865d-8e4e2a9daad6 | US and Australian Survivor Winners List - DeepSeek

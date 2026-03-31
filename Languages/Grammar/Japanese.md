@@ -55,6 +55,145 @@ wikipedia_documents.csv
 word-prefix-hierarchy.txt
 wordlex-2011.txt
 
+# Grammar 
+
+Unit 1: Sentence types
+This unit explains three basic types of sentences in Japanese: those ending in a noun phrase and the copula, those ending in an adjective (and optionally the copula), and those ending in a verb.
+Unit 2: Word order
+This unit explains that the verb must appear last in a Japanese sentence. The exact word order of noun phrases is not as important, so long as they appear before the verb and are accompanied by correct particles.
+Unit 3: Simple noun phrases
+This unit explains how to form simple noun phrases of the types [noun + no + head noun] and [adjective + head noun].
+Unit 4: Spatial relations
+This unit explains that spatial relations in Japanese are expressed with noun phrases in the form of [reference point + no + relative position] as in watashi-no ushiro â€œbehind me.â€
+Unit 5: Adjectives
+This unit first explains two types of adjectives: i-adjectives and na-adjectives. In addition, it explains the properties of adjective-like nouns that are somewhat difficult to distinguish from na-adjecitves.
+Unit 6: Location particles
+This unit explains the particles e, ni, de, kara, and made. In addition, the so-called â€œtraversalâ€ use of the particle o is explained.
+Unit 7: Transitivity 1
+This unit explains the proto-typical distinction between transitive and intransitive verbs. Apparent exceptions to the principle are also explained.
+Unit 8: Particle wa
+This unit explains that the main function of the particle wa is to link related sentences into a coherent passage.
+Unit 9: Particle mo
+This unit explains that the particle mo adds a thing to a set of items that meet a certain condition. It also shows that the function and the distribution of the particle mo are very similar to those of the particle wa.
+Unit 10: Particles in communication
+This unit shows that particles in Japanese are very useful in communication on their own.
+Unit 11: Demonstrative pronouns
+This unit explains how to use the demonstrative series ko-, so-, a-, and do- in the concrete as well as abstract domains.
+Unit 12: Counters
+This unit contrasts two different methods of using numeral expressions containing counters such as mai "sheet" and satsu "volume." In one, numeral expressions are used to count items. In the other, numeral expressions are used to characterize a specific group in terms of its size.
+Unit 13: Wh questions
+This unit illustrates that Japanese wh questions (questions containing counterparts of who, what, why, etc.) are structured exactly like their answers and that this feature makes it quite easy to construct and answer complex wh questions in Japanese even though they may be difficult to translate into English.
+Unit 14: Expressing change of state
+This unit explains how to describe change of state. Specifically, the following two types of patterns, the adjectival type and the nominal type constructions are illustrated: ku-form of adjective + naru "become"; noun-ni + naru.
+Unit 15: Measuring and telling time
+This unit explains how to use expressions like ichi-jikan â€œone hourâ€ and ichi-ji â€œone oâ€™clock.â€
+Unit 16: Verbs and noun phrases 1
+This unit classifies verbs into categories on the basis of semantic characteristics of their associated noun phrases. It also shows what particles can go with what verbs. The verbs in this set are primarily transitive, or take a target.
+Unit 17: Verbs and noun phrases 2
+This unit continues with the task of classifying verbs on the basis of their associated noun phrases. The verbs in this unit are mainly intransitive.
+Unit 18: Adverbs and modifiers of nouns
+This unit explains that Japanese makes a sharp distinction between elements modifying verbs and elements modifying nouns.
+Unit 19: Speech styles
+This unit introduces the distinction between direct-style forms and polite forms. The primary factor for this distinction is the nature of the audience.
+Unit 20: Verbal conjugations
+This unit explains how to derive various conjugational forms of so-called one-step verbs, five-step verbs, and irregular verbs.
+Unit 21: Cause and effect
+This unit explains how to express cause-effect relationships. It clarifies that the cause always precedes the effect in Japanese.
+Unit 22: Connecting sentences
+This unit focuses on te-forms as a means of connecting very closely related events.
+Unit 23: Continuative 1
+This unit explains the basic use of the continuative construction [te-form + iru] in the sense of progressive aspect.
+Unit 24: Directional verbs
+This unit focuses on the use of kuru â€œcomeâ€ and iku â€œgoâ€ as auxiliary verbs.
+Unit 25: Continuative 2
+This unit explains the other meaning of the te iru construction introduced in Unit 9, namely the continuation of a resultant state.
+Unit 26: Describing clothing
+This unit examines an application of the concept explained in Unit 10. It shows how the resultant continuative construction is used to describe how a person is dressed.
+Unit 27: Comparison of objects
+This unit explains the pattern used for comparison.
+Unit 28: Combining particles
+This unit explains how the particles wa, mo, and no are combined with other particles.
+Unit 29: Expressions of desire
+This unit compares the pattern for expressing one's desire for one's own action and the pattern for expressing one's desire for other people's action.
+Unit 30: Probability
+This unit explains sentence-final elements deshÃ´ â€œit is probably the caseâ€ and kamo shirenai â€œthere is the possibilityâ€ which mark the likelihood of an event.
+Unit 31: Temporal clauses with nagara
+This unit explains how to use nagara. The differences between nagara and its closest English equivalent while are pointed out.
+Unit 32: Purpose phrases 1
+This unit describes the purpose construction [location + ni/e + verbal stem + ni + verb of movement], which is used in sentences such as umi-ni oyogi-ni iku â€œI go to the beach for a swim.â€
+Unit 33: Listing options
+This unit explains how to give examples of things, actions, or events. The expressions involved are ka, ya, toka, and tari.
+Unit 34: Elements appearing with negative endings
+This unit explains constructions such as daremo â€¦ nai â€œno oneâ€ and shika â€¦ nai â€œnothing but.â€
+Unit 35: More on wh expressions
+This unit continues with the topic of the construction [wh element + mo] and expands into the construction [wh element + ka].
+Unit 36: Tentative forms
+This unit describes the constructions mashÃ´ and yÃ´, which roughly correspond to let's in English.
+Unit 37: Complex noun phrases
+This unit explains how to form and use Japanese counterparts of complex noun phrases such as the cake that Mr. Kimura made and a woman who was waiting for a bus.
+Unit 38: Nominalization 1
+This unit explains how to form and use Japanese counterparts of constructions like the bracketed parts below:
+I remember [my mother cooking in our old kitchen].
+[For me to cook] is a major event.
+It is surprising [that you should cook].
+Unit 39: N-desu
+This unit explains the so-called â€œextended predicateâ€ construction, n-desu and its variations, which is used when making explanatory comments on personal circumstances.
+Unit 40: Quoting statements and assertions
+This unit explains how to quote statements or beliefs.
+Unit 41: Source of information 1
+In Japanese, the â€œsource of informationâ€ is typically marked at the end of a sentence by a noun-like element. Representative of this type of construction are: yÃ´ â€œevidence,â€ hazu â€œcommon understanding,â€ tsumori â€œintention, belief,â€ and sÃ´ â€œhearsay.â€ This unit explains the first of these.
+Unit 42: Source of information 2
+This unit continues with the topic of marking the source of information and explains how to use hazu â€œcommon understanding,â€ tsumori â€œintention, belief,â€ and sÃ´ â€œhearsay.â€
+Unit 43: Purpose phrases 2
+This unit describes two more purpose constructions, [direct sentense + no-ni] and [direct sentence + tame-ni]. Differences between these constructions and the other purpose construction studied in Unit 32 are also pointed out.
+Unit 44: SÃ´ vs. yÃ´
+This unit contrasts two markers of source of information, sÃ´ and yÃ´, as seen in taka-sÃ´-da and takai yÃ´-da. It points out that sÃ´, which takes a stem form, marks the judgment as more intuitive and immediate than yÃ´, which takes a direct-style sentence and marks the judgment as more objective and detached.
+Unit 45: Quoting requests
+This unit explains that quoting requests indirectly requires a different pattern from that for quoting statements.
+Unit 46: Comparison of events
+This unit explains how to compare two events using yori â€œthanâ€ and hÃ´ â€œoption.â€ The pattern is essentially the same as the pattern described in Unit 27 for comparing two things, except that direct-style sentences are used.
+Unit 47: Patterns of uncertainty
+This unit contrasts the embedding of a question with ka and the tara-conditional pattern, both of which can be translated into English with if.
+Unit 48: Two more conditionals
+This unit explains two more conditional patterns, the reba-conditional, which is more hypothetical, and the to-conditional, which leads to an inevitable consequence.
+Unit 49: Verbs of giving
+This unit first explains the basic difference between two verbs corresponding to give. Their auxiliary usage is explained next.
+Unit 50: Nominalization 2
+This unit explains a number of constructions that contain the nominalizer koto.
+Unit 51: Tense
+This unit explains that the tense (past or non-past) in the subordinate clause in Japanese is determined relative to the main clause rather than to the point where the speaker is.
+Unit 52: No and koto
+This unit contrasts the pronominal and nominalizing functions of no and koto.
+Unit 53: Patterns of consequence
+This unit summarizes a number of patterns involving te-forms and those verbs that can be used as auxiliary verbs. Specifically, the verbs described are ageru, kureru, iru, kuru, iku, oku, aru, shimau, miru, and miseru. In combination with a te-form, these verbs indicate that the event or action has some consequence or impact to a receiver, a destination, a future point, an observer, etc.
+Unit 54: Temo
+This unit discusses the use of te-forms followed by the particle mo. The basic meaning of this construction is that different conditions lead to an identical consequence.
+Unit 55: Permission and prohibition
+This unit describes the patterns for permission, exemption, prohibition, and obligation, which are created by combining a positive or negative te-form with mo ii (permissive attitude) or wa ikenai (restrictive attitude).
+Unit 56: Honorifics
+This unit describes the system of honorifics in Japanese, beginning with honorific kinship terms and ending with honorific verbs.
+Unit 57: Apologies and thanks
+This unit describes the patterns for apologies and thanks consisting of a te-form and an expression of apology or appreciation.
+Unit 58: Requests and commands
+This unit describes various patterns for requests and commands from the more polite type to the more brusque type.
+Unit 59: Passive
+This unit first explains the contrast between active and passive sentences in English. How to form passive sentences in Japanese is explained next.
+Unit 60: Adversity passive
+This unit explains another type of passive construction known as â€œadversityâ€ or â€œaffectiveâ€ passive. This constuction utilizes the same passive verb forms studied in Unit 59, but for a different effect. It indicates that the subject is adversely affected by someoneâ€™s action.
+Unit 61: Patterns of control 1
+This unit explains the causative constructions in which the subject lets or forces someone to do something.
+Unit 62: Patterns of control 2
+This unit explains the te morau construction, which is similar to that of the let causative. The subject in this construction is grateful for the action performed by someone.
+Unit 63: Transitivity 2
+This unit describes how to use pairs of closely related transitive and intransitive verbs. The effect of using such intransitive verbs with the resultant continuative construction te iru is also discussed.
+Unit 64: Te aru and te iru
+This unit discusses the differences between te aru and te iru when paired with the type of intransitive verbs studied in Unit 63.
+Unit 65: Male and female differences
+This unit describes differences between male and female casual speech patterns with the focus on the endings.
+Unit 66: Common errors
+This unit illustrates a number of errors that a student of Japanese should avoid (although we admit that teachers of Japanese love them).
+
+
 # Grammatical Rules
 
 Aqui está uma lista das **30 regras gramaticais essenciais** do japonês, desde estruturas básicas até tópicos avançados, organizadas de forma clara e prática:
