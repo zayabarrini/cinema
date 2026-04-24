@@ -32,6 +32,17 @@ Sigfried (Humuliated in Benediction)
 Olivia de Havilland (Gone with the wind)
 Claudette Colbert (It Happened One Night)
 
+├── A Streetcar Named Desire - Marlon Brando 1951
+├── Gone With The Wind (1939)
+├── Goodnight Mummy (2014)
+├── Hereditary (2018) 
+├── Survivor-Abuse
+├── The Hours 
+├── The Piano 1993
+├── V for Vendetta (2006) 
+├── We.Need.To.Talk.About.Kevin.2011
+└── Young.Torless.1966.(Volker.Schlondorff)
+
 
 # Analysing the Oscar winners for best actresses and the movies that they were in allow to trace a timeline for the last century and female narratives 
 
