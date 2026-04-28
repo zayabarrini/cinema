@@ -728,3 +728,43 @@ Little Trouble Girls
 Breathing Underwater
 Luna Park
 My Armenian Phantoms
+
+# April/2026
+## Best International Feature Film Winner
+A Man and a Woman (1966)
+Closely Watched Trains (1966)
+My Uncle (1958)
+Black Orpheus (1959)
+Moscow Does Not Believe in Tears (1980)
+Samurai I: Musashi Miyamoto (1954)
+
+Gate of Hell (1953)
+Get Out Your Handkerchiefs (1978)
+Madame Rosa (1977)
+Begin the Beguine (1982)
+Monsieur Vincent (1947)
+Dangerous Moves (1984)
+The Walls of Malapaga (1949)
+Journey of Hope (1990)
+
+## Best Actress April 2026
+Suspicion (1941)
+Funny Girl (1968)
+Children of a Lesser God (1986)
+The Great Ziegfeld (1936)
+Darling (1965)
+Anastasia (1956)
+Women in Love (1969)
+Blue Sky (1994)
+Kitty Foyle (1940)
+The Trip to Bountiful (1985)
+Room at the Top (1958)
+The Country Girl (1954)
+To Each His Own (1946)
+The Farmer's Daughter (1947)
+7th Heaven (1927)
+Morning Glory (1933)
+Min and Bill (1930)
+Street Angel (1928)
+Coquette (1929)
+The Sin of Madelon Claudet (1931)
