@@ -768,3 +768,50 @@ Min and Bill (1930)
 Street Angel (1928)
 Coquette (1929)
 The Sin of Madelon Claudet (1931)
+
+# July/2026
+- The Odyssey (2026)
+- Spider-Man: Brand New Day (2026)
+- Obsession (2025)
+- Avengers: Doomsday (2026)
+
+## Wes Anderson
+- Asteroid City (2023)
+- Isle.of.Dogs.2018
+- Rushmore (1998)
+- The Darjeeling Limited 2007
+- The Life Aquatic with Steve Zissou (2004)
+- Bottle Rocket 1996
+
+## Sanjay Leela Bhansali
+- Udaan 2010
+- Black 2005
+- Gangubai Kathiawadi 2022
+- Parinda 1989
+- Devdas 2002
+
+## Mani Kaul
+
+- Dhrupad 1983
+- The Mind of Clay 1985
+- Alms for a Blind Horse 2011
+- Siddeshwari 1990
+- Sara Akash 1969
+
+## Youssef Chahine
+
+- The Land 1970
+- Caméra arabe 1987
+- Saladin 1963
+- The Choice 1971
+- Cairo Station 1958
+- Alexandria... Why? 1979
+- Destiny 1997
+
+Cinema Black (2005) - Hindi 
+Cairo.Station.1958.(Youssef.Chahine-Egypt) 
+Devdas.2002.Hindi 
+Double.Indemnity.1944 
+Judgment at Nuremberg (1961) 
+To Kill a Mockingbird (1962) 
+Witness for the Prosecution (1957)

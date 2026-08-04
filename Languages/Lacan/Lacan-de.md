@@ -1,0 +1,1 @@
+Weil wir hier in Poes Fiktion, die im mathematischen Sinne des Wortes so mächtig ist, diese Unterteilung entschlüsseln, bei der das Subjekt durch die Tatsache verfiziert wird, das ein Objekt es durchquert, ohne dass sie sich in irgendeiner Weise durchdringen, was am Angang dessen steht, was am Ende dieser Sammlung unter dem Namen Objekt a erscheint

@@ -1,0 +1,1 @@
+Car nous déchiffrons ici en la fiction de Poe, si puissante, au sens mathématique du terme, cette division où le sujet se vérifie de ce qu'un objet le traverse sans qu'ils se pénètrent en rien, laquelle est au principe de ce qui se lève à la fin de ce recueil sous le nom d'objet a
