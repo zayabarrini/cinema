@@ -1,0 +1,4 @@
+sfida
+Aspettare
+raggiungere
+scegliere
